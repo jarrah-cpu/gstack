@@ -1,0 +1,48 @@
+# Zina Warrior Print Fest (zina-warrior-print-fest-adelaide)
+City: Adelaide, Australia. Region: a-adelaide-perth. Category: creative-market. Preliminary vibe: 4.
+
+## Current record (key fields)
+{"website": null, "dates": {"last_edition": {"start": null, "end": null, "status": "unknown", "label": null}, "next_edition": {"start": "2026-10-31", "end": "2026-10-31", "status": "confirmed", "label": "2026"}, "frequency": "unknown", "duration_days": 1}, "organiser": {"name": "Zina Warrior Print Fest (hosted by MOD.)", "type": null, "website": "https://mod.org.au/"}, "attendance": {"figure": null, "year": null, "is_estimate": null, "source": null, "note": null}, "audience": {"age_range": null, "gender_skew": null, "psychographics": "Adelaide DIY zine, print and independent publishing community.", "source": "https://www.weekendnotes.com/zina-warrior-print-fest-at-mod-museum/"}, "sponsors": [], "activation_formats": ["stall"], "partnership_contact": {"email": "zinawarriorprintfest@gmail.com", "page_url": null, "named_person": null, "source": "https://mod.org.au/?p=11429"}, "ticket_price": {"min": 0, "max": 0, "currency": "AUD", "free_entry": true, "note": "Free to attend; bring cash for zines. 11am to 4pm."}, "status": "active"}
+
+Gaps: Contact email comes from a 2021 page and may be stale | Last edition before 2026 not confirmed; a 2021 edition existed | Website, IG handle and attendance not captured | Search budget ran out during discovery, so sponsors, IG handle and partnership contact were not researched
+
+## Instagram (Apify profile data; already written to the record by script, do not edit)
+- event: @zinawarriorprintfest https://www.instagram.com/zinawarriorprintfest/ | Zina Warrior Print Fest | followers 786 | posts 11 | link https://drive.google.com/file/d/1dM4v_Bia3RFg5z_SsPZw6OYM9olcTT48/view?usp=sharing | bio: 'Zine Fair ✨\nSaturday 31st October 2026\nNo DMs 🛑 please email zinawarriorprintfest@gmail.com'
+
+## Sponsor signals from Instagram posts since 1 Oct 2025 (account @zinawarriorprintfest)
+3 posts from 2025-10-22 to 2026-10-16. Paid-partnership posts: 0.
+Accounts (co = collab co-author, tag = tagged in photo, men = caption mention, ctx = mentioned next to partner words, paid = in paid-partnership post). Category and followers from Apify profile data where scraped:
+- @jaketoothandnail: co 1, tag 2, men 1, ctx 0, paid 0 | no category | Jake Holmes | 3669 followers | e.g. https://www.instagram.com/p/DQGr0YCD-0H/ (2025-10-22)
+- @mod_museum: co 1, tag 2, men 0, ctx 0, paid 0 | Museum | MOD. | a museum of discovery | 13805 followers | e.g. https://www.instagram.com/p/DQGr0YCD-0H/ (2025-10-22)
+
+## Website pages (Apify Website Content Crawler, keyword-filtered lines)
+No pages crawled.
+
+## Google results (Apify Google Search Results Scraper)
+### sponsors: "Zina Warrior Print Fest" Adelaide sponsors OR partners OR "presented by"
+- Save the date! 5 September Mildura Zine + Art Fair 2026 is ... | https://www.instagram.com/p/DYmLrgmGVVP/ | Parramatta Zine Fair is proudly presented by the School of Zines and supported by ACE. ... Photo by Zina Warrior Print Fest on October 15, 2026.Read more
+- Free events in Adelaide, SA - I'm Keen | https://imkeen.au/adelaide/free | ← All events around Adelaide About. Free events in Adelaide ... Zina Warrior Print Fest. A print festival held at ... A musical performance presented by Chamber ...
+- Events tagged with: Zines » Seedbomb: A Community Calendar | https://seedbomb.au/events/tag/Zines?order=venue | Event Name, Location, Date Added , Default. Saturday. Oct 12, 2024, Zina Warrior Print Fest 2024 11am – 4pm MOD ... Adelaide ... Proudly presented by Feast Festival ...
+- Here at zine-obsessed Sticky Institute, we invite all who have an ... | https://www.facebook.com/stickyinstitute/posts/here-at-zine-obsessed-sticky-institute-we-invite-all-who-have-an-interest-in-lea/1291136653053092/ | ... Zina Warrior Print Fest 2020! From 11.30am on ... Learn how to plan, write and design your own zine—then get featured in a roving display at Port Adelaide Library ...
+- Rohan Neagle - Library Enthusiast, Freelance Journalist | https://au.linkedin.com/in/rohan-neagle | He found work at the Adelaide Hills Herald newspaper as a reporter and also freelanced for the Australian Computer Society's Information Age.Read more
+- Auscast Literature Channel - Podcast | https://podcasts.apple.com/us/podcast/auscast-literature-channel/id1511074415?l=es-MX | ... Zina Warrior Print Fest; Papercuts Comics Festival; Greenlight Comics; Emerging Writers Festival; Format Festival; Thought Bubble Comic Art Festival; Adelaide ...
+- Reimagining museums | https://unesdoc.unesco.org/ark:/48223/pf0000391446_eng | ... partners and local communities. The design of the platform has been ... Zina Warrior Print Fest, a gathering where local creators can buy, swap and ...Read more
+- Our Hybrid Future: making art work onsite and online | https://allthequeensmen.net/wp-content/uploads/2023/07/Our-Hybrid-Future-Kate-Larsen-2021.pdf | She has presented at National Young Writers' Festival in Newcastle and co-organised Zina Warrior Print Fest in both 2017 and 2020. One day she would like to ...Read more
+### attendance: "Zina Warrior Print Fest" Adelaide attendance OR attendees OR visitors OR crowd
+- Zina Warrior Print Fest!! What a fantastic turnout, thank you ... | https://www.instagram.com/p/CyKKlEAS9FQ/ | Zina Warrior Print Fest - 31 Oct Gathering of local creators to buy and swap zines and other creative works. Looking for more details? Check ...Read more
+- Coming up next Saturday! Stop by the Powerhouse and check ... | https://www.instagram.com/reel/DcfOu5LlNv_/ | 
+- On this weekend! There will be lots a of wonderful local comics ... | https://www.facebook.com/greenlightcomics/posts/on-this-weekend-there-will-be-lots-a-of-wonderful-local-comics-makers-selling-th/3509884815720845/ | ZINA WARRIOR PRINT FEST is TODAY! When: Saturday 8 Oct, 11-4 Where: MOD, North Tce, Adelaide Have a brilliantly excellent time! No photo description ...
+- Zine Your Grief Workshop Series - Milang | https://www.moshcc.com.au/adult-education/zine-your-grief-workshop-series/ | Attend a zine fair · Zina Warrior Print Fest – for details, email zinawarriorprintfest@gmail.com · Zinetopia – for details, see their instagram profile @zinetopia ...Read more
+- MOD. | https://mod.org.au/ | Zina Warrior Print Fest. 31 Oct. Zina Warrior Print Fest · Plan your visit · mod_museum · The year is 2053 and you can now stream your dream The year is 2053 ...Read more
+- Nature Festival, Quiet Mode, and Zina Warrior Print Fest | https://www.facebook.com/MODmuseum/posts/october-is-on-the-horizon-and-we-have-plenty-to-keep-you-busynature-festival-cul/1735419465250843/ | Upcoming events at MOD Museum: Nature Festival, Quiet Mode, and Zina Warrior Print Fest. Summarized by AI from the post below.Read more
+- Brisbane! Sticky Institute will be in Brisbane on July 25th for ... | https://www.instagram.com/p/DbArWGpj2y2/ | A little extra info about Zina Warrior Print Fest. This information can also be found in a PDF version through the link in our profile ✏️✂️ ...Read more
+- Welcome to the world of tomorrow | https://courier.unesco.org/en/articles/welcome-world-tomorrow | include a session with experts on the language of trees (with a quiz and demonstration), and the Zina Warrior Print Fest, a gathering where ...Read more
+### audience: "Zina Warrior Print Fest" Adelaide audience OR demographic OR "media kit" OR sponsorship
+- Natalie Carfora (@natalie_carfora) ... | https://x.com/natalie_carfora | Zina Warrior Print Fest returns! This year it's at MOD. And we wanna know - do you make zines? Or have you been thinking about making zines but need ...Read more
+- Welcome to the world of tomorrow | https://courier.unesco.org/en/articles/welcome-world-tomorrow | Director Dr Kristin Alford says visitor research demonstrates that around 30 per cent of its audience ... Zina Warrior Print Fest, a ...Read more
+- Review of a gender-smashing themed show at Adelaide Fringe. ... | https://www.instagram.com/p/CL_gSLkhW4K/ | Happy zine stall day! Come down and say hello, enjoy some zines, and maybe swap for your own! Zina Warrior Print Fest 11am-4pm Sat 7 October ...
+- Benjo Kazue brings DIY zines to town. | https://www.facebook.com/groups/14993928619/posts/10162493917638620/ | Learn how with local artist and zinester Rebecca Sheedy (aka Mild Scribbling), in a free 90 minute workshop at Zina Warrior Print Fest 2020!Read more
+- LEARNING RESOURCE KIT - MUSIC JOURNALISM MODULE | https://www.australianmusicvault.com.au/learn/digital-resource-kit-for-schools/-/media/e83b298226154a469119220893f7b536.ashx | o A website like PopSugar, whose audience is primarily women 18-44, takes a different tone again. ... • Zina Warrior Print-Fest in Adelaide. LINKS AND RESOURCES.Read more
+- Long List: 2022 | https://comicartsaust.com.au/long-list-2022/ | A short comic about two teens investigating a supposed haunting in an abandoned theatre. Initially published/shown off at the Zina Warrior Print-Fest, before ...Read more
+- Our Hybrid Future: making art work onsite and online | https://allthequeensmen.net/wp-content/uploads/2023/07/Our-Hybrid-Future-Kate-Larsen-2021.pdf | She has presented at National Young Writers' Festival in Newcastle and co-organised Zina Warrior Print Fest in both 2017 and 2020. One day she would like to ...Read more
+- 📘 Zine Haul Review: Sun, sand and self-doubt by Owen ... | https://www.instagram.com/p/CyJ1Nk0BtnT/?hl=ar | Zina Warrior Print Fest, Saturday 18 October 2025 11am-4pm ... As audience members pick up, read, and take the zines, they ...Read more

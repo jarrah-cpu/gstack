@@ -1,0 +1,61 @@
+# Fair Go Skate Competition (fair-go-skate-competition-ballina)
+City: Ballina, Australia. Region: a-northern-rivers-byron. Category: competition-or-contest. Preliminary vibe: 3.
+
+## Current record (key fields)
+{"website": null, "dates": {"last_edition": {"start": "2026-10-09", "end": "2026-10-10", "status": "held", "label": "26th edition (2026)"}, "next_edition": {"start": "2027", "end": null, "status": "expected", "label": "27th edition"}, "frequency": "annual", "duration_days": 2}, "organiser": {"name": "Truckstop Sk8 (listed sponsorship contact; organiser role inferred)", "type": null, "website": null}, "attendance": {"figure": null, "year": null, "is_estimate": null, "source": null, "note": null}, "audience": {"age_range": null, "gender_skew": null, "psychographics": null, "source": null}, "sponsors": [{"brand": "Ballina Shire Council", "years": [2015], "role": "government", "source": "https://www.echo.net.au/2015/03/move-to-slash-funds-from-ballinas-fair-go-skateboard-competition/"}], "activation_formats": ["competition-or-prize"], "partnership_contact": {"email": null, "page_url": null, "named_person": "Truckstop Sk8 team", "source": "https://www.nsw.gov.au/visiting-and-exploring-nsw/nsw-events/fair-go-skate-competition"}, "ticket_price": {"min": null, "max": null, "currency": null, "free_entry": null, "note": "Prize pool over $10,000 funded by local businesses and skate-industry backers (2025)."}, "status": "active"}
+
+Gaps: Instagram handle and follower count not collected (Phase 2) | 2026 dates come from a Japanese-language VisitNSW page only | Edition timing shifted from Dec 2025 to Oct 2026, so the 2027 month is unclear | Current organiser not confirmed; Truckstop Sk8 is the listed sponsorship contact | Current sponsors, entrant numbers and spectators not found
+
+## Instagram (Apify profile data; already written to the record by script, do not edit)
+- organiser: @truckstopsk8school https://www.instagram.com/truckstopsk8school/ | Truckstop Skate School | followers 1191 | posts 541 | link https://www.truckstopsk8.com.au/pages/love-lennox-skate-clinic-form | bio: "Learn to skate with us!\nWe know what we're doing, we're skateboarders\n🛹ACTIVE KIDS PROVIDERS🛹"
+- note: Organiser role inferred in Phase 1.
+
+## Sponsor signals from Instagram posts since 1 Oct 2025 (account @truckstopsk8school)
+10 posts from 2025-10-01 to 2026-09-25. Paid-partnership posts: 0.
+Accounts (co = collab co-author, tag = tagged in photo, men = caption mention, ctx = mentioned next to partner words, paid = in paid-partnership post). Category and followers from Apify profile data where scraped:
+- @truckstopsk8: co 7, tag 9, men 0, ctx 0, paid 0 | None | Truckstop Skate Shop | 5682 followers | e.g. https://www.instagram.com/p/DPdVBXAD8GI/ (2025-10-06)
+- @northern_rivers_skateboardclub: co 1, tag 2, men 0, ctx 0, paid 0 | None | NRSK8 | 890 followers | e.g. https://www.instagram.com/p/DPdVBXAD8GI/ (2025-10-06)
+- @ballinask8park: co 1, tag 2, men 0, ctx 0, paid 0 | no category | Ballina skate park | 319 followers | e.g. https://www.instagram.com/p/DT__QnPkvcy/ (2026-01-27)
+- @chaaaaavez: co 1, tag 1, men 1, ctx 0, paid 0 | no category | tony turmel chavez | 2085 followers | e.g. https://www.instagram.com/p/DdsW_NeMZME/ (2026-09-25)
+- @sk8school: co 1, tag 1, men 0, ctx 0, paid 0 | no category | Byron Skate School | 2421 followers | e.g. https://www.instagram.com/p/DPdVBXAD8GI/ (2025-10-06)
+- @36_chambers_skateshop: co 1, tag 1, men 0, ctx 0, paid 0 | None | 36 Chambers Skateshop | 2545 followers | e.g. https://www.instagram.com/p/DPdVBXAD8GI/ (2025-10-06)
+- @lovelennoxfestival: co 1, tag 1, men 0, ctx 0, paid 0 | None | Love Lennox Festival | 2429 followers | e.g. https://www.instagram.com/p/DZL1G9HM4Vb/ (2026-06-05)
+- @familysupportnetwork.nsw: co 0, tag 1, men 1, ctx 1, paid 0 | Nonprofit organization | Family Support Network Inc | 160 followers | e.g. https://www.instagram.com/p/DPR558oE8KN/ (2025-10-01)
+    context: '2025-10-01: Special thanks to our awesome coaches @brynn.c & @aarchiesimpsonn and to @familysupportnetwork.nsw for encouraging the local groms to try something new!'
+- @brynn.c: co 0, tag 0, men 1, ctx 1, paid 0 | e.g. https://www.instagram.com/p/DPR558oE8KN/ (2025-10-01)
+    context: '2025-10-01: Special thanks to our awesome coaches @brynn.c & @aarchiesimpsonn and to @familysupportnetwork.nsw for encouraging the local groms to try something new!'
+- @aarchiesimpsonn: co 0, tag 0, men 1, ctx 1, paid 0 | e.g. https://www.instagram.com/p/DPR558oE8KN/ (2025-10-01)
+    context: '2025-10-01: Special thanks to our awesome coaches @brynn.c & @aarchiesimpsonn and to @familysupportnetwork.nsw for encouraging the local groms to try something new!'
+- @crossfitgingervaughan: co 0, tag 1, men 1, ctx 0, paid 0 | e.g. https://www.instagram.com/p/DQYWb1YksYI/ (2025-10-29)
+
+## Website pages (Apify Website Content Crawler, keyword-filtered lines)
+No pages crawled.
+
+## Google results (Apify Google Search Results Scraper)
+### sponsors: "Fair Go Skate Competition" Ballina sponsors OR partners OR "presented by"
+- Registration is NOW OPEN for Fair Go 25!! (link in bio) ... | https://www.instagram.com/p/DPdVBXAD8GI/ | ... Sponsors: @findlayhats @powellperalta @boneswheels @whitakerskateboards @partnerskateboards @thefurniturecompany @rockstarbearings ...Read more
+- What's On – Fair Go Skatefest 2018 | https://www.byronbayfn.com.au/events/whats-on-fair-go-skatefest-2018/ | Also, to attract some of the best sponsored riders to the Northern Rivers and have a great time in beautiful Ballina. WHERE: Ballina Skate Park from 9.00am to ...Read more
+- Fair Go Festival a smooth ride | https://www.dailytelegraph.com.au/news/nsw/lismore/fair-go-festival-a-smooth-ride/news-story/3af4fc42275d13aad11e5ccd000632b0?eafs_enabled=false | Blake Harris, from Murwillumbah, scored $2000 in the sponsored Skateboarding category, while Ballina boy Simon Carven took out the Under-16 ...Read more
+- Humongous shout out to our sponsors for this year's Fair ... | https://www.instagram.com/p/DeJdEs6O7mF/ | Do you want to sponsor Fair Go this year? It's not too late Contact us or click the link in our Bio ⬆️ #sponsorus #skatecomp # ...Read more
+- SKATEBOARDING'S BEST DROP INTO BALLINA FOR ... | https://www.nbnnews.com.au/2019/09/07/skateboardings-best-drop-into-ballina-for-annual-comp/ | This year's “Fair Go” competition attracting more than 100 riders, chasing cash, prizes and prestige.Read more
+- Truckstop Sk8 (@TruckstopSk8) - Mentions | https://www.facebook.com/TruckstopSk8/mentions/ | Truckstop Sk8, Ballina. 1772 followers · 17 talking about this · 51 were here. 100% Skateboarding - Boards, shoes, clothing and accessories. Open Monday...
+- Skatepark wins high praise | https://www.dailytelegraph.com.au/news/nsw/ballina/skatepark-wins-high-praise/news-story/9a57c18a5b2f07c6f76b792413f888e3?eafs_enabled=false | Now the Fair Go skate competition is known as one of the best in regional Australia, with a skatepark that matches that reputation. Shem Bragg ...Read more
+- Browse action sport competition organisers | https://liveheats.com/Sk | Search for an action sport organisation or event on Liveheats. From local clubs to international federations, for surf, snow, skate, surf life saving and ...
+### attendance: "Fair Go Skate Competition" Ballina attendance OR attendees OR visitors OR crowd
+- Fair Go Skate Competition | https://www.atdw.com.au/marketplace/6917bd4c533c633c48befa6c | Fair Go Skate Competition. Missingham Skate Park. Ballina's iconic Fair Go Skateboard Competition returns for its 26th year, celebrating one of Australia's ...Read more
+- Fun and flips at Ballina skate comp - Tweed Coast Times | https://timesnewsgroup.com.au/tweedcoasttimes/sport/fun-and-flips-at-ballina-skate-comp/ | Fun and flips at Ballina skate comp. November 14, 2024 BY Angela Saurine. Hudson Walker and Gus Brown competing in the Fair Go skate competition ...Read more
+- Our skaters soar, given a fair go | https://www.dailytelegraph.com.au/news/nsw/lismore/our-skaters-soar-given-a-fair-go/news-story/3911210b8d9b12905dfef87859dffda0 | We're expecting about 100 entrants," Skateboarding Australia national development manager Richard Flude said. MOVING PICTURES: Action at Fair ...Read more
+- Truckstop Skate School (@truckstopsk8school) | https://www.instagram.com/truckstopsk8school/ | ... Fair Go Skate competition, one month free rent at our current location and one month training on how to run the show. *Location not included* -Can throw in ...
+- 19 Places to Visit in Ballina's Industrial Estate | https://www.discoverballina.com.au/itinerary/19-places-to-visit-in-ballinas-industrial-estate/ | Fair Go Skate Competition; Richmond RiverFest; Family fun. Discover More Events ... Mark lives and breathes coffee, and when he's not tending to the Byron Blue ...Read more
+- Community Connect Issue 52 September 2023 by Ballina ... | https://issuu.com/ballinashirecouncil/docs/community_connect_september2023_issue52_issuu | Fair Go (skate competition). Skullcandy Oz Grom Open (junior surfing competition). Eligibility criteria includes: Time to get poolside. The ...Read more
+- Ballina Boxing Day Races in Ballina - The Fold: Your Guide to ... | https://thefold.com.au/nsw/ballina-shire-region/event/sport-recreation/ballina-boxing-day-races/ | You May Also Be Interested In. Fair Go Skate Competition. Kingsford Smith Drive, Ballina NSW 2478, Australia. Upcoming. 9 October 2026 12:00 am - 10 October ...
+- Minutes of Ordinary Meeting of Ballina Shire Council | https://ballina.infocouncil.biz/Open/2025/12/OC_11122025_MIN.PDF | Fair Go Skate Competition. 10,000. 6,000. (skateboard budget $4,000). Rainbow Region Dragon Boat. Club. 2025 RR Dragon Boat Regatta. 10,000.Read more
+### audience: "Fair Go Skate Competition" Ballina audience OR demographic OR "media kit" OR sponsorship
+- Our skaters soar, given a fair go | https://www.dailytelegraph.com.au/news/nsw/lismore/our-skaters-soar-given-a-fair-go/news-story/3911210b8d9b12905dfef87859dffda0 | We're expecting about 100 entrants," Skateboarding Australia national development manager Richard Flude said. MOVING PICTURES: Action at Fair ...Read more
+- Truckstop Skate School (@truckstopsk8school) | https://www.instagram.com/truckstopsk8school/ | ... Fair Go Skate competition, one month free rent at our current location and ... The top three will go home a little bit richer thanks to sponsorship ...
+- Ballina Shire Opens 2024/25 Festival and Event Funding | https://www.miragenews.com/ballina-shire-opens-202425-festival-and-event-1086116/ | Ballina Shire Council is pleased to announce the 2024/25 Festival and Event Sponsorship Program is now open.The program is now in its 13th year
+- Creating a vibrant festival scene - Ballina Times | https://timesnewsgroup.com.au/ballinatimes/news/creating-a-vibrant-festival-scene/ | Ballina ... Ballina Shire Council's Festival and Event Sponsorship Program. Photo: SUPPLIED. Tweet · Facebook · Mail ... Fair Go (skate competition event), and ...
+- Community Connect Issue 52 September 2023 by Ballina ... | https://issuu.com/ballinashirecouncil/docs/community_connect_september2023_issue52_issuu | It offers event organisers the opportunity to apply for sponsorship ... Fair Go (skate competition). Skullcandy Oz Grom Open (junior surfing ...Read more
+- Team Activities | Ballina Coast & Hinterland | https://www.discoverballina.com.au/blog/mice-categories/team-activities/ | Fair Go Skate Competition · Richmond RiverFest · Family fun. Discover More ... audience. The bistro at Club Lennox serves up a delicious menu featuring ...Read more
+- Agenda Ordinary Meeting 12 December 2024 | https://ballina.infocouncil.biz/RedirectToDoc.aspx?URL=Open/2024/12/OC_12122024_AGN.PDF | Community) Sponsorship Program and the Festivals and Events (Commercial). Sponsorship Program. ... Fair Go Skate Competition. 6,000. Jali ...Read more
+- ordinary-agenda-28-november-2019. ... | https://www.ballina.nsw.gov.au/files/assets/public/v/1/council/documents/agenda-and-minutes/2019/ordinary-agenda-28-november-2019.pdf | support to continue the Fair Go Skate Competition was considered ... (Commercial) Sponsorship Program to ensure the policies better reflect.Read more
