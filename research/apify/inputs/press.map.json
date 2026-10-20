@@ -1,0 +1,3734 @@
+{
+"\"Adelaide Design Week\" attendance OR attendees OR visitors OR crowd": {
+"id": "adelaide-design-week",
+"kind": "attendance"
+},
+"\"Adelaide Design Week\" sponsors OR partners OR \"presented by\"": {
+"id": "adelaide-design-week",
+"kind": "sponsors"
+},
+"\"Adelaide Design Week\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "adelaide-design-week",
+"kind": "audience"
+},
+"\"Adelaide Fringe\" attendance OR attendees OR visitors OR crowd": {
+"id": "adelaide-fringe",
+"kind": "attendance"
+},
+"\"Adelaide Fringe\" sponsors OR partners OR \"presented by\"": {
+"id": "adelaide-fringe",
+"kind": "sponsors"
+},
+"\"Adelaide Fringe\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "adelaide-fringe",
+"kind": "audience"
+},
+"\"Bowerbird Design Market\" Adelaide attendance OR attendees OR visitors OR crowd": {
+"id": "bowerbird-design-market-adelaide",
+"kind": "attendance"
+},
+"\"Bowerbird Design Market\" Adelaide sponsors OR partners OR \"presented by\"": {
+"id": "bowerbird-design-market-adelaide",
+"kind": "sponsors"
+},
+"\"Bowerbird Design Market\" Adelaide audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "bowerbird-design-market-adelaide",
+"kind": "audience"
+},
+"\"Da Klinic Go Skateboarding Day\" Adelaide attendance OR attendees OR visitors OR crowd": {
+"id": "da-klinic-go-skateboarding-day-adelaide",
+"kind": "attendance"
+},
+"\"Da Klinic Go Skateboarding Day\" Adelaide sponsors OR partners OR \"presented by\"": {
+"id": "da-klinic-go-skateboarding-day-adelaide",
+"kind": "sponsors"
+},
+"\"Da Klinic Go Skateboarding Day\" Adelaide audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "da-klinic-go-skateboarding-day-adelaide",
+"kind": "audience"
+},
+"\"FRINGE WORLD Festival\" Perth attendance OR attendees OR visitors OR crowd": {
+"id": "fringe-world-perth",
+"kind": "attendance"
+},
+"\"FRINGE WORLD Festival\" Perth sponsors OR partners OR \"presented by\"": {
+"id": "fringe-world-perth",
+"kind": "sponsors"
+},
+"\"FRINGE WORLD Festival\" Perth audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "fringe-world-perth",
+"kind": "audience"
+},
+"\"Hidden Treasures Music Festival\" Fremantle attendance OR attendees OR visitors OR crowd": {
+"id": "hidden-treasures-fremantle",
+"kind": "attendance"
+},
+"\"Hidden Treasures Music Festival\" Fremantle sponsors OR partners OR \"presented by\"": {
+"id": "hidden-treasures-fremantle",
+"kind": "sponsors"
+},
+"\"Hidden Treasures Music Festival\" Fremantle audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "hidden-treasures-fremantle",
+"kind": "audience"
+},
+"\"King of the Park\" Margaret River attendance OR attendees OR visitors OR crowd": {
+"id": "king-of-the-park-margaret-river",
+"kind": "attendance"
+},
+"\"King of the Park\" Margaret River sponsors OR partners OR \"presented by\"": {
+"id": "king-of-the-park-margaret-river",
+"kind": "sponsors"
+},
+"\"King of the Park\" Margaret River audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "king-of-the-park-margaret-river",
+"kind": "audience"
+},
+"\"Lavan Whalebone Longboard Classic\" Cottesloe attendance OR attendees OR visitors OR crowd": {
+"id": "lavan-whalebone-longboard-classic-cottesloe",
+"kind": "attendance"
+},
+"\"Lavan Whalebone Longboard Classic\" Cottesloe sponsors OR partners OR \"presented by\"": {
+"id": "lavan-whalebone-longboard-classic-cottesloe",
+"kind": "sponsors"
+},
+"\"Lavan Whalebone Longboard Classic\" Cottesloe audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "lavan-whalebone-longboard-classic-cottesloe",
+"kind": "audience"
+},
+"\"Lucky Dumpling Market\" Adelaide attendance OR attendees OR visitors OR crowd": {
+"id": "lucky-dumpling-market-adelaide",
+"kind": "attendance"
+},
+"\"Lucky Dumpling Market\" Adelaide sponsors OR partners OR \"presented by\"": {
+"id": "lucky-dumpling-market-adelaide",
+"kind": "sponsors"
+},
+"\"Lucky Dumpling Market\" Adelaide audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "lucky-dumpling-market-adelaide",
+"kind": "audience"
+},
+"\"Western Australia Margaret River Pro\" attendance OR attendees OR visitors OR crowd": {
+"id": "margaret-river-pro",
+"kind": "attendance"
+},
+"\"Western Australia Margaret River Pro\" sponsors OR partners OR \"presented by\"": {
+"id": "margaret-river-pro",
+"kind": "sponsors"
+},
+"\"Western Australia Margaret River Pro\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "margaret-river-pro",
+"kind": "audience"
+},
+"\"Perth Comic Arts Festival\" attendance OR attendees OR visitors OR crowd": {
+"id": "perth-comic-arts-festival",
+"kind": "attendance"
+},
+"\"Perth Comic Arts Festival\" sponsors OR partners OR \"presented by\"": {
+"id": "perth-comic-arts-festival",
+"kind": "sponsors"
+},
+"\"Perth Comic Arts Festival\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "perth-comic-arts-festival",
+"kind": "audience"
+},
+"\"Perth Design Week\" attendance OR attendees OR visitors OR crowd": {
+"id": "perth-design-week",
+"kind": "attendance"
+},
+"\"Perth Design Week\" sponsors OR partners OR \"presented by\"": {
+"id": "perth-design-week",
+"kind": "sponsors"
+},
+"\"Perth Design Week\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "perth-design-week",
+"kind": "audience"
+},
+"\"Perth Festival\" attendance OR attendees OR visitors OR crowd": {
+"id": "perth-festival",
+"kind": "attendance"
+},
+"\"Perth Festival\" sponsors OR partners OR \"presented by\"": {
+"id": "perth-festival",
+"kind": "sponsors"
+},
+"\"Perth Festival\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "perth-festival",
+"kind": "audience"
+},
+"\"Perth Makers Market\" Applecross attendance OR attendees OR visitors OR crowd": {
+"id": "perth-makers-market",
+"kind": "attendance"
+},
+"\"Perth Makers Market\" Applecross sponsors OR partners OR \"presented by\"": {
+"id": "perth-makers-market",
+"kind": "sponsors"
+},
+"\"Perth Makers Market\" Applecross audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "perth-makers-market",
+"kind": "audience"
+},
+"\"SALA Festival\" Adelaide attendance OR attendees OR visitors OR crowd": {
+"id": "sala-festival-sa",
+"kind": "attendance"
+},
+"\"SALA Festival\" Adelaide sponsors OR partners OR \"presented by\"": {
+"id": "sala-festival-sa",
+"kind": "sponsors"
+},
+"\"SALA Festival\" Adelaide audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "sala-festival-sa",
+"kind": "audience"
+},
+"\"Sidebyside\" Adelaide attendance OR attendees OR visitors OR crowd": {
+"id": "sidebyside-adelaide",
+"kind": "attendance"
+},
+"\"Sidebyside\" Adelaide sponsors OR partners OR \"presented by\"": {
+"id": "sidebyside-adelaide",
+"kind": "sponsors"
+},
+"\"Sidebyside\" Adelaide audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "sidebyside-adelaide",
+"kind": "audience"
+},
+"\"SLAND\" Perth attendance OR attendees OR visitors OR crowd": {
+"id": "sland-sneakerland-perth",
+"kind": "attendance"
+},
+"\"SLAND\" Perth sponsors OR partners OR \"presented by\"": {
+"id": "sland-sneakerland-perth",
+"kind": "sponsors"
+},
+"\"SLAND\" Perth audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "sland-sneakerland-perth",
+"kind": "audience"
+},
+"\"Unsound Adelaide\" attendance OR attendees OR visitors OR crowd": {
+"id": "unsound-adelaide",
+"kind": "attendance"
+},
+"\"Unsound Adelaide\" sponsors OR partners OR \"presented by\"": {
+"id": "unsound-adelaide",
+"kind": "sponsors"
+},
+"\"Unsound Adelaide\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "unsound-adelaide",
+"kind": "audience"
+},
+"\"WOMADelaide\" attendance OR attendees OR visitors OR crowd": {
+"id": "womadelaide-adelaide",
+"kind": "attendance"
+},
+"\"WOMADelaide\" sponsors OR partners OR \"presented by\"": {
+"id": "womadelaide-adelaide",
+"kind": "sponsors"
+},
+"\"WOMADelaide\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "womadelaide-adelaide",
+"kind": "audience"
+},
+"\"Zina Warrior Print Fest\" Adelaide attendance OR attendees OR visitors OR crowd": {
+"id": "zina-warrior-print-fest-adelaide",
+"kind": "attendance"
+},
+"\"Zina Warrior Print Fest\" Adelaide sponsors OR partners OR \"presented by\"": {
+"id": "zina-warrior-print-fest-adelaide",
+"kind": "sponsors"
+},
+"\"Zina Warrior Print Fest\" Adelaide audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "zina-warrior-print-fest-adelaide",
+"kind": "audience"
+},
+"\"BIGSOUND\" Brisbane attendance OR attendees OR visitors OR crowd": {
+"id": "bigsound-brisbane",
+"kind": "attendance"
+},
+"\"BIGSOUND\" Brisbane sponsors OR partners OR \"presented by\"": {
+"id": "bigsound-brisbane",
+"kind": "sponsors"
+},
+"\"BIGSOUND\" Brisbane audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "bigsound-brisbane",
+"kind": "audience"
+},
+"\"Blak Day Out\" Brisbane attendance OR attendees OR visitors OR crowd": {
+"id": "blak-day-out-brisbane",
+"kind": "attendance"
+},
+"\"Blak Day Out\" Brisbane sponsors OR partners OR \"presented by\"": {
+"id": "blak-day-out-brisbane",
+"kind": "sponsors"
+},
+"\"Blak Day Out\" Brisbane audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "blak-day-out-brisbane",
+"kind": "audience"
+},
+"\"BLEACH* Festival\" Gold Coast attendance OR attendees OR visitors OR crowd": {
+"id": "bleach-festival-gold-coast",
+"kind": "attendance"
+},
+"\"BLEACH* Festival\" Gold Coast sponsors OR partners OR \"presented by\"": {
+"id": "bleach-festival-gold-coast",
+"kind": "sponsors"
+},
+"\"BLEACH* Festival\" Gold Coast audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "bleach-festival-gold-coast",
+"kind": "audience"
+},
+"\"Brisbane Illustration Fair\" attendance OR attendees OR visitors OR crowd": {
+"id": "brisbane-illustration-fair",
+"kind": "attendance"
+},
+"\"Brisbane Illustration Fair\" sponsors OR partners OR \"presented by\"": {
+"id": "brisbane-illustration-fair",
+"kind": "sponsors"
+},
+"\"Brisbane Illustration Fair\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "brisbane-illustration-fair",
+"kind": "audience"
+},
+"\"Brisbane Street Art Festival\" attendance OR attendees OR visitors OR crowd": {
+"id": "brisbane-street-art-festival",
+"kind": "attendance"
+},
+"\"Brisbane Street Art Festival\" sponsors OR partners OR \"presented by\"": {
+"id": "brisbane-street-art-festival",
+"kind": "sponsors"
+},
+"\"Brisbane Street Art Festival\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "brisbane-street-art-festival",
+"kind": "audience"
+},
+"\"Cooly Rocks On\" Gold Coast attendance OR attendees OR visitors OR crowd": {
+"id": "cooly-rocks-on-coolangatta",
+"kind": "attendance"
+},
+"\"Cooly Rocks On\" Gold Coast sponsors OR partners OR \"presented by\"": {
+"id": "cooly-rocks-on-coolangatta",
+"kind": "sponsors"
+},
+"\"Cooly Rocks On\" Gold Coast audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "cooly-rocks-on-coolangatta",
+"kind": "audience"
+},
+"\"Earth Frequency Festival\" Woodford attendance OR attendees OR visitors OR crowd": {
+"id": "earth-frequency-festival-woodford",
+"kind": "attendance"
+},
+"\"Earth Frequency Festival\" Woodford sponsors OR partners OR \"presented by\"": {
+"id": "earth-frequency-festival-woodford",
+"kind": "sponsors"
+},
+"\"Earth Frequency Festival\" Woodford audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "earth-frequency-festival-woodford",
+"kind": "audience"
+},
+"\"Here Comes The Sun\" Gold Coast attendance OR attendees OR visitors OR crowd": {
+"id": "here-comes-the-sun-gold-coast",
+"kind": "attendance"
+},
+"\"Here Comes The Sun\" Gold Coast sponsors OR partners OR \"presented by\"": {
+"id": "here-comes-the-sun-gold-coast",
+"kind": "sponsors"
+},
+"\"Here Comes The Sun\" Gold Coast audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "here-comes-the-sun-gold-coast",
+"kind": "audience"
+},
+"\"IMA Zine Fair\" Brisbane attendance OR attendees OR visitors OR crowd": {
+"id": "ima-zine-fair-brisbane",
+"kind": "attendance"
+},
+"\"IMA Zine Fair\" Brisbane sponsors OR partners OR \"presented by\"": {
+"id": "ima-zine-fair-brisbane",
+"kind": "sponsors"
+},
+"\"IMA Zine Fair\" Brisbane audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "ima-zine-fair-brisbane",
+"kind": "audience"
+},
+"\"Miami Marketta\" Gold Coast attendance OR attendees OR visitors OR crowd": {
+"id": "miami-marketta-gold-coast",
+"kind": "attendance"
+},
+"\"Miami Marketta\" Gold Coast sponsors OR partners OR \"presented by\"": {
+"id": "miami-marketta-gold-coast",
+"kind": "sponsors"
+},
+"\"Miami Marketta\" Gold Coast audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "miami-marketta-gold-coast",
+"kind": "audience"
+},
+"\"Suitcase Rummage\" Brisbane attendance OR attendees OR visitors OR crowd": {
+"id": "suitcase-rummage-brisbane",
+"kind": "attendance"
+},
+"\"Suitcase Rummage\" Brisbane sponsors OR partners OR \"presented by\"": {
+"id": "suitcase-rummage-brisbane",
+"kind": "sponsors"
+},
+"\"Suitcase Rummage\" Brisbane audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "suitcase-rummage-brisbane",
+"kind": "audience"
+},
+"\"SWELL Sculpture Festival\" Gold Coast attendance OR attendees OR visitors OR crowd": {
+"id": "swell-sculpture-festival-currumbin",
+"kind": "attendance"
+},
+"\"SWELL Sculpture Festival\" Gold Coast sponsors OR partners OR \"presented by\"": {
+"id": "swell-sculpture-festival-currumbin",
+"kind": "sponsors"
+},
+"\"SWELL Sculpture Festival\" Gold Coast audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "swell-sculpture-festival-currumbin",
+"kind": "audience"
+},
+"\"The Village Markets\" Gold Coast attendance OR attendees OR visitors OR crowd": {
+"id": "the-village-markets-burleigh",
+"kind": "attendance"
+},
+"\"The Village Markets\" Gold Coast sponsors OR partners OR \"presented by\"": {
+"id": "the-village-markets-burleigh",
+"kind": "sponsors"
+},
+"\"The Village Markets\" Gold Coast audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "the-village-markets-burleigh",
+"kind": "audience"
+},
+"\"Valley Fiesta\" Brisbane attendance OR attendees OR visitors OR crowd": {
+"id": "valley-fiesta-brisbane",
+"kind": "attendance"
+},
+"\"Valley Fiesta\" Brisbane sponsors OR partners OR \"presented by\"": {
+"id": "valley-fiesta-brisbane",
+"kind": "sponsors"
+},
+"\"Valley Fiesta\" Brisbane audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "valley-fiesta-brisbane",
+"kind": "audience"
+},
+"\"Woodford Folk Festival\" attendance OR attendees OR visitors OR crowd": {
+"id": "woodford-folk-festival",
+"kind": "attendance"
+},
+"\"Woodford Folk Festival\" sponsors OR partners OR \"presented by\"": {
+"id": "woodford-folk-festival",
+"kind": "sponsors"
+},
+"\"Woodford Folk Festival\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "woodford-folk-festival",
+"kind": "audience"
+},
+"\"Flotsam Surf Film and Photography Festival\" Gold Coast attendance OR attendees OR visitors OR crowd": {
+"id": "flotsam-festival-gold-coast",
+"kind": "attendance"
+},
+"\"Flotsam Surf Film and Photography Festival\" Gold Coast sponsors OR partners OR \"presented by\"": {
+"id": "flotsam-festival-gold-coast",
+"kind": "sponsors"
+},
+"\"Flotsam Surf Film and Photography Festival\" Gold Coast audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "flotsam-festival-gold-coast",
+"kind": "audience"
+},
+"\"Noosa Festival of Surfing\" Noosa Heads attendance OR attendees OR visitors OR crowd": {
+"id": "noosa-festival-of-surfing",
+"kind": "attendance"
+},
+"\"Noosa Festival of Surfing\" Noosa Heads sponsors OR partners OR \"presented by\"": {
+"id": "noosa-festival-of-surfing",
+"kind": "sponsors"
+},
+"\"Noosa Festival of Surfing\" Noosa Heads audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "noosa-festival-of-surfing",
+"kind": "audience"
+},
+"\"Sessions Surf Festival\" Gold Coast attendance OR attendees OR visitors OR crowd": {
+"id": "sessions-surf-festival-gold-coast",
+"kind": "attendance"
+},
+"\"Sessions Surf Festival\" Gold Coast sponsors OR partners OR \"presented by\"": {
+"id": "sessions-surf-festival-gold-coast",
+"kind": "sponsors"
+},
+"\"Sessions Surf Festival\" Gold Coast audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "sessions-surf-festival-gold-coast",
+"kind": "audience"
+},
+"\"Beaker Street Festival\" Hobart attendance OR attendees OR visitors OR crowd": {
+"id": "beaker-street-festival-hobart",
+"kind": "attendance"
+},
+"\"Beaker Street Festival\" Hobart sponsors OR partners OR \"presented by\"": {
+"id": "beaker-street-festival-hobart",
+"kind": "sponsors"
+},
+"\"Beaker Street Festival\" Hobart audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "beaker-street-festival-hobart",
+"kind": "audience"
+},
+"\"Belco Bowl Jam\" Canberra attendance OR attendees OR visitors OR crowd": {
+"id": "belco-bowl-jam-canberra",
+"kind": "attendance"
+},
+"\"Belco Bowl Jam\" Canberra sponsors OR partners OR \"presented by\"": {
+"id": "belco-bowl-jam-canberra",
+"kind": "sponsors"
+},
+"\"Belco Bowl Jam\" Canberra audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "belco-bowl-jam-canberra",
+"kind": "audience"
+},
+"\"Craft + Design Canberra Festival\" attendance OR attendees OR visitors OR crowd": {
+"id": "craft-design-canberra-festival",
+"kind": "attendance"
+},
+"\"Craft + Design Canberra Festival\" sponsors OR partners OR \"presented by\"": {
+"id": "craft-design-canberra-festival",
+"kind": "sponsors"
+},
+"\"Craft + Design Canberra Festival\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "craft-design-canberra-festival",
+"kind": "audience"
+},
+"\"Dark Mofo\" Hobart attendance OR attendees OR visitors OR crowd": {
+"id": "dark-mofo-hobart",
+"kind": "attendance"
+},
+"\"Dark Mofo\" Hobart sponsors OR partners OR \"presented by\"": {
+"id": "dark-mofo-hobart",
+"kind": "sponsors"
+},
+"\"Dark Mofo\" Hobart audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "dark-mofo-hobart",
+"kind": "audience"
+},
+"\"Darwin Aboriginal Art Fair\" attendance OR attendees OR visitors OR crowd": {
+"id": "darwin-aboriginal-art-fair",
+"kind": "attendance"
+},
+"\"Darwin Aboriginal Art Fair\" sponsors OR partners OR \"presented by\"": {
+"id": "darwin-aboriginal-art-fair",
+"kind": "sponsors"
+},
+"\"Darwin Aboriginal Art Fair\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "darwin-aboriginal-art-fair",
+"kind": "audience"
+},
+"\"Darwin Festival\" attendance OR attendees OR visitors OR crowd": {
+"id": "darwin-festival",
+"kind": "attendance"
+},
+"\"Darwin Festival\" sponsors OR partners OR \"presented by\"": {
+"id": "darwin-festival",
+"kind": "sponsors"
+},
+"\"Darwin Festival\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "darwin-festival",
+"kind": "audience"
+},
+"\"Darwin Fringe Festival\" attendance OR attendees OR visitors OR crowd": {
+"id": "darwin-fringe-festival",
+"kind": "attendance"
+},
+"\"Darwin Fringe Festival\" sponsors OR partners OR \"presented by\"": {
+"id": "darwin-fringe-festival",
+"kind": "sponsors"
+},
+"\"Darwin Fringe Festival\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "darwin-fringe-festival",
+"kind": "audience"
+},
+"\"Darwin Street Art Festival\" attendance OR attendees OR visitors OR crowd": {
+"id": "darwin-street-art-festival",
+"kind": "attendance"
+},
+"\"Darwin Street Art Festival\" sponsors OR partners OR \"presented by\"": {
+"id": "darwin-street-art-festival",
+"kind": "sponsors"
+},
+"\"Darwin Street Art Festival\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "darwin-street-art-festival",
+"kind": "audience"
+},
+"\"designedmade Makers Market\" Hobart attendance OR attendees OR visitors OR crowd": {
+"id": "designedmade-makers-market-hobart",
+"kind": "attendance"
+},
+"\"designedmade Makers Market\" Hobart sponsors OR partners OR \"presented by\"": {
+"id": "designedmade-makers-market-hobart",
+"kind": "sponsors"
+},
+"\"designedmade Makers Market\" Hobart audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "designedmade-makers-market-hobart",
+"kind": "audience"
+},
+"\"Digi Culture & Music\" Canberra attendance OR attendees OR visitors OR crowd": {
+"id": "digi-culture-music-canberra",
+"kind": "attendance"
+},
+"\"Digi Culture & Music\" Canberra sponsors OR partners OR \"presented by\"": {
+"id": "digi-culture-music-canberra",
+"kind": "sponsors"
+},
+"\"Digi Culture & Music\" Canberra audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "digi-culture-music-canberra",
+"kind": "audience"
+},
+"\"Fashion Thrift Society Hobart\" attendance OR attendees OR visitors OR crowd": {
+"id": "fashion-thrift-society-hobart",
+"kind": "attendance"
+},
+"\"Fashion Thrift Society Hobart\" sponsors OR partners OR \"presented by\"": {
+"id": "fashion-thrift-society-hobart",
+"kind": "sponsors"
+},
+"\"Fashion Thrift Society Hobart\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "fashion-thrift-society-hobart",
+"kind": "audience"
+},
+"\"Go Skateboarding Day Hobart\" attendance OR attendees OR visitors OR crowd": {
+"id": "go-skateboarding-day-hobart",
+"kind": "attendance"
+},
+"\"Go Skateboarding Day Hobart\" sponsors OR partners OR \"presented by\"": {
+"id": "go-skateboarding-day-hobart",
+"kind": "sponsors"
+},
+"\"Go Skateboarding Day Hobart\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "go-skateboarding-day-hobart",
+"kind": "audience"
+},
+"\"Handmade Canberra Market\" attendance OR attendees OR visitors OR crowd": {
+"id": "handmade-canberra-market",
+"kind": "attendance"
+},
+"\"Handmade Canberra Market\" sponsors OR partners OR \"presented by\"": {
+"id": "handmade-canberra-market",
+"kind": "sponsors"
+},
+"\"Handmade Canberra Market\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "handmade-canberra-market",
+"kind": "audience"
+},
+"\"Hobart Twilight Market\" attendance OR attendees OR visitors OR crowd": {
+"id": "hobart-twilight-market",
+"kind": "attendance"
+},
+"\"Hobart Twilight Market\" sponsors OR partners OR \"presented by\"": {
+"id": "hobart-twilight-market",
+"kind": "sponsors"
+},
+"\"Hobart Twilight Market\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "hobart-twilight-market",
+"kind": "audience"
+},
+"\"Incubator: Zine and Digital Art Fair\" Darwin attendance OR attendees OR visitors OR crowd": {
+"id": "incubator-zine-digital-art-fair-darwin",
+"kind": "attendance"
+},
+"\"Incubator: Zine and Digital Art Fair\" Darwin sponsors OR partners OR \"presented by\"": {
+"id": "incubator-zine-digital-art-fair-darwin",
+"kind": "sponsors"
+},
+"\"Incubator: Zine and Digital Art Fair\" Darwin audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "incubator-zine-digital-art-fair-darwin",
+"kind": "audience"
+},
+"\"Junction Arts Festival\" Launceston attendance OR attendees OR visitors OR crowd": {
+"id": "junction-arts-festival-launceston",
+"kind": "attendance"
+},
+"\"Junction Arts Festival\" Launceston sponsors OR partners OR \"presented by\"": {
+"id": "junction-arts-festival-launceston",
+"kind": "sponsors"
+},
+"\"Junction Arts Festival\" Launceston audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "junction-arts-festival-launceston",
+"kind": "audience"
+},
+"\"Dark Dip by KUUMA\" Hobart attendance OR attendees OR visitors OR crowd": {
+"id": "kuuma-dark-dip-hobart",
+"kind": "attendance"
+},
+"\"Dark Dip by KUUMA\" Hobart sponsors OR partners OR \"presented by\"": {
+"id": "kuuma-dark-dip-hobart",
+"kind": "sponsors"
+},
+"\"Dark Dip by KUUMA\" Hobart audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "kuuma-dark-dip-hobart",
+"kind": "audience"
+},
+"\"Mindil Beach Sunset Market\" Darwin attendance OR attendees OR visitors OR crowd": {
+"id": "mindil-beach-sunset-market-darwin",
+"kind": "attendance"
+},
+"\"Mindil Beach Sunset Market\" Darwin sponsors OR partners OR \"presented by\"": {
+"id": "mindil-beach-sunset-market-darwin",
+"kind": "sponsors"
+},
+"\"Mindil Beach Sunset Market\" Darwin audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "mindil-beach-sunset-market-darwin",
+"kind": "audience"
+},
+"\"National Folk Festival\" Canberra attendance OR attendees OR visitors OR crowd": {
+"id": "national-folk-festival-canberra",
+"kind": "attendance"
+},
+"\"National Folk Festival\" Canberra sponsors OR partners OR \"presented by\"": {
+"id": "national-folk-festival-canberra",
+"kind": "sponsors"
+},
+"\"National Folk Festival\" Canberra audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "national-folk-festival-canberra",
+"kind": "audience"
+},
+"\"Nightcliff Seabreeze Festival\" Darwin attendance OR attendees OR visitors OR crowd": {
+"id": "nightcliff-seabreeze-festival-darwin",
+"kind": "attendance"
+},
+"\"Nightcliff Seabreeze Festival\" Darwin sponsors OR partners OR \"presented by\"": {
+"id": "nightcliff-seabreeze-festival-darwin",
+"kind": "sponsors"
+},
+"\"Nightcliff Seabreeze Festival\" Darwin audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "nightcliff-seabreeze-festival-darwin",
+"kind": "audience"
+},
+"\"Nude Solstice Swim\" Hobart attendance OR attendees OR visitors OR crowd": {
+"id": "nude-solstice-swim-hobart",
+"kind": "attendance"
+},
+"\"Nude Solstice Swim\" Hobart sponsors OR partners OR \"presented by\"": {
+"id": "nude-solstice-swim-hobart",
+"kind": "sponsors"
+},
+"\"Nude Solstice Swim\" Hobart audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "nude-solstice-swim-hobart",
+"kind": "audience"
+},
+"\"Parap Village Markets\" Darwin attendance OR attendees OR visitors OR crowd": {
+"id": "parap-village-markets-darwin",
+"kind": "attendance"
+},
+"\"Parap Village Markets\" Darwin sponsors OR partners OR \"presented by\"": {
+"id": "parap-village-markets-darwin",
+"kind": "sponsors"
+},
+"\"Parap Village Markets\" Darwin audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "parap-village-markets-darwin",
+"kind": "audience"
+},
+"\"Party in the Paddock\" Launceston attendance OR attendees OR visitors OR crowd": {
+"id": "party-in-the-paddock-launceston",
+"kind": "attendance"
+},
+"\"Party in the Paddock\" Launceston sponsors OR partners OR \"presented by\"": {
+"id": "party-in-the-paddock-launceston",
+"kind": "sponsors"
+},
+"\"Party in the Paddock\" Launceston audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "party-in-the-paddock-launceston",
+"kind": "audience"
+},
+"\"Salamanca Market\" Hobart attendance OR attendees OR visitors OR crowd": {
+"id": "salamanca-market-hobart",
+"kind": "attendance"
+},
+"\"Salamanca Market\" Hobart sponsors OR partners OR \"presented by\"": {
+"id": "salamanca-market-hobart",
+"kind": "sponsors"
+},
+"\"Salamanca Market\" Hobart audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "salamanca-market-hobart",
+"kind": "audience"
+},
+"\"Techno Picnic\" Canberra attendance OR attendees OR visitors OR crowd": {
+"id": "techno-picnic-canberra",
+"kind": "attendance"
+},
+"\"Techno Picnic\" Canberra sponsors OR partners OR \"presented by\"": {
+"id": "techno-picnic-canberra",
+"kind": "sponsors"
+},
+"\"Techno Picnic\" Canberra audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "techno-picnic-canberra",
+"kind": "audience"
+},
+"\"The Unconformity\" Queenstown attendance OR attendees OR visitors OR crowd": {
+"id": "the-unconformity-queenstown",
+"kind": "attendance"
+},
+"\"The Unconformity\" Queenstown sponsors OR partners OR \"presented by\"": {
+"id": "the-unconformity-queenstown",
+"kind": "sponsors"
+},
+"\"The Unconformity\" Queenstown audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "the-unconformity-queenstown",
+"kind": "audience"
+},
+"\"A3 Festival\" Lardner Park attendance OR attendees OR visitors OR crowd": {
+"id": "a3-festival-lardner-park",
+"kind": "attendance"
+},
+"\"A3 Festival\" Lardner Park sponsors OR partners OR \"presented by\"": {
+"id": "a3-festival-lardner-park",
+"kind": "sponsors"
+},
+"\"A3 Festival\" Lardner Park audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "a3-festival-lardner-park",
+"kind": "audience"
+},
+"\"Bioglan Bells Beach Longboard Classic\" attendance OR attendees OR visitors OR crowd": {
+"id": "bells-beach-longboard-classic",
+"kind": "attendance"
+},
+"\"Bioglan Bells Beach Longboard Classic\" sponsors OR partners OR \"presented by\"": {
+"id": "bells-beach-longboard-classic",
+"kind": "sponsors"
+},
+"\"Bioglan Bells Beach Longboard Classic\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "bells-beach-longboard-classic",
+"kind": "audience"
+},
+"\"The Big Design Market\" Melbourne attendance OR attendees OR visitors OR crowd": {
+"id": "big-design-market-melbourne",
+"kind": "attendance"
+},
+"\"The Big Design Market\" Melbourne sponsors OR partners OR \"presented by\"": {
+"id": "big-design-market-melbourne",
+"kind": "sponsors"
+},
+"\"The Big Design Market\" Melbourne audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "big-design-market-melbourne",
+"kind": "audience"
+},
+"\"Brunswick Music Festival\" Melbourne attendance OR attendees OR visitors OR crowd": {
+"id": "brunswick-music-festival",
+"kind": "attendance"
+},
+"\"Brunswick Music Festival\" Melbourne sponsors OR partners OR \"presented by\"": {
+"id": "brunswick-music-festival",
+"kind": "sponsors"
+},
+"\"Brunswick Music Festival\" Melbourne audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "brunswick-music-festival",
+"kind": "audience"
+},
+"\"Fashion Thrift Society Melbourne\" attendance OR attendees OR visitors OR crowd": {
+"id": "fashion-thrift-society-melbourne",
+"kind": "attendance"
+},
+"\"Fashion Thrift Society Melbourne\" sponsors OR partners OR \"presented by\"": {
+"id": "fashion-thrift-society-melbourne",
+"kind": "sponsors"
+},
+"\"Fashion Thrift Society Melbourne\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "fashion-thrift-society-melbourne",
+"kind": "audience"
+},
+"\"The Finders Keepers Melbourne Design Market\" attendance OR attendees OR visitors OR crowd": {
+"id": "finders-keepers-melbourne",
+"kind": "attendance"
+},
+"\"The Finders Keepers Melbourne Design Market\" sponsors OR partners OR \"presented by\"": {
+"id": "finders-keepers-melbourne",
+"kind": "sponsors"
+},
+"\"The Finders Keepers Melbourne Design Market\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "finders-keepers-melbourne",
+"kind": "audience"
+},
+"\"Golden Plains\" Meredith attendance OR attendees OR visitors OR crowd": {
+"id": "golden-plains-meredith",
+"kind": "attendance"
+},
+"\"Golden Plains\" Meredith sponsors OR partners OR \"presented by\"": {
+"id": "golden-plains-meredith",
+"kind": "sponsors"
+},
+"\"Golden Plains\" Meredith audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "golden-plains-meredith",
+"kind": "audience"
+},
+"\"Great Ocean Road Womens Surf Fest\" Lorne attendance OR attendees OR visitors OR crowd": {
+"id": "great-ocean-road-womens-surf-fest",
+"kind": "attendance"
+},
+"\"Great Ocean Road Womens Surf Fest\" Lorne sponsors OR partners OR \"presented by\"": {
+"id": "great-ocean-road-womens-surf-fest",
+"kind": "sponsors"
+},
+"\"Great Ocean Road Womens Surf Fest\" Lorne audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "great-ocean-road-womens-surf-fest",
+"kind": "audience"
+},
+"\"Here Comes The Sun\" Torquay attendance OR attendees OR visitors OR crowd": {
+"id": "here-comes-the-sun-torquay",
+"kind": "attendance"
+},
+"\"Here Comes The Sun\" Torquay sponsors OR partners OR \"presented by\"": {
+"id": "here-comes-the-sun-torquay",
+"kind": "sponsors"
+},
+"\"Here Comes The Sun\" Torquay audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "here-comes-the-sun-torquay",
+"kind": "audience"
+},
+"\"St Jerome's Laneway Festival\" Melbourne attendance OR attendees OR visitors OR crowd": {
+"id": "laneway-festival-melbourne",
+"kind": "attendance"
+},
+"\"St Jerome's Laneway Festival\" Melbourne sponsors OR partners OR \"presented by\"": {
+"id": "laneway-festival-melbourne",
+"kind": "sponsors"
+},
+"\"St Jerome's Laneway Festival\" Melbourne audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "laneway-festival-melbourne",
+"kind": "audience"
+},
+"\"Leaps and Bounds Music Festival\" Melbourne attendance OR attendees OR visitors OR crowd": {
+"id": "leaps-and-bounds-music-festival",
+"kind": "attendance"
+},
+"\"Leaps and Bounds Music Festival\" Melbourne sponsors OR partners OR \"presented by\"": {
+"id": "leaps-and-bounds-music-festival",
+"kind": "sponsors"
+},
+"\"Leaps and Bounds Music Festival\" Melbourne audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "leaps-and-bounds-music-festival",
+"kind": "audience"
+},
+"\"Let Them Eat Cake\" Werribee attendance OR attendees OR visitors OR crowd": {
+"id": "let-them-eat-cake-werribee",
+"kind": "attendance"
+},
+"\"Let Them Eat Cake\" Werribee sponsors OR partners OR \"presented by\"": {
+"id": "let-them-eat-cake-werribee",
+"kind": "sponsors"
+},
+"\"Let Them Eat Cake\" Werribee audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "let-them-eat-cake-werribee",
+"kind": "audience"
+},
+"\"Melbourne Art Book Fair\" attendance OR attendees OR visitors OR crowd": {
+"id": "melbourne-art-book-fair",
+"kind": "attendance"
+},
+"\"Melbourne Art Book Fair\" sponsors OR partners OR \"presented by\"": {
+"id": "melbourne-art-book-fair",
+"kind": "sponsors"
+},
+"\"Melbourne Art Book Fair\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "melbourne-art-book-fair",
+"kind": "audience"
+},
+"\"Melbourne Design Week\" attendance OR attendees OR visitors OR crowd": {
+"id": "melbourne-design-week",
+"kind": "attendance"
+},
+"\"Melbourne Design Week\" sponsors OR partners OR \"presented by\"": {
+"id": "melbourne-design-week",
+"kind": "sponsors"
+},
+"\"Melbourne Design Week\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "melbourne-design-week",
+"kind": "audience"
+},
+"\"Melbourne Fringe Festival\" attendance OR attendees OR visitors OR crowd": {
+"id": "melbourne-fringe-festival",
+"kind": "attendance"
+},
+"\"Melbourne Fringe Festival\" sponsors OR partners OR \"presented by\"": {
+"id": "melbourne-fringe-festival",
+"kind": "sponsors"
+},
+"\"Melbourne Fringe Festival\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "melbourne-fringe-festival",
+"kind": "audience"
+},
+"\"Meredith Music Festival\" attendance OR attendees OR visitors OR crowd": {
+"id": "meredith-music-festival",
+"kind": "attendance"
+},
+"\"Meredith Music Festival\" sponsors OR partners OR \"presented by\"": {
+"id": "meredith-music-festival",
+"kind": "sponsors"
+},
+"\"Meredith Music Festival\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "meredith-music-festival",
+"kind": "audience"
+},
+"\"Pitch Music & Arts\" Moyston attendance OR attendees OR visitors OR crowd": {
+"id": "pitch-music-and-arts",
+"kind": "attendance"
+},
+"\"Pitch Music & Arts\" Moyston sponsors OR partners OR \"presented by\"": {
+"id": "pitch-music-and-arts",
+"kind": "sponsors"
+},
+"\"Pitch Music & Arts\" Moyston audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "pitch-music-and-arts",
+"kind": "audience"
+},
+"\"Queen Victoria Market Night Market\" Melbourne attendance OR attendees OR visitors OR crowd": {
+"id": "queen-victoria-night-market",
+"kind": "attendance"
+},
+"\"Queen Victoria Market Night Market\" Melbourne sponsors OR partners OR \"presented by\"": {
+"id": "queen-victoria-night-market",
+"kind": "sponsors"
+},
+"\"Queen Victoria Market Night Market\" Melbourne audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "queen-victoria-night-market",
+"kind": "audience"
+},
+"\"RISING\" Melbourne attendance OR attendees OR visitors OR crowd": {
+"id": "rising-melbourne",
+"kind": "attendance"
+},
+"\"RISING\" Melbourne sponsors OR partners OR \"presented by\"": {
+"id": "rising-melbourne",
+"kind": "sponsors"
+},
+"\"RISING\" Melbourne audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "rising-melbourne",
+"kind": "audience"
+},
+"\"The Rose St. Artists' Market\" Melbourne attendance OR attendees OR visitors OR crowd": {
+"id": "rose-street-artists-market-fitzroy",
+"kind": "attendance"
+},
+"\"The Rose St. Artists' Market\" Melbourne sponsors OR partners OR \"presented by\"": {
+"id": "rose-street-artists-market-fitzroy",
+"kind": "sponsors"
+},
+"\"The Rose St. Artists' Market\" Melbourne audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "rose-street-artists-market-fitzroy",
+"kind": "audience"
+},
+"\"Sydney Road Street Party\" Melbourne attendance OR attendees OR visitors OR crowd": {
+"id": "sydney-road-street-party",
+"kind": "attendance"
+},
+"\"Sydney Road Street Party\" Melbourne sponsors OR partners OR \"presented by\"": {
+"id": "sydney-road-street-party",
+"kind": "sponsors"
+},
+"\"Sydney Road Street Party\" Melbourne audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "sydney-road-street-party",
+"kind": "audience"
+},
+"\"The Breakfast Club\" Melbourne attendance OR attendees OR visitors OR crowd": {
+"id": "the-breakfast-club-melbourne",
+"kind": "attendance"
+},
+"\"The Breakfast Club\" Melbourne sponsors OR partners OR \"presented by\"": {
+"id": "the-breakfast-club-melbourne",
+"kind": "sponsors"
+},
+"\"The Breakfast Club\" Melbourne audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "the-breakfast-club-melbourne",
+"kind": "audience"
+},
+"\"Victoria's Pride\" Melbourne attendance OR attendees OR visitors OR crowd": {
+"id": "victorias-pride-street-party",
+"kind": "attendance"
+},
+"\"Victoria's Pride\" Melbourne sponsors OR partners OR \"presented by\"": {
+"id": "victorias-pride-street-party",
+"kind": "sponsors"
+},
+"\"Victoria's Pride\" Melbourne audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "victorias-pride-street-party",
+"kind": "audience"
+},
+"\"Wax'o Paradiso Open Air\" Melbourne attendance OR attendees OR visitors OR crowd": {
+"id": "waxo-paradiso-open-air",
+"kind": "attendance"
+},
+"\"Wax'o Paradiso Open Air\" Melbourne sponsors OR partners OR \"presented by\"": {
+"id": "waxo-paradiso-open-air",
+"kind": "sponsors"
+},
+"\"Wax'o Paradiso Open Air\" Melbourne audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "waxo-paradiso-open-air",
+"kind": "audience"
+},
+"\"Winter Skate Fest\" Noble Park attendance OR attendees OR visitors OR crowd": {
+"id": "winter-skate-fest-noble-park",
+"kind": "attendance"
+},
+"\"Winter Skate Fest\" Noble Park sponsors OR partners OR \"presented by\"": {
+"id": "winter-skate-fest-noble-park",
+"kind": "sponsors"
+},
+"\"Winter Skate Fest\" Noble Park audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "winter-skate-fest-noble-park",
+"kind": "audience"
+},
+"\"Festival of the Photocopier\" Melbourne attendance OR attendees OR visitors OR crowd": {
+"id": "festival-of-the-photocopier-melbourne",
+"kind": "attendance"
+},
+"\"Festival of the Photocopier\" Melbourne sponsors OR partners OR \"presented by\"": {
+"id": "festival-of-the-photocopier-melbourne",
+"kind": "sponsors"
+},
+"\"Festival of the Photocopier\" Melbourne audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "festival-of-the-photocopier-melbourne",
+"kind": "audience"
+},
+"\"Rainbow Spirit Festival\" Glenaroua attendance OR attendees OR visitors OR crowd": {
+"id": "rainbow-spirit-festival",
+"kind": "attendance"
+},
+"\"Rainbow Spirit Festival\" Glenaroua sponsors OR partners OR \"presented by\"": {
+"id": "rainbow-spirit-festival",
+"kind": "sponsors"
+},
+"\"Rainbow Spirit Festival\" Glenaroua audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "rainbow-spirit-festival",
+"kind": "audience"
+},
+"\"Strawberry Fields\" Tocumwal attendance OR attendees OR visitors OR crowd": {
+"id": "strawberry-fields-tocumwal",
+"kind": "attendance"
+},
+"\"Strawberry Fields\" Tocumwal sponsors OR partners OR \"presented by\"": {
+"id": "strawberry-fields-tocumwal",
+"kind": "sponsors"
+},
+"\"Strawberry Fields\" Tocumwal audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "strawberry-fields-tocumwal",
+"kind": "audience"
+},
+"\"Bangalow Market\" attendance OR attendees OR visitors OR crowd": {
+"id": "bangalow-market",
+"kind": "attendance"
+},
+"\"Bangalow Market\" sponsors OR partners OR \"presented by\"": {
+"id": "bangalow-market",
+"kind": "sponsors"
+},
+"\"Bangalow Market\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "bangalow-market",
+"kind": "audience"
+},
+"\"Byron Bay Malibu Classic\" attendance OR attendees OR visitors OR crowd": {
+"id": "byron-bay-malibu-classic",
+"kind": "attendance"
+},
+"\"Byron Bay Malibu Classic\" sponsors OR partners OR \"presented by\"": {
+"id": "byron-bay-malibu-classic",
+"kind": "sponsors"
+},
+"\"Byron Bay Malibu Classic\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "byron-bay-malibu-classic",
+"kind": "audience"
+},
+"\"Byron Community Market\" Byron Bay attendance OR attendees OR visitors OR crowd": {
+"id": "byron-community-market",
+"kind": "attendance"
+},
+"\"Byron Community Market\" Byron Bay sponsors OR partners OR \"presented by\"": {
+"id": "byron-community-market",
+"kind": "sponsors"
+},
+"\"Byron Community Market\" Byron Bay audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "byron-community-market",
+"kind": "audience"
+},
+"\"Byron Latin Fiesta\" Byron Bay attendance OR attendees OR visitors OR crowd": {
+"id": "byron-latin-fiesta",
+"kind": "attendance"
+},
+"\"Byron Latin Fiesta\" Byron Bay sponsors OR partners OR \"presented by\"": {
+"id": "byron-latin-fiesta",
+"kind": "sponsors"
+},
+"\"Byron Latin Fiesta\" Byron Bay audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "byron-latin-fiesta",
+"kind": "audience"
+},
+"\"Byron Writers Festival\" Byron Bay attendance OR attendees OR visitors OR crowd": {
+"id": "byron-writers-festival",
+"kind": "attendance"
+},
+"\"Byron Writers Festival\" Byron Bay sponsors OR partners OR \"presented by\"": {
+"id": "byron-writers-festival",
+"kind": "sponsors"
+},
+"\"Byron Writers Festival\" Byron Bay audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "byron-writers-festival",
+"kind": "audience"
+},
+"\"Defected Byron Bay\" attendance OR attendees OR visitors OR crowd": {
+"id": "defected-byron-bay",
+"kind": "attendance"
+},
+"\"Defected Byron Bay\" sponsors OR partners OR \"presented by\"": {
+"id": "defected-byron-bay",
+"kind": "sponsors"
+},
+"\"Defected Byron Bay\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "defected-byron-bay",
+"kind": "audience"
+},
+"\"Fair Go Skate Competition\" Ballina attendance OR attendees OR visitors OR crowd": {
+"id": "fair-go-skate-competition-ballina",
+"kind": "attendance"
+},
+"\"Fair Go Skate Competition\" Ballina sponsors OR partners OR \"presented by\"": {
+"id": "fair-go-skate-competition-ballina",
+"kind": "sponsors"
+},
+"\"Fair Go Skate Competition\" Ballina audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "fair-go-skate-competition-ballina",
+"kind": "audience"
+},
+"\"Festival of the Stone\" Byron Bay attendance OR attendees OR visitors OR crowd": {
+"id": "festival-of-the-stone-byron-bay",
+"kind": "attendance"
+},
+"\"Festival of the Stone\" Byron Bay sponsors OR partners OR \"presented by\"": {
+"id": "festival-of-the-stone-byron-bay",
+"kind": "sponsors"
+},
+"\"Festival of the Stone\" Byron Bay audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "festival-of-the-stone-byron-bay",
+"kind": "audience"
+},
+"\"Lismore Lantern Parade\" attendance OR attendees OR visitors OR crowd": {
+"id": "lismore-lantern-parade",
+"kind": "attendance"
+},
+"\"Lismore Lantern Parade\" sponsors OR partners OR \"presented by\"": {
+"id": "lismore-lantern-parade",
+"kind": "sponsors"
+},
+"\"Lismore Lantern Parade\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "lismore-lantern-parade",
+"kind": "audience"
+},
+"\"Mullum Roots Festival\" Mullumbimby attendance OR attendees OR visitors OR crowd": {
+"id": "mullum-roots-festival",
+"kind": "attendance"
+},
+"\"Mullum Roots Festival\" Mullumbimby sponsors OR partners OR \"presented by\"": {
+"id": "mullum-roots-festival",
+"kind": "sponsors"
+},
+"\"Mullum Roots Festival\" Mullumbimby audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "mullum-roots-festival",
+"kind": "audience"
+},
+"\"Mullumbimby Community Market\" attendance OR attendees OR visitors OR crowd": {
+"id": "mullumbimby-community-market",
+"kind": "attendance"
+},
+"\"Mullumbimby Community Market\" sponsors OR partners OR \"presented by\"": {
+"id": "mullumbimby-community-market",
+"kind": "sponsors"
+},
+"\"Mullumbimby Community Market\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "mullumbimby-community-market",
+"kind": "audience"
+},
+"\"Nimbin MardiGrass\" attendance OR attendees OR visitors OR crowd": {
+"id": "nimbin-mardigrass",
+"kind": "attendance"
+},
+"\"Nimbin MardiGrass\" sponsors OR partners OR \"presented by\"": {
+"id": "nimbin-mardigrass",
+"kind": "sponsors"
+},
+"\"Nimbin MardiGrass\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "nimbin-mardigrass",
+"kind": "audience"
+},
+"\"North Coast Mud Trail\" attendance OR attendees OR visitors OR crowd": {
+"id": "north-coast-mud-trail",
+"kind": "attendance"
+},
+"\"North Coast Mud Trail\" sponsors OR partners OR \"presented by\"": {
+"id": "north-coast-mud-trail",
+"kind": "sponsors"
+},
+"\"North Coast Mud Trail\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "north-coast-mud-trail",
+"kind": "audience"
+},
+"\"Starlight Festival\" Bangalow attendance OR attendees OR visitors OR crowd": {
+"id": "starlight-festival-bangalow",
+"kind": "attendance"
+},
+"\"Starlight Festival\" Bangalow sponsors OR partners OR \"presented by\"": {
+"id": "starlight-festival-bangalow",
+"kind": "sponsors"
+},
+"\"Starlight Festival\" Bangalow audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "starlight-festival-bangalow",
+"kind": "audience"
+},
+"\"The Channon Craft Market\" attendance OR attendees OR visitors OR crowd": {
+"id": "the-channon-craft-market",
+"kind": "attendance"
+},
+"\"The Channon Craft Market\" sponsors OR partners OR \"presented by\"": {
+"id": "the-channon-craft-market",
+"kind": "sponsors"
+},
+"\"The Channon Craft Market\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "the-channon-craft-market",
+"kind": "audience"
+},
+"\"Tropical Fruits New Year's Eve Festival\" Lismore attendance OR attendees OR visitors OR crowd": {
+"id": "tropical-fruits-nye-festival-lismore",
+"kind": "attendance"
+},
+"\"Tropical Fruits New Year's Eve Festival\" Lismore sponsors OR partners OR \"presented by\"": {
+"id": "tropical-fruits-nye-festival-lismore",
+"kind": "sponsors"
+},
+"\"Tropical Fruits New Year's Eve Festival\" Lismore audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "tropical-fruits-nye-festival-lismore",
+"kind": "audience"
+},
+"\"Water Women Campout\" Skennars Head attendance OR attendees OR visitors OR crowd": {
+"id": "water-women-campout-skennars-head",
+"kind": "attendance"
+},
+"\"Water Women Campout\" Skennars Head sponsors OR partners OR \"presented by\"": {
+"id": "water-women-campout-skennars-head",
+"kind": "sponsors"
+},
+"\"Water Women Campout\" Skennars Head audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "water-women-campout-skennars-head",
+"kind": "audience"
+},
+"\"Byron Bay Surf Festival\" attendance OR attendees OR visitors OR crowd": {
+"id": "byron-bay-surf-festival",
+"kind": "attendance"
+},
+"\"Byron Bay Surf Festival\" sponsors OR partners OR \"presented by\"": {
+"id": "byron-bay-surf-festival",
+"kind": "sponsors"
+},
+"\"Byron Bay Surf Festival\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "byron-bay-surf-festival",
+"kind": "audience"
+},
+"\"Byron Wellness Festival\" Byron Bay attendance OR attendees OR visitors OR crowd": {
+"id": "byron-wellness-festival",
+"kind": "attendance"
+},
+"\"Byron Wellness Festival\" Byron Bay sponsors OR partners OR \"presented by\"": {
+"id": "byron-wellness-festival",
+"kind": "sponsors"
+},
+"\"Byron Wellness Festival\" Byron Bay audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "byron-wellness-festival",
+"kind": "audience"
+},
+"\"NRMA Insurance Seas The Day\" Kingscliff attendance OR attendees OR visitors OR crowd": {
+"id": "seas-the-day-kingscliff",
+"kind": "attendance"
+},
+"\"NRMA Insurance Seas The Day\" Kingscliff sponsors OR partners OR \"presented by\"": {
+"id": "seas-the-day-kingscliff",
+"kind": "sponsors"
+},
+"\"NRMA Insurance Seas The Day\" Kingscliff audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "seas-the-day-kingscliff",
+"kind": "audience"
+},
+"\"The Big Design Market\" Sydney attendance OR attendees OR visitors OR crowd": {
+"id": "big-design-market-sydney",
+"kind": "attendance"
+},
+"\"The Big Design Market\" Sydney sponsors OR partners OR \"presented by\"": {
+"id": "big-design-market-sydney",
+"kind": "sponsors"
+},
+"\"The Big Design Market\" Sydney audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "big-design-market-sydney",
+"kind": "audience"
+},
+"\"The Finders Keepers Sydney Design Market\" attendance OR attendees OR visitors OR crowd": {
+"id": "finders-keepers-sydney",
+"kind": "attendance"
+},
+"\"The Finders Keepers Sydney Design Market\" sponsors OR partners OR \"presented by\"": {
+"id": "finders-keepers-sydney",
+"kind": "sponsors"
+},
+"\"The Finders Keepers Sydney Design Market\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "finders-keepers-sydney",
+"kind": "audience"
+},
+"\"Glebe Markets\" Sydney attendance OR attendees OR visitors OR crowd": {
+"id": "glebe-markets",
+"kind": "attendance"
+},
+"\"Glebe Markets\" Sydney sponsors OR partners OR \"presented by\"": {
+"id": "glebe-markets",
+"kind": "sponsors"
+},
+"\"Glebe Markets\" Sydney audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "glebe-markets",
+"kind": "audience"
+},
+"\"Lakemba Nights during Ramadan\" Sydney attendance OR attendees OR visitors OR crowd": {
+"id": "lakemba-nights-during-ramadan",
+"kind": "attendance"
+},
+"\"Lakemba Nights during Ramadan\" Sydney sponsors OR partners OR \"presented by\"": {
+"id": "lakemba-nights-during-ramadan",
+"kind": "sponsors"
+},
+"\"Lakemba Nights during Ramadan\" Sydney audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "lakemba-nights-during-ramadan",
+"kind": "audience"
+},
+"\"Laneway Festival\" Sydney attendance OR attendees OR visitors OR crowd": {
+"id": "laneway-festival-sydney",
+"kind": "attendance"
+},
+"\"Laneway Festival\" Sydney sponsors OR partners OR \"presented by\"": {
+"id": "laneway-festival-sydney",
+"kind": "sponsors"
+},
+"\"Laneway Festival\" Sydney audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "laneway-festival-sydney",
+"kind": "audience"
+},
+"\"Marrickville Organic Food and Farmers Market\" Sydney attendance OR attendees OR visitors OR crowd": {
+"id": "marrickville-organic-food-market",
+"kind": "attendance"
+},
+"\"Marrickville Organic Food and Farmers Market\" Sydney sponsors OR partners OR \"presented by\"": {
+"id": "marrickville-organic-food-market",
+"kind": "sponsors"
+},
+"\"Marrickville Organic Food and Farmers Market\" Sydney audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "marrickville-organic-food-market",
+"kind": "audience"
+},
+"\"Mode Festival\" Sydney attendance OR attendees OR visitors OR crowd": {
+"id": "mode-festival-sydney",
+"kind": "attendance"
+},
+"\"Mode Festival\" Sydney sponsors OR partners OR \"presented by\"": {
+"id": "mode-festival-sydney",
+"kind": "sponsors"
+},
+"\"Mode Festival\" Sydney audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "mode-festival-sydney",
+"kind": "audience"
+},
+"\"Other Worlds Zine Fair\" Sydney attendance OR attendees OR visitors OR crowd": {
+"id": "other-worlds-zine-fair",
+"kind": "attendance"
+},
+"\"Other Worlds Zine Fair\" Sydney sponsors OR partners OR \"presented by\"": {
+"id": "other-worlds-zine-fair",
+"kind": "sponsors"
+},
+"\"Other Worlds Zine Fair\" Sydney audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "other-worlds-zine-fair",
+"kind": "audience"
+},
+"\"Soft Centre\" Sydney attendance OR attendees OR visitors OR crowd": {
+"id": "soft-centre-sydney",
+"kind": "attendance"
+},
+"\"Soft Centre\" Sydney sponsors OR partners OR \"presented by\"": {
+"id": "soft-centre-sydney",
+"kind": "sponsors"
+},
+"\"Soft Centre\" Sydney audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "soft-centre-sydney",
+"kind": "audience"
+},
+"\"Summer Dance\" Sydney attendance OR attendees OR visitors OR crowd": {
+"id": "summer-dance-astral-people-sydney",
+"kind": "attendance"
+},
+"\"Summer Dance\" Sydney sponsors OR partners OR \"presented by\"": {
+"id": "summer-dance-astral-people-sydney",
+"kind": "sponsors"
+},
+"\"Summer Dance\" Sydney audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "summer-dance-astral-people-sydney",
+"kind": "audience"
+},
+"\"Sydney Contemporary\" attendance OR attendees OR visitors OR crowd": {
+"id": "sydney-contemporary",
+"kind": "attendance"
+},
+"\"Sydney Contemporary\" sponsors OR partners OR \"presented by\"": {
+"id": "sydney-contemporary",
+"kind": "sponsors"
+},
+"\"Sydney Contemporary\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "sydney-contemporary",
+"kind": "audience"
+},
+"\"Sydney Fringe Festival\" attendance OR attendees OR visitors OR crowd": {
+"id": "sydney-fringe-festival",
+"kind": "attendance"
+},
+"\"Sydney Fringe Festival\" sponsors OR partners OR \"presented by\"": {
+"id": "sydney-fringe-festival",
+"kind": "sponsors"
+},
+"\"Sydney Fringe Festival\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "sydney-fringe-festival",
+"kind": "audience"
+},
+"\"Australian National Slalom Championships\" Canberra attendance OR attendees OR visitors OR crowd": {
+"id": "australian-national-slalom-championships-canberra",
+"kind": "attendance"
+},
+"\"Australian National Slalom Championships\" Canberra sponsors OR partners OR \"presented by\"": {
+"id": "australian-national-slalom-championships-canberra",
+"kind": "sponsors"
+},
+"\"Australian National Slalom Championships\" Canberra audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "australian-national-slalom-championships-canberra",
+"kind": "audience"
+},
+"\"Australian Tattoo Expo\" Sydney attendance OR attendees OR visitors OR crowd": {
+"id": "australian-tattoo-expo",
+"kind": "attendance"
+},
+"\"Australian Tattoo Expo\" Sydney sponsors OR partners OR \"presented by\"": {
+"id": "australian-tattoo-expo",
+"kind": "sponsors"
+},
+"\"Australian Tattoo Expo\" Sydney audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "australian-tattoo-expo",
+"kind": "audience"
+},
+"\"Bells Beach Surf Film Festival\" Torquay attendance OR attendees OR visitors OR crowd": {
+"id": "bells-beach-surf-film-festival",
+"kind": "attendance"
+},
+"\"Bells Beach Surf Film Festival\" Torquay sponsors OR partners OR \"presented by\"": {
+"id": "bells-beach-surf-film-festival",
+"kind": "sponsors"
+},
+"\"Bells Beach Surf Film Festival\" Torquay audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "bells-beach-surf-film-festival",
+"kind": "audience"
+},
+"\"Benalla Street Art Festival\" attendance OR attendees OR visitors OR crowd": {
+"id": "benalla-street-art-festival",
+"kind": "attendance"
+},
+"\"Benalla Street Art Festival\" sponsors OR partners OR \"presented by\"": {
+"id": "benalla-street-art-festival",
+"kind": "sponsors"
+},
+"\"Benalla Street Art Festival\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "benalla-street-art-festival",
+"kind": "audience"
+},
+"\"Blazing Swan\" Kulin attendance OR attendees OR visitors OR crowd": {
+"id": "blazing-swan-kulin",
+"kind": "attendance"
+},
+"\"Blazing Swan\" Kulin sponsors OR partners OR \"presented by\"": {
+"id": "blazing-swan-kulin",
+"kind": "sponsors"
+},
+"\"Blazing Swan\" Kulin audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "blazing-swan-kulin",
+"kind": "audience"
+},
+"\"Boulderfest\" Brisbane attendance OR attendees OR visitors OR crowd": {
+"id": "boulderfest-brisbane",
+"kind": "attendance"
+},
+"\"Boulderfest\" Brisbane sponsors OR partners OR \"presented by\"": {
+"id": "boulderfest-brisbane",
+"kind": "sponsors"
+},
+"\"Boulderfest\" Brisbane audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "boulderfest-brisbane",
+"kind": "audience"
+},
+"\"Burleigh Heads Single Fin Festival\" Gold Coast attendance OR attendees OR visitors OR crowd": {
+"id": "burleigh-heads-single-fin-festival",
+"kind": "attendance"
+},
+"\"Burleigh Heads Single Fin Festival\" Gold Coast sponsors OR partners OR \"presented by\"": {
+"id": "burleigh-heads-single-fin-festival",
+"kind": "sponsors"
+},
+"\"Burleigh Heads Single Fin Festival\" Gold Coast audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "burleigh-heads-single-fin-festival",
+"kind": "audience"
+},
+"\"The Distinguished Gentleman's Ride\" attendance OR attendees OR visitors OR crowd": {
+"id": "distinguished-gentlemans-ride-australia",
+"kind": "attendance"
+},
+"\"The Distinguished Gentleman's Ride\" sponsors OR partners OR \"presented by\"": {
+"id": "distinguished-gentlemans-ride-australia",
+"kind": "sponsors"
+},
+"\"The Distinguished Gentleman's Ride\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "distinguished-gentlemans-ride-australia",
+"kind": "audience"
+},
+"\"GreazeFest\" Cleveland attendance OR attendees OR visitors OR crowd": {
+"id": "greazefest-brisbane",
+"kind": "attendance"
+},
+"\"GreazeFest\" Cleveland sponsors OR partners OR \"presented by\"": {
+"id": "greazefest-brisbane",
+"kind": "sponsors"
+},
+"\"GreazeFest\" Cleveland audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "greazefest-brisbane",
+"kind": "audience"
+},
+"\"Interstellar Groove Festival\" Tallarook attendance OR attendees OR visitors OR crowd": {
+"id": "interstellar-groove-tallarook",
+"kind": "attendance"
+},
+"\"Interstellar Groove Festival\" Tallarook sponsors OR partners OR \"presented by\"": {
+"id": "interstellar-groove-tallarook",
+"kind": "sponsors"
+},
+"\"Interstellar Groove Festival\" Tallarook audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "interstellar-groove-tallarook",
+"kind": "audience"
+},
+"\"Nati Frinj Festival\" Natimuk attendance OR attendees OR visitors OR crowd": {
+"id": "nati-frinj-natimuk",
+"kind": "attendance"
+},
+"\"Nati Frinj Festival\" Natimuk sponsors OR partners OR \"presented by\"": {
+"id": "nati-frinj-natimuk",
+"kind": "sponsors"
+},
+"\"Nati Frinj Festival\" Natimuk audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "nati-frinj-natimuk",
+"kind": "audience"
+},
+"\"Sea Otter Australia\" Batemans Bay attendance OR attendees OR visitors OR crowd": {
+"id": "sea-otter-australia-batemans-bay",
+"kind": "attendance"
+},
+"\"Sea Otter Australia\" Batemans Bay sponsors OR partners OR \"presented by\"": {
+"id": "sea-otter-australia-batemans-bay",
+"kind": "sponsors"
+},
+"\"Sea Otter Australia\" Batemans Bay audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "sea-otter-australia-batemans-bay",
+"kind": "audience"
+},
+"\"International Mural Fest\" Sheffield attendance OR attendees OR visitors OR crowd": {
+"id": "sheffield-international-mural-fest",
+"kind": "attendance"
+},
+"\"International Mural Fest\" Sheffield sponsors OR partners OR \"presented by\"": {
+"id": "sheffield-international-mural-fest",
+"kind": "sponsors"
+},
+"\"International Mural Fest\" Sheffield audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "sheffield-international-mural-fest",
+"kind": "audience"
+},
+"\"The Big Sweat\" Leura attendance OR attendees OR visitors OR crowd": {
+"id": "the-big-sweat-leura",
+"kind": "attendance"
+},
+"\"The Big Sweat\" Leura sponsors OR partners OR \"presented by\"": {
+"id": "the-big-sweat-leura",
+"kind": "sponsors"
+},
+"\"The Big Sweat\" Leura audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "the-big-sweat-leura",
+"kind": "audience"
+},
+"\"HOKA Ultra-Trail Australia by UTMB\" Katoomba attendance OR attendees OR visitors OR crowd": {
+"id": "ultra-trail-australia-katoomba",
+"kind": "attendance"
+},
+"\"HOKA Ultra-Trail Australia by UTMB\" Katoomba sponsors OR partners OR \"presented by\"": {
+"id": "ultra-trail-australia-katoomba",
+"kind": "sponsors"
+},
+"\"HOKA Ultra-Trail Australia by UTMB\" Katoomba audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "ultra-trail-australia-katoomba",
+"kind": "audience"
+},
+"\"Vanlife Gathering\" Natural Bridge attendance OR attendees OR visitors OR crowd": {
+"id": "vanlife-gathering-natural-bridge",
+"kind": "attendance"
+},
+"\"Vanlife Gathering\" Natural Bridge sponsors OR partners OR \"presented by\"": {
+"id": "vanlife-gathering-natural-bridge",
+"kind": "sponsors"
+},
+"\"Vanlife Gathering\" Natural Bridge audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "vanlife-gathering-natural-bridge",
+"kind": "audience"
+},
+"\"Wild Horses Festival\" Carapooee West attendance OR attendees OR visitors OR crowd": {
+"id": "wild-horses-festival-carapooee",
+"kind": "attendance"
+},
+"\"Wild Horses Festival\" Carapooee West sponsors OR partners OR \"presented by\"": {
+"id": "wild-horses-festival-carapooee",
+"kind": "sponsors"
+},
+"\"Wild Horses Festival\" Carapooee West audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "wild-horses-festival-carapooee",
+"kind": "audience"
+},
+"\"Art Jakarta\" pengunjung OR penonton OR attendance": {
+"id": "art-jakarta",
+"kind": "attendance"
+},
+"\"Art Jakarta\" sponsor OR didukung OR \"presented by\"": {
+"id": "art-jakarta",
+"kind": "sponsors"
+},
+"\"Art Jakarta\" audiens OR \"proposal sponsor\" OR demographic": {
+"id": "art-jakarta",
+"kind": "audience"
+},
+"\"ARTJOG\" Yogyakarta pengunjung OR penonton OR attendance": {
+"id": "artjog-yogyakarta",
+"kind": "attendance"
+},
+"\"ARTJOG\" Yogyakarta sponsor OR didukung OR \"presented by\"": {
+"id": "artjog-yogyakarta",
+"kind": "sponsors"
+},
+"\"ARTJOG\" Yogyakarta audiens OR \"proposal sponsor\" OR demographic": {
+"id": "artjog-yogyakarta",
+"kind": "audience"
+},
+"\"BaliSpirit Festival\" Ubud pengunjung OR penonton OR attendance": {
+"id": "balispirit-festival-ubud",
+"kind": "attendance"
+},
+"\"BaliSpirit Festival\" Ubud sponsor OR didukung OR \"presented by\"": {
+"id": "balispirit-festival-ubud",
+"kind": "sponsors"
+},
+"\"BaliSpirit Festival\" Ubud audiens OR \"proposal sponsor\" OR demographic": {
+"id": "balispirit-festival-ubud",
+"kind": "audience"
+},
+"\"Brightspot Market\" Jakarta pengunjung OR penonton OR attendance": {
+"id": "brightspot-market-jakarta",
+"kind": "attendance"
+},
+"\"Brightspot Market\" Jakarta sponsor OR didukung OR \"presented by\"": {
+"id": "brightspot-market-jakarta",
+"kind": "sponsors"
+},
+"\"Brightspot Market\" Jakarta audiens OR \"proposal sponsor\" OR demographic": {
+"id": "brightspot-market-jakarta",
+"kind": "audience"
+},
+"\"Deus Slidetoberfest\" Canggu pengunjung OR penonton OR attendance": {
+"id": "deus-slidetoberfest-canggu",
+"kind": "attendance"
+},
+"\"Deus Slidetoberfest\" Canggu sponsor OR didukung OR \"presented by\"": {
+"id": "deus-slidetoberfest-canggu",
+"kind": "sponsors"
+},
+"\"Deus Slidetoberfest\" Canggu audiens OR \"proposal sponsor\" OR demographic": {
+"id": "deus-slidetoberfest-canggu",
+"kind": "audience"
+},
+"\"Island Of Gods Tattoo Convention\" Kuta pengunjung OR penonton OR attendance": {
+"id": "island-of-gods-tattoo-convention-kuta",
+"kind": "attendance"
+},
+"\"Island Of Gods Tattoo Convention\" Kuta sponsor OR didukung OR \"presented by\"": {
+"id": "island-of-gods-tattoo-convention-kuta",
+"kind": "sponsors"
+},
+"\"Island Of Gods Tattoo Convention\" Kuta audiens OR \"proposal sponsor\" OR demographic": {
+"id": "island-of-gods-tattoo-convention-kuta",
+"kind": "audience"
+},
+"\"Jakarta Sneaker Day\" pengunjung OR penonton OR attendance": {
+"id": "jakarta-sneaker-day",
+"kind": "attendance"
+},
+"\"Jakarta Sneaker Day\" sponsor OR didukung OR \"presented by\"": {
+"id": "jakarta-sneaker-day",
+"kind": "sponsors"
+},
+"\"Jakarta Sneaker Day\" audiens OR \"proposal sponsor\" OR demographic": {
+"id": "jakarta-sneaker-day",
+"kind": "audience"
+},
+"\"Kustomfest\" Yogyakarta pengunjung OR penonton OR attendance": {
+"id": "kustomfest-yogyakarta",
+"kind": "attendance"
+},
+"\"Kustomfest\" Yogyakarta sponsor OR didukung OR \"presented by\"": {
+"id": "kustomfest-yogyakarta",
+"kind": "sponsors"
+},
+"\"Kustomfest\" Yogyakarta audiens OR \"proposal sponsor\" OR demographic": {
+"id": "kustomfest-yogyakarta",
+"kind": "audience"
+},
+"\"Pestapora\" Jakarta pengunjung OR penonton OR attendance": {
+"id": "pestapora-jakarta",
+"kind": "attendance"
+},
+"\"Pestapora\" Jakarta sponsor OR didukung OR \"presented by\"": {
+"id": "pestapora-jakarta",
+"kind": "sponsors"
+},
+"\"Pestapora\" Jakarta audiens OR \"proposal sponsor\" OR demographic": {
+"id": "pestapora-jakarta",
+"kind": "audience"
+},
+"\"Rip Curl Cup Padang Padang\" pengunjung OR penonton OR attendance": {
+"id": "rip-curl-cup-padang-padang",
+"kind": "attendance"
+},
+"\"Rip Curl Cup Padang Padang\" sponsor OR didukung OR \"presented by\"": {
+"id": "rip-curl-cup-padang-padang",
+"kind": "sponsors"
+},
+"\"Rip Curl Cup Padang Padang\" audiens OR \"proposal sponsor\" OR demographic": {
+"id": "rip-curl-cup-padang-padang",
+"kind": "audience"
+},
+"\"Soundrenaline\" Jakarta pengunjung OR penonton OR attendance": {
+"id": "soundrenaline-indonesia",
+"kind": "attendance"
+},
+"\"Soundrenaline\" Jakarta sponsor OR didukung OR \"presented by\"": {
+"id": "soundrenaline-indonesia",
+"kind": "sponsors"
+},
+"\"Soundrenaline\" Jakarta audiens OR \"proposal sponsor\" OR demographic": {
+"id": "soundrenaline-indonesia",
+"kind": "audience"
+},
+"\"Synchronize Fest\" Jakarta pengunjung OR penonton OR attendance": {
+"id": "synchronize-fest-jakarta",
+"kind": "attendance"
+},
+"\"Synchronize Fest\" Jakarta sponsor OR didukung OR \"presented by\"": {
+"id": "synchronize-fest-jakarta",
+"kind": "sponsors"
+},
+"\"Synchronize Fest\" Jakarta audiens OR \"proposal sponsor\" OR demographic": {
+"id": "synchronize-fest-jakarta",
+"kind": "audience"
+},
+"\"Tangi Street Art Festival\" pengunjung OR penonton OR attendance": {
+"id": "tangi-street-art-festival-bali",
+"kind": "attendance"
+},
+"\"Tangi Street Art Festival\" sponsor OR didukung OR \"presented by\"": {
+"id": "tangi-street-art-festival-bali",
+"kind": "sponsors"
+},
+"\"Tangi Street Art Festival\" audiens OR \"proposal sponsor\" OR demographic": {
+"id": "tangi-street-art-festival-bali",
+"kind": "audience"
+},
+"\"Ubud Food Festival\" pengunjung OR penonton OR attendance": {
+"id": "ubud-food-festival",
+"kind": "attendance"
+},
+"\"Ubud Food Festival\" sponsor OR didukung OR \"presented by\"": {
+"id": "ubud-food-festival",
+"kind": "sponsors"
+},
+"\"Ubud Food Festival\" audiens OR \"proposal sponsor\" OR demographic": {
+"id": "ubud-food-festival",
+"kind": "audience"
+},
+"\"Ubud Writers & Readers Festival\" pengunjung OR penonton OR attendance": {
+"id": "ubud-writers-readers-festival",
+"kind": "attendance"
+},
+"\"Ubud Writers & Readers Festival\" sponsor OR didukung OR \"presented by\"": {
+"id": "ubud-writers-readers-festival",
+"kind": "sponsors"
+},
+"\"Ubud Writers & Readers Festival\" audiens OR \"proposal sponsor\" OR demographic": {
+"id": "ubud-writers-readers-festival",
+"kind": "audience"
+},
+"\"Uluwatu Single Fin Classic\" pengunjung OR penonton OR attendance": {
+"id": "uluwatu-single-fin-classic",
+"kind": "attendance"
+},
+"\"Uluwatu Single Fin Classic\" sponsor OR didukung OR \"presented by\"": {
+"id": "uluwatu-single-fin-classic",
+"kind": "sponsors"
+},
+"\"Uluwatu Single Fin Classic\" audiens OR \"proposal sponsor\" OR demographic": {
+"id": "uluwatu-single-fin-classic",
+"kind": "audience"
+},
+"\"Urban Sneaker Society\" Jakarta pengunjung OR penonton OR attendance": {
+"id": "urban-sneaker-society-jakarta",
+"kind": "attendance"
+},
+"\"Urban Sneaker Society\" Jakarta sponsor OR didukung OR \"presented by\"": {
+"id": "urban-sneaker-society-jakarta",
+"kind": "sponsors"
+},
+"\"Urban Sneaker Society\" Jakarta audiens OR \"proposal sponsor\" OR demographic": {
+"id": "urban-sneaker-society-jakarta",
+"kind": "audience"
+},
+"\"Yogyakarta Art Book Fair\" pengunjung OR penonton OR attendance": {
+"id": "yogyakarta-art-book-fair",
+"kind": "attendance"
+},
+"\"Yogyakarta Art Book Fair\" sponsor OR didukung OR \"presented by\"": {
+"id": "yogyakarta-art-book-fair",
+"kind": "sponsors"
+},
+"\"Yogyakarta Art Book Fair\" audiens OR \"proposal sponsor\" OR demographic": {
+"id": "yogyakarta-art-book-fair",
+"kind": "audience"
+},
+"\"atmoscon\" Tokyo 来場者 OR 来場者数 OR attendance": {
+"id": "atmoscon-tokyo",
+"kind": "attendance"
+},
+"\"atmoscon\" Tokyo 協賛 OR スポンサー OR sponsors": {
+"id": "atmoscon-tokyo",
+"kind": "sponsors"
+},
+"\"atmoscon\" Tokyo 客層 OR 協賛募集 OR \"media kit\"": {
+"id": "atmoscon-tokyo",
+"kind": "audience"
+},
+"\"DESIGNART TOKYO\" 来場者 OR 来場者数 OR attendance": {
+"id": "designart-tokyo",
+"kind": "attendance"
+},
+"\"DESIGNART TOKYO\" 協賛 OR スポンサー OR sponsors": {
+"id": "designart-tokyo",
+"kind": "sponsors"
+},
+"\"DESIGNART TOKYO\" 客層 OR 協賛募集 OR \"media kit\"": {
+"id": "designart-tokyo",
+"kind": "audience"
+},
+"\"Fuji Gravel\" Nanbu 来場者 OR 来場者数 OR attendance": {
+"id": "fuji-gravel",
+"kind": "attendance"
+},
+"\"Fuji Gravel\" Nanbu 協賛 OR スポンサー OR sponsors": {
+"id": "fuji-gravel",
+"kind": "sponsors"
+},
+"\"Fuji Gravel\" Nanbu 客層 OR 協賛募集 OR \"media kit\"": {
+"id": "fuji-gravel",
+"kind": "audience"
+},
+"\"Fuji Rock Festival\" Naeba 来場者 OR 来場者数 OR attendance": {
+"id": "fuji-rock-festival-naeba",
+"kind": "attendance"
+},
+"\"Fuji Rock Festival\" Naeba 協賛 OR スポンサー OR sponsors": {
+"id": "fuji-rock-festival-naeba",
+"kind": "sponsors"
+},
+"\"Fuji Rock Festival\" Naeba 客層 OR 協賛募集 OR \"media kit\"": {
+"id": "fuji-rock-festival-naeba",
+"kind": "audience"
+},
+"\"Furugi Fes\" Tokyo 来場者 OR 来場者数 OR attendance": {
+"id": "furugi-fes-tokyo-big-sight",
+"kind": "attendance"
+},
+"\"Furugi Fes\" Tokyo 協賛 OR スポンサー OR sponsors": {
+"id": "furugi-fes-tokyo-big-sight",
+"kind": "sponsors"
+},
+"\"Furugi Fes\" Tokyo 客層 OR 協賛募集 OR \"media kit\"": {
+"id": "furugi-fes-tokyo-big-sight",
+"kind": "audience"
+},
+"\"GO OUT CAMP\" Fujinomiya 来場者 OR 来場者数 OR attendance": {
+"id": "go-out-camp-fujinomiya",
+"kind": "attendance"
+},
+"\"GO OUT CAMP\" Fujinomiya 協賛 OR スポンサー OR sponsors": {
+"id": "go-out-camp-fujinomiya",
+"kind": "sponsors"
+},
+"\"GO OUT CAMP\" Fujinomiya 客層 OR 協賛募集 OR \"media kit\"": {
+"id": "go-out-camp-fujinomiya",
+"kind": "audience"
+},
+"\"GO OUT CAMP Winter\" Fujinomiya 来場者 OR 来場者数 OR attendance": {
+"id": "go-out-camp-winter-fujinomiya",
+"kind": "attendance"
+},
+"\"GO OUT CAMP Winter\" Fujinomiya 協賛 OR スポンサー OR sponsors": {
+"id": "go-out-camp-winter-fujinomiya",
+"kind": "sponsors"
+},
+"\"GO OUT CAMP Winter\" Fujinomiya 客層 OR 協賛募集 OR \"media kit\"": {
+"id": "go-out-camp-winter-fujinomiya",
+"kind": "audience"
+},
+"\"GREENROOM FESTIVAL\" Yokohama 来場者 OR 来場者数 OR attendance": {
+"id": "greenroom-festival-yokohama",
+"kind": "attendance"
+},
+"\"GREENROOM FESTIVAL\" Yokohama 協賛 OR スポンサー OR sponsors": {
+"id": "greenroom-festival-yokohama",
+"kind": "sponsors"
+},
+"\"GREENROOM FESTIVAL\" Yokohama 客層 OR 協賛募集 OR \"media kit\"": {
+"id": "greenroom-festival-yokohama",
+"kind": "audience"
+},
+"\"HIMEJI SKATEBOARD JAM\" 来場者 OR 来場者数 OR attendance": {
+"id": "himeji-skateboard-jam",
+"kind": "attendance"
+},
+"\"HIMEJI SKATEBOARD JAM\" 協賛 OR スポンサー OR sponsors": {
+"id": "himeji-skateboard-jam",
+"kind": "sponsors"
+},
+"\"HIMEJI SKATEBOARD JAM\" 客層 OR 協賛募集 OR \"media kit\"": {
+"id": "himeji-skateboard-jam",
+"kind": "audience"
+},
+"\"JAPAN SAUNA FESTIVAL\" Kawasaki 来場者 OR 来場者数 OR attendance": {
+"id": "japan-sauna-festival-kawasaki",
+"kind": "attendance"
+},
+"\"JAPAN SAUNA FESTIVAL\" Kawasaki 協賛 OR スポンサー OR sponsors": {
+"id": "japan-sauna-festival-kawasaki",
+"kind": "sponsors"
+},
+"\"JAPAN SAUNA FESTIVAL\" Kawasaki 客層 OR 協賛募集 OR \"media kit\"": {
+"id": "japan-sauna-festival-kawasaki",
+"kind": "audience"
+},
+"\"King of Tattoo\" Tokyo 来場者 OR 来場者数 OR attendance": {
+"id": "king-of-tattoo-tokyo",
+"kind": "attendance"
+},
+"\"King of Tattoo\" Tokyo 協賛 OR スポンサー OR sponsors": {
+"id": "king-of-tattoo-tokyo",
+"kind": "sponsors"
+},
+"\"King of Tattoo\" Tokyo 客層 OR 協賛募集 OR \"media kit\"": {
+"id": "king-of-tattoo-tokyo",
+"kind": "audience"
+},
+"\"The Labyrinth\" Minakami 来場者 OR 来場者数 OR attendance": {
+"id": "labyrinth-minakami",
+"kind": "attendance"
+},
+"\"The Labyrinth\" Minakami 協賛 OR スポンサー OR sponsors": {
+"id": "labyrinth-minakami",
+"kind": "sponsors"
+},
+"\"The Labyrinth\" Minakami 客層 OR 協賛募集 OR \"media kit\"": {
+"id": "labyrinth-minakami",
+"kind": "audience"
+},
+"\"MOONEYES Street Car Nationals\" Tokyo 来場者 OR 来場者数 OR attendance": {
+"id": "mooneyes-street-car-nationals-odaiba",
+"kind": "attendance"
+},
+"\"MOONEYES Street Car Nationals\" Tokyo 協賛 OR スポンサー OR sponsors": {
+"id": "mooneyes-street-car-nationals-odaiba",
+"kind": "sponsors"
+},
+"\"MOONEYES Street Car Nationals\" Tokyo 客層 OR 協賛募集 OR \"media kit\"": {
+"id": "mooneyes-street-car-nationals-odaiba",
+"kind": "audience"
+},
+"\"MURASAKI SHONAN OPEN\" Fujisawa 来場者 OR 来場者数 OR attendance": {
+"id": "murasaki-shonan-open-kugenuma",
+"kind": "attendance"
+},
+"\"MURASAKI SHONAN OPEN\" Fujisawa 協賛 OR スポンサー OR sponsors": {
+"id": "murasaki-shonan-open-kugenuma",
+"kind": "sponsors"
+},
+"\"MURASAKI SHONAN OPEN\" Fujisawa 客層 OR 協賛募集 OR \"media kit\"": {
+"id": "murasaki-shonan-open-kugenuma",
+"kind": "audience"
+},
+"\"NEW ORDER CHOPPER SHOW\" Kobe 来場者 OR 来場者数 OR attendance": {
+"id": "new-order-chopper-show-kobe",
+"kind": "attendance"
+},
+"\"NEW ORDER CHOPPER SHOW\" Kobe 協賛 OR スポンサー OR sponsors": {
+"id": "new-order-chopper-show-kobe",
+"kind": "sponsors"
+},
+"\"NEW ORDER CHOPPER SHOW\" Kobe 客層 OR 協賛募集 OR \"media kit\"": {
+"id": "new-order-chopper-show-kobe",
+"kind": "audience"
+},
+"\"Panaracer Niseko Gravel\" 来場者 OR 来場者数 OR attendance": {
+"id": "niseko-gravel",
+"kind": "attendance"
+},
+"\"Panaracer Niseko Gravel\" 協賛 OR スポンサー OR sponsors": {
+"id": "niseko-gravel",
+"kind": "sponsors"
+},
+"\"Panaracer Niseko Gravel\" 客層 OR 協賛募集 OR \"media kit\"": {
+"id": "niseko-gravel",
+"kind": "audience"
+},
+"\"Rainbow Disco Club\" Higashi-Izu 来場者 OR 来場者数 OR attendance": {
+"id": "rainbow-disco-club-higashi-izu",
+"kind": "attendance"
+},
+"\"Rainbow Disco Club\" Higashi-Izu 協賛 OR スポンサー OR sponsors": {
+"id": "rainbow-disco-club-higashi-izu",
+"kind": "sponsors"
+},
+"\"Rainbow Disco Club\" Higashi-Izu 客層 OR 協賛募集 OR \"media kit\"": {
+"id": "rainbow-disco-club-higashi-izu",
+"kind": "audience"
+},
+"\"Snow Peak Way\" 来場者 OR 来場者数 OR attendance": {
+"id": "snow-peak-way-japan",
+"kind": "attendance"
+},
+"\"Snow Peak Way\" 協賛 OR スポンサー OR sponsors": {
+"id": "snow-peak-way-japan",
+"kind": "sponsors"
+},
+"\"Snow Peak Way\" 客層 OR 協賛募集 OR \"media kit\"": {
+"id": "snow-peak-way-japan",
+"kind": "audience"
+},
+"\"Surf Town Festa\" Isumi 来場者 OR 来場者数 OR attendance": {
+"id": "surf-town-festa-isumi",
+"kind": "attendance"
+},
+"\"Surf Town Festa\" Isumi 協賛 OR スポンサー OR sponsors": {
+"id": "surf-town-festa-isumi",
+"kind": "sponsors"
+},
+"\"Surf Town Festa\" Isumi 客層 OR 協賛募集 OR \"media kit\"": {
+"id": "surf-town-festa-isumi",
+"kind": "audience"
+},
+"\"TELL Okinawa Yoga and Wellness Festival\" Okinawa City 来場者 OR 来場者数 OR attendance": {
+"id": "tell-okinawa-yoga-wellness-festival",
+"kind": "attendance"
+},
+"\"TELL Okinawa Yoga and Wellness Festival\" Okinawa City 協賛 OR スポンサー OR sponsors": {
+"id": "tell-okinawa-yoga-wellness-festival",
+"kind": "sponsors"
+},
+"\"TELL Okinawa Yoga and Wellness Festival\" Okinawa City 客層 OR 協賛募集 OR \"media kit\"": {
+"id": "tell-okinawa-yoga-wellness-festival",
+"kind": "audience"
+},
+"\"TOKIO ART BOOK FAIR\" Tokyo 来場者 OR 来場者数 OR attendance": {
+"id": "tokio-art-book-fair-shiba-park",
+"kind": "attendance"
+},
+"\"TOKIO ART BOOK FAIR\" Tokyo 協賛 OR スポンサー OR sponsors": {
+"id": "tokio-art-book-fair-shiba-park",
+"kind": "sponsors"
+},
+"\"TOKIO ART BOOK FAIR\" Tokyo 客層 OR 協賛募集 OR \"media kit\"": {
+"id": "tokio-art-book-fair-shiba-park",
+"kind": "audience"
+},
+"\"TOKYO ART BOOK FAIR\" 来場者 OR 来場者数 OR attendance": {
+"id": "tokyo-art-book-fair",
+"kind": "attendance"
+},
+"\"TOKYO ART BOOK FAIR\" 協賛 OR スポンサー OR sponsors": {
+"id": "tokyo-art-book-fair",
+"kind": "sponsors"
+},
+"\"TOKYO ART BOOK FAIR\" 客層 OR 協賛募集 OR \"media kit\"": {
+"id": "tokyo-art-book-fair",
+"kind": "audience"
+},
+"\"TOKYO CREATIVE SALON\" 来場者 OR 来場者数 OR attendance": {
+"id": "tokyo-creative-salon",
+"kind": "attendance"
+},
+"\"TOKYO CREATIVE SALON\" 協賛 OR スポンサー OR sponsors": {
+"id": "tokyo-creative-salon",
+"kind": "sponsors"
+},
+"\"TOKYO CREATIVE SALON\" 客層 OR 協賛募集 OR \"media kit\"": {
+"id": "tokyo-creative-salon",
+"kind": "audience"
+},
+"\"Vihta Sauna Fes in Yachiho Kogen\" Sakuho 来場者 OR 来場者数 OR attendance": {
+"id": "vihta-sauna-fes-yachiho",
+"kind": "attendance"
+},
+"\"Vihta Sauna Fes in Yachiho Kogen\" Sakuho 協賛 OR スポンサー OR sponsors": {
+"id": "vihta-sauna-fes-yachiho",
+"kind": "sponsors"
+},
+"\"Vihta Sauna Fes in Yachiho Kogen\" Sakuho 客層 OR 協賛募集 OR \"media kit\"": {
+"id": "vihta-sauna-fes-yachiho",
+"kind": "audience"
+},
+"\"Yoga Festa Yokohama\" 来場者 OR 来場者数 OR attendance": {
+"id": "yoga-festa-yokohama",
+"kind": "attendance"
+},
+"\"Yoga Festa Yokohama\" 協賛 OR スポンサー OR sponsors": {
+"id": "yoga-festa-yokohama",
+"kind": "sponsors"
+},
+"\"Yoga Festa Yokohama\" 客層 OR 協賛募集 OR \"media kit\"": {
+"id": "yoga-festa-yokohama",
+"kind": "audience"
+},
+"\"Yokohama Hot Rod Custom Show\" 来場者 OR 来場者数 OR attendance": {
+"id": "yokohama-hot-rod-custom-show",
+"kind": "attendance"
+},
+"\"Yokohama Hot Rod Custom Show\" 協賛 OR スポンサー OR sponsors": {
+"id": "yokohama-hot-rod-custom-show",
+"kind": "sponsors"
+},
+"\"Yokohama Hot Rod Custom Show\" 客層 OR 協賛募集 OR \"media kit\"": {
+"id": "yokohama-hot-rod-custom-show",
+"kind": "audience"
+},
+"\"YOKOHAMA URBAN SPORTS FESTIVAL\" 来場者 OR 来場者数 OR attendance": {
+"id": "yokohama-urban-sports-festival",
+"kind": "attendance"
+},
+"\"YOKOHAMA URBAN SPORTS FESTIVAL\" 協賛 OR スポンサー OR sponsors": {
+"id": "yokohama-urban-sports-festival",
+"kind": "sponsors"
+},
+"\"YOKOHAMA URBAN SPORTS FESTIVAL\" 客層 OR 協賛募集 OR \"media kit\"": {
+"id": "yokohama-urban-sports-festival",
+"kind": "audience"
+},
+"\"Zushi Beach Film Festival\" 来場者 OR 来場者数 OR attendance": {
+"id": "zushi-beach-film-festival",
+"kind": "attendance"
+},
+"\"Zushi Beach Film Festival\" 協賛 OR スポンサー OR sponsors": {
+"id": "zushi-beach-film-festival",
+"kind": "sponsors"
+},
+"\"Zushi Beach Film Festival\" 客層 OR 協賛募集 OR \"media kit\"": {
+"id": "zushi-beach-film-festival",
+"kind": "audience"
+},
+"\"Aotearoa Surf Film Festival\" attendance OR attendees OR visitors OR crowd": {
+"id": "aotearoa-surf-film-festival",
+"kind": "attendance"
+},
+"\"Aotearoa Surf Film Festival\" sponsors OR partners OR \"presented by\"": {
+"id": "aotearoa-surf-film-festival",
+"kind": "sponsors"
+},
+"\"Aotearoa Surf Film Festival\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "aotearoa-surf-film-festival",
+"kind": "audience"
+},
+"\"Art Deco Festival Napier\" attendance OR attendees OR visitors OR crowd": {
+"id": "art-deco-festival-napier",
+"kind": "attendance"
+},
+"\"Art Deco Festival Napier\" sponsors OR partners OR \"presented by\"": {
+"id": "art-deco-festival-napier",
+"kind": "sponsors"
+},
+"\"Art Deco Festival Napier\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "art-deco-festival-napier",
+"kind": "audience"
+},
+"\"Auckland Zinefest\" attendance OR attendees OR visitors OR crowd": {
+"id": "auckland-zinefest",
+"kind": "attendance"
+},
+"\"Auckland Zinefest\" sponsors OR partners OR \"presented by\"": {
+"id": "auckland-zinefest",
+"kind": "sponsors"
+},
+"\"Auckland Zinefest\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "auckland-zinefest",
+"kind": "audience"
+},
+"\"Burt Munro Challenge\" Invercargill attendance OR attendees OR visitors OR crowd": {
+"id": "burt-munro-challenge-invercargill",
+"kind": "attendance"
+},
+"\"Burt Munro Challenge\" Invercargill sponsors OR partners OR \"presented by\"": {
+"id": "burt-munro-challenge-invercargill",
+"kind": "sponsors"
+},
+"\"Burt Munro Challenge\" Invercargill audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "burt-munro-challenge-invercargill",
+"kind": "audience"
+},
+"\"CubaDupa\" Wellington attendance OR attendees OR visitors OR crowd": {
+"id": "cubadupa-wellington",
+"kind": "attendance"
+},
+"\"CubaDupa\" Wellington sponsors OR partners OR \"presented by\"": {
+"id": "cubadupa-wellington",
+"kind": "sponsors"
+},
+"\"CubaDupa\" Wellington audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "cubadupa-wellington",
+"kind": "audience"
+},
+"\"General Collective Lifestyle & Design Market\" Auckland attendance OR attendees OR visitors OR crowd": {
+"id": "general-collective-lifestyle-design-market-auckland",
+"kind": "attendance"
+},
+"\"General Collective Lifestyle & Design Market\" Auckland sponsors OR partners OR \"presented by\"": {
+"id": "general-collective-lifestyle-design-market-auckland",
+"kind": "sponsors"
+},
+"\"General Collective Lifestyle & Design Market\" Auckland audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "general-collective-lifestyle-design-market-auckland",
+"kind": "audience"
+},
+"\"Graffiato: Taupō Street Art Festival\" attendance OR attendees OR visitors OR crowd": {
+"id": "graffiato-taupo-street-art-festival",
+"kind": "attendance"
+},
+"\"Graffiato: Taupō Street Art Festival\" sponsors OR partners OR \"presented by\"": {
+"id": "graffiato-taupo-street-art-festival",
+"kind": "sponsors"
+},
+"\"Graffiato: Taupō Street Art Festival\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "graffiato-taupo-street-art-festival",
+"kind": "audience"
+},
+"\"Gravel in Paradise\" attendance OR attendees OR visitors OR crowd": {
+"id": "gravel-in-paradise-otago",
+"kind": "attendance"
+},
+"\"Gravel in Paradise\" sponsors OR partners OR \"presented by\"": {
+"id": "gravel-in-paradise-otago",
+"kind": "sponsors"
+},
+"\"Gravel in Paradise\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "gravel-in-paradise-otago",
+"kind": "audience"
+},
+"\"Hidden Valley Festival\" Matakana attendance OR attendees OR visitors OR crowd": {
+"id": "hidden-valley-matakana",
+"kind": "attendance"
+},
+"\"Hidden Valley Festival\" Matakana sponsors OR partners OR \"presented by\"": {
+"id": "hidden-valley-matakana",
+"kind": "sponsors"
+},
+"\"Hidden Valley Festival\" Matakana audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "hidden-valley-matakana",
+"kind": "audience"
+},
+"\"Kiwiburn\" Hunterville attendance OR attendees OR visitors OR crowd": {
+"id": "kiwiburn-hunterville",
+"kind": "attendance"
+},
+"\"Kiwiburn\" Hunterville sponsors OR partners OR \"presented by\"": {
+"id": "kiwiburn-hunterville",
+"kind": "sponsors"
+},
+"\"Kiwiburn\" Hunterville audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "kiwiburn-hunterville",
+"kind": "audience"
+},
+"\"Laneway Festival Auckland\" attendance OR attendees OR visitors OR crowd": {
+"id": "laneway-festival-auckland",
+"kind": "attendance"
+},
+"\"Laneway Festival Auckland\" sponsors OR partners OR \"presented by\"": {
+"id": "laneway-festival-auckland",
+"kind": "sponsors"
+},
+"\"Laneway Festival Auckland\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "laneway-festival-auckland",
+"kind": "audience"
+},
+"\"Makers Market\" Auckland attendance OR attendees OR visitors OR crowd": {
+"id": "makers-market-auckland",
+"kind": "attendance"
+},
+"\"Makers Market\" Auckland sponsors OR partners OR \"presented by\"": {
+"id": "makers-market-auckland",
+"kind": "sponsors"
+},
+"\"Makers Market\" Auckland audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "makers-market-auckland",
+"kind": "audience"
+},
+"\"Māoriland Film Festival\" Ōtaki attendance OR attendees OR visitors OR crowd": {
+"id": "maoriland-film-festival",
+"kind": "attendance"
+},
+"\"Māoriland Film Festival\" Ōtaki sponsors OR partners OR \"presented by\"": {
+"id": "maoriland-film-festival",
+"kind": "sponsors"
+},
+"\"Māoriland Film Festival\" Ōtaki audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "maoriland-film-festival",
+"kind": "audience"
+},
+"\"Morph Festival\" Kumeū attendance OR attendees OR visitors OR crowd": {
+"id": "morph-festival-kumeu",
+"kind": "attendance"
+},
+"\"Morph Festival\" Kumeū sponsors OR partners OR \"presented by\"": {
+"id": "morph-festival-kumeu",
+"kind": "sponsors"
+},
+"\"Morph Festival\" Kumeū audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "morph-festival-kumeu",
+"kind": "audience"
+},
+"\"MotoFest\" Hampton Downs attendance OR attendees OR visitors OR crowd": {
+"id": "motofest-hampton-downs",
+"kind": "attendance"
+},
+"\"MotoFest\" Hampton Downs sponsors OR partners OR \"presented by\"": {
+"id": "motofest-hampton-downs",
+"kind": "sponsors"
+},
+"\"MotoFest\" Hampton Downs audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "motofest-hampton-downs",
+"kind": "audience"
+},
+"\"Northern Bass\" Mangawhai attendance OR attendees OR visitors OR crowd": {
+"id": "northern-bass-mangawhai",
+"kind": "attendance"
+},
+"\"Northern Bass\" Mangawhai sponsors OR partners OR \"presented by\"": {
+"id": "northern-bass-mangawhai",
+"kind": "sponsors"
+},
+"\"Northern Bass\" Mangawhai audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "northern-bass-mangawhai",
+"kind": "audience"
+},
+"\"NZ Tattoo & Art Festival\" New Plymouth attendance OR attendees OR visitors OR crowd": {
+"id": "nz-tattoo-and-art-festival-new-plymouth",
+"kind": "attendance"
+},
+"\"NZ Tattoo & Art Festival\" New Plymouth sponsors OR partners OR \"presented by\"": {
+"id": "nz-tattoo-and-art-festival-new-plymouth",
+"kind": "sponsors"
+},
+"\"NZ Tattoo & Art Festival\" New Plymouth audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "nz-tattoo-and-art-festival-new-plymouth",
+"kind": "audience"
+},
+"\"Repco Beach Hop\" Whangamatā attendance OR attendees OR visitors OR crowd": {
+"id": "repco-beach-hop-whangamata",
+"kind": "attendance"
+},
+"\"Repco Beach Hop\" Whangamatā sponsors OR partners OR \"presented by\"": {
+"id": "repco-beach-hop-whangamata",
+"kind": "sponsors"
+},
+"\"Repco Beach Hop\" Whangamatā audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "repco-beach-hop-whangamata",
+"kind": "audience"
+},
+"\"Roots Auckland Tattoo Convention\" attendance OR attendees OR visitors OR crowd": {
+"id": "roots-auckland-tattoo-convention",
+"kind": "attendance"
+},
+"\"Roots Auckland Tattoo Convention\" sponsors OR partners OR \"presented by\"": {
+"id": "roots-auckland-tattoo-convention",
+"kind": "sponsors"
+},
+"\"Roots Auckland Tattoo Convention\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "roots-auckland-tattoo-convention",
+"kind": "audience"
+},
+"\"Sauna Fest\" Rotorua attendance OR attendees OR visitors OR crowd": {
+"id": "sauna-fest-rotorua",
+"kind": "attendance"
+},
+"\"Sauna Fest\" Rotorua sponsors OR partners OR \"presented by\"": {
+"id": "sauna-fest-rotorua",
+"kind": "sponsors"
+},
+"\"Sauna Fest\" Rotorua audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "sauna-fest-rotorua",
+"kind": "audience"
+},
+"\"The Single Fin Mingle\" Christchurch attendance OR attendees OR visitors OR crowd": {
+"id": "single-fin-mingle-sumner",
+"kind": "attendance"
+},
+"\"The Single Fin Mingle\" Christchurch sponsors OR partners OR \"presented by\"": {
+"id": "single-fin-mingle-sumner",
+"kind": "sponsors"
+},
+"\"The Single Fin Mingle\" Christchurch audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "single-fin-mingle-sumner",
+"kind": "audience"
+},
+"\"Soundsplash\" Raglan attendance OR attendees OR visitors OR crowd": {
+"id": "soundsplash-raglan",
+"kind": "attendance"
+},
+"\"Soundsplash\" Raglan sponsors OR partners OR \"presented by\"": {
+"id": "soundsplash-raglan",
+"kind": "sponsors"
+},
+"\"Soundsplash\" Raglan audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "soundsplash-raglan",
+"kind": "audience"
+},
+"\"The Graveler\" Hanmer Springs attendance OR attendees OR visitors OR crowd": {
+"id": "the-graveler-hanmer-springs",
+"kind": "attendance"
+},
+"\"The Graveler\" Hanmer Springs sponsors OR partners OR \"presented by\"": {
+"id": "the-graveler-hanmer-springs",
+"kind": "sponsors"
+},
+"\"The Graveler\" Hanmer Springs audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "the-graveler-hanmer-springs",
+"kind": "audience"
+},
+"\"WellFest\" Queenstown attendance OR attendees OR visitors OR crowd": {
+"id": "wellfest-queenstown",
+"kind": "attendance"
+},
+"\"WellFest\" Queenstown sponsors OR partners OR \"presented by\"": {
+"id": "wellfest-queenstown",
+"kind": "sponsors"
+},
+"\"WellFest\" Queenstown audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "wellfest-queenstown",
+"kind": "audience"
+},
+"\"Wellington Zinefest\" attendance OR attendees OR visitors OR crowd": {
+"id": "wellington-zinefest",
+"kind": "attendance"
+},
+"\"Wellington Zinefest\" sponsors OR partners OR \"presented by\"": {
+"id": "wellington-zinefest",
+"kind": "sponsors"
+},
+"\"Wellington Zinefest\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "wellington-zinefest",
+"kind": "audience"
+},
+"\"Alentejo Gravel\" Ourique público OR visitantes OR pessoas OR attendance": {
+"id": "alentejo-gravel-ourique",
+"kind": "attendance"
+},
+"\"Alentejo Gravel\" Ourique patrocinadores OR patrocínio OR parceiros OR sponsors": {
+"id": "alentejo-gravel-ourique",
+"kind": "sponsors"
+},
+"\"Alentejo Gravel\" Ourique público-alvo OR perfil OR \"media kit\" OR patrocínio": {
+"id": "alentejo-gravel-ourique",
+"kind": "audience"
+},
+"\"Boom Festival\" Idanha-a-Nova público OR visitantes OR pessoas OR attendance": {
+"id": "boom-festival-idanha-a-nova",
+"kind": "attendance"
+},
+"\"Boom Festival\" Idanha-a-Nova patrocinadores OR patrocínio OR parceiros OR sponsors": {
+"id": "boom-festival-idanha-a-nova",
+"kind": "sponsors"
+},
+"\"Boom Festival\" Idanha-a-Nova público-alvo OR perfil OR \"media kit\" OR patrocínio": {
+"id": "boom-festival-idanha-a-nova",
+"kind": "audience"
+},
+"\"Ericeira Kustom Fest\" público OR visitantes OR pessoas OR attendance": {
+"id": "ericeira-kustom-fest",
+"kind": "attendance"
+},
+"\"Ericeira Kustom Fest\" patrocinadores OR patrocínio OR parceiros OR sponsors": {
+"id": "ericeira-kustom-fest",
+"kind": "sponsors"
+},
+"\"Ericeira Kustom Fest\" público-alvo OR perfil OR \"media kit\" OR patrocínio": {
+"id": "ericeira-kustom-fest",
+"kind": "audience"
+},
+"\"European Tour of Longboard, Estoril\" público OR visitantes OR pessoas OR attendance": {
+"id": "european-tour-of-longboard-estoril",
+"kind": "attendance"
+},
+"\"European Tour of Longboard, Estoril\" patrocinadores OR patrocínio OR parceiros OR sponsors": {
+"id": "european-tour-of-longboard-estoril",
+"kind": "sponsors"
+},
+"\"European Tour of Longboard, Estoril\" público-alvo OR perfil OR \"media kit\" OR patrocínio": {
+"id": "european-tour-of-longboard-estoril",
+"kind": "audience"
+},
+"\"Festival Iminente\" Lisbon público OR visitantes OR pessoas OR attendance": {
+"id": "festival-iminente-lisboa",
+"kind": "attendance"
+},
+"\"Festival Iminente\" Lisbon patrocinadores OR patrocínio OR parceiros OR sponsors": {
+"id": "festival-iminente-lisboa",
+"kind": "sponsors"
+},
+"\"Festival Iminente\" Lisbon público-alvo OR perfil OR \"media kit\" OR patrocínio": {
+"id": "festival-iminente-lisboa",
+"kind": "audience"
+},
+"\"Lisbon Design Week\" público OR visitantes OR pessoas OR attendance": {
+"id": "lisbon-design-week",
+"kind": "attendance"
+},
+"\"Lisbon Design Week\" patrocinadores OR patrocínio OR parceiros OR sponsors": {
+"id": "lisbon-design-week",
+"kind": "sponsors"
+},
+"\"Lisbon Design Week\" público-alvo OR perfil OR \"media kit\" OR patrocínio": {
+"id": "lisbon-design-week",
+"kind": "audience"
+},
+"\"Mucho Flow\" Guimaraes público OR visitantes OR pessoas OR attendance": {
+"id": "mucho-flow-guimaraes",
+"kind": "attendance"
+},
+"\"Mucho Flow\" Guimaraes patrocinadores OR patrocínio OR parceiros OR sponsors": {
+"id": "mucho-flow-guimaraes",
+"kind": "sponsors"
+},
+"\"Mucho Flow\" Guimaraes público-alvo OR perfil OR \"media kit\" OR patrocínio": {
+"id": "mucho-flow-guimaraes",
+"kind": "audience"
+},
+"\"NEOPOP Festival\" Viana do Castelo público OR visitantes OR pessoas OR attendance": {
+"id": "neopop-viana-do-castelo",
+"kind": "attendance"
+},
+"\"NEOPOP Festival\" Viana do Castelo patrocinadores OR patrocínio OR parceiros OR sponsors": {
+"id": "neopop-viana-do-castelo",
+"kind": "sponsors"
+},
+"\"NEOPOP Festival\" Viana do Castelo público-alvo OR perfil OR \"media kit\" OR patrocínio": {
+"id": "neopop-viana-do-castelo",
+"kind": "audience"
+},
+"\"Oporto Tattoo Expo\" Gondomar público OR visitantes OR pessoas OR attendance": {
+"id": "oporto-tattoo-expo-gondomar",
+"kind": "attendance"
+},
+"\"Oporto Tattoo Expo\" Gondomar patrocinadores OR patrocínio OR parceiros OR sponsors": {
+"id": "oporto-tattoo-expo-gondomar",
+"kind": "sponsors"
+},
+"\"Oporto Tattoo Expo\" Gondomar público-alvo OR perfil OR \"media kit\" OR patrocínio": {
+"id": "oporto-tattoo-expo-gondomar",
+"kind": "audience"
+},
+"\"Vodafone Paredes de Coura\" público OR visitantes OR pessoas OR attendance": {
+"id": "paredes-de-coura",
+"kind": "attendance"
+},
+"\"Vodafone Paredes de Coura\" patrocinadores OR patrocínio OR parceiros OR sponsors": {
+"id": "paredes-de-coura",
+"kind": "sponsors"
+},
+"\"Vodafone Paredes de Coura\" público-alvo OR perfil OR \"media kit\" OR patrocínio": {
+"id": "paredes-de-coura",
+"kind": "audience"
+},
+"\"Portuguese Surf Film Festival\" Ericeira público OR visitantes OR pessoas OR attendance": {
+"id": "portuguese-surf-film-festival-ericeira",
+"kind": "attendance"
+},
+"\"Portuguese Surf Film Festival\" Ericeira patrocinadores OR patrocínio OR parceiros OR sponsors": {
+"id": "portuguese-surf-film-festival-ericeira",
+"kind": "sponsors"
+},
+"\"Portuguese Surf Film Festival\" Ericeira público-alvo OR perfil OR \"media kit\" OR patrocínio": {
+"id": "portuguese-surf-film-festival-ericeira",
+"kind": "audience"
+},
+"\"Primavera Sound Porto\" público OR visitantes OR pessoas OR attendance": {
+"id": "primavera-sound-porto",
+"kind": "attendance"
+},
+"\"Primavera Sound Porto\" patrocinadores OR patrocínio OR parceiros OR sponsors": {
+"id": "primavera-sound-porto",
+"kind": "sponsors"
+},
+"\"Primavera Sound Porto\" público-alvo OR perfil OR \"media kit\" OR patrocínio": {
+"id": "primavera-sound-porto",
+"kind": "audience"
+},
+"\"Sagres Sessions\" público OR visitantes OR pessoas OR attendance": {
+"id": "sagres-sessions",
+"kind": "attendance"
+},
+"\"Sagres Sessions\" patrocinadores OR patrocínio OR parceiros OR sponsors": {
+"id": "sagres-sessions",
+"kind": "sponsors"
+},
+"\"Sagres Sessions\" público-alvo OR perfil OR \"media kit\" OR patrocínio": {
+"id": "sagres-sessions",
+"kind": "audience"
+},
+"\"Tremor\" Ponta Delgada público OR visitantes OR pessoas OR attendance": {
+"id": "tremor-sao-miguel",
+"kind": "attendance"
+},
+"\"Tremor\" Ponta Delgada patrocinadores OR patrocínio OR parceiros OR sponsors": {
+"id": "tremor-sao-miguel",
+"kind": "sponsors"
+},
+"\"Tremor\" Ponta Delgada público-alvo OR perfil OR \"media kit\" OR patrocínio": {
+"id": "tremor-sao-miguel",
+"kind": "audience"
+},
+"\"Waking Life\" Crato público OR visitantes OR pessoas OR attendance": {
+"id": "waking-life-crato",
+"kind": "attendance"
+},
+"\"Waking Life\" Crato patrocinadores OR patrocínio OR parceiros OR sponsors": {
+"id": "waking-life-crato",
+"kind": "sponsors"
+},
+"\"Waking Life\" Crato público-alvo OR perfil OR \"media kit\" OR patrocínio": {
+"id": "waking-life-crato",
+"kind": "audience"
+},
+"\"Walk&Talk\" Ponta Delgada público OR visitantes OR pessoas OR attendance": {
+"id": "walk-and-talk-ponta-delgada",
+"kind": "attendance"
+},
+"\"Walk&Talk\" Ponta Delgada patrocinadores OR patrocínio OR parceiros OR sponsors": {
+"id": "walk-and-talk-ponta-delgada",
+"kind": "sponsors"
+},
+"\"Walk&Talk\" Ponta Delgada público-alvo OR perfil OR \"media kit\" OR patrocínio": {
+"id": "walk-and-talk-ponta-delgada",
+"kind": "audience"
+},
+"\"Wander Yogi Festival\" Ericeira público OR visitantes OR pessoas OR attendance": {
+"id": "wander-yogi-festival-ericeira",
+"kind": "attendance"
+},
+"\"Wander Yogi Festival\" Ericeira patrocinadores OR patrocínio OR parceiros OR sponsors": {
+"id": "wander-yogi-festival-ericeira",
+"kind": "sponsors"
+},
+"\"Wander Yogi Festival\" Ericeira público-alvo OR perfil OR \"media kit\" OR patrocínio": {
+"id": "wander-yogi-festival-ericeira",
+"kind": "audience"
+},
+"\"Convención de Tatuajes La Plata\" asistentes OR visitantes OR personas OR attendance": {
+"id": "convencion-de-tatuajes-la-plata",
+"kind": "attendance"
+},
+"\"Convención de Tatuajes La Plata\" patrocinadores OR patrocinio OR colaboradores OR sponsors": {
+"id": "convencion-de-tatuajes-la-plata",
+"kind": "sponsors"
+},
+"\"Convención de Tatuajes La Plata\" público OR perfil OR dossier OR patrocinio": {
+"id": "convencion-de-tatuajes-la-plata",
+"kind": "audience"
+},
+"\"ExpoYoga\" Santiago asistentes OR visitantes OR personas OR attendance": {
+"id": "expoyoga-santiago",
+"kind": "attendance"
+},
+"\"ExpoYoga\" Santiago patrocinadores OR patrocinio OR colaboradores OR sponsors": {
+"id": "expoyoga-santiago",
+"kind": "sponsors"
+},
+"\"ExpoYoga\" Santiago público OR perfil OR dossier OR patrocinio": {
+"id": "expoyoga-santiago",
+"kind": "audience"
+},
+"\"FED, Feria de Editores\" Buenos Aires asistentes OR visitantes OR personas OR attendance": {
+"id": "fed-feria-de-editores-buenos-aires",
+"kind": "attendance"
+},
+"\"FED, Feria de Editores\" Buenos Aires patrocinadores OR patrocinio OR colaboradores OR sponsors": {
+"id": "fed-feria-de-editores-buenos-aires",
+"kind": "sponsors"
+},
+"\"FED, Feria de Editores\" Buenos Aires público OR perfil OR dossier OR patrocinio": {
+"id": "fed-feria-de-editores-buenos-aires",
+"kind": "audience"
+},
+"\"Feira Miolo\" São Paulo público OR visitantes OR pessoas OR attendance": {
+"id": "feira-miolos-sao-paulo",
+"kind": "attendance"
+},
+"\"Feira Miolo\" São Paulo patrocinadores OR patrocínio OR parceiros OR sponsors": {
+"id": "feira-miolos-sao-paulo",
+"kind": "sponsors"
+},
+"\"Feira Miolo\" São Paulo público-alvo OR perfil OR \"media kit\" OR patrocínio": {
+"id": "feira-miolos-sao-paulo",
+"kind": "audience"
+},
+"\"Feria Aparte\" Santiago asistentes OR visitantes OR personas OR attendance": {
+"id": "feria-aparte-santiago",
+"kind": "attendance"
+},
+"\"Feria Aparte\" Santiago patrocinadores OR patrocinio OR colaboradores OR sponsors": {
+"id": "feria-aparte-santiago",
+"kind": "sponsors"
+},
+"\"Feria Aparte\" Santiago público OR perfil OR dossier OR patrocinio": {
+"id": "feria-aparte-santiago",
+"kind": "audience"
+},
+"\"Primer Festival de Fanzines de Banfield\" asistentes OR visitantes OR personas OR attendance": {
+"id": "festival-de-fanzines-banfield",
+"kind": "attendance"
+},
+"\"Primer Festival de Fanzines de Banfield\" patrocinadores OR patrocinio OR colaboradores OR sponsors": {
+"id": "festival-de-fanzines-banfield",
+"kind": "sponsors"
+},
+"\"Primer Festival de Fanzines de Banfield\" público OR perfil OR dossier OR patrocinio": {
+"id": "festival-de-fanzines-banfield",
+"kind": "audience"
+},
+"\"Go Skateboarding Day Perú\" Lima asistentes OR visitantes OR personas OR attendance": {
+"id": "go-skateboarding-day-peru-lima",
+"kind": "attendance"
+},
+"\"Go Skateboarding Day Perú\" Lima patrocinadores OR patrocinio OR colaboradores OR sponsors": {
+"id": "go-skateboarding-day-peru-lima",
+"kind": "sponsors"
+},
+"\"Go Skateboarding Day Perú\" Lima público OR perfil OR dossier OR patrocinio": {
+"id": "go-skateboarding-day-peru-lima",
+"kind": "audience"
+},
+"\"Goiânia Crew Attack\" público OR visitantes OR pessoas OR attendance": {
+"id": "goiania-crew-attack",
+"kind": "attendance"
+},
+"\"Goiânia Crew Attack\" patrocinadores OR patrocínio OR parceiros OR sponsors": {
+"id": "goiania-crew-attack",
+"kind": "sponsors"
+},
+"\"Goiânia Crew Attack\" público-alvo OR perfil OR \"media kit\" OR patrocínio": {
+"id": "goiania-crew-attack",
+"kind": "audience"
+},
+"\"GREENGRAFF\" Lima asistentes OR visitantes OR personas OR attendance": {
+"id": "greengraff-lima",
+"kind": "attendance"
+},
+"\"GREENGRAFF\" Lima patrocinadores OR patrocinio OR colaboradores OR sponsors": {
+"id": "greengraff-lima",
+"kind": "sponsors"
+},
+"\"GREENGRAFF\" Lima público OR perfil OR dossier OR patrocinio": {
+"id": "greengraff-lima",
+"kind": "audience"
+},
+"\"ISA World Surfing Games 2026\" asistentes OR visitantes OR personas OR attendance": {
+"id": "isa-world-surfing-games-punta-rocas-2026",
+"kind": "attendance"
+},
+"\"ISA World Surfing Games 2026\" patrocinadores OR patrocinio OR colaboradores OR sponsors": {
+"id": "isa-world-surfing-games-punta-rocas-2026",
+"kind": "sponsors"
+},
+"\"ISA World Surfing Games 2026\" público OR perfil OR dossier OR patrocinio": {
+"id": "isa-world-surfing-games-punta-rocas-2026",
+"kind": "audience"
+},
+"\"Mandinga Tattoo Expo\" Buenos Aires asistentes OR visitantes OR personas OR attendance": {
+"id": "mandinga-tattoo-expo-buenos-aires",
+"kind": "attendance"
+},
+"\"Mandinga Tattoo Expo\" Buenos Aires patrocinadores OR patrocinio OR colaboradores OR sponsors": {
+"id": "mandinga-tattoo-expo-buenos-aires",
+"kind": "sponsors"
+},
+"\"Mandinga Tattoo Expo\" Buenos Aires público OR perfil OR dossier OR patrocinio": {
+"id": "mandinga-tattoo-expo-buenos-aires",
+"kind": "audience"
+},
+"\"Meeting of Styles Peru\" Lima asistentes OR visitantes OR personas OR attendance": {
+"id": "meeting-of-styles-peru-lima",
+"kind": "attendance"
+},
+"\"Meeting of Styles Peru\" Lima patrocinadores OR patrocinio OR colaboradores OR sponsors": {
+"id": "meeting-of-styles-peru-lima",
+"kind": "sponsors"
+},
+"\"Meeting of Styles Peru\" Lima público OR perfil OR dossier OR patrocinio": {
+"id": "meeting-of-styles-peru-lima",
+"kind": "audience"
+},
+"\"Mes del Diseño\" Santiago asistentes OR visitantes OR personas OR attendance": {
+"id": "mes-del-diseno-chile",
+"kind": "attendance"
+},
+"\"Mes del Diseño\" Santiago patrocinadores OR patrocinio OR colaboradores OR sponsors": {
+"id": "mes-del-diseno-chile",
+"kind": "sponsors"
+},
+"\"Mes del Diseño\" Santiago público OR perfil OR dossier OR patrocinio": {
+"id": "mes-del-diseno-chile",
+"kind": "audience"
+},
+"\"No Ar Coquetel Molotov\" Recife público OR visitantes OR pessoas OR attendance": {
+"id": "no-ar-coquetel-molotov-recife",
+"kind": "attendance"
+},
+"\"No Ar Coquetel Molotov\" Recife patrocinadores OR patrocínio OR parceiros OR sponsors": {
+"id": "no-ar-coquetel-molotov-recife",
+"kind": "sponsors"
+},
+"\"No Ar Coquetel Molotov\" Recife público-alvo OR perfil OR \"media kit\" OR patrocínio": {
+"id": "no-ar-coquetel-molotov-recife",
+"kind": "audience"
+},
+"\"Primavera Sound Buenos Aires\" asistentes OR visitantes OR personas OR attendance": {
+"id": "primavera-sound-buenos-aires",
+"kind": "attendance"
+},
+"\"Primavera Sound Buenos Aires\" patrocinadores OR patrocinio OR colaboradores OR sponsors": {
+"id": "primavera-sound-buenos-aires",
+"kind": "sponsors"
+},
+"\"Primavera Sound Buenos Aires\" público OR perfil OR dossier OR patrocinio": {
+"id": "primavera-sound-buenos-aires",
+"kind": "audience"
+},
+"\"Primavera Sound São Paulo\" público OR visitantes OR pessoas OR attendance": {
+"id": "primavera-sound-sao-paulo",
+"kind": "attendance"
+},
+"\"Primavera Sound São Paulo\" patrocinadores OR patrocínio OR parceiros OR sponsors": {
+"id": "primavera-sound-sao-paulo",
+"kind": "sponsors"
+},
+"\"Primavera Sound São Paulo\" público-alvo OR perfil OR \"media kit\" OR patrocínio": {
+"id": "primavera-sound-sao-paulo",
+"kind": "audience"
+},
+"\"Punta de Lobos Pro\" Pichilemu asistentes OR visitantes OR personas OR attendance": {
+"id": "punta-de-lobos-pro-pichilemu",
+"kind": "attendance"
+},
+"\"Punta de Lobos Pro\" Pichilemu patrocinadores OR patrocinio OR colaboradores OR sponsors": {
+"id": "punta-de-lobos-pro-pichilemu",
+"kind": "sponsors"
+},
+"\"Punta de Lobos Pro\" Pichilemu público OR perfil OR dossier OR patrocinio": {
+"id": "punta-de-lobos-pro-pichilemu",
+"kind": "audience"
+},
+"\"Sneakerness Santiago\" asistentes OR visitantes OR personas OR attendance": {
+"id": "sneakerness-santiago",
+"kind": "attendance"
+},
+"\"Sneakerness Santiago\" patrocinadores OR patrocinio OR colaboradores OR sponsors": {
+"id": "sneakerness-santiago",
+"kind": "sponsors"
+},
+"\"Sneakerness Santiago\" público OR perfil OR dossier OR patrocinio": {
+"id": "sneakerness-santiago",
+"kind": "audience"
+},
+"\"Surfestival\" Pichilemu asistentes OR visitantes OR personas OR attendance": {
+"id": "surfestival-pichilemu",
+"kind": "attendance"
+},
+"\"Surfestival\" Pichilemu patrocinadores OR patrocinio OR colaboradores OR sponsors": {
+"id": "surfestival-pichilemu",
+"kind": "sponsors"
+},
+"\"Surfestival\" Pichilemu público OR perfil OR dossier OR patrocinio": {
+"id": "surfestival-pichilemu",
+"kind": "audience"
+},
+"\"Tattoo Week São Paulo\" público OR visitantes OR pessoas OR attendance": {
+"id": "tattoo-week-sao-paulo",
+"kind": "attendance"
+},
+"\"Tattoo Week São Paulo\" patrocinadores OR patrocínio OR parceiros OR sponsors": {
+"id": "tattoo-week-sao-paulo",
+"kind": "sponsors"
+},
+"\"Tattoo Week São Paulo\" público-alvo OR perfil OR \"media kit\" OR patrocínio": {
+"id": "tattoo-week-sao-paulo",
+"kind": "audience"
+},
+"\"Tinta Arte Impreso\" Santiago asistentes OR visitantes OR personas OR attendance": {
+"id": "tinta-arte-impreso-santiago",
+"kind": "attendance"
+},
+"\"Tinta Arte Impreso\" Santiago patrocinadores OR patrocinio OR colaboradores OR sponsors": {
+"id": "tinta-arte-impreso-santiago",
+"kind": "sponsors"
+},
+"\"Tinta Arte Impreso\" Santiago público OR perfil OR dossier OR patrocinio": {
+"id": "tinta-arte-impreso-santiago",
+"kind": "audience"
+},
+"\"Barcelona Tattoo Expo\" asistentes OR visitantes OR personas OR attendance": {
+"id": "barcelona-tattoo-expo",
+"kind": "attendance"
+},
+"\"Barcelona Tattoo Expo\" patrocinadores OR patrocinio OR colaboradores OR sponsors": {
+"id": "barcelona-tattoo-expo",
+"kind": "sponsors"
+},
+"\"Barcelona Tattoo Expo\" público OR perfil OR dossier OR patrocinio": {
+"id": "barcelona-tattoo-expo",
+"kind": "audience"
+},
+"\"BBK Mendi Film Bilbao Bizkaia\" asistentes OR visitantes OR personas OR attendance": {
+"id": "bbk-mendi-film-bilbao",
+"kind": "attendance"
+},
+"\"BBK Mendi Film Bilbao Bizkaia\" patrocinadores OR patrocinio OR colaboradores OR sponsors": {
+"id": "bbk-mendi-film-bilbao",
+"kind": "sponsors"
+},
+"\"BBK Mendi Film Bilbao Bizkaia\" público OR perfil OR dossier OR patrocinio": {
+"id": "bbk-mendi-film-bilbao",
+"kind": "audience"
+},
+"\"Bilbao BBK Live\" asistentes OR visitantes OR personas OR attendance": {
+"id": "bilbao-bbk-live",
+"kind": "attendance"
+},
+"\"Bilbao BBK Live\" patrocinadores OR patrocinio OR colaboradores OR sponsors": {
+"id": "bilbao-bbk-live",
+"kind": "sponsors"
+},
+"\"Bilbao BBK Live\" público OR perfil OR dossier OR patrocinio": {
+"id": "bilbao-bbk-live",
+"kind": "audience"
+},
+"\"Campeonato Nacional de Descenso\" asistentes OR visitantes OR personas OR attendance": {
+"id": "cnd-campeonato-nacional-descenso",
+"kind": "attendance"
+},
+"\"Campeonato Nacional de Descenso\" patrocinadores OR patrocinio OR colaboradores OR sponsors": {
+"id": "cnd-campeonato-nacional-descenso",
+"kind": "sponsors"
+},
+"\"Campeonato Nacional de Descenso\" público OR perfil OR dossier OR patrocinio": {
+"id": "cnd-campeonato-nacional-descenso",
+"kind": "audience"
+},
+"\"Cullera Downhill Race\" asistentes OR visitantes OR personas OR attendance": {
+"id": "cullera-downhill-race",
+"kind": "attendance"
+},
+"\"Cullera Downhill Race\" patrocinadores OR patrocinio OR colaboradores OR sponsors": {
+"id": "cullera-downhill-race",
+"kind": "sponsors"
+},
+"\"Cullera Downhill Race\" público OR perfil OR dossier OR patrocinio": {
+"id": "cullera-downhill-race",
+"kind": "audience"
+},
+"\"Festival Asalto\" Zaragoza asistentes OR visitantes OR personas OR attendance": {
+"id": "festival-asalto-zaragoza",
+"kind": "attendance"
+},
+"\"Festival Asalto\" Zaragoza patrocinadores OR patrocinio OR colaboradores OR sponsors": {
+"id": "festival-asalto-zaragoza",
+"kind": "sponsors"
+},
+"\"Festival Asalto\" Zaragoza público OR perfil OR dossier OR patrocinio": {
+"id": "festival-asalto-zaragoza",
+"kind": "audience"
+},
+"\"Fuerteventura en Música\" El Cotillo asistentes OR visitantes OR personas OR attendance": {
+"id": "fuerteventura-en-musica",
+"kind": "attendance"
+},
+"\"Fuerteventura en Música\" El Cotillo patrocinadores OR patrocinio OR colaboradores OR sponsors": {
+"id": "fuerteventura-en-musica",
+"kind": "sponsors"
+},
+"\"Fuerteventura en Música\" El Cotillo público OR perfil OR dossier OR patrocinio": {
+"id": "fuerteventura-en-musica",
+"kind": "audience"
+},
+"\"FurgoFesta\" Les Planes d'Hostoles asistentes OR visitantes OR personas OR attendance": {
+"id": "furgofesta-les-planes-dhostoles",
+"kind": "attendance"
+},
+"\"FurgoFesta\" Les Planes d'Hostoles patrocinadores OR patrocinio OR colaboradores OR sponsors": {
+"id": "furgofesta-les-planes-dhostoles",
+"kind": "sponsors"
+},
+"\"FurgoFesta\" Les Planes d'Hostoles público OR perfil OR dossier OR patrocinio": {
+"id": "furgofesta-les-planes-dhostoles",
+"kind": "audience"
+},
+"\"FurgoVolkswagen\" Sant Pere Pescador asistentes OR visitantes OR personas OR attendance": {
+"id": "furgovolkswagen-sant-pere-pescador",
+"kind": "attendance"
+},
+"\"FurgoVolkswagen\" Sant Pere Pescador patrocinadores OR patrocinio OR colaboradores OR sponsors": {
+"id": "furgovolkswagen-sant-pere-pescador",
+"kind": "sponsors"
+},
+"\"FurgoVolkswagen\" Sant Pere Pescador público OR perfil OR dossier OR patrocinio": {
+"id": "furgovolkswagen-sant-pere-pescador",
+"kind": "audience"
+},
+"\"La Bodega Skate & Music Fest\" Jerez de la Frontera asistentes OR visitantes OR personas OR attendance": {
+"id": "la-bodega-skate-music-fest-jerez",
+"kind": "attendance"
+},
+"\"La Bodega Skate & Music Fest\" Jerez de la Frontera patrocinadores OR patrocinio OR colaboradores OR sponsors": {
+"id": "la-bodega-skate-music-fest-jerez",
+"kind": "sponsors"
+},
+"\"La Bodega Skate & Music Fest\" Jerez de la Frontera público OR perfil OR dossier OR patrocinio": {
+"id": "la-bodega-skate-music-fest-jerez",
+"kind": "audience"
+},
+"\"Madrid Urban Fest\" asistentes OR visitantes OR personas OR attendance": {
+"id": "madrid-urban-fest",
+"kind": "attendance"
+},
+"\"Madrid Urban Fest\" patrocinadores OR patrocinio OR colaboradores OR sponsors": {
+"id": "madrid-urban-fest",
+"kind": "sponsors"
+},
+"\"Madrid Urban Fest\" público OR perfil OR dossier OR patrocinio": {
+"id": "madrid-urban-fest",
+"kind": "audience"
+},
+"\"Mercado de Motores\" Madrid asistentes OR visitantes OR personas OR attendance": {
+"id": "mercado-de-motores-madrid",
+"kind": "attendance"
+},
+"\"Mercado de Motores\" Madrid patrocinadores OR patrocinio OR colaboradores OR sponsors": {
+"id": "mercado-de-motores-madrid",
+"kind": "sponsors"
+},
+"\"Mercado de Motores\" Madrid público OR perfil OR dossier OR patrocinio": {
+"id": "mercado-de-motores-madrid",
+"kind": "audience"
+},
+"\"MIAU Fanzara\" asistentes OR visitantes OR personas OR attendance": {
+"id": "miau-fanzara",
+"kind": "attendance"
+},
+"\"MIAU Fanzara\" patrocinadores OR patrocinio OR colaboradores OR sponsors": {
+"id": "miau-fanzara",
+"kind": "sponsors"
+},
+"\"MIAU Fanzara\" público OR perfil OR dossier OR patrocinio": {
+"id": "miau-fanzara",
+"kind": "audience"
+},
+"\"Motorbeach Festival\" Vinuesa asistentes OR visitantes OR personas OR attendance": {
+"id": "motorbeach-festival-vinuesa",
+"kind": "attendance"
+},
+"\"Motorbeach Festival\" Vinuesa patrocinadores OR patrocinio OR colaboradores OR sponsors": {
+"id": "motorbeach-festival-vinuesa",
+"kind": "sponsors"
+},
+"\"Motorbeach Festival\" Vinuesa público OR perfil OR dossier OR patrocinio": {
+"id": "motorbeach-festival-vinuesa",
+"kind": "audience"
+},
+"\"MULAFEST\" Madrid asistentes OR visitantes OR personas OR attendance": {
+"id": "mulafest-madrid",
+"kind": "attendance"
+},
+"\"MULAFEST\" Madrid patrocinadores OR patrocinio OR colaboradores OR sponsors": {
+"id": "mulafest-madrid",
+"kind": "sponsors"
+},
+"\"MULAFEST\" Madrid público OR perfil OR dossier OR patrocinio": {
+"id": "mulafest-madrid",
+"kind": "audience"
+},
+"\"OFFF Barcelona\" asistentes OR visitantes OR personas OR attendance": {
+"id": "offf-barcelona",
+"kind": "attendance"
+},
+"\"OFFF Barcelona\" patrocinadores OR patrocinio OR colaboradores OR sponsors": {
+"id": "offf-barcelona",
+"kind": "sponsors"
+},
+"\"OFFF Barcelona\" público OR perfil OR dossier OR patrocinio": {
+"id": "offf-barcelona",
+"kind": "audience"
+},
+"\"Palo Market Fest\" Barcelona asistentes OR visitantes OR personas OR attendance": {
+"id": "palo-market-fest-barcelona",
+"kind": "attendance"
+},
+"\"Palo Market Fest\" Barcelona patrocinadores OR patrocinio OR colaboradores OR sponsors": {
+"id": "palo-market-fest-barcelona",
+"kind": "sponsors"
+},
+"\"Palo Market Fest\" Barcelona público OR perfil OR dossier OR patrocinio": {
+"id": "palo-market-fest-barcelona",
+"kind": "audience"
+},
+"\"PolinizaDOS\" Valencia asistentes OR visitantes OR personas OR attendance": {
+"id": "polinizados-valencia",
+"kind": "attendance"
+},
+"\"PolinizaDOS\" Valencia patrocinadores OR patrocinio OR colaboradores OR sponsors": {
+"id": "polinizados-valencia",
+"kind": "sponsors"
+},
+"\"PolinizaDOS\" Valencia público OR perfil OR dossier OR patrocinio": {
+"id": "polinizados-valencia",
+"kind": "audience"
+},
+"\"Primavera Sound Barcelona\" asistentes OR visitantes OR personas OR attendance": {
+"id": "primavera-sound-barcelona",
+"kind": "attendance"
+},
+"\"Primavera Sound Barcelona\" patrocinadores OR patrocinio OR colaboradores OR sponsors": {
+"id": "primavera-sound-barcelona",
+"kind": "sponsors"
+},
+"\"Primavera Sound Barcelona\" público OR perfil OR dossier OR patrocinio": {
+"id": "primavera-sound-barcelona",
+"kind": "audience"
+},
+"\"Pro Zarautz Surf Festival\" asistentes OR visitantes OR personas OR attendance": {
+"id": "pro-zarautz-surf-festival",
+"kind": "attendance"
+},
+"\"Pro Zarautz Surf Festival\" patrocinadores OR patrocinio OR colaboradores OR sponsors": {
+"id": "pro-zarautz-surf-festival",
+"kind": "sponsors"
+},
+"\"Pro Zarautz Surf Festival\" público OR perfil OR dossier OR patrocinio": {
+"id": "pro-zarautz-surf-festival",
+"kind": "audience"
+},
+"\"Rodellar Climbing Festival\" Bierge asistentes OR visitantes OR personas OR attendance": {
+"id": "rodellar-climbing-festival",
+"kind": "attendance"
+},
+"\"Rodellar Climbing Festival\" Bierge patrocinadores OR patrocinio OR colaboradores OR sponsors": {
+"id": "rodellar-climbing-festival",
+"kind": "sponsors"
+},
+"\"Rodellar Climbing Festival\" Bierge público OR perfil OR dossier OR patrocinio": {
+"id": "rodellar-climbing-festival",
+"kind": "audience"
+},
+"\"Salinas International Longboard Festival\" asistentes OR visitantes OR personas OR attendance": {
+"id": "salinas-international-longboard-festival",
+"kind": "attendance"
+},
+"\"Salinas International Longboard Festival\" patrocinadores OR patrocinio OR colaboradores OR sponsors": {
+"id": "salinas-international-longboard-festival",
+"kind": "sponsors"
+},
+"\"Salinas International Longboard Festival\" público OR perfil OR dossier OR patrocinio": {
+"id": "salinas-international-longboard-festival",
+"kind": "audience"
+},
+"\"ScrapWorld\" Madrid asistentes OR visitantes OR personas OR attendance": {
+"id": "scrapworld-madrid",
+"kind": "attendance"
+},
+"\"ScrapWorld\" Madrid patrocinadores OR patrocinio OR colaboradores OR sponsors": {
+"id": "scrapworld-madrid",
+"kind": "sponsors"
+},
+"\"ScrapWorld\" Madrid público OR perfil OR dossier OR patrocinio": {
+"id": "scrapworld-madrid",
+"kind": "audience"
+},
+"\"Single Fin Classic\" Donostia San Sebastián asistentes OR visitantes OR personas OR attendance": {
+"id": "single-fin-classic-donostia",
+"kind": "attendance"
+},
+"\"Single Fin Classic\" Donostia San Sebastián patrocinadores OR patrocinio OR colaboradores OR sponsors": {
+"id": "single-fin-classic-donostia",
+"kind": "sponsors"
+},
+"\"Single Fin Classic\" Donostia San Sebastián público OR perfil OR dossier OR patrocinio": {
+"id": "single-fin-classic-donostia",
+"kind": "audience"
+},
+"\"Siurana Climbing Festival\" Cornudella de Montsant asistentes OR visitantes OR personas OR attendance": {
+"id": "siurana-climbing-festival",
+"kind": "attendance"
+},
+"\"Siurana Climbing Festival\" Cornudella de Montsant patrocinadores OR patrocinio OR colaboradores OR sponsors": {
+"id": "siurana-climbing-festival",
+"kind": "sponsors"
+},
+"\"Siurana Climbing Festival\" Cornudella de Montsant público OR perfil OR dossier OR patrocinio": {
+"id": "siurana-climbing-festival",
+"kind": "audience"
+},
+"\"Sónar\" Barcelona asistentes OR visitantes OR personas OR attendance": {
+"id": "sonar-barcelona",
+"kind": "attendance"
+},
+"\"Sónar\" Barcelona patrocinadores OR patrocinio OR colaboradores OR sponsors": {
+"id": "sonar-barcelona",
+"kind": "sponsors"
+},
+"\"Sónar\" Barcelona público OR perfil OR dossier OR patrocinio": {
+"id": "sonar-barcelona",
+"kind": "audience"
+},
+"\"Sonidos Líquidos\" La Geria asistentes OR visitantes OR personas OR attendance": {
+"id": "sonidos-liquidos-lanzarote",
+"kind": "attendance"
+},
+"\"Sonidos Líquidos\" La Geria patrocinadores OR patrocinio OR colaboradores OR sponsors": {
+"id": "sonidos-liquidos-lanzarote",
+"kind": "sponsors"
+},
+"\"Sonidos Líquidos\" La Geria público OR perfil OR dossier OR patrocinio": {
+"id": "sonidos-liquidos-lanzarote",
+"kind": "audience"
+},
+"\"The Traka\" Girona asistentes OR visitantes OR personas OR attendance": {
+"id": "the-traka-girona",
+"kind": "attendance"
+},
+"\"The Traka\" Girona patrocinadores OR patrocinio OR colaboradores OR sponsors": {
+"id": "the-traka-girona",
+"kind": "sponsors"
+},
+"\"The Traka\" Girona público OR perfil OR dossier OR patrocinio": {
+"id": "the-traka-girona",
+"kind": "audience"
+},
+"\"UVNT Art Fair\" Madrid asistentes OR visitantes OR personas OR attendance": {
+"id": "uvnt-art-fair-madrid",
+"kind": "attendance"
+},
+"\"UVNT Art Fair\" Madrid patrocinadores OR patrocinio OR colaboradores OR sponsors": {
+"id": "uvnt-art-fair-madrid",
+"kind": "sponsors"
+},
+"\"UVNT Art Fair\" Madrid público OR perfil OR dossier OR patrocinio": {
+"id": "uvnt-art-fair-madrid",
+"kind": "audience"
+},
+"\"WIPEOUT Mallorca Surf Film Fest\" Peguera asistentes OR visitantes OR personas OR attendance": {
+"id": "wipeout-mallorca-surf-film-fest",
+"kind": "attendance"
+},
+"\"WIPEOUT Mallorca Surf Film Fest\" Peguera patrocinadores OR patrocinio OR colaboradores OR sponsors": {
+"id": "wipeout-mallorca-surf-film-fest",
+"kind": "sponsors"
+},
+"\"WIPEOUT Mallorca Surf Film Fest\" Peguera público OR perfil OR dossier OR patrocinio": {
+"id": "wipeout-mallorca-surf-film-fest",
+"kind": "audience"
+},
+"\"Yoga del Mar Spirit Festival\" Llubí asistentes OR visitantes OR personas OR attendance": {
+"id": "yoga-del-mar-spirit-festival-mallorca",
+"kind": "attendance"
+},
+"\"Yoga del Mar Spirit Festival\" Llubí patrocinadores OR patrocinio OR colaboradores OR sponsors": {
+"id": "yoga-del-mar-spirit-festival-mallorca",
+"kind": "sponsors"
+},
+"\"Yoga del Mar Spirit Festival\" Llubí público OR perfil OR dossier OR patrocinio": {
+"id": "yoga-del-mar-spirit-festival-mallorca",
+"kind": "audience"
+},
+"\"Adventure Van Expo\" San Juan Capistrano attendance OR attendees OR visitors OR crowd": {
+"id": "adventure-van-expo-west-coast",
+"kind": "attendance"
+},
+"\"Adventure Van Expo\" San Juan Capistrano sponsors OR partners OR \"presented by\"": {
+"id": "adventure-van-expo-west-coast",
+"kind": "sponsors"
+},
+"\"Adventure Van Expo\" San Juan Capistrano audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "adventure-van-expo-west-coast",
+"kind": "audience"
+},
+"\"Belgian Waffle Ride California\" Del Mar attendance OR attendees OR visitors OR crowd": {
+"id": "belgian-waffle-ride-california",
+"kind": "attendance"
+},
+"\"Belgian Waffle Ride California\" Del Mar sponsors OR partners OR \"presented by\"": {
+"id": "belgian-waffle-ride-california",
+"kind": "sponsors"
+},
+"\"Belgian Waffle Ride California\" Del Mar audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "belgian-waffle-ride-california",
+"kind": "audience"
+},
+"\"Bike Summer\" Portland attendance OR attendees OR visitors OR crowd": {
+"id": "bike-summer-pedalpalooza-portland",
+"kind": "attendance"
+},
+"\"Bike Summer\" Portland sponsors OR partners OR \"presented by\"": {
+"id": "bike-summer-pedalpalooza-portland",
+"kind": "sponsors"
+},
+"\"Bike Summer\" Portland audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "bike-summer-pedalpalooza-portland",
+"kind": "audience"
+},
+"\"The Boardroom International Surfboard Show\" Del Mar attendance OR attendees OR visitors OR crowd": {
+"id": "boardroom-show-del-mar",
+"kind": "attendance"
+},
+"\"The Boardroom International Surfboard Show\" Del Mar sponsors OR partners OR \"presented by\"": {
+"id": "boardroom-show-del-mar",
+"kind": "sponsors"
+},
+"\"The Boardroom International Surfboard Show\" Del Mar audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "boardroom-show-del-mar",
+"kind": "audience"
+},
+"\"Born Free Motorcycle Show\" Silverado attendance OR attendees OR visitors OR crowd": {
+"id": "born-free-motorcycle-show",
+"kind": "attendance"
+},
+"\"Born Free Motorcycle Show\" Silverado sponsors OR partners OR \"presented by\"": {
+"id": "born-free-motorcycle-show",
+"kind": "sponsors"
+},
+"\"Born Free Motorcycle Show\" Silverado audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "born-free-motorcycle-show",
+"kind": "audience"
+},
+"\"Burning Man\" Black Rock City attendance OR attendees OR visitors OR crowd": {
+"id": "burning-man-black-rock-city",
+"kind": "attendance"
+},
+"\"Burning Man\" Black Rock City sponsors OR partners OR \"presented by\"": {
+"id": "burning-man-black-rock-city",
+"kind": "sponsors"
+},
+"\"Burning Man\" Black Rock City audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "burning-man-black-rock-city",
+"kind": "audience"
+},
+"\"Climb Smart\" Twentynine Palms attendance OR attendees OR visitors OR crowd": {
+"id": "climb-smart-joshua-tree",
+"kind": "attendance"
+},
+"\"Climb Smart\" Twentynine Palms sponsors OR partners OR \"presented by\"": {
+"id": "climb-smart-joshua-tree",
+"kind": "sponsors"
+},
+"\"Climb Smart\" Twentynine Palms audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "climb-smart-joshua-tree",
+"kind": "audience"
+},
+"\"Descend on Bend\" attendance OR attendees OR visitors OR crowd": {
+"id": "descend-on-bend",
+"kind": "attendance"
+},
+"\"Descend on Bend\" sponsors OR partners OR \"presented by\"": {
+"id": "descend-on-bend",
+"kind": "sponsors"
+},
+"\"Descend on Bend\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "descend-on-bend",
+"kind": "audience"
+},
+"\"Dirtybird Campout x Northern Nights\" Piercy attendance OR attendees OR visitors OR crowd": {
+"id": "dirtybird-campout-northern-nights",
+"kind": "attendance"
+},
+"\"Dirtybird Campout x Northern Nights\" Piercy sponsors OR partners OR \"presented by\"": {
+"id": "dirtybird-campout-northern-nights",
+"kind": "sponsors"
+},
+"\"Dirtybird Campout x Northern Nights\" Piercy audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "dirtybird-campout-northern-nights",
+"kind": "audience"
+},
+"\"Exposure Skate\" Encinitas attendance OR attendees OR visitors OR crowd": {
+"id": "exposure-skate-encinitas",
+"kind": "attendance"
+},
+"\"Exposure Skate\" Encinitas sponsors OR partners OR \"presented by\"": {
+"id": "exposure-skate-encinitas",
+"kind": "sponsors"
+},
+"\"Exposure Skate\" Encinitas audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "exposure-skate-encinitas",
+"kind": "audience"
+},
+"\"Flash Foxy Climbing Festival\" Bishop attendance OR attendees OR visitors OR crowd": {
+"id": "flash-foxy-climbing-festival-bishop",
+"kind": "attendance"
+},
+"\"Flash Foxy Climbing Festival\" Bishop sponsors OR partners OR \"presented by\"": {
+"id": "flash-foxy-climbing-festival-bishop",
+"kind": "sponsors"
+},
+"\"Flash Foxy Climbing Festival\" Bishop audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "flash-foxy-climbing-festival-bishop",
+"kind": "audience"
+},
+"\"Grinduro California\" Quincy attendance OR attendees OR visitors OR crowd": {
+"id": "grinduro-california-quincy",
+"kind": "attendance"
+},
+"\"Grinduro California\" Quincy sponsors OR partners OR \"presented by\"": {
+"id": "grinduro-california-quincy",
+"kind": "sponsors"
+},
+"\"Grinduro California\" Quincy audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "grinduro-california-quincy",
+"kind": "audience"
+},
+"\"Printed Matter's LA Art Book Fair\" Pasadena attendance OR attendees OR visitors OR crowd": {
+"id": "la-art-book-fair",
+"kind": "attendance"
+},
+"\"Printed Matter's LA Art Book Fair\" Pasadena sponsors OR partners OR \"presented by\"": {
+"id": "la-art-book-fair",
+"kind": "sponsors"
+},
+"\"Printed Matter's LA Art Book Fair\" Pasadena audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "la-art-book-fair",
+"kind": "audience"
+},
+"\"Lake Tahoe Wellness Festival\" Meeks Bay attendance OR attendees OR visitors OR crowd": {
+"id": "lake-tahoe-wellness-festival",
+"kind": "attendance"
+},
+"\"Lake Tahoe Wellness Festival\" Meeks Bay sponsors OR partners OR \"presented by\"": {
+"id": "lake-tahoe-wellness-festival",
+"kind": "sponsors"
+},
+"\"Lake Tahoe Wellness Festival\" Meeks Bay audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "lake-tahoe-wellness-festival",
+"kind": "audience"
+},
+"\"Lightning in a Bottle\" Bakersfield attendance OR attendees OR visitors OR crowd": {
+"id": "lightning-in-a-bottle",
+"kind": "attendance"
+},
+"\"Lightning in a Bottle\" Bakersfield sponsors OR partners OR \"presented by\"": {
+"id": "lightning-in-a-bottle",
+"kind": "sponsors"
+},
+"\"Lightning in a Bottle\" Bakersfield audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "lightning-in-a-bottle",
+"kind": "audience"
+},
+"\"LOGJAM! Vintage Longboard Contest\" Santa Cruz attendance OR attendees OR visitors OR crowd": {
+"id": "logjam-santa-cruz",
+"kind": "attendance"
+},
+"\"LOGJAM! Vintage Longboard Contest\" Santa Cruz sponsors OR partners OR \"presented by\"": {
+"id": "logjam-santa-cruz",
+"kind": "sponsors"
+},
+"\"LOGJAM! Vintage Longboard Contest\" Santa Cruz audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "logjam-santa-cruz",
+"kind": "audience"
+},
+"\"Long Beach Walls & Art Renzei\" attendance OR attendees OR visitors OR crowd": {
+"id": "long-beach-walls-art-renzei",
+"kind": "attendance"
+},
+"\"Long Beach Walls & Art Renzei\" sponsors OR partners OR \"presented by\"": {
+"id": "long-beach-walls-art-renzei",
+"kind": "sponsors"
+},
+"\"Long Beach Walls & Art Renzei\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "long-beach-walls-art-renzei",
+"kind": "audience"
+},
+"\"Lost and Found Gravel Grinder\" Portola attendance OR attendees OR visitors OR crowd": {
+"id": "lost-and-found-gravel-portola",
+"kind": "attendance"
+},
+"\"Lost and Found Gravel Grinder\" Portola sponsors OR partners OR \"presented by\"": {
+"id": "lost-and-found-gravel-portola",
+"kind": "sponsors"
+},
+"\"Lost and Found Gravel Grinder\" Portola audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "lost-and-found-gravel-portola",
+"kind": "audience"
+},
+"\"MADE Handmade Bike Show\" Portland attendance OR attendees OR visitors OR crowd": {
+"id": "made-handmade-bike-show-portland",
+"kind": "attendance"
+},
+"\"MADE Handmade Bike Show\" Portland sponsors OR partners OR \"presented by\"": {
+"id": "made-handmade-bike-show-portland",
+"kind": "sponsors"
+},
+"\"MADE Handmade Bike Show\" Portland audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "made-handmade-bike-show-portland",
+"kind": "audience"
+},
+"\"Maryhill Ratz Freerides\" attendance OR attendees OR visitors OR crowd": {
+"id": "maryhill-ratz-freerides",
+"kind": "attendance"
+},
+"\"Maryhill Ratz Freerides\" sponsors OR partners OR \"presented by\"": {
+"id": "maryhill-ratz-freerides",
+"kind": "sponsors"
+},
+"\"Maryhill Ratz Freerides\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "maryhill-ratz-freerides",
+"kind": "audience"
+},
+"\"Musink Tattoo Convention and Music Festival\" Costa Mesa attendance OR attendees OR visitors OR crowd": {
+"id": "musink-costa-mesa",
+"kind": "attendance"
+},
+"\"Musink Tattoo Convention and Music Festival\" Costa Mesa sponsors OR partners OR \"presented by\"": {
+"id": "musink-costa-mesa",
+"kind": "sponsors"
+},
+"\"Musink Tattoo Convention and Music Festival\" Costa Mesa audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "musink-costa-mesa",
+"kind": "audience"
+},
+"\"On This Rock Climbing Festival\" Bend attendance OR attendees OR visitors OR crowd": {
+"id": "on-this-rock-climbing-festival",
+"kind": "attendance"
+},
+"\"On This Rock Climbing Festival\" Bend sponsors OR partners OR \"presented by\"": {
+"id": "on-this-rock-climbing-festival",
+"kind": "sponsors"
+},
+"\"On This Rock Climbing Festival\" Bend audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "on-this-rock-climbing-festival",
+"kind": "audience"
+},
+"\"The One Moto Show\" Portland attendance OR attendees OR visitors OR crowd": {
+"id": "one-moto-show-portland",
+"kind": "attendance"
+},
+"\"The One Moto Show\" Portland sponsors OR partners OR \"presented by\"": {
+"id": "one-moto-show-portland",
+"kind": "sponsors"
+},
+"\"The One Moto Show\" Portland audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "one-moto-show-portland",
+"kind": "audience"
+},
+"\"Overland Expo West\" Flagstaff attendance OR attendees OR visitors OR crowd": {
+"id": "overland-expo-west-flagstaff",
+"kind": "attendance"
+},
+"\"Overland Expo West\" Flagstaff sponsors OR partners OR \"presented by\"": {
+"id": "overland-expo-west-flagstaff",
+"kind": "sponsors"
+},
+"\"Overland Expo West\" Flagstaff audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "overland-expo-west-flagstaff",
+"kind": "audience"
+},
+"\"Pickathon\" Happy Valley attendance OR attendees OR visitors OR crowd": {
+"id": "pickathon-happy-valley",
+"kind": "attendance"
+},
+"\"Pickathon\" Happy Valley sponsors OR partners OR \"presented by\"": {
+"id": "pickathon-happy-valley",
+"kind": "sponsors"
+},
+"\"Pickathon\" Happy Valley audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "pickathon-happy-valley",
+"kind": "audience"
+},
+"\"Portland Zine Symposium\" attendance OR attendees OR visitors OR crowd": {
+"id": "portland-zine-symposium",
+"kind": "attendance"
+},
+"\"Portland Zine Symposium\" sponsors OR partners OR \"presented by\"": {
+"id": "portland-zine-symposium",
+"kind": "sponsors"
+},
+"\"Portland Zine Symposium\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "portland-zine-symposium",
+"kind": "audience"
+},
+"\"Seattle Sauna Festival\" attendance OR attendees OR visitors OR crowd": {
+"id": "seattle-sauna-festival",
+"kind": "attendance"
+},
+"\"Seattle Sauna Festival\" sponsors OR partners OR \"presented by\"": {
+"id": "seattle-sauna-festival",
+"kind": "sponsors"
+},
+"\"Seattle Sauna Festival\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "seattle-sauna-festival",
+"kind": "audience"
+},
+"\"San Francisco Zine Fest\" attendance OR attendees OR visitors OR crowd": {
+"id": "sf-zine-fest",
+"kind": "attendance"
+},
+"\"San Francisco Zine Fest\" sponsors OR partners OR \"presented by\"": {
+"id": "sf-zine-fest",
+"kind": "sponsors"
+},
+"\"San Francisco Zine Fest\" audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "sf-zine-fest",
+"kind": "audience"
+},
+"\"SKATESIDE FEST\" Culver City attendance OR attendees OR visitors OR crowd": {
+"id": "skateside-fest-culver-city",
+"kind": "attendance"
+},
+"\"SKATESIDE FEST\" Culver City sponsors OR partners OR \"presented by\"": {
+"id": "skateside-fest-culver-city",
+"kind": "sponsors"
+},
+"\"SKATESIDE FEST\" Culver City audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "skateside-fest-culver-city",
+"kind": "audience"
+},
+"\"SURPLUS\" Sydney attendance OR attendees OR visitors OR crowd": {
+"id": "surplus-sydney",
+"kind": "attendance"
+},
+"\"SURPLUS\" Sydney sponsors OR partners OR \"presented by\"": {
+"id": "surplus-sydney",
+"kind": "sponsors"
+},
+"\"SURPLUS\" Sydney audience OR demographic OR \"media kit\" OR sponsorship": {
+"id": "surplus-sydney",
+"kind": "audience"
+}
+}
