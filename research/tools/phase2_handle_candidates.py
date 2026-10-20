@@ -12,42 +12,17 @@ Usage: python3 research/tools/phase2_handle_candidates.py
 import glob
 import json
 import re
-import unicodedata
-from difflib import SequenceMatcher
 from pathlib import Path
 from urllib.parse import urlparse
+
+from phase2_common import name_sim
 
 ROOT = Path(__file__).resolve().parents[2]
 A = ROOT / "research" / "apify"
 PROFILE_URL = re.compile(r"^https?://(?:www\.)?instagram\.com/([A-Za-z0-9._]{2,30})/?(?:reels/?|\?.*)?$", re.I)
 TITLE_HANDLE = re.compile(r"\(@([A-Za-z0-9._]{2,30})\)")
 RESERVED = {"p", "reel", "reels", "tv", "explore", "stories", "accounts", "about", "_t", "_u", "popular", "web"}
-STOP = {"the", "festival", "fest", "of", "and", "de", "del", "la", "el", "market", "markets", "in", "by", "x"}
-
-
-def norm(s):
-    s = unicodedata.normalize("NFKD", s or "").encode("ascii", "ignore").decode().lower()
-    return re.sub(r"[^a-z0-9]", "", s)
-
-
-def words(s):
-    s = unicodedata.normalize("NFKD", s or "").encode("ascii", "ignore").decode().lower()
-    return [w for w in re.findall(r"[a-z0-9]+", s) if w not in STOP]
-
-
-def name_sim(name, handle, label=""):
-    """0 to 1: how well a handle or profile label matches the event name."""
-    n, h = norm(re.sub(r"\([^)]*\)", "", name)), norm(handle)
-    core = "".join(words(re.sub(r"\([^)]*\)", "", name)))
-    scores = [SequenceMatcher(None, n, h).ratio(), SequenceMatcher(None, core, h).ratio()]
-    if core and (core in h or h in core) and len(h) >= 4:
-        scores.append(0.9)
-    if label:
-        scores.append(SequenceMatcher(None, n, norm(label)).ratio())
-    return round(max(scores), 3)
-
-
-targets = [json.loads(l) for l in (A / "targets.jsonl").read_text().splitlines()]
+targets = [json.loads(l) for l in (A / "targets.jsonl").read_text().split("\n") if l.strip()]
 by_id = {t["id"]: t for t in targets}
 cands = {t["id"]: {} for t in targets}
 
@@ -68,14 +43,17 @@ for t in targets:
 
 site = A / "derived" / "site_ig_links.jsonl"
 if site.exists():
-    for r in map(json.loads, site.read_text().splitlines()):
+    for r in (json.loads(l) for l in site.read_text().split("\n") if l.strip()):
         for rank, h in enumerate(r["handles"][:6]):
             add(r["id"], h, {"type": f"site-{r['kind']}", "url": r["final_url"] or r["url"], "rank": rank,
                              "n_links": len(r["handles"])})
 
-qmap = json.loads((A / "inputs" / "02-google-handles.map.json").read_text())
-for f in sorted(glob.glob(str(A / "raw" / "google" / "*handles*.jsonl"))):
-    for item in map(json.loads, Path(f).read_text().splitlines()):
+qmap = {}
+for m in ("02-google-handles.map.json", "07-google-ig-site.map.json"):
+    if (A / "inputs" / m).exists():
+        qmap.update(json.loads((A / "inputs" / m).read_text()))
+for f in sorted(glob.glob(str(A / "raw" / "google" / "*handles*.jsonl")) + glob.glob(str(A / "raw" / "google" / "*ig-site*.jsonl"))):
+    for item in (json.loads(l) for l in Path(f).read_text().split("\n") if l.strip()):
         tid = qmap.get(item["searchQuery"]["term"])
         if not tid:
             continue
@@ -98,7 +76,7 @@ term_map = {}
 for m in glob.glob(str(A / "inputs" / "*ig-search*.map.json")):
     term_map.update(json.loads(Path(m).read_text()))
 for f in sorted(glob.glob(str(A / "raw" / "ig-search" / "*.jsonl"))):
-    for item in map(json.loads, Path(f).read_text().splitlines()):
+    for item in (json.loads(l) for l in Path(f).read_text().split("\n") if l.strip()):
         tid = term_map.get((item.get("searchTerm") or "").strip())
         if tid in cands and item.get("username"):
             add(tid, item["username"], {"type": "ig-search", "url": item.get("url"), "file": Path(f).name},

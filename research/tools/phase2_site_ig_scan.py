@@ -46,7 +46,9 @@ def scan(job):
 
 
 jobs = []
-for line in TARGETS.read_text().splitlines():
+for line in TARGETS.read_text().split("\n"):
+    if not line.strip():
+        continue
     t = json.loads(line)
     if t["website"]:
         jobs.append((t["id"], "event", t["website"]))

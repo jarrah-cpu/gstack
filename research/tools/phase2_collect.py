@@ -14,7 +14,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[2]
 PENDING = ROOT / "research" / "apify" / "pending.tsv"
 keep, rc = [], 0
-for line in PENDING.read_text().splitlines():
+for line in PENDING.read_text().split("\n"):
     if not line.strip():
         continue
     run_id, step, label, inp = line.split("\t")

@@ -19,7 +19,7 @@ def in_window(rec):
     return bool(start) and nxt["status"] in ("confirmed", "expected") and TODAY[: len(start)] <= start <= HORIZON
 
 
-events = [json.loads(l) for l in (ROOT / "data" / "events.jsonl").read_text().splitlines() if l.strip()]
+events = [json.loads(l) for l in (ROOT / "data" / "events.jsonl").read_text().split("\n") if l.strip()]
 targets = [e for e in events if (e["vibe"]["score"] or 0) >= 3 and in_window(e)]
 out = ROOT / "research" / "apify" / "targets.jsonl"
 with out.open("w") as f:
