@@ -1,0 +1,40 @@
+{
+  "id": "pro-zarautz-surf-festival",
+  "set": {
+    "status": "unknown",
+    "sponsors": [
+      {
+        "brand": "Oakley",
+        "years": [
+          2018
+        ],
+        "role": "presenting",
+        "source": "https://origin.worldsurfleague.com/posts/318321/future-generations-of-surfing-talent-on-display-at-pro-zarautz"
+      }
+    ]
+  },
+  "add_sources": [
+    {
+      "field": "sponsors",
+      "url": "https://origin.worldsurfleague.com/posts/318321/future-generations-of-surfing-talent-on-display-at-pro-zarautz",
+      "note": "verified on page 21 Oct 2026: WSL article of 4 Apr 2018 calls the event 'Pro Zarautz pres. by Oakley' (2018 edition). No later source for Oakley found, so the aggregator's undated 'presented by Oakley' is pinned to 2018."
+    },
+    {
+      "field": "status",
+      "url": "https://www.instagram.com/prozarautz/",
+      "note": "Checked 21 Oct 2026: latest visible post is from 2 Jan 2023; prozarautz.com returned 403."
+    }
+  ],
+  "remove_gaps": [
+    "Oakley presenting role rests on an aggregator listing; year not pinned"
+  ],
+  "add_gaps": [
+    "No organiser, WSL or press confirmation of any edition after 2018 found; the 2025 edition (4 to 8 Apr, 137 competitors) rests on the festivalesdeespana listing only"
+  ],
+  "verifier_flags": [
+    "status: set unknown; @prozarautz silent since 2 Jan 2023, official site returns 403, and the only 2025 and 2026 evidence is an aggregator whose 2026 dates are a placeholder; archive candidate unless the organiser or WSL confirms a 2027 edition",
+    "dates: last_edition 2025 is single-source (festivalesdeespana), not confirmed by WSL or the organiser",
+    "sponsors: Oakley presenting confirmed for 2018 only (WSL); year corrected from 2025"
+  ],
+  "notes": "Special check. Three searches found WSL coverage up to 2018 only and nothing for 2023 to 2026."
+}

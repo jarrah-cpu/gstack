@@ -1,0 +1,38 @@
+{
+  "id": "flash-foxy-climbing-festival-bishop",
+  "set": {
+    "dates": {
+      "last_edition": {
+        "start": "2026-03-13",
+        "end": "2026-03-15",
+        "status": "held",
+        "label": "2026"
+      },
+      "next_edition": {
+        "start": "2027-03",
+        "end": null,
+        "status": "confirmed",
+        "label": "2027, March (organiser site menu: 'Flash Foxy Climbing Festival - Bishop, CA *March 2027'); exact dates not announced"
+      },
+      "frequency": "unknown",
+      "duration_days": 3
+    }
+  },
+  "add_sources": [
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.flashfoxy.com/climbing-fest/sponsors",
+      "note": "Site navigation lists a 'March 2027' climbing festival; the sponsors page shows Arc'teryx alone under GOLD SPONSORS for 13 to 15 Mar 2026. Verified on page 21 Oct 2026."
+    }
+  ],
+  "remove_gaps": [
+    "2027 dates not announced"
+  ],
+  "add_gaps": [
+    "Exact 2027 dates not announced (organiser gives March 2027 only)"
+  ],
+  "verifier_flags": [
+    "sponsors: Arc'teryx confirmed as the sole Gold sponsor (2026 sponsors page); 'presented by Arc'teryx' on the history page refers to the education programmes, so role major stands."
+  ],
+  "notes": "Next edition March 2027 per organiser site."
+}

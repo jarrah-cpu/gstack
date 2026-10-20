@@ -1,0 +1,14 @@
+{
+  "id": "king-of-tattoo-tokyo",
+  "add_sources": [
+    {
+      "field": "sponsors",
+      "url": "https://inkppl.com/zh/tattooevents/2026/may-2026/king-of-tattoo",
+      "note": "Search result summary (21 Oct 2026): inkppl listings name Wizard T.S. among contest prize contributors (a special tattoo machine trophy), alongside Kaeru Needles Tokyo and ZOCALO; no sponsor tier stated. Not page-verified."
+    }
+  ],
+  "verifier_flags": [
+    "sponsors: Wizard Tattoo Supply as 2026 MAIN SPONSOR rests on the organiser's own Instagram post only; aggregator listings show it as a prize contributor. Single-source. Kaeru Needles Tokyo was 2025 MAIN SPONSOR per a site snippet, so the main sponsor slot rotates among tattoo suppliers."
+  ],
+  "notes": "Main sponsor single-source (organiser IG)."
+}

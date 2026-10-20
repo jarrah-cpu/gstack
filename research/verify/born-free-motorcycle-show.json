@@ -1,0 +1,14 @@
+{
+  "id": "born-free-motorcycle-show",
+  "add_sources": [
+    {
+      "field": "sponsors (verified)",
+      "url": "https://2wheelmedia.substack.com/p/born-free-motorcycle-show-showcases",
+      "note": "Article of 14 Jun 2025: 'more than 200 sponsors and vendors ... with the largest being Harley-Davidson'; does not say 'presented by' or give years. Verified on page 21 Oct 2026."
+    }
+  ],
+  "verifier_flags": [
+    "sponsors: Harley-Davidson as presenting is confirmed for 2026 only (organiser Facebook). The cited 2025 article calls it the largest sponsor, not presenting, and H-D published its own 2024 recap. Presenting role for 2024 and 2025 not confirmed."
+  ],
+  "notes": "H-D presenting confirmed 2026 only."
+}

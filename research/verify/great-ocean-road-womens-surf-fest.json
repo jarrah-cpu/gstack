@@ -1,0 +1,14 @@
+{
+  "id": "great-ocean-road-womens-surf-fest",
+  "add_sources": [
+    {
+      "field": "attendance",
+      "url": "https://surfingvic.com/?p=237293",
+      "note": "verified on page 21 Oct 2026: Surfing Victoria's 2024 wrap (9 Dec 2024) on the 'Inaugural Great Ocean Road Womens Surf Fest presented by Ghanda', 7 and 8 Dec 2024, reports 'An incredible 217 women and girls' took part; no crowd figure."
+    }
+  ],
+  "verifier_flags": [
+    "attendance: 15,000 (2024) rests only on a Google snippet of a Surfing Victoria Facebook post; the organiser's own 2024 wrap gives 217 participants and no crowd figure; treat 15,000 as unverified.",
+    "sponsors: Ghanda presenting (2024) confirmed on the Surfing Victoria page but single source; not named in 2025 or 2026 supporter lists."
+  ]
+}

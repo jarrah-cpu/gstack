@@ -1,0 +1,13 @@
+{
+  "id": "melbourne-art-book-fair",
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://artbookfair.melbourne/",
+      "note": "verified on page 21 Oct 2026: official fair site (NGV header and footer, Creative Victoria logo); partner logos unnamed."
+    }
+  ],
+  "verifier_flags": [
+    "sponsors: Asahi Super Dry (Event Partner, recorded as major, 2026) rests on one Google snippet of an NGV Facebook post; not named on the NGV 2026 media release or artbookfair.melbourne (both read 21 Oct 2026). Single source."
+  ]
+}

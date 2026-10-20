@@ -1,0 +1,11 @@
+{
+  "id": "the-village-markets-burleigh",
+  "add_gaps": [
+    "Regular Burleigh Sunday markets reportedly stopped earlier (likely 2024; reasons given: economic downturn, light rail works, wet weather) per a Weekend Edition item seen only as a search summary; not confirmed on a page"
+  ],
+  "verifier_flags": [
+    "status: kept on-hiatus; no closure announcement found. IG bio (20 Oct 2026) says no future TVM events and points to @sunhousestudio__; the official site returns 403. Archive candidate if nothing is scheduled by mid 2027.",
+    "ticket_price: note describing 1st and 3rd Sunday trading at Burleigh Heads State School is out of date."
+  ],
+  "notes": "No source states a permanent end, so on-hiatus kept; weak case, likely dormant."
+}

@@ -1,0 +1,11 @@
+{
+  "id": "zushi-beach-film-festival",
+  "add_sources": [
+    {
+      "field": "attendance",
+      "url": "https://paddler-shonan.com/eye/eye-4203/",
+      "note": "PADDLER (10th edition, 26 Apr to 6 May 2019), verified on page 21 Oct 2026: '今や期間中の来場者が1万5千人を超える'; a 2019 figure, no later count."
+    }
+  ],
+  "notes": "15,000 (2019) confirmed on page; still the latest figure."
+}

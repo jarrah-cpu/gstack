@@ -1,0 +1,26 @@
+{
+  "id": "burning-man-black-rock-city",
+  "add_sources": [
+    {
+      "field": "attendance.note",
+      "url": "https://www.facebook.com/RGJmedia/posts/black-rock-city-drew-63400-people-in-2026-but-burning-man-leaders-say-the-larger/1489749246520687/",
+      "note": "Page opened 21 Oct 2026: only the Reno Gazette-Journal headline 'Black Rock City drew 63,400...' renders; the year comes from the post URL. Linked article text not reached."
+    },
+    {
+      "field": "attendance.note",
+      "url": "https://pulse.byoviral.com/trend/2026-09-01/the-climate-is-changing-and-so-is-burning-man",
+      "note": "Aggregator quoting an RGJ headline, checked on page 21 Oct 2026: 'Burning Man's city tops 43K Monday, with thousands more pouring in' (2026, mid-event count)."
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://burningman.org/",
+      "note": "Organiser homepage, checked 21 Oct 2026: 'Burning Man 2027: Spellbound'; 2027 Honoraria applications open; no 2027 event dates shown. 2026 census survey still open."
+    }
+  ],
+  "verifier_flags": [
+    "attendance: 63,400 (2026) rests on one press source (an RGJ headline on its Facebook page; article text not reached). RGJ also reported 43,000+ on the Monday. No organiser 2026 figure yet (census survey still open). Kept 63,400 as press-reported.",
+    "attendance: the radicalstorage table (95,000 in 2025, 90,000 in 2024) is far above other reports (about 72,000 for 2025 in a search result); do not use it.",
+    "dates.next_edition: organiser homepage confirms the 2027 theme 'Spellbound' but shows no dates; 29 Aug to 6 Sep 2027 comes from a planning site and fits the usual Sunday to Labor Day pattern."
+  ],
+  "notes": "63,400 single press source; 2027 dates not on organiser homepage."
+}

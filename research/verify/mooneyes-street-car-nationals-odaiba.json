@@ -1,0 +1,26 @@
+{
+  "id": "mooneyes-street-car-nationals-odaiba",
+  "set": {
+    "attendance": {
+      "figure": 12000,
+      "figure_high": null,
+      "year": 2026,
+      "is_estimate": false,
+      "source": "https://www.facebook.com/MooneyesJapan/posts/38th-mooneyesstreet-car-nationals-sunday-may-24-2026at-odaibatokyo-aomi-parking-/1423774003111573/",
+      "note": "Organiser-reported: MOON OF JAPAN's Facebook post of 29 May 2026 on the 38th SCN (24 May 2026) says '来場者数はなんと12,000人を記録', with 1,200 show car entries, 17 pinstripers and 140 swap meet booths. Verified on page 21 Oct 2026; the official web report on streetcarnationals.com gives no count. 2024 report: over 10,000."
+    }
+  },
+  "add_sources": [
+    {
+      "field": "attendance",
+      "url": "https://www.facebook.com/MooneyesJapan/posts/38th-mooneyesstreet-car-nationals-sunday-may-24-2026at-odaibatokyo-aomi-parking-/1423774003111573/",
+      "note": "MOONEYES Japan Facebook post (29 May), verified on page 21 Oct 2026: total of 12,000 visitors at SCN 2026; 1,200 car entries, 140 swap meet booths."
+    },
+    {
+      "field": "attendance.note",
+      "url": "https://www.streetcarnationals.com/2026/0529/scn2026-report/",
+      "note": "Official 2026 event report (29 May 2026), checked 21 Oct 2026: thanks visitors and entrants but states no visitor or car count."
+    }
+  ],
+  "notes": "12,000 (2026) confirmed on the organiser's own Facebook post; snippet replaced by page check."
+}

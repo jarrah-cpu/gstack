@@ -1,0 +1,15 @@
+{
+  "id": "convencion-de-tatuajes-la-plata",
+  "add_sources": [
+    {
+      "field": "status",
+      "url": "https://www.facebook.com/ConvencionTatuajesLaPlata/posts/comunicado-oficialcon-profundo-pesar-informamos-que-la-convenci%C3%B3n-de-tatuajes-la/1509716971192329/",
+      "note": "Organiser Facebook 'COMUNICADO OFICIAL' (search result text): 'la Convención de Tatuajes La Plata queda suspendida. Esta decisión responde a factores externos y ajenos'. Same statement as the organiser IG post. Page body did not load on 21 Oct 2026."
+    }
+  ],
+  "verifier_flags": [
+    "status: on-hiatus confirmed; the suspension notice appears on both organiser channels (IG and Facebook). Aggregator inkppl still lists 13 to 15 Nov 2026 and is stale.",
+    "attendance: 30,000 is the 2011 first edition (El Día snippet), not page-checked; treat as historical only."
+  ],
+  "notes": "On-hiatus confirmed."
+}

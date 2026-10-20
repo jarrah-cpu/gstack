@@ -1,0 +1,10 @@
+{
+  "id": "greazefest-brisbane",
+  "add_sources": [
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.greazefest.com/",
+      "note": "verified on page 21 Oct 2026: Fri 30 Jul to Sun 1 Aug 2027, all events at Redland Showgrounds, Cleveland; supported by Redland City Council and Tourism and Events Queensland; produced by Robot Productions."
+    }
+  ]
+}

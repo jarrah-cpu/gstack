@@ -1,0 +1,107 @@
+{
+  "id": "valley-fiesta-brisbane",
+  "set": {
+    "website": "https://myvalley.com.au/valley-fiesta"
+  },
+  "add_sponsors": [
+    {
+      "brand": "Aperol",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://myvalley.com.au/valley-fiesta"
+    },
+    {
+      "brand": "IJS",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://myvalley.com.au/valley-fiesta"
+    },
+    {
+      "brand": "Red Bull",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://myvalley.com.au/valley-fiesta"
+    },
+    {
+      "brand": "SAE University College",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://myvalley.com.au/valley-fiesta"
+    },
+    {
+      "brand": "Store DJ",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://myvalley.com.au/valley-fiesta"
+    },
+    {
+      "brand": "The Brightside",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://myvalley.com.au/valley-fiesta"
+    },
+    {
+      "brand": "QMF",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://myvalley.com.au/valley-fiesta"
+    },
+    {
+      "brand": "QUIVR",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://myvalley.com.au/valley-fiesta"
+    }
+  ],
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://myvalley.com.au/valley-fiesta",
+      "note": "Council event page on record returns HTTP 410 Gone (checked 21 Oct 2026); the Fortitude Valley precinct page carries the 2026 event."
+    },
+    {
+      "field": "organiser",
+      "url": "https://myvalley.com.au/valley-fiesta",
+      "note": "'Brought to you by Brisbane City Council and produced by Moondust Merchants'. Verified on page 21 Oct 2026."
+    },
+    {
+      "field": "dates",
+      "url": "https://myvalley.com.au/valley-fiesta",
+      "note": "Heading 'Event Ended Valley Fiesta, 3 October 2026'; Saturday 3 October, celebrating 30 years. Verified on page 21 Oct 2026."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://myvalley.com.au/valley-fiesta",
+      "note": "'Supported by The Brightside, QMF and QUIVR'; sponsors listed as Aperol, IJS, Red Bull, SAE University College and Store DJ (2026). Tiers not stated. Verified on page 21 Oct 2026."
+    }
+  ],
+  "remove_gaps": [
+    "Commercial sponsors not found",
+    "Council event page URL on record now returns an error page; myvalley.com.au/valley-fiesta carries 2026 details",
+    "Producer conflict: record says Moondust Merchants, but Double Agency lists Valley Fiesta 2025 as its project"
+  ],
+  "add_gaps": [
+    "Double Agency lists Valley Fiesta 2025 as its project; 2026 producer confirmed as Moondust Merchants, so 2025 producer unclear"
+  ],
+  "verifier_flags": [
+    "website: council event page returns 410 Gone; replaced with the Fortitude Valley precinct page.",
+    "sponsors: 2026 sponsors and supporters added from the precinct page; single source, tiers not stated."
+  ],
+  "notes": "Website fixed; producer and 2026 sponsors confirmed on page."
+}

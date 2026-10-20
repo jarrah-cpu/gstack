@@ -1,0 +1,7 @@
+{
+  "id": "sydney-fringe-festival",
+  "verifier_flags": [
+    "dates.last_edition: organiser wrap post (15 Oct 2026) says '47 days'; counted from Fringe Ignite on 29 Aug that ends on 14 Oct, not 11 Oct; end date left unchanged pending an organiser date"
+  ],
+  "notes": "Attendance 106,872 (2026) is organiser-reported in the wrap post; no change."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "winter-skate-fest-noble-park",
+  "set": {
+    "status": "unknown",
+    "dates": {
+      "last_edition": {
+        "start": "2026-06-06",
+        "end": "2026-07-05",
+        "status": "held",
+        "label": "Noble Park Winter & Street Fest 2026 (8 weekend days; skate activities cancelled)"
+      },
+      "next_edition": {
+        "start": null,
+        "end": null,
+        "status": "unknown",
+        "label": "No 2027 date or plan announced"
+      },
+      "frequency": "unknown",
+      "duration_days": 8
+    }
+  },
+  "add_sources": [
+    {
+      "field": "dates",
+      "url": "https://www.winterskatefest.com/",
+      "note": "verified on page 21 Oct 2026: 'the Noble Park Skateboard Competition and all skate-related activities will no longer proceed. The event will continue as the Noble Park Winter & Street Fest 2026' (6, 7, 13, 14, 27, 28 Jun and 4, 5 Jul 2026), signed Malaysian Victoria Community; no earlier edition and no 2027 plan mentioned."
+    }
+  ],
+  "remove_gaps": [
+    "2027 dates not announced"
+  ],
+  "add_gaps": [
+    "No earlier edition and no 2027 plan found; annual pattern unproven"
+  ],
+  "verifier_flags": [
+    "status: the only known edition (2026) ran without any skating, as a food and market fest; no prior edition, independent coverage or 2027 plan found. Set status unknown and next edition unknown; archive candidate (or recategorise as food-culture-night-market if kept).",
+    "attendance: 50,000 is a pre-event sponsor forecast for a skate festival that did not run as planned; treat as unreliable."
+  ]
+}

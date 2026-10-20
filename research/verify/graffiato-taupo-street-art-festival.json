@@ -1,0 +1,19 @@
+{
+  "id": "graffiato-taupo-street-art-festival",
+  "add_sources": [
+    {
+      "field": "dates",
+      "url": "https://taupostreetart.com/",
+      "note": "verified on page 21 Oct 2026: 'Next Event: 24 to 26 October 2026' (written with a hyphen on the page)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://taupostreetart.com/",
+      "note": "Homepage checked 21 Oct 2026: top tier 'Legends of the Streets' shows First Light, a 'Legend' logo, Town Centre Taupo and Taupo District Council; Urban Icons and Mural Masters tiers match the sponsors page."
+    }
+  ],
+  "verifier_flags": [
+    "sponsors: Legend Has It (web agency) in the top tier is confirmed by the organiser IG and a 'Legend' logo in the site's top tier; it also built the site, so likely in-kind"
+  ],
+  "notes": "Next edition 24 to 26 Oct 2026 confirmed on the official site."
+}

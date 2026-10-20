@@ -1,0 +1,39 @@
+{
+  "id": "water-women-campout-skennars-head",
+  "set": {
+    "attendance": {
+      "figure": 100,
+      "year": 2024,
+      "is_estimate": true,
+      "source": "https://childe.co/blogs/childe-culture/waterwomens-campout-with-surfers-for-climate",
+      "note": "Pre-event figure: Childe blog post of 23 May 2024, promoting the 14 to 16 June 2024 campout at Flat Rock Tent Park, Ballina, describes 'over 100 spirited Water Women'. Not a post-event count."
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Childe",
+      "years": [
+        2024
+      ],
+      "role": "collab",
+      "source": "https://childe.co/blogs/childe-culture/waterwomens-campout-with-surfers-for-climate"
+    }
+  ],
+  "add_sources": [
+    {
+      "field": "attendance.note",
+      "url": "https://childe.co/blogs/childe-culture/waterwomens-campout-with-surfers-for-climate",
+      "note": "verified on page 21 Oct 2026: post dated 23 May 2024, before the 14 to 16 June campout; 'over 100 spirited Water Women'; Childe promoted the event and offered a sunglasses prize, no sponsor role stated."
+    }
+  ],
+  "remove_gaps": [
+    "Childe's role and year are unclear from the blog title"
+  ],
+  "add_gaps": [
+    "Childe's 2024 role was a promotional blog post and prize giveaway; no formal sponsor role stated"
+  ],
+  "verifier_flags": [
+    "attendance: '100 women gathered' was a pre-event figure (Childe post 23 May 2024, before the June campout); set is_estimate true"
+  ],
+  "notes": "Attendance attribution was inferred; page now read. Childe year set to 2024."
+}

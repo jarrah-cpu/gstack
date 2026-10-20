@@ -1,0 +1,24 @@
+{
+  "id": "leaps-and-bounds-music-festival",
+  "add_sources": [
+    {
+      "field": "fit_notes",
+      "url": "https://highground3065.com",
+      "note": "verified on page 21 Oct 2026: HIGH GROUND is 'a live music series inspired by Fitzroy's traditional name' at The Night Cat, The Evelyn and Punters Club, shows 28 May to 29 Aug 2026; 'Thank you for being part of High Ground's debut year' and 'See you in 2027!'; Leaps and Bounds, Yarra City Council, PBS, CLBR and Revive Live logos in the partner row."
+    },
+    {
+      "field": "fit_notes",
+      "url": "https://beat.com.au/high-ground-to-take-over-fitzroy-this-winter-we-wanted-to-celebrate-the-proximity-of-these-three-iconic-spaces/",
+      "note": "verified on page 21 Oct 2026 (25 May 2026): new winter event series from Calibre, a music management and venue programming agency co-owned by Nathan Farrell; the three venues are on the Calibre books; the team plans to keep growing High Ground in winters to come."
+    },
+    {
+      "field": "fit_notes",
+      "url": "https://themusicnetwork.com/high-ground-fitzroy-launching",
+      "note": "verified on page 21 Oct 2026 (21 May 2026): HIGH GROUND runs May through August 2026; HIGH GROUND: IN MOTION on 18 Jul 2026 presented by PBS 106.7FM, CLBR and Leaps and Bounds Music Festival; CLBR co-founder Nate Farrell quoted."
+    }
+  ],
+  "verifier_flags": [
+    "name clash: HIGH GROUND (@highground3065, highground3065.com) is a standalone winter live music series in Fitzroy run by Calibre (CLBR), a music management and venue programming agency co-owned by Nathan Farrell, across The Night Cat, The Evelyn and Punters Club, 28 May to 29 Aug 2026 (debut year). It is not a Leaps and Bounds strand: Leaps and Bounds co-presented (with PBS 106.7FM and CLBR) the one-night HIGH GROUND: IN MOTION on 18 Jul 2026 and listed High Ground shows in its 2026 program. The site says 'See you in 2027' and Calibre plans to grow it, so the name will likely recur each winter. Unrelated to the client."
+  ],
+  "notes": "Fit notes should drop the 'needs a check for name clash' line and say the HIGH GROUND series is an unrelated Calibre-run Fitzroy series that will likely recur."
+}

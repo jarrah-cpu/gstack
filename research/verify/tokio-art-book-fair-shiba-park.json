@@ -1,0 +1,14 @@
+{
+  "id": "tokio-art-book-fair-shiba-park",
+  "add_sources": [
+    {
+      "field": "organiser",
+      "url": "https://tokioartbookfair.com/about/",
+      "note": "About page verified on page 21 Oct 2026: 'a fair organised by TOKYO ART BOOK FAIR'; Shiba Park Hotel listed as Coorganizer; invited-exhibitor model (16 past TABF exhibitors as hosts, each inviting two guests); sponsors Penco, BINTANG, Audio-Technica, dublab.jp."
+    }
+  ],
+  "verifier_flags": [
+    "duplicate check: not a duplicate of tokyo-art-book-fair. Separate event (Golden Week, Shiba Park Hotel, invited exhibitors, about 52 exhibitors) but the same organiser: 一般社団法人東京アートブックフェア plans it and co-organises with Shiba Park Hotel. Treat as a TABF spin-off; one relationship covers both."
+  ],
+  "notes": "Special check: separate event, same organiser as TABF. Keep both records; link them."
+}

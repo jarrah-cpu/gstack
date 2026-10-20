@@ -1,0 +1,30 @@
+{
+  "id": "fashion-thrift-society-hobart",
+  "set": {
+    "attendance": {
+      "figure": 5500,
+      "figure_high": null,
+      "year": 2024,
+      "is_estimate": false,
+      "source": "https://pulsetasmania.com.au/news/vintage-clothes-lovers-flock-to-hobarts-second-fashion-thrift-society-market",
+      "note": "Pulse Tasmania (9 Mar 2025), verified on page 21 Oct 2026: 'Over 5,500 people attended last year's event in Hobart', in an article on Hobart's second Fashion Thrift Society market (9 Mar 2025, Swisherr, Melville St), so the figure is for the first Hobart market in 2024. Not attributed in the article; an organiser Facebook post carries the same figure (Google snippet). No figure for 2025 or 2026."
+    }
+  },
+  "add_sources": [
+    {
+      "field": "attendance",
+      "url": "https://pulsetasmania.com.au/news/vintage-clothes-lovers-flock-to-hobarts-second-fashion-thrift-society-market",
+      "note": "Verified on page 21 Oct 2026: 'Over 5,500 people attended last year's event in Hobart'; article dated 9 Mar 2025 on Hobart's second market."
+    }
+  ],
+  "remove_gaps": [
+    "Attendance for the 2024 to 2026 Hobart markets not published"
+  ],
+  "add_gaps": [
+    "Attendance for the 2025 and 2026 Hobart markets not published"
+  ],
+  "verifier_flags": [
+    "attendance: year corrected from 2023 to 2024; Pulse Tasmania (9 Mar 2025) calls the Mar 2025 market Hobart's second, so 'last year's event' with 5,500+ is the first Hobart market in 2024"
+  ],
+  "notes": "Facebook snippet replaced by an on-page news source; year corrected."
+}

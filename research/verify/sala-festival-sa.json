@@ -1,0 +1,30 @@
+{
+  "id": "sala-festival-sa",
+  "set": {
+    "attendance": {
+      "figure": 1760000,
+      "figure_high": null,
+      "year": 2022,
+      "is_estimate": false,
+      "source": "https://www.salafestival.com/history/",
+      "note": "Organiser-reported: '1.76M attendances state-wide' in 2022 (history page; attendances, not unique visitors). Earlier: 960,000+ (2021), 870,000+ (2019). The corporate partners page makes an undated claim of '1.7+ million people' reached a year. No figure published for 2023 to 2026. 2022 had over 12,000 artists; 2025 a record 700+ exhibitions and events."
+    }
+  },
+  "add_sources": [
+    {
+      "field": "attendance.figure",
+      "url": "https://www.salafestival.com/history/",
+      "note": "History page: 2022 '1.76M attendances state-wide'; 2021 'audiences exceeded 960,000'; no audience figures for 2023 to 2025. Verified on page 21 Oct 2026."
+    }
+  ],
+  "remove_gaps": [
+    "Audience figure is an undated organiser reach claim; no audited 2026 visitor count"
+  ],
+  "add_gaps": [
+    "Latest published attendance is 2022 (1.76 million attendances, organiser-reported); no 2023 to 2026 figure"
+  ],
+  "verifier_flags": [
+    "attendance: replaced the undated 1.7 million reach claim with the dated organiser figure of 1.76 million attendances (2022) from the history page."
+  ],
+  "notes": "Attendance now dated (2022)."
+}

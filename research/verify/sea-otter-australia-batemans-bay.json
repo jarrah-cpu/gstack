@@ -1,0 +1,37 @@
+{
+  "id": "sea-otter-australia-batemans-bay",
+  "set": {
+    "dates": {
+      "last_edition": {
+        "start": "2026-10-21",
+        "end": "2026-10-25",
+        "status": "held",
+        "label": "2nd edition (2026); in progress on 21 Oct 2026; debut was 2025"
+      },
+      "next_edition": {
+        "start": "2027-10-20",
+        "end": "2027-10-24",
+        "status": "confirmed",
+        "label": "3rd edition (2027); 2028 confirmed for 19 to 23 Oct"
+      },
+      "frequency": "annual",
+      "duration_days": 5
+    }
+  },
+  "add_sources": [
+    {
+      "field": "dates.last_edition",
+      "url": "https://seaotter.au/about/",
+      "note": "verified on page 21 Oct 2026: 'the Festival scheduled for 21-25 October in 2026'; no postponement or cancellation notice."
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://seaotter.au/about/",
+      "note": "verified on page 21 Oct 2026: 'for 20-24 October in 2027' and '19-23 October 2028'; organiser Rocky Trail Entertainment."
+    }
+  ],
+  "verifier_flags": [
+    "dates.last_edition: the 2026 edition was running at the time of the check (21 Oct 2026); recorded as held per instruction.",
+    "attendance: 2025 debut 'close to 7,000' (Ride On) vs 'nearly 9,000' (organiser, Flow); kept as a 7,000 to 9,000 range."
+  ]
+}

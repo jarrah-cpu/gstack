@@ -1,0 +1,28 @@
+{
+  "id": "vanlife-gathering-natural-bridge",
+  "set": {
+    "dates": {
+      "last_edition": {
+        "start": "2026-10-02",
+        "end": "2026-10-05",
+        "status": "held",
+        "label": "2026"
+      },
+      "next_edition": {
+        "start": "2027",
+        "end": null,
+        "status": "expected",
+        "label": "2027"
+      },
+      "frequency": "annual",
+      "duration_days": 4
+    }
+  },
+  "add_sources": [
+    {
+      "field": "dates.frequency",
+      "url": "https://www.vanlife.com.au/gatherings",
+      "note": "verified on page 21 Oct 2026: page calls it the 'annual Vanlife Gathering'; 2026 listed as 2 to 5 Oct, Natural Bridge; no 2027 date yet."
+    }
+  ]
+}

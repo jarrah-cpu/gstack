@@ -1,0 +1,11 @@
+{
+  "id": "bilbao-bbk-live",
+  "add_sources": [
+    {
+      "field": "attendance.figure",
+      "url": "https://www.radionervion.com/2026/07/13/bilbao-bbk-live-hace-historia-con-un-record-de-112-500-asistentes/",
+      "note": "verified on page 21 Oct 2026: Radio Nervión, 13 Jul 2026: 'Durante los tres días de festival, 112.500 personas pasaron por Kobetamendi', the largest attendance in its history."
+    }
+  ],
+  "notes": "Attendance snippet confirmed on page."
+}

@@ -1,0 +1,11 @@
+{
+  "id": "perth-design-week",
+  "add_sources": [
+    {
+      "field": "attendance.figure",
+      "url": "https://www.wa.gov.au/government/media-statements/Cook%20Labor%20Government/Celebrating-Perth-Design-Week-2026-with-landmark-exhibition-20260211",
+      "note": "Statement dated 11 Feb 2026: 'Perth Design Week delivered more than 90 events in 2025, drawing an estimated 50,000 attendees' and 'more than 5,000 ticket registrations'. Verified on page 21 Oct 2026."
+    }
+  ],
+  "notes": "2025 attendance snippet verified on page."
+}

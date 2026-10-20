@@ -1,0 +1,15 @@
+{
+  "id": "blazing-swan-kulin",
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://blazingswan.com.au/",
+      "note": "verified on page 21 Oct 2026: official site ('Blazing Swan is an official Burning Man Regional Event', (c) 2026 Blazing Swan Inc)."
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://blazingswan.com.au/",
+      "note": "verified on page 21 Oct 2026: 'Blazing Swan 2027: Side Quest', Wed 24 Mar 2027 (noon) to Tue 30 Mar 2027 (noon), Jilakin Rock City, Kulin."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "bells-beach-longboard-classic",
+  "set": {
+    "dates": {
+      "last_edition": {
+        "start": "2025-09-17",
+        "end": "2025-09-21",
+        "status": "held",
+        "label": "2025 WSL Longboard Tour stop"
+      },
+      "next_edition": {
+        "start": "2026-12-02",
+        "end": "2026-12-06",
+        "status": "confirmed",
+        "label": "2026 WSL Longboard Tour stop"
+      },
+      "frequency": "annual",
+      "duration_days": 5
+    }
+  },
+  "add_sources": [
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.worldsurfleague.com/events/2026/lt?all=1",
+      "note": "verified on page 21 Oct 2026: WSL 2026 Longboard Tour schedule lists 'Dec 2 - 6' Bioglan Bells Beach Longboard Classic, Bells Beach, Victoria, upcoming."
+    }
+  ],
+  "remove_gaps": [
+    "Sources conflict on 2026 dates (25 to 29 Nov vs 2 to 6 Dec)"
+  ],
+  "verifier_flags": [
+    "dates.next_edition: corrected from 25 to 29 Nov to 2 to 6 Dec 2026 per the WSL schedule and Surf Coast Events; 25 to 29 Nov came from the earlier tour announcement."
+  ]
+}

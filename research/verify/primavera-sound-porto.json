@@ -1,0 +1,15 @@
+{
+  "id": "primavera-sound-porto",
+  "add_sources": [
+    {
+      "field": "sponsors, fit_notes",
+      "url": "https://observador.pt/2026/06/09/primavera-sound-porto-entende-alerta-de-pneumologistas-mas-festival-nao-faz-nada-ilegal/",
+      "note": "verified on page 21 Oct 2026: Lusa via Observador, 9 Jun 2026: 'um dos palcos tem este ano o nome da marca de bolsas de nicotina oral ZYN'; the SPP condemned the naming rights to one of the main stages; director José Barreiro: 'não estamos a fazer nada ilegal'."
+    }
+  ],
+  "verifier_flags": [
+    "sponsors: ZYN (nicotine pouches) naming rights to one of the main stages in 2026 confirmed by Observador (Lusa) and the SPP statement; stage name not given; reputational context for a health brand",
+    "attendance: Expresso and SIC pages could not be opened (fetch blocked); 120,000 rests on the Expresso headline snippet and ECO's pre-event '120,000 expected'"
+  ],
+  "notes": "Special check passed: ZYN deal confirmed on a second, opened source."
+}

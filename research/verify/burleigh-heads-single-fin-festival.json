@@ -1,0 +1,13 @@
+{
+  "id": "burleigh-heads-single-fin-festival",
+  "add_sources": [
+    {
+      "field": "sponsors",
+      "url": "https://www.boardriding.com/events/burleigh-single-fin-festival-2024",
+      "note": "verified on page 21 Oct 2026: 'The 27th Annual Burleigh Single Fin Festival is proudly presented by @billabong_australia @gageroadsbrewco @burleighpavilion' followed by further handles (Kustom Footwear, Stryker Media and others); 5 to 7 Jan 2024."
+    }
+  ],
+  "verifier_flags": [
+    "sponsors: Burleigh Pavilion 'presenting' is 2024 only and comes from a 'presented by' list that also includes smaller brands and media; Billabong and Gage Roads confirmed by several sources across 2023 to 2026."
+  ]
+}

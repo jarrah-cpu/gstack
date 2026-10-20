@@ -1,0 +1,53 @@
+{
+  "id": "byron-bay-surf-festival",
+  "set": {
+    "status": "on-hiatus",
+    "dates": {
+      "last_edition": {
+        "start": "2024-08-16",
+        "end": "2024-08-18",
+        "status": "held",
+        "label": "2024, presented by Hydro Flask (last confirmed edition)"
+      },
+      "next_edition": {
+        "start": null,
+        "end": null,
+        "status": "unknown",
+        "label": "Not announced; IG bio still reads 'Dates coming soon' (Oct 2026)"
+      },
+      "frequency": "annual",
+      "duration_days": 3
+    }
+  },
+  "add_sources": [
+    {
+      "field": "dates.last_edition, sponsors",
+      "url": "https://events.humanitix.com/2024-byron-bay-surf-festival",
+      "note": "verified on page 21 Oct 2026: '2024 Byron Bay Surf Festival presented by Hydro Flask', hosted by World Surfaris Events, Fri 16 to Sun 18 Aug 2024, Clarkes Beach."
+    },
+    {
+      "field": "status",
+      "url": "https://byronbay.com/byron-bay-annual-festivals-and-events/",
+      "note": "verified on page 21 Oct 2026: 'will not be held in 2025 but will return in August 2026 with fresh energy and a strong new team'; heading still reads '2026 dates TBA'."
+    },
+    {
+      "field": "status",
+      "url": "https://www.visitnsw.com/destinations/north-coast/byron-bay-area/byron-bay/events/byron-bay-surf-festival-0",
+      "note": "Checked 21 Oct 2026: both VisitNSW listings for the 28 to 30 Aug 2026 edition now return 404."
+    }
+  ],
+  "remove_gaps": [
+    "No post-event report for 2026 found; marked held from the VisitNSW listing dates",
+    "2027 dates not announced; late August expected",
+    "2027 dates not announced; late August expected from the 2025 and 2026 pattern"
+  ],
+  "add_gaps": [
+    "No next edition announced; IG bio says 'Dates coming soon' and the only post in a year (25 Aug 2026) is captioned 'BBSF 2026 and 2027'"
+  ],
+  "verifier_flags": [
+    "status: set on-hiatus; no edition confirmed since Aug 2024 (2025 cancelled, 2026 unconfirmed, domain parked); archive candidate as long-dormant unless 2027 dates are announced",
+    "dates: the 2026 VisitNSW listings (28 to 30 Aug) now return 404 and no 2026 coverage was found; last_edition reset to the confirmed 16 to 18 Aug 2024 edition",
+    "sponsors: Hydro Flask 2024 presenting confirmed on the Humanitix page; Flip case study is a second source"
+  ],
+  "notes": "Special check. Decided on-hiatus rather than discontinued: the IG account still says dates coming soon, but nothing has run since 2024. Recommend archiving as long-dormant if no 2027 dates appear."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "ubud-food-festival",
+  "add_sources": [
+    {
+      "field": "sponsors",
+      "url": "https://www.ubudwritersfestival.com/about-us/",
+      "note": "About page, verified on page 21 Oct 2026: founder and director Janet DeNeefe, with husband Ketut Suardana (co-founders of Yayasan Mudra Swari Saraswati), is 'the driving force behind' Casa Luna, Indus Restaurant, Casa Luna Cooking School and Honeymoon Guesthouse and Bakery."
+    }
+  ],
+  "verifier_flags": [
+    "sponsors: Platinum partners Casa Luna Restaurant, Indus Restaurant and Honeymoon Guest House are the founders' own businesses (UWRF About page), so they are related-party, likely in-kind support, not independent sponsor precedent. The 'major' role for them overstates outside sponsorship; other Platinum names (Samsara Ubud and the rest) are single-source from the partners page."
+  ],
+  "notes": "Founder-linked Platinum partners flagged."
+}

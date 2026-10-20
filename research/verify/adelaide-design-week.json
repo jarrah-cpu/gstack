@@ -1,0 +1,26 @@
+{
+  "id": "adelaide-design-week",
+  "set": {
+    "organiser": {
+      "name": "Adelaide Design Week (co-directors Bronwyn Marshall, Hannah White and Lara Merrington)",
+      "type": null,
+      "website": "https://adelaidedesignweek.com.au/"
+    }
+  },
+  "add_sources": [
+    {
+      "field": "organiser.name",
+      "url": "https://adelaidedesignweek.com.au/team",
+      "note": "Team page: 'run by a small, dedicated team of designers, coordinators and organisers working across the city'; 2026 co-directors Bronwyn Marshall, Hannah White and Lara Merrington; no legal entity named. Verified on page 21 Oct 2026."
+    },
+    {
+      "field": "sponsors.role",
+      "url": "https://adelaidedesignweek.com.au/team",
+      "note": "2049 (2049.art) is listed as a Platinum sponsor and credited in the footer for site design; @2049.art is linked beside a 2025 team member. Verified on page 21 Oct 2026."
+    }
+  ],
+  "verifier_flags": [
+    "sponsors: 2049 is also the site designer and linked to a 2025 team member, so its Platinum sponsorship is likely in-kind or related-party. Print Logistics is corroborated by 10 co-authored festival IG posts in 2026."
+  ],
+  "notes": "Organiser named from team page; 2049 sponsorship likely in-kind."
+}

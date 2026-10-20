@@ -1,0 +1,11 @@
+{
+  "id": "wellfest-queenstown",
+  "add_sources": [
+    {
+      "field": "attendance.figure",
+      "url": "https://fancast.co.nz/work/wellfest-2026",
+      "note": "verified on page 21 Oct 2026: 'More than 350 people came through over the three days of the 2026 festival'."
+    }
+  ],
+  "notes": "Attendance snippet confirmed on the page; still vendor-reported."
+}

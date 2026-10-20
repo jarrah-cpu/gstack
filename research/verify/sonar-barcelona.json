@@ -1,0 +1,7 @@
+{
+  "id": "sonar-barcelona",
+  "verifier_flags": [
+    "attendance: EFE page could not be opened (fetch blocked); Ara also reports about 150,000 but as a global figure including Sónar Kids, Sónar+D, Sónar District and OffSónar, with Fira Gran Via capacity of 107,500 over three days"
+  ],
+  "notes": "Figure corroborated by Ara (search result, not opened); scope is wider than the main venue."
+}

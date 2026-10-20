@@ -1,0 +1,37 @@
+{
+  "id": "brisbane-street-art-festival",
+  "set": {
+    "dates": {
+      "last_edition": {
+        "start": "2025",
+        "end": null,
+        "status": "held",
+        "label": "10th edition (2025)"
+      },
+      "next_edition": {
+        "start": null,
+        "end": null,
+        "status": "unknown",
+        "label": "On hold; 2026 cancelled and the 2027 return target withdrawn; no date set"
+      },
+      "frequency": "annual",
+      "duration_days": null
+    }
+  },
+  "add_sources": [
+    {
+      "field": "dates.next_edition, status",
+      "url": "https://bsafest.com.au/return",
+      "note": "Back the festival page: 'BSAF is on hold'; ran every year from 2016 to 2025; the March 2026 aim to return in 2027 is withdrawn ('The 2027 target no longer stands'); 'There is no date for the next edition'; not working to a date without confirmed funding. Verified on page 21 Oct 2026."
+    },
+    {
+      "field": "organiser",
+      "url": "https://bsafest.com.au/return",
+      "note": "'Lincoln Savage is the festival director, and BSAF is produced by Vast Yonder'. Verified on page 21 Oct 2026."
+    }
+  ],
+  "verifier_flags": [
+    "status: kept on-hiatus, not discontinued; the official site says BSAF is on hold rather than ended, but the 2027 return target is withdrawn and there is no date or funding. Archive candidate if still dormant through 2027."
+  ],
+  "notes": "Status confirmed on the official site; 2027 target withdrawn."
+}

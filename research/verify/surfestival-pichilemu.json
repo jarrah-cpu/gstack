@@ -1,0 +1,20 @@
+{
+  "id": "surfestival-pichilemu",
+  "add_sources": [
+    {
+      "field": "sponsors (verified)",
+      "url": "https://www.threads.com/@ceaese/post/Dd4TTmtD7qX/",
+      "note": "Opened 21 Oct 2026: the 29 Sep 2026 post text is emojis only; the sponsor credits are inside the poster image and could not be read on page."
+    },
+    {
+      "field": "sponsors (verified)",
+      "url": "https://www.radioagricultura.cl/entretencion/hoy-se-sale/surfestival-2027-suma-nuevos-nombres-a-su-cartel-y-prepara-una-gran-fiesta-musical-en-pichilemu_20260805/",
+      "note": "Search result summary (21 Oct 2026): Santander exclusive presale for Surfestival 2027 (13 Feb 2027) from 10 Aug 2026. Not page-verified."
+    }
+  ],
+  "verifier_flags": [
+    "sponsors: Royal Guard 0.0 (major, 2027) and Red Bull (collab, 2027) rest on a search snippet of a poster image only; no press source found. Royal Guard's last confirmed title link is 2022 ('Surfestival by Royal Guard'). Single-source.",
+    "sponsors: Santander presenting 2026 is confirmed by Santander's own posts; 2027 presale backs the 2027 link."
+  ],
+  "notes": "2027 Royal Guard unconfirmed."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "sydney-contemporary",
+  "set": {
+    "attendance": {
+      "figure": 26813,
+      "figure_high": null,
+      "year": 2026,
+      "is_estimate": false,
+      "source": "https://www.ausleisure.com.au/news/sydney-contemporarys-10th-edition-welcomes-record-number-of-26813-visitors",
+      "note": "Australasian Leisure Management (11 Sep 2026), verified on page 21 Oct 2026: the 10th edition, 3 to 6 Sep 2026, 'welcomed a record 26,813 visitors to Carriageworks', 19% from outside Sydney. Unattributed in the article, likely from an organiser release that was not found. 2025: 26,440 visitors (Destination NSW release; AFR says ticket buyers). ALM cites 276,000+ visitors since 2013; the fair cites 250,000+."
+    }
+  },
+  "add_sources": [
+    {
+      "field": "attendance",
+      "url": "https://www.ausleisure.com.au/news/sydney-contemporarys-10th-edition-welcomes-record-number-of-26813-visitors",
+      "note": "Verified on page 21 Oct 2026: 'welcomed a record 26,813 visitors to Carriageworks'; article dated 11 Sep 2026; figure unattributed."
+    }
+  ],
+  "verifier_flags": [
+    "attendance: 26,813 (2026) verified on the trade-press page but unattributed there; not stated on the organiser homepage and no organiser release found; consistent with 26,440 in 2025; kept"
+  ],
+  "notes": "Special check: figure confirmed on the ALM article page (previously a Facebook snippet). Source switched to the article."
+}

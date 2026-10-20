@@ -1,0 +1,14 @@
+{
+  "id": "sneakerness-santiago",
+  "add_sources": [
+    {
+      "field": "dates.next_edition",
+      "url": "https://sneakerness.com/",
+      "note": "Organiser site: Santiago '12 to 13 December, 2026'; Milan '24 to 25 October, 2026'; no venue or prices shown. Verified on page 21 Oct 2026."
+    }
+  ],
+  "verifier_flags": [
+    "dates.next_edition: 12 to 13 Dec 2026 confirmed on the organiser site; 'first Latin American edition' is not stated there (press snippet only)."
+  ],
+  "notes": "Dates confirmed."
+}

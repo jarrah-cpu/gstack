@@ -1,0 +1,54 @@
+{
+  "id": "mercado-de-motores-madrid",
+  "set": {
+    "dates": {
+      "last_edition": {
+        "start": "2026-10-10",
+        "end": "2026-10-11",
+        "status": "held",
+        "label": "October 2026 (scheduled dates per third-party guide)"
+      },
+      "next_edition": {
+        "start": "2026-11-07",
+        "end": "2026-11-08",
+        "status": "confirmed",
+        "label": "November 2026 (official site lists 7 and 8 Nov, then 12 and 13 Dec 2026 and 9 and 10 Jan 2027)"
+      },
+      "frequency": "monthly",
+      "duration_days": 2
+    }
+  },
+  "add_sources": [
+    {
+      "field": "dates.next_edition",
+      "url": "https://mercadodemotores.es/",
+      "note": "verified on page 21 Oct 2026: homepage lists upcoming dates '7 y 8 de noviembre', '12 y 13 de diciembre', '9 y 10 de enero' (years not printed; weekdays fit 2026 and 2027). Replaces the 14 to 15 Nov second-weekend estimate."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://mercadodemotores.es/",
+      "note": "Checked 21 Oct 2026: the homepage 'Patrocinador principal' logo links to mahou.es; no brand name in text, so Mahou is inferred from the link target."
+    }
+  ],
+  "add_sponsors": [
+    {
+      "brand": "Mahou",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://mercadodemotores.es/"
+    }
+  ],
+  "remove_gaps": [
+    "Main sponsor logo on the partners page is unlabelled"
+  ],
+  "add_gaps": [
+    "Main sponsor (Mahou) identified only from the homepage logo's link target"
+  ],
+  "verifier_flags": [
+    "dates: next edition corrected from 14 and 15 Nov (pattern estimate) to 7 and 8 Nov 2026 per the official site",
+    "sponsors: Mahou as main sponsor rests on a logo link on the organiser's site only (single-source, inferred)"
+  ],
+  "notes": "Homepage also says '3 millones visitantes desde 2012', consistent with the 300,000 a year on the partners page."
+}

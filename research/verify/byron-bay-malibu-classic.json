@@ -1,0 +1,14 @@
+{
+  "id": "byron-bay-malibu-classic",
+  "add_sources": [
+    {
+      "field": "sponsors",
+      "url": "https://byronbaymalibuclub.org/about",
+      "note": "Checked 21 Oct 2026: 'Club Sponsors' block thanks 'the sponsors of the Malibu Classic'; 18 logo links (Club Byron, Raffletix, Stoked Surf Adventures, Munro Surfboards, PMD, Balloon Aloft, Golden Breed, Bennett Surf, Byron Bay Dive Centre, Sunee, Fig Tree, Byron Bay Weddings, Lennox Gelato, McTavish, O'Meara Didgeridoos, Old Mill Timberyard, Byron Bay Property Sales, Trevor Mead); no tiers or year."
+    }
+  ],
+  "verifier_flags": [
+    "sponsors: Ezriderz eBikes, Traeger Grills and Byron Palms Guesthouse are 'major' only in one club IG post (8 Apr 2026, raffle prizes from 'some of our major sponsors'); none is on the club sponsors page or the Classic page, so single-source"
+  ],
+  "notes": "Consider downgrading the three majors to partner if no second source appears."
+}

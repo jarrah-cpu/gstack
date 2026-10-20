@@ -1,0 +1,14 @@
+{
+  "id": "expoyoga-santiago",
+  "add_sources": [
+    {
+      "field": "attendance.note",
+      "url": "https://expoyoga.cl/",
+      "note": "Organiser site: '13.000 asistentes en sus últimas ediciones', no year given; 2026 edition 17 y 18 de Octubre de 2026, Centro Cultural Estación Mapocho; 'VUELVE'. Verified on page 21 Oct 2026."
+    }
+  ],
+  "verifier_flags": [
+    "attendance: 13,000 is undated and refers to editions before the break; no 2026 count published. Event is running (10th edition held 17 to 18 Oct 2026)."
+  ],
+  "notes": "Running; attendance historical."
+}

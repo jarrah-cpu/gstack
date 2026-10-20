@@ -1,0 +1,14 @@
+{
+  "id": "makers-market-auckland",
+  "add_sources": [
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.makers-market.co.nz/",
+      "note": "Official site checked 21 Oct 2026: shows only Edition 3.0 (Sat 10 and Sun 11 Oct 2026, Good Form gallery, 86 Newton Road); no 4.0 or 2027 date announced."
+    }
+  ],
+  "verifier_flags": [
+    "dates.next_edition: no 2027 date on the official site or in search at 21 Oct 2026; March 2027 kept as expected from the Oct 2025, Mar 2026, Oct 2026 pattern (the Mar 2026 date rests on a Google snippet)"
+  ],
+  "notes": "Special check: keep as expected."
+}

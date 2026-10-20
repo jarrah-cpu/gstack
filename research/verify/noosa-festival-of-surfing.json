@@ -1,0 +1,21 @@
+{
+  "id": "noosa-festival-of-surfing",
+  "add_sources": [
+    {
+      "field": "dates.next_edition.start",
+      "url": "https://www.noosafestivalofsurfing.com/",
+      "note": "Home page: 'Save the date Friday 26 February to Sunday 7 March 2027' (replaces the search-summary basis); IG bio matches. Verified on page 21 Oct 2026."
+    },
+    {
+      "field": "sponsors.role",
+      "url": "https://www.noosafestivalofsurfing.com/partners/",
+      "note": "Partners page (2026 branding): Diverse Lending Solutions under 'Presenting Partner'; AG1 under 'Health & Wellness', 'proud to be the major health & wellness sponsor'; Sun Bum 'Official sun care partner'. Festival IG co-authors or tags @drinkag1au and @diverselending in 2026 posts. Verified on page 21 Oct 2026."
+    },
+    {
+      "field": "attendance.figure",
+      "url": "https://www.noosafestivalofsurfing.com/",
+      "note": "Home page embeds the organiser post: '39,000+ of you showing up (11% increase from last year)' and '$6M+ into the local economy'. No independent second source found. Verified on page 21 Oct 2026."
+    }
+  ],
+  "notes": "Dates, presenting and major sponsors and attendance confirmed on page."
+}

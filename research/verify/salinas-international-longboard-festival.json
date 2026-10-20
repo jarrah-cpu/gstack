@@ -1,0 +1,30 @@
+{
+  "id": "salinas-international-longboard-festival",
+  "add_sponsors": [
+    {
+      "brand": "Barreltopia",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "naming",
+      "source": "https://eurosurfing.org/news/89-etl"
+    }
+  ],
+  "add_sources": [
+    {
+      "field": "sponsors",
+      "url": "https://eurosurfing.org/news/89-etl",
+      "note": "verified on page 21 Oct 2026: ESF ETL news list, 28 Jul 2025: 'Salinas crowned as european capital of Longboarding at the Barreltopia Salinas Longboard Festival 2025'. Second source for the Barreltopia naming in 2025 and 2026."
+    },
+    {
+      "field": "dates.last_edition, dates.frequency",
+      "url": "https://www.eurosurfing.org/news/247-etb-and-etl-unveil-their-2026-event-calendars",
+      "note": "verified on page 21 Oct 2026: ESF 2026 calendar lists the ETL stop at Salinas, Asturias, 22 to 26 Jul, matching the festival's 2026 dates."
+    }
+  ],
+  "remove_gaps": [
+    "Barreltopia's earlier sponsor years not pinned ('un ano mas' implies at least 2025)"
+  ],
+  "notes": "Barreltopia naming confirmed by ESF for 2025 and 2026; years extended."
+}

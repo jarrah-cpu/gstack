@@ -1,0 +1,37 @@
+{
+  "id": "motorbeach-festival-vinuesa",
+  "set": {
+    "dates": {
+      "last_edition": {
+        "start": "2026-07-09",
+        "end": "2026-07-12",
+        "status": "held",
+        "label": "2026 Vinuesa edition"
+      },
+      "next_edition": {
+        "start": "2027-02-26",
+        "end": "2027-03-01",
+        "status": "confirmed",
+        "label": "La Invernal 2027, winter edition at Playa de Palomares (Cuevas del Almanzora, Almería); the organiser says Motorbeach 'cambia de escenario y de estación'; no Vinuesa 2027 date"
+      },
+      "frequency": "annual",
+      "duration_days": 4
+    }
+  },
+  "add_sources": [
+    {
+      "field": "dates.next_edition, location",
+      "url": "https://motorbeach.com/",
+      "note": "verified on page 21 Oct 2026: homepage bills 'Motorbeach 2027' as La Invernal, 26 Feb to 1 Mar 2027 in Almería, and says 'Motorbeach cambia de escenario y de estación'; no summer or Vinuesa 2027 edition mentioned."
+    }
+  ],
+  "add_gaps": [
+    "Unknown whether the summer Vinuesa edition continues after 2026; the organiser has moved the 2027 edition to a winter date in Almería"
+  ],
+  "verifier_flags": [
+    "dates: next edition set to La Invernal 2027 (26 Feb to 1 Mar 2027, Almería), which the organiser presents as Motorbeach 2027 with a change of setting and season; the record's Vinuesa location may no longer apply",
+    "status: kept active (organiser is selling 2027 passes) but the Vinuesa event is in doubt after the 2026 fatal crash, about 435 complaints and the mayor's doubts; reputational risk for a health brand",
+    "attendance: 14,000 is a third-party sales-page figure (Sun to Sun); a 2022 report (moncloa.com) said over 7,000 and El Debate says 2026 planning assumed about 4,000; no organiser figure"
+  ],
+  "notes": "Special check. Search found no news on Vinuesa 2027; the organiser site is the only source for the move. IG snippet for photographers gives 28 Feb and 1 Mar 2027 for the main days."
+}

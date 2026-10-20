@@ -1,0 +1,38 @@
+{
+  "id": "dark-mofo-hobart",
+  "remove_sponsors": [
+    "City of Hobart"
+  ],
+  "add_sponsors": [
+    {
+      "brand": "City of Hobart",
+      "years": [
+        2026,
+        2027
+      ],
+      "role": "government",
+      "source": "https://www.abc.net.au/news/2026-06-11/dark-mofo-arts-music-festival-begins-hobart-winter-feast/106780430"
+    }
+  ],
+  "add_sources": [
+    {
+      "field": "sponsors",
+      "url": "https://www.abc.net.au/news/2026-06-11/dark-mofo-arts-music-festival-begins-hobart-winter-feast/106780430",
+      "note": "Verified on page 21 Oct 2026: ABC News (11 Jun 2026) quotes Cr Reynolds that the council is providing $200,000 a year for three years to the festival, plus in-kind support such as traffic management and access to council properties; the council also paid to waive Winter Feast entry on its final night, 21 June 2026. Confirms the third-party Instagram snippet."
+    },
+    {
+      "field": "sponsors (historical)",
+      "url": "https://pulsetasmania.com.au/news/dark-mofo-to-receive-100000-less-than-requested-in-proposed-council-package/",
+      "note": "Pulse Tasmania (29 Mar 2025), verified on page 21 Oct 2026: the 2025 council deal was a one-year sponsorship of $150,000 cash plus in-kind support, so the three-year deal most likely starts in 2026."
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.discovertasmania.com.au/things-to-do/festivals-and-events/darkmofo2026/",
+      "note": "Discover Tasmania listing, verified on page 21 Oct 2026: 'Dark Mofo will return in full for 2027'. Its 'Tuesday 22 June 2027' is a tourism listing date, not an organiser date. Organiser IG bio reads 'June 2027'."
+    }
+  ],
+  "verifier_flags": [
+    "sponsors: City of Hobart three-year deal confirmed by ABC News (11 Jun 2026, councillor quote, $200,000 a year plus in-kind); start year not stated, but 2025 was a one-year deal, so likely 2026 to 2028; years set to 2026 and 2027 only"
+  ],
+  "notes": "Special check passed: council three-year partnership confirmed on an ABC News page, replacing reliance on the third-party IG snippet."
+}

@@ -1,0 +1,49 @@
+{
+  "id": "european-tour-of-longboard-estoril",
+  "set": {
+    "dates": {
+      "last_edition": {
+        "start": "2025-11",
+        "end": null,
+        "status": "held",
+        "label": "ETL 2025 season final at São Pedro do Estoril during the Estoril Surf Festival; moved to Praia do Guincho on day 1 for swell"
+      },
+      "next_edition": {
+        "start": "2026-10-30",
+        "end": "2026-11-01",
+        "status": "confirmed",
+        "label": "ETL 2026 Portugal stop (ESF calendar of 8 Apr 2026; no event page or registration published by 21 Oct 2026)"
+      },
+      "frequency": "annual",
+      "duration_days": 3
+    }
+  },
+  "add_sources": [
+    {
+      "field": "dates.last_edition",
+      "url": "https://eurosurfing.org/news/89-etl/228-final-step-for-etl",
+      "note": "verified on page 21 Oct 2026: ESF, 1 Nov 2025: the ETL final 'will be held on the beach at Sao Pedro do Estoril' during the Estoril Surf Festival; dates not stated."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://eurosurfing.org/news/89-etl/233-dantas-rasmussen-andrade-and-villamil-longboard-champions",
+      "note": "verified on page 21 Oct 2026: ESF, 25 Nov 2025: 2025 season final at São Pedro do Estoril, moved to Praia do Guincho on day 1; winners António Dantas and Raquel Bento."
+    },
+    {
+      "field": "dates.next_edition, dates.frequency",
+      "url": "https://www.eurosurfing.org/news/247-etb-and-etl-unveil-their-2026-event-calendars",
+      "note": "verified on page 21 Oct 2026: ESF calendar (8 Apr 2026) lists '30 October to 1 November, Estoril, Portugal'; details to follow. The ETL news page (21 Oct 2026) has 2026 items for Salinas (Jul) and the Socorro Classic (Oct) but nothing yet on Estoril."
+    }
+  ],
+  "remove_gaps": [
+    "Previous Estoril editions not found"
+  ],
+  "add_gaps": [
+    "No event page, registration or local announcement for the 2026 Estoril stop as of 21 Oct 2026"
+  ],
+  "verifier_flags": [
+    "dates: the 30 Oct to 1 Nov 2026 Estoril stop is on the organiser's own 2026 calendar (ESF, 8 Apr 2026), so it exists on paper; nothing published nine days out, so kept confirmed with that caveat",
+    "dates: a 2025 Estoril final did run (Nov 2025, São Pedro do Estoril, then Guincho), so last_edition is now set"
+  ],
+  "notes": "Special check. Status stays active. The ETL relaunched in 2025 after a 13-year gap, so annual frequency rests on two seasons."
+}

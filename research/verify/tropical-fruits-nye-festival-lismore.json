@@ -1,0 +1,41 @@
+{
+  "id": "tropical-fruits-nye-festival-lismore",
+  "set": {
+    "dates": {
+      "last_edition": {
+        "start": "2025-12-30",
+        "end": "2026-01-02",
+        "status": "held",
+        "label": "SPACE CADETS (2025 to 26)"
+      },
+      "next_edition": {
+        "start": "2026-12-30",
+        "end": "2027-01-02",
+        "status": "confirmed",
+        "label": "RIPARIA - Hot & Wet (2026 to 27): parties 30 Dec to 1 Jan, Recovery Party into 2 Jan; camping window 28 Dec to 4 Jan"
+      },
+      "frequency": "annual",
+      "duration_days": 4
+    }
+  },
+  "add_sources": [
+    {
+      "field": "dates.next_edition",
+      "url": "https://events.humanitix.com/riparia-hot-and-wet-lgbtiq-new-years-festival",
+      "note": "verified on page 21 Oct 2026: 'Riparia Hot & Wet - LGBTIQ+ New Years Festival', host The Tropical Fruits Inc, Lismore Showgrounds; window Mon 28 Dec 2026 8am to Mon 4 Jan 2027 12pm; Camp Party 30 Dec, NYE Party 31 Dec, Pool Party and Recovery Party 1 Jan; tickets on sale."
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://tropicalfruits.org.au/",
+      "note": "verified on page 21 Oct 2026: upcoming events list 'New Year's Festival 2026', 28 Dec to 2 Jan, Lismore Showground, linking to the Riparia Humanitix page."
+    }
+  ],
+  "remove_gaps": [
+    "Exact 2026 to 27 dates not captured from the ticketing page"
+  ],
+  "verifier_flags": [
+    "status: IG bio (Oct 2026) reads 'Festival in composting phase', but the organiser site and Humanitix list the 2026 to 27 festival with tickets on sale; kept active",
+    "dates.next_edition: set confirmed; organiser site gives 28 Dec to 2 Jan, Humanitix gives a 28 Dec to 4 Jan window including camping, parties 30 Dec to 1 Jan"
+  ],
+  "notes": "Special check: NYE 2026/27 is still on despite the stalled clubhouse rebuild. Watch the IG 'composting phase' wording for 2027/28."
+}

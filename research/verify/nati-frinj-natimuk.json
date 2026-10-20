@@ -1,0 +1,24 @@
+{
+  "id": "nati-frinj-natimuk",
+  "set": {
+    "attendance": {
+      "figure": 3200,
+      "figure_high": null,
+      "year": 2025,
+      "is_estimate": true,
+      "source": "https://natifrinj.com/",
+      "note": "Organiser-reported estimate: the 2025 festival drew 'an estimated 3,200 people' (homepage, read 21 Oct 2026). The Attending page says the town of about 510 'grows to around 3,500 people during the festival weekend' (general, no year)."
+    }
+  },
+  "add_sources": [
+    {
+      "field": "attendance",
+      "url": "https://natifrinj.com/",
+      "note": "verified on page 21 Oct 2026: 'drawing an estimated 3,200 people to a weekend of experimental artmaking' (2025 festival); 'Thanks to Our 2025 Key Supporters' shows four unnamed logos."
+    }
+  ],
+  "verifier_flags": [
+    "attendance: organiser homepage gives an estimated 3,200 for 2025; the Attending page's general 'around 3,500' kept in the note. Switched to the year-specific figure.",
+    "sponsors: Visit Victoria as 'major festival sponsor' (2025) rests on one organiser Instagram post; the homepage key-supporter logos are unnamed (one file is labelled 'Vic Different')."
+  ]
+}

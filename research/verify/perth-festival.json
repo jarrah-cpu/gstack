@@ -1,0 +1,11 @@
+{
+  "id": "perth-festival",
+  "add_sources": [
+    {
+      "field": "attendance.figure",
+      "url": "https://www.perthfestival.com.au/news-stories/2025/a-record-breaking-celebration-of-art-connection-and-impact",
+      "note": "Article dated 30 Jun 2025: Perth Festival welcomed 'more than 348,000 attendees' in 2025. Verified on page 21 Oct 2026."
+    }
+  ],
+  "notes": "2025 attendance snippet verified on page."
+}

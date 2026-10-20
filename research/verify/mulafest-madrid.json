@@ -1,0 +1,15 @@
+{
+  "id": "mulafest-madrid",
+  "add_sources": [
+    {
+      "field": "status",
+      "url": "https://www.ifema.es/mulafest",
+      "note": "Checked 21 Oct 2026: the IFEMA URL from the @mulared bio now shows IFEMA's general event listing with a 'no hemos encontrado nada' message and no Mulafest edition. Web search still finds only the festivalesdeespana listings that reuse old dates."
+    }
+  ],
+  "verifier_flags": [
+    "status: kept on-hiatus; no edition since 2019, IFEMA lists no Mulafest and @mulared has been silent since Nov 2021 (bio 'Pronto nuevas fechas'); no source says it ended for good, but it is long-dormant, so archive candidate",
+    "dates: the festivalesdeespana source still cited for dates.last_edition ('26 to 29 Jun 2026, Confirmado') is an aggregator placeholder, not evidence of a 2026 edition"
+  ],
+  "notes": "Special check. Seven years without an edition and no IFEMA page. Kept on-hiatus because nothing states it is finished; recommend archiving as long-dormant."
+}

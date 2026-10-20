@@ -1,0 +1,54 @@
+{
+  "id": "bowerbird-design-market-adelaide",
+  "set": {
+    "dates": {
+      "last_edition": {
+        "start": "2026-05-15",
+        "end": "2026-05-17",
+        "status": "held",
+        "label": "May 2026"
+      },
+      "next_edition": {
+        "start": "2027",
+        "end": null,
+        "status": "expected",
+        "label": "2027 at a new venue, dates to be announced (Nov 2026 market not proceeding)"
+      },
+      "frequency": "biannual",
+      "duration_days": 3
+    },
+    "organiser": {
+      "name": "Bowerbird (owner Peggy Byrne since Feb 2020; founded by Jane Barwick)",
+      "type": "independent",
+      "website": "https://bowerbird.net.au/"
+    }
+  },
+  "add_sources": [
+    {
+      "field": "dates.next_edition, status",
+      "url": "https://bowerbird.net.au/",
+      "note": "Official site 'November Market Cancellation': 'Bowerbird will not proceed this November'; 'We are excited to partner with a new venue to create an exciting experience for designers and customers in 2027'. No 2027 dates. Verified on page 21 Oct 2026."
+    },
+    {
+      "field": "organiser",
+      "url": "https://www.indailysa.com.au/citymag/archive/2020/11/12/meet-bowerbird-design-markets-new-owner-peggy-byrne",
+      "note": "CityMag, 12 Nov 2020: 'Bowerbird's new owner, Peggy Byrne'; the sale from founder Jane Barwick was made official in February 2020. Verified on page 21 Oct 2026."
+    },
+    {
+      "field": "organiser.name",
+      "url": "https://dalewood.com.au/listing/bowerbird-design-market/",
+      "note": "Broker listing titled 'SOLD - BOWERBIRD DESIGN MARKET'; no sale date or buyer named; consistent with the 2019 to 2020 sale. Verified on page 21 Oct 2026."
+    }
+  ],
+  "remove_gaps": [
+    "Business was sold per a broker listing; current owner not confirmed"
+  ],
+  "add_gaps": [
+    "Owner since Feb 2020 is Peggy Byrne; no later sale found, but 2026 ownership not confirmed by a dated source"
+  ],
+  "verifier_flags": [
+    "organiser: record named founder Jane Barwick, but she sold Bowerbird to Peggy Byrne in Feb 2020 (CityMag); the undated Dale Wood SOLD listing most likely refers to that sale. Corrected.",
+    "status: kept active; the official site confirms the Nov 2026 market is cancelled and a new venue is planned for 2027 (IG bio: 2027 dates to be announced)."
+  ],
+  "notes": "Cancellation confirmed on official site; organiser corrected to the 2020 owner."
+}

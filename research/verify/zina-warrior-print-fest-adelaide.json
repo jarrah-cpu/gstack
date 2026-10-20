@@ -1,0 +1,38 @@
+{
+  "id": "zina-warrior-print-fest-adelaide",
+  "set": {
+    "dates": {
+      "last_edition": {
+        "start": "2025-10",
+        "end": "2025-10",
+        "status": "held",
+        "label": "2025 (October; exact day not confirmed)"
+      },
+      "next_edition": {
+        "start": "2026-10-31",
+        "end": "2026-10-31",
+        "status": "confirmed",
+        "label": "2026"
+      },
+      "frequency": "annual",
+      "duration_days": 1
+    }
+  },
+  "add_sources": [
+    {
+      "field": "dates",
+      "url": "https://www.instagram.com/p/DQGr0YCD-0H/",
+      "note": "Post dated 22 Oct 2025, co-authored by the fair and MOD.: 'Had a wonderful time at Zina Warrior Print Fest 2025!' Supports an October 2025 edition; a search on 21 Oct 2026 found no page giving the exact day (past editions: 9 Oct 2021, 8 Oct 2022, 7 Oct 2023, 12 Oct 2024)."
+    }
+  ],
+  "remove_gaps": [
+    "2025 date of 18 Oct rests on a Google snippet"
+  ],
+  "add_gaps": [
+    "Exact 2025 date not confirmed (October 2025)"
+  ],
+  "verifier_flags": [
+    "dates.last_edition: 18 Oct 2025 rested on a Google snippet attached to a 2023-era IG post URL and was not found on any page; set to October 2025. Next edition 31 Oct 2026 is supported by the IG bio and the MOD. home page."
+  ],
+  "notes": "2025 date loosened to month; 2026 date stands."
+}

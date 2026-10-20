@@ -1,0 +1,41 @@
+{
+  "id": "the-unconformity-queenstown",
+  "set": {
+    "partnership_contact": {
+      "email": "info@theunconformity.com.au",
+      "page_url": "https://theunconformity.com.au/staff/",
+      "named_person": "Jane Longhurst, Partnerships and Stakeholder Manager (from Apr 2026; no direct email published)",
+      "source": "https://theunconformity.com.au/staff/"
+    },
+    "attendance": {
+      "figure": 3000,
+      "figure_high": null,
+      "year": 2025,
+      "is_estimate": true,
+      "source": "https://popupwifi.com.au/case-study/53-the-unconformity-festival-2025/",
+      "note": "Pop Up WiFi case study, verified on page 21 Oct 2026: 'Attendees 3000' for the 2025 festival; the case study is marked as submitted by The Unconformity Inc, so the figure likely came from the organiser. Round figure; counting method not stated."
+    }
+  },
+  "add_sources": [
+    {
+      "field": "partnership_contact",
+      "url": "https://theunconformity.com.au/staff/",
+      "note": "Staff page, verified 21 Oct 2026: Jane Longhurst, Partnerships and Stakeholder Manager. Jess Robinson is no longer listed (the only Jess is Jessica Curtain, Ticketing and Marketing Coordinator). Only info@theunconformity.com.au is published."
+    },
+    {
+      "field": "attendance.note",
+      "url": "https://popupwifi.com.au/case-study/53-the-unconformity-festival-2025/",
+      "note": "Verified on page 21 Oct 2026: Attendees 3000; submitted by The Unconformity Inc; no counting method."
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://theunconformity.com.au/",
+      "note": "Homepage, checked 21 Oct 2026: fundraising campaign supports artists 'to make work for The Unconformity's 2027 festival'; no dates given."
+    }
+  ],
+  "verifier_flags": [
+    "partnership_contact: Jess Robinson (2025) replaced by Jane Longhurst, Partnerships and Stakeholder Manager, per the current staff page; jess@ address dropped for the general info@ address",
+    "attendance: 3,000 (2025) verified on the supplier page, which says The Unconformity Inc submitted it; still not an organiser publication"
+  ],
+  "notes": "Special check resolved: current partnerships contact is Jane Longhurst (staff page). 2027 festival confirmed in homepage copy, no dates."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "here-comes-the-sun-torquay",
+  "set": {
+    "status": "on-hiatus",
+    "organiser": {
+      "name": "Macro Music Pty Ltd",
+      "type": "promoter",
+      "website": "https://www.hctsfest.com/"
+    }
+  },
+  "add_sources": [
+    {
+      "field": "organiser",
+      "url": "https://www.hctsfest.com/",
+      "note": "verified on page 21 Oct 2026: footer credits Macro Music; festival is 'a part of the Macro Music family of events'."
+    },
+    {
+      "field": "status",
+      "url": "https://www.hctsfest.com/",
+      "note": "verified on page 21 Oct 2026: site lists only Margaret River, Gold Coast and a G-Flip Margaret River show; no Torquay or Victorian date for late 2026 or 2027."
+    }
+  ],
+  "remove_gaps": [
+    "Organiser not named (ABC refers only to 'East Coast promoters')"
+  ],
+  "verifier_flags": [
+    "status: Torquay leg last held 30 Mar 2024, not run in 2025, and the 4 Apr 2026 leg was cancelled; the organiser site (21 Oct 2026) lists WA and Gold Coast dates only. Set on-hiatus; archive candidate as long-dormant (no source says it has ended for good)."
+  ],
+  "notes": "Archive candidate. The brand continues in WA and QLD under Macro Music; the Torquay event has not run since March 2024."
+}

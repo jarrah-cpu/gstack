@@ -1,0 +1,16 @@
+{
+  "id": "nude-solstice-swim-hobart",
+  "add_sources": [
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.discovertasmania.com.au/things-to-do/festivals-and-events/darkmofo2026/",
+      "note": "Discover Tasmania listing, verified on page 21 Oct 2026: 'Dark Mofo will return in full for 2027 ... alongside Dark Mofo rituals Winter Feast, the Ogoh-Ogoh, Night Mass and the Nude Solstice Swim'."
+    },
+    {
+      "field": "partnership_contact.email",
+      "url": "https://www.discovertasmania.com.au/things-to-do/festivals-and-events/darkmofo2026/",
+      "note": "Verified on page 21 Oct 2026: darkmofo@mona.net.au and 03 6277 9978 (general Dark Mofo contact)."
+    }
+  ],
+  "notes": "Snippet facts (2027 return, contact) confirmed on the Discover Tasmania page."
+}

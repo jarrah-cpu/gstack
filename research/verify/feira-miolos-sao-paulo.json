@@ -1,0 +1,11 @@
+{
+  "id": "feira-miolos-sao-paulo",
+  "add_sources": [
+    {
+      "field": "attendance.note",
+      "url": "https://www.publishnews.com.br/materias/2023/11/10/feira-miolos-termina-10-edicao-com-cerca-de-dez-mil-visitantes",
+      "note": "PublishNews: the 10th edition (4 and 5 Nov 2023) 'reuniu 10 mil pessoas'; the Biblioteca Mário de Andrade director (co-organiser) said 'cerca de 10 mil pessoas passaram'. Organiser-side approximate figure. Verified on page 21 Oct 2026."
+    }
+  ],
+  "notes": "10,000 (2023) confirmed on page."
+}

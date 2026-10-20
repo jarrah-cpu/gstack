@@ -1,0 +1,15 @@
+{
+  "id": "rainbow-spirit-festival",
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://rainbowspirit.net/",
+      "note": "verified on page 21 Oct 2026: festival site (links to RSFHQ and rainbowspirithq accounts, ticketing via rainbowserpent.net)."
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://rainbowspirit.net/",
+      "note": "verified on page 21 Oct 2026: '5-8 March 2027', Glenaroua VIC; thanks the Live Music Festival Fund."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "deus-slidetoberfest-canggu",
+  "add_sources": [
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.facebook.com/mavemagazine/posts/deus-slidetoberfest-2026-tiga-hari-tiga-pantai-dan-rangkaian-kekacauan-seru-di-b/1797141405262412/",
+      "note": "Mave Magazine Facebook post, verified on page 21 Oct 2026: 'Deus Slidetoberfest 2026 siap menguncang Bali pada 23 hingga 25 Oktober 2026', three beaches (not named)."
+    },
+    {
+      "field": "dates.duration_days",
+      "url": "https://deuscustoms.co.id/pages/deus-slidetober-fest-2026",
+      "note": "Deus event page, checked 21 Oct 2026: 'Three days', Temple of Enthusiasm; no dates, sponsors or contact shown."
+    }
+  ],
+  "verifier_flags": [
+    "dates: 23 to 25 Oct 2026 confirmed on a media page (Mave Magazine), not on the Deus event page, which says only 'Three days'. Starts in two days; confirm with Deus Indonesia before any activation planning."
+  ],
+  "notes": "Dates confirmed by media post; organiser page undated."
+}

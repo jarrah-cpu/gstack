@@ -1,0 +1,28 @@
+{
+  "id": "nightcliff-seabreeze-festival-darwin",
+  "set": {
+    "partnership_contact": {
+      "email": "developmentmanagerseabreeze@gmail.com",
+      "page_url": "https://www.nightcliffseabreeze.com/become-a-sponsor",
+      "named_person": "Jenny Hilyard, Development Manager (2025 staff list; the sponsorship email is the development manager inbox). Andrew Arthur is committee Chairperson (2025) and chaired the Sponsorship and Finance Working Group (2024 list)",
+      "source": "https://www.nightcliffseabreeze.com/our-people"
+    }
+  },
+  "add_sources": [
+    {
+      "field": "partnership_contact",
+      "url": "https://www.nightcliffseabreeze.com/our-people",
+      "note": "Verified on page 21 Oct 2026: 2025 staff list names Jenny Hilyard as Development Manager and Andrew Arthur as Chairperson; the Sponsorship and Finance Working Group led by Andrew Arthur is the 2024 listing; the 2025 sponsorship working group lists no names."
+    },
+    {
+      "field": "dates.frequency",
+      "url": "https://www.instagram.com/p/DencnBEmIhw/",
+      "note": "Organiser post 18 Oct 2026 (caption read from Apify post data, 21 Oct 2026): the festival 'will be a biennial festival. This means we will have a break in 2027, and come back in 2028', citing rising costs, decreasing funding and committee workload."
+    }
+  ],
+  "verifier_flags": [
+    "dates.next_edition: biennial switch confirmed by the organiser's own 18 Oct 2026 Instagram post (no 2027, back 2028); the Songkick source listing 7 to 9 May 2027 is stale; status kept active",
+    "partnership_contact: named person updated; Andrew Arthur's sponsorship working group role is from the 2024 list, and the 2025 list names Jenny Hilyard as Development Manager"
+  ],
+  "notes": "Special check passed: biennial from 2026, next edition 2028 (organiser post). NT News snippet ('biannual') not opened (paywall); the organiser post supersedes it."
+}

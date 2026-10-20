@@ -1,0 +1,27 @@
+{
+  "id": "art-jakarta",
+  "set": {
+    "attendance": {
+      "figure": 38000,
+      "figure_high": null,
+      "year": 2025,
+      "is_estimate": false,
+      "source": "https://www.artasiapacific.com/market/local-currents-art-jakarta-2025/",
+      "note": "ArtAsiaPacific (14 Oct 2025): 'a stable 38,000-something visitors, comparable to last year's edition' for 3 to 5 Oct 2025 at JIExpo Kemayoran; an Instagram headline (Google snippet) also says over 38,000; a search summary cites 37,899. 2023: 35,578 (senirupa.id snippet). No 2026 figure found."
+    }
+  },
+  "add_sources": [
+    {
+      "field": "attendance",
+      "url": "https://www.artasiapacific.com/market/local-currents-art-jakarta-2025/",
+      "note": "ArtAsiaPacific (14 Oct 2025), verified on page 21 Oct 2026: 'a stable 38,000-something visitors' at Art Jakarta 2025, comparable to 2024."
+    }
+  ],
+  "remove_gaps": [
+    "No 2026 attendance figure found; latest is 2025 (over 38,000) from an unattributed Instagram headline"
+  ],
+  "add_gaps": [
+    "No 2026 attendance figure found; latest is 2025 (about 38,000, ArtAsiaPacific)"
+  ],
+  "notes": "Attendance source upgraded from an IG snippet to ArtAsiaPacific (page checked)."
+}

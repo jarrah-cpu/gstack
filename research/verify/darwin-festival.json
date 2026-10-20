@@ -1,0 +1,49 @@
+{
+  "id": "darwin-festival",
+  "set": {
+    "attendance": {
+      "figure": 177136,
+      "figure_high": null,
+      "year": 2024,
+      "is_estimate": false,
+      "source": "https://ntindependent.com.au/darwin-festival-2025-kicks-off-today-with-more-venues-more-vibe/",
+      "note": "NT Independent (7 Aug 2025), verified on page 21 Oct 2026: the 2024 festival resulted in '177,136 attendances at various events' (cumulative across the program; unattributed in the article). The festival's PR agency Access PR gives 177,134 (search result; page returned 404). Earlier figure: 170,008 attendances and 39,361 tickets for 2022 (Tourism and Events NT, 7 Dec 2022)."
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "INPEX",
+      "years": [
+        2022
+      ],
+      "role": "major",
+      "source": "https://www.abc.net.au/news/2022-12-15/nt-darwin-festival-funding-falls-through-fossil-free-arts-nt/101775768"
+    }
+  ],
+  "add_sources": [
+    {
+      "field": "attendance",
+      "url": "https://ntindependent.com.au/darwin-festival-2025-kicks-off-today-with-more-venues-more-vibe/",
+      "note": "Verified on page 21 Oct 2026: '177,136 attendances at various events' for the previous (2024) festival; article dated 7 Aug 2025."
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.darwinfestival.org.au/",
+      "note": "Every organiser page title (site crawl 20 Oct 2026) reads 'Darwin Festival - 4 August - 22 August 2027'. 4 Aug 2027 is a Wednesday, so the FAQ's 'Wednesday 5' is a typo."
+    },
+    {
+      "field": "sponsors (verified)",
+      "url": "https://www.abc.net.au/news/2022-12-15/nt-darwin-festival-funding-falls-through-fossil-free-arts-nt/101775768",
+      "note": "Verified on page 21 Oct 2026: major partners for 2022 included Santos and INPEX; Santos held naming rights to the opening concert and pulled its sponsorship in October 2022 after nearly three decades."
+    }
+  ],
+  "remove_gaps": [
+    "No attendance figure after 2022 captured",
+    "Organiser FAQ gives a 'Wednesday 5' Aug 2027 start, conflicting with 4 Aug elsewhere on the site"
+  ],
+  "verifier_flags": [
+    "dates.next_edition: FAQ 'Wednesday 5' Aug 2027 is a typo; 4 Aug 2027 is a Wednesday and every organiser page title gives 4 to 22 Aug 2027; kept 4 to 22 Aug",
+    "attendance: updated from 170,008 (2022, Tourism and Events NT) to 177,136 (2024, NT Independent, unattributed); Access PR gives 177,134 for 2024 but its page could not be opened"
+  ],
+  "notes": "Special check resolved: 2027 dates are 4 to 22 Aug (confirmed). Newer attendance figure verified on page. INPEX also a 2022 major partner per ABC."
+}

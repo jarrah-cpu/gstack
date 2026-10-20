@@ -1,0 +1,29 @@
+{
+  "id": "perth-makers-market",
+  "set": {
+    "dates": {
+      "last_edition": {
+        "start": "2026-10-18",
+        "end": "2026-10-18",
+        "status": "held",
+        "label": "October 2026"
+      },
+      "next_edition": {
+        "start": "2026-10-31",
+        "end": "2026-10-31",
+        "status": "confirmed",
+        "label": "Halloween Twilight Market, Burswood Park (then 6 Dec at Goolugatup Heathcote and 12 Dec 2026 Christmas Twilight Market)"
+      },
+      "frequency": "monthly",
+      "duration_days": 1
+    }
+  },
+  "add_sources": [
+    {
+      "field": "dates.next_edition",
+      "url": "https://perthmakersmarket.com.au/visitor_faqs/",
+      "note": "Visitor FAQs list the Halloween Twilight Market on 31 Oct 2026 at Burswood Park, then 6 Dec 2026 at Goolugatup Heathcote and a Christmas Twilight Market on 12 Dec 2026 at Burswood Park. The 18 Oct 2026 market no longer appears (past). Verified on page 21 Oct 2026."
+    }
+  ],
+  "notes": "Next edition confirmed on page."
+}

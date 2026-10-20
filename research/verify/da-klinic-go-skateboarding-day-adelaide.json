@@ -1,0 +1,30 @@
+{
+  "id": "da-klinic-go-skateboarding-day-adelaide",
+  "set": {
+    "organiser": {
+      "name": "Da Klinic",
+      "type": "retailer",
+      "website": null
+    }
+  },
+  "add_sources": [
+    {
+      "field": "dates.last_edition",
+      "url": "https://glamadelaide.com.au/da-klinic-is-bringing-a-massive-go-skateboarding-day-celebration-to-the-myer-centre-with-free-skate-comps-giveaways-and-pizza/",
+      "note": "Glam Adelaide, published 18 Jun 2026: Saturday 20 June, 2pm to 5pm, Level 2 Myer Centre Adelaide; the event 'follows the success of last year's celebration'. Red Bull (free food) and the DGK Rail Jam named. Verified on page 21 Oct 2026."
+    },
+    {
+      "field": "organiser.type",
+      "url": "https://glamadelaide.com.au/da-klinic-is-bringing-a-massive-go-skateboarding-day-celebration-to-the-myer-centre-with-free-skate-comps-giveaways-and-pizza/",
+      "note": "'Da Klinic hosts a free Go Skateboarding Day celebration' two levels above Da Klinic's store (skate retailer). Verified on page 21 Oct 2026."
+    }
+  ],
+  "remove_gaps": [
+    "Year of the Glam Adelaide article inferred from search summary (Sat 20 Jun 2026)",
+    "Organiser type and frequency not confirmed"
+  ],
+  "add_gaps": [
+    "Annual frequency rests on one article saying the 2026 event followed last year's; earlier editions not dated"
+  ],
+  "notes": "2026 date confirmed on page; organiser is a skate retailer."
+}

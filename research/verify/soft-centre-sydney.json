@@ -1,0 +1,25 @@
+{
+  "id": "soft-centre-sydney",
+  "add_sources": [
+    {
+      "field": "status",
+      "url": "https://www.instagram.com/p/DSB9pgTEUrn/",
+      "note": "Organiser post 9 Dec 2025 (caption read from Apify post data, 21 Oct 2026): transition to a not-for-profit to power year-round programs, commissions, international collaborations 'and annual festival in Sydney/Eora', backed by Create NSW organisational funding for 2026 to 2027."
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.softcentre.com.au/",
+      "note": "Homepage checked 21 Oct 2026: no 2026 or 2027 festival dates listed. Latest organiser IG post in the 20 Oct 2026 scrape is 25 Aug 2026, with no festival announcement."
+    },
+    {
+      "field": "sponsors (verified)",
+      "url": "https://carriageworks.com.au/events/soft-centre-23/",
+      "note": "Verified on page 21 Oct 2026: Sun 11 Jun 2023 event 'Presented by Carriageworks, Soft Centre and Vivid Sydney with Soft Centre Program Partners City of Sydney and CreateNSW'; accommodation partners Ace Hotel Sydney and TFE Hotels; media partners Broadsheet and FBi Radio."
+    }
+  ],
+  "verifier_flags": [
+    "status: kept active, not an archive candidate; no full multi-day festival ran in 2026 (2025 ran 28 to 31 Aug), but the organisation ran 2026 programs (Vivid takeover 5 Jun, Opera House shorts 28 May, workshops, a tour) and in Dec 2025 announced a not-for-profit with Create NSW funding for 2026 to 2027 to power an annual festival; no 2027 festival announced as of 21 Oct 2026",
+    "dates.frequency: 'annual' holds for Soft Centre's program, not for the full festival, which did not run in 2026"
+  ],
+  "notes": "Special check: status stays active. Revisit as on-hiatus if no full festival is announced for 2027."
+}

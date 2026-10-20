@@ -1,0 +1,40 @@
+{
+  "id": "soundrenaline-indonesia",
+  "add_sources": [
+    {
+      "field": "organiser",
+      "url": "https://www.instagram.com/soundrenaline.id/",
+      "note": "Organiser Instagram bio (Apify profile data, Oct 2026): 'Presented by @resonine.id'. @resonine.id has about 2,000 followers and co-authors the event's posts."
+    },
+    {
+      "field": "organiser",
+      "url": "https://jogjakini.com/soundrenaline-2026-targetkan-lebih-dari-30-ribu-penonton-gelar-tur-di-5-kota/",
+      "note": "Search result summary only (page returned HTTP 500 on 21 Oct 2026): Jogjakini, citing Republika, says Soundrenaline 2026 is initiated by Resonine as promoter, five cities, target over 30,000. Not verified on page."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.detik.com/pop/music/d-8187688/hadir-di-lima-kota-ini-daftar-musisi-yang-manggung-di-soundrenaline-2025",
+      "note": "detikPop (31 Oct 2025), verified on page 21 Oct 2026: 2025 edition ran Makassar 16 Nov, Medan 22 Nov, Bandung 29 Nov, Palembang 6 Dec and Jakarta 18 to 21 Dec 2025. Names no presenter, organiser company or sponsor."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://komunitaskretek.or.id/berita/2026/01/industri-rokok-dalam-konser-musik-di-indonesia/",
+      "note": "Komunitas Kretek (19 Jan 2026, pro-tobacco community site), verified on page 21 Oct 2026: Soundrenaline was 'digagas A Mild sejak 2002' (started by A Mild in 2002). Says nothing about A Mild or Sampoerna in 2025 or 2026."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://soundrenaline.id/",
+      "note": "Homepage verified on page 21 Oct 2026: PARTNERS section holds 33 logo images, all with alt text 'Partners' and no links or names; no 'presented by' line; footer '©2026 Soundrenaline'. No Sampoerna or A Mild text."
+    }
+  ],
+  "remove_gaps": [
+    "No 2025 or 2026 source names a title sponsor; the organiser's IG bio says 'Presented by @resonine.id' (2026). The historical A Mild (Sampoerna) link is not confirmed by any current source"
+  ],
+  "add_gaps": [
+    "Tobacco link unresolved: no 2025 or 2026 source names Sampoerna or A Mild, but the 2026 presenter Resonine has almost no public footprint and the 33 partner logos are unnamed, so a tobacco backer cannot be ruled out. Ask the organiser directly before any approach."
+  ],
+  "verifier_flags": [
+    "presenter: 2026 is presented by Resonine (@resonine.id) per the organiser's Instagram bio, with a Republika report (seen via Jogjakini search summary) naming Resonine as initiator and promoter. 2025 edition (five cities, 16 Nov to 21 Dec 2025): detik (31 Oct 2025) names no presenter; a Medcom Facebook snippet credits iNews Media Group as presenter, likely a media partner. No 2025 or 2026 source names Sampoerna or A Mild; the A Mild link is historical (A Mild started the series in 2002 and was title sponsor in the 2000s). Tobacco sponsorship for 2025 and 2026 is neither confirmed nor ruled out; treat as a tobacco-heritage property until the organiser says otherwise."
+  ],
+  "notes": "Presenter check done. Resonine confirmed as 2026 presenter (organiser bio). No current tobacco naming found; heritage risk flagged as a gap."
+}

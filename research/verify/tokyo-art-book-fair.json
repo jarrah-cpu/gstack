@@ -1,0 +1,19 @@
+{
+  "id": "tokyo-art-book-fair",
+  "add_sources": [
+    {
+      "field": "sponsors",
+      "url": "https://www.sigma-global.com/jp/news/2025/11/20/011960/",
+      "note": "Sigma release (20 Nov 2025), verified on page 21 Oct 2026: first time as main sponsor (特別協賛, メインスポンサー) of TABF 2025 (11 to 14 and 19 to 21 Dec 2025, MOT) with a special booth."
+    },
+    {
+      "field": "attendance",
+      "url": "https://deeptokyo.jp/culture/2808/",
+      "note": "deeptokyo (8 Apr 2025), verified on page 21 Oct 2026: 14th edition, Nov 2024 at the Museum of Contemporary Art Tokyo, about 300 exhibitors and over 25,000 visitors."
+    }
+  ],
+  "verifier_flags": [
+    "duplicate check: tokio-art-book-fair-shiba-park is a separate spring event run by the same organiser (一般社団法人東京アートブックフェア) with Shiba Park Hotel; not a duplicate. One partnership conversation covers both."
+  ],
+  "notes": "Sigma 2025 main sponsor and 25,000 (2024) both confirmed on page. Duplicate check: separate events, same organiser."
+}

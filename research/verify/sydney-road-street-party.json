@@ -1,0 +1,34 @@
+{
+  "id": "sydney-road-street-party",
+  "set": {
+    "dates": {
+      "last_edition": {
+        "start": "2026-03-01",
+        "end": "2026-03-01",
+        "status": "held",
+        "label": "2026 (opening day of Brunswick Music Festival)"
+      },
+      "next_edition": {
+        "start": "2027-02-28",
+        "end": "2027-02-28",
+        "status": "confirmed",
+        "label": "2027 (opening day of Brunswick Music Festival, 28 Feb to 7 Mar 2027)"
+      },
+      "frequency": "annual",
+      "duration_days": 1
+    }
+  },
+  "add_sources": [
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.merri-bek.vic.gov.au/brunswick-music-festival",
+      "note": "verified on page 21 Oct 2026: council page gives the Sydney Road Street Party 2027 event date as Sunday 28 February 2027; stallholder EOIs open until 11:59pm Wed 28 Oct 2026; BMF returns 28 Feb to 7 Mar 2027."
+    }
+  ],
+  "remove_gaps": [
+    "2027 street party date from an aggregator; a council EOI had listed 7 Mar 2027"
+  ],
+  "verifier_flags": [
+    "dates.frequency: outcome of the September 2026 council decision on going biennial not found in press (latest Beat and Brunswick Voice coverage is May 2026) or on council pages; the council's own page confirms the 2027 street party on 28 Feb 2027 with stallholder EOIs open, so 2027 goes ahead; frequency from 2028 unconfirmed."
+  ]
+}

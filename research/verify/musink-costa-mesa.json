@@ -1,0 +1,23 @@
+{
+  "id": "musink-costa-mesa",
+  "set": {
+    "status": "on-hiatus"
+  },
+  "add_sources": [
+    {
+      "field": "status",
+      "url": "https://www.worldtattooevents.com/tattoo-conventions/united-states/california",
+      "note": "Checked on page 21 Oct 2026: the California listing no longer includes Musink (upcoming events are NorCal, San Diego, Santa Rosa and Fresno only). The earlier 'dates TBA, expected March 2027' note is stale."
+    },
+    {
+      "field": "status",
+      "url": "https://musinkfest.com/",
+      "note": "Organiser site is a password-gated store headed '13th Annual Musink' with no dates (Phase 2 crawl). Web searches on 21 Oct 2026 found no edition, announcement or cancellation notice after the 12th edition (8 to 10 Mar 2019)."
+    }
+  ],
+  "verifier_flags": [
+    "status: set on-hiatus. No edition since 8 to 10 Mar 2019 (over seven years), no return or end announced, event listings dropped. Long-dormant archive candidate.",
+    "dates.next_edition: worldtattooevents no longer lists Musink; ignore the 'expected March 2027' source."
+  ],
+  "notes": "Long-dormant since Mar 2019; archive candidate."
+}

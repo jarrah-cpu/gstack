@@ -1,0 +1,17 @@
+{
+  "id": "lismore-lantern-parade",
+  "add_sources": [
+    {
+      "field": "attendance.note",
+      "url": "https://www.nbnnews.com.au/?p=736003",
+      "note": "verified on page 21 Oct 2026: NBN News, 22 Jun 2025: 'More than 30-thousand people turned out' for the 31st parade (2025); reporter's figure, not attributed to organisers."
+    }
+  ],
+  "remove_gaps": [
+    "2025 and 2026 attendance not pinned to a source; latest pinned figure is the 2024 organiser estimate"
+  ],
+  "verifier_flags": [
+    "attendance: kept the 2024 organiser estimate (32,000+, Lismore App, Google snippet, not opened); 2025 press figure of 30,000+ verified on the NBN News page; no 2026 figure found"
+  ],
+  "notes": "Removed a gap that was wrong: 2025 attendance is pinned (NBN News)."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "belgian-waffle-ride-california",
+  "set": {
+    "attendance": {
+      "figure": 2500,
+      "figure_high": null,
+      "year": null,
+      "is_estimate": true,
+      "source": "https://www.granfondoguide.com/Events/Index/3900/15th-annual-belgian-waffle-ride-california",
+      "note": "Registration cap, not a count: the Gran Fondo Guide listing says 'Limited to: 2,500 Participants' (aggregator; the listing now shows the 1 to 2 May 2027 edition). Riders only; no actual rider or expo visitor count published."
+    }
+  },
+  "add_sources": [
+    {
+      "field": "attendance.note",
+      "url": "https://www.granfondoguide.com/Events/Index/3900/15th-annual-belgian-waffle-ride-california",
+      "note": "'Limited to: 2,500 Participants'; May 01 to May 02 2027, Del Mar Polo Fields, 'Date Confirmed'. Verified on page 21 Oct 2026."
+    }
+  ],
+  "verifier_flags": [
+    "attendance: 2,500 is a registration cap on an aggregator listing, not a rider count; note and year corrected."
+  ],
+  "notes": "Attendance is a cap."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "bbk-mendi-film-bilbao",
+  "add_sources": [
+    {
+      "field": "dates.next_edition, sponsors",
+      "url": "https://www.mendifilm.eus/es/",
+      "note": "verified on page 21 Oct 2026: '19ª edición ... que se celebrará del 4 al 13 de diciembre de 2026'. Sponsor footer tiers: Gailurra (BBK, Euskalduna), Aconcagua (EITB, Ternua, Afesa)."
+    }
+  ],
+  "verifier_flags": [
+    "attendance: the 2024 release gave 9,837 spectators for the 17th edition, yet the 2025 release says 22,300 was 700 more than the year before; the releases count differently; kept the 2025 organiser figure",
+    "sponsors: Afesa (Aconcagua tier) confirmed only on the organiser's sponsor footer; Ternua also co-funds the Mendi Film Bizkaia Ternua grant"
+  ],
+  "notes": "Dates and BBK naming confirmed on the official site."
+}

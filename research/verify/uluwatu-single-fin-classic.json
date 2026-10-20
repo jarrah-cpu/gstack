@@ -1,0 +1,14 @@
+{
+  "id": "uluwatu-single-fin-classic",
+  "add_sources": [
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.hostelworld.com/events/e/6a51b8e4772691fb2a2f3d51/7th-annual-uluwatu-single-fin-classic/",
+      "note": "Search result summary (21 Oct 2026): Hostelworld listing for the 7th annual event, 14 to 16 Aug 2026, organiser Single Fin Bali; no sponsors listed. Not page-verified."
+    }
+  ],
+  "verifier_flags": [
+    "sponsors: all three 2026 'presented by' names (INDOxyz; Discovery Kartika Plaza Hotel and Discovery Mall Bali) rest on Google snippets of Facebook and Instagram posts; a fresh search on 21 Oct 2026 found no page naming 2026 sponsors. Unconfirmed; do not cite as precedent."
+  ],
+  "notes": "Sponsors remain snippet-only."
+}

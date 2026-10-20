@@ -1,0 +1,418 @@
+{
+  "id": "japan-sauna-festival-kawasaki",
+  "set": {
+    "sponsors": [
+      {
+        "brand": "Keikyu Corporation",
+        "years": [
+          2026
+        ],
+        "role": "major",
+        "source": "https://prtimes.jp/main/html/rd/p/000000012.000161875.html"
+      },
+      {
+        "brand": "National Sa-meshi Association (全国サ飯協会)",
+        "years": [
+          2026
+        ],
+        "role": "partner",
+        "source": "https://japansaunafes.com/sponsors"
+      },
+      {
+        "brand": "Kawasaki City",
+        "years": [
+          2025,
+          2026
+        ],
+        "role": "government",
+        "source": "https://japansaunafes.com/sponsors"
+      },
+      {
+        "brand": "Kawasaki Tourism Association",
+        "years": [
+          2025,
+          2026
+        ],
+        "role": "government",
+        "source": "https://japansaunafes.com/sponsors"
+      },
+      {
+        "brand": "Otsuka Pharmaceutical (Pocari Sweat Ion Water)",
+        "years": [
+          2026
+        ],
+        "role": "partner",
+        "source": "https://www.instagram.com/p/DdlPd9rNNHl/"
+      },
+      {
+        "brand": "Inoue Cleaning",
+        "years": [
+          2025,
+          2026
+        ],
+        "role": "partner",
+        "source": "https://www.instagram.com/p/DdlPd9rNNHl/"
+      },
+      {
+        "brand": "saunahouse",
+        "years": [
+          2026
+        ],
+        "role": "partner",
+        "source": "https://www.instagram.com/p/DdlPd9rNNHl/"
+      },
+      {
+        "brand": "Kizakura",
+        "years": [
+          2026
+        ],
+        "role": "partner",
+        "source": "https://www.instagram.com/p/DdlPd9rNNHl/"
+      },
+      {
+        "brand": "Sansho Pharmaceutical (IROIKU)",
+        "years": [
+          2026
+        ],
+        "role": "partner",
+        "source": "https://www.instagram.com/p/DbC_W50NM01/"
+      },
+      {
+        "brand": "Surf Beverage",
+        "years": [
+          2026
+        ],
+        "role": "partner",
+        "source": "https://www.instagram.com/p/DdlPd9rNNHl/"
+      },
+      {
+        "brand": "Seikatsu Sogo Service (boco to deco)",
+        "years": [
+          2026
+        ],
+        "role": "partner",
+        "source": "https://www.instagram.com/p/DdlPd9rNNHl/"
+      },
+      {
+        "brand": "FLH (NELAX)",
+        "years": [
+          2026
+        ],
+        "role": "partner",
+        "source": "https://www.instagram.com/p/DdlPd9rNNHl/"
+      },
+      {
+        "brand": "SOLA WEATHER CARE",
+        "years": [
+          2026
+        ],
+        "role": "partner",
+        "source": "https://www.instagram.com/p/DdlQKBztjf7/"
+      },
+      {
+        "brand": "Sosu (NOSEMINT)",
+        "years": [
+          2026
+        ],
+        "role": "partner",
+        "source": "https://www.instagram.com/p/DdlQKBztjf7/"
+      },
+      {
+        "brand": "Iyoshi Cola",
+        "years": [
+          2026
+        ],
+        "role": "partner",
+        "source": "https://www.instagram.com/p/DdlQKBztjf7/"
+      },
+      {
+        "brand": "Brain Sleep",
+        "years": [
+          2026
+        ],
+        "role": "partner",
+        "source": "https://www.instagram.com/p/DdlQKBztjf7/"
+      },
+      {
+        "brand": "Kirin Brewery",
+        "years": [
+          2026
+        ],
+        "role": "partner",
+        "source": "https://www.instagram.com/p/DdlQKBztjf7/"
+      },
+      {
+        "brand": "NELJAS After Sauna",
+        "years": [
+          2026
+        ],
+        "role": "partner",
+        "source": "https://www.instagram.com/p/DdlQKBztjf7/"
+      },
+      {
+        "brand": "Saunado",
+        "years": [
+          2026
+        ],
+        "role": "partner",
+        "source": "https://www.instagram.com/p/DdlQKBztjf7/"
+      },
+      {
+        "brand": "Sauna Trading Cards (Saunetworks)",
+        "years": [
+          2026
+        ],
+        "role": "partner",
+        "source": "https://www.instagram.com/p/DdlQKBztjf7/"
+      },
+      {
+        "brand": "Sauna Camp",
+        "years": [
+          2026
+        ],
+        "role": "partner",
+        "source": "https://www.instagram.com/p/DdlQnHhtCpI/"
+      },
+      {
+        "brand": "Eiken Kogyo (Garage Sauna)",
+        "years": [
+          2026
+        ],
+        "role": "partner",
+        "source": "https://www.instagram.com/p/DdlQnHhtCpI/"
+      },
+      {
+        "brand": "AMBER",
+        "years": [
+          2026
+        ],
+        "role": "partner",
+        "source": "https://www.instagram.com/p/DdlQnHhtCpI/"
+      },
+      {
+        "brand": "iSAUNA",
+        "years": [
+          2026
+        ],
+        "role": "partner",
+        "source": "https://www.instagram.com/p/DdlQnHhtCpI/"
+      },
+      {
+        "brand": "kiyasume (Ikemitsu Enterprise)",
+        "years": [
+          2026
+        ],
+        "role": "partner",
+        "source": "https://www.instagram.com/p/DdlQnHhtCpI/"
+      },
+      {
+        "brand": "CHILL DOG",
+        "years": [
+          2026
+        ],
+        "role": "partner",
+        "source": "https://www.instagram.com/p/DdlQnHhtCpI/"
+      },
+      {
+        "brand": "Itadaki Mala Tang",
+        "years": [
+          2026
+        ],
+        "role": "partner",
+        "source": "https://www.instagram.com/p/DdlQnHhtCpI/"
+      },
+      {
+        "brand": "Kinko's Kawasaki Ekimae",
+        "years": [
+          2026
+        ],
+        "role": "partner",
+        "source": "https://www.instagram.com/p/DdlQnHhtCpI/"
+      },
+      {
+        "brand": "Maharaja",
+        "years": [
+          2026
+        ],
+        "role": "partner",
+        "source": "https://www.instagram.com/p/DdlQnHhtCpI/"
+      },
+      {
+        "brand": "Little Link",
+        "years": [
+          2026
+        ],
+        "role": "partner",
+        "source": "https://www.instagram.com/p/DdlQnHhtCpI/"
+      },
+      {
+        "brand": "Sentou Bozu (BUL DE BOIN)",
+        "years": [
+          2026
+        ],
+        "role": "partner",
+        "source": "https://www.instagram.com/p/DdlQnHhtCpI/"
+      },
+      {
+        "brand": "TENTSAUNA BASE",
+        "years": [
+          2026
+        ],
+        "role": "partner",
+        "source": "https://www.instagram.com/p/DdlQnHhtCpI/"
+      },
+      {
+        "brand": "Vihta JP (SNOOZE)",
+        "years": [
+          2026
+        ],
+        "role": "partner",
+        "source": "https://www.instagram.com/p/DdlQ9-kNl_P/"
+      },
+      {
+        "brand": "SaunaTrip",
+        "years": [
+          2026
+        ],
+        "role": "partner",
+        "source": "https://www.instagram.com/p/DdlQ9-kNl_P/"
+      },
+      {
+        "brand": "hOuR (CODE COMPANY)",
+        "years": [
+          2026
+        ],
+        "role": "partner",
+        "source": "https://www.instagram.com/p/DdlQ9-kNl_P/"
+      },
+      {
+        "brand": "Aromatise",
+        "years": [
+          2026
+        ],
+        "role": "partner",
+        "source": "https://www.instagram.com/p/DdlQ9-kNl_P/"
+      },
+      {
+        "brand": "Kajimore (Kyoto Emotion)",
+        "years": [
+          2026
+        ],
+        "role": "partner",
+        "source": "https://www.instagram.com/p/DdlQ9-kNl_P/"
+      },
+      {
+        "brand": "Sea Sauna Shack",
+        "years": [
+          2026
+        ],
+        "role": "partner",
+        "source": "https://www.instagram.com/p/DdlQ9-kNl_P/"
+      },
+      {
+        "brand": "KASHIKA (DPro)",
+        "years": [
+          2026
+        ],
+        "role": "partner",
+        "source": "https://www.instagram.com/p/DdlQ9-kNl_P/"
+      },
+      {
+        "brand": "ABiL",
+        "years": [
+          2026
+        ],
+        "role": "partner",
+        "source": "https://www.instagram.com/p/DdlQ9-kNl_P/"
+      },
+      {
+        "brand": "Nikken Food",
+        "years": [
+          2026
+        ],
+        "role": "partner",
+        "source": "https://www.instagram.com/p/DdlRI4ztCEG/"
+      },
+      {
+        "brand": "Forgeband",
+        "years": [
+          2026
+        ],
+        "role": "partner",
+        "source": "https://www.instagram.com/p/DdlRI4ztCEG/"
+      },
+      {
+        "brand": "Grace Vision",
+        "years": [
+          2026
+        ],
+        "role": "partner",
+        "source": "https://www.instagram.com/p/DdlRI4ztCEG/"
+      },
+      {
+        "brand": "Hikari Miso",
+        "years": [
+          2026
+        ],
+        "role": "partner",
+        "source": "https://www.instagram.com/p/DdlRI4ztCEG/"
+      },
+      {
+        "brand": "Kooga (SAUNA NAYA)",
+        "years": [
+          2026
+        ],
+        "role": "partner",
+        "source": "https://www.instagram.com/p/DdlRI4ztCEG/"
+      },
+      {
+        "brand": "BUGGY STORY",
+        "years": [
+          2026
+        ],
+        "role": "partner",
+        "source": "https://www.instagram.com/p/DdlRI4ztCEG/"
+      },
+      {
+        "brand": "Kanagawa Sauna Club (KSC)",
+        "years": [
+          2026
+        ],
+        "role": "partner",
+        "source": "https://japansaunafes.com/sponsors"
+      },
+      {
+        "brand": "SUPER SAUNA BROS. (SSB)",
+        "years": [
+          2026
+        ],
+        "role": "partner",
+        "source": "https://japansaunafes.com/sponsors"
+      },
+      {
+        "brand": "Himizu LLC (TRIPSAUNAJUNKY)",
+        "years": [
+          2026
+        ],
+        "role": "partner",
+        "source": "https://japansaunafes.com/sponsors"
+      }
+    ]
+  },
+  "add_sources": [
+    {
+      "field": "sponsors",
+      "url": "https://prtimes.jp/main/html/rd/p/000000012.000161875.html",
+      "note": "PR Times release, verified on page 21 Oct 2026: dated 30 Jun 2026 (not Sep 2025), general ticket sales for JAPAN SAUNA FESTIVAL 2026 (26 to 27 Sep 2026, Tamagawa Miharashi Park). Names only 特別協賛 Keikyu (京浜急行電鉄); no Sa-meshi Association, Kawasaki City or tourism association."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://japansaunafes.com/sponsors",
+      "note": "Sponsors page verified on page 21 Oct 2026: JAPAN SAUNA FESTIVAL 2026; SPECIAL SPONSORS 京浜急行電鉄株式会社; 全国サ飯協会 under SPONSORS & PARTNERS; SUPPORT (後援) Kawasaki City and Kawasaki Tourism Association."
+    }
+  ],
+  "verifier_flags": [
+    "sponsors: the cited PR Times release (000000012) is the 30 Jun 2026 ticket release for the 2026 edition, not a Sep 2025 release; the 2025 date came from a Google snippet that mixed releases. 2026 years are correct. Keikyu 2026 special sponsor confirmed by the release and the sponsors page. Sa-meshi Association, Kawasaki City and Kawasaki Tourism Association are not in the release; their source is corrected to the 2026 sponsors page. The existing sources[] note on the release overstates what it names."
+  ],
+  "notes": "Sponsor years right (2026). Corrected source URL for National Sa-meshi Association (全国サ飯協会), Kawasaki City, Kawasaki Tourism Association. Keikyu confirmed twice."
+}

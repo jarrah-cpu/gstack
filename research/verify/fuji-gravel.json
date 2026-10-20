@@ -1,0 +1,60 @@
+{
+  "id": "fuji-gravel",
+  "set": {
+    "dates": {
+      "last_edition": {
+        "start": "2026-10-11",
+        "end": "2026-10-11",
+        "status": "held",
+        "label": "Fuji Gravel Yamanashi (first edition)"
+      },
+      "next_edition": {
+        "start": "2026-12-05",
+        "end": "2026-12-06",
+        "status": "confirmed",
+        "label": "Fuji Gravel Extra 2026 at Fujisan Kodomo no Kuni, Fuji City, Shizuoka (exhibitor days 5 afternoon to 6 Dec 2026)"
+      },
+      "frequency": "seasonal",
+      "duration_days": 1
+    }
+  },
+  "add_sources": [
+    {
+      "field": "dates.next_edition",
+      "url": "https://fujigravel.com/collections/sponsors-2026-autumn",
+      "note": "Fuji Gravel Extra 2026 exhibitor page, verified on page 21 Oct 2026: exhibitor dates 5 Dec (Sat, afternoon) to 6 Dec 2026 (Sun), main venue Fujisan Kodomo no Kuni; held in December for clear Mt Fuji views. No title sponsor named."
+    },
+    {
+      "field": "dates.frequency",
+      "url": "https://fujigravel.com/en/pages/2026-fuji-gravel-overview",
+      "note": "2026 overview, verified on page 21 Oct 2026: series menu lists Fuji Gravel (spring, 17 May 2026, within 'スルガ銀行 presents 富士サイクルフェスティバル' 16 to 17 May at Fujisan Kodomo no Kuni, 後援 Shizuoka Prefecture and Fuji City), Fuji Gravel Extra 2026, Fuji Gravel Yamanashi 2026 and Fuji Gravel Ride 2026."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://fujigravel.com/en/pages/2026-fuji-gravel-overview",
+      "note": "2026 spring edition titled '富士グラベル supported by Gravelking' with 特別協賛 株式会社パナレーサー (Panaracer); applies to the Shizuoka spring edition, not Yamanashi."
+    }
+  ],
+  "add_sponsors": [
+    {
+      "brand": "Panaracer",
+      "years": [
+        2026
+      ],
+      "role": "naming",
+      "source": "https://fujigravel.com/en/pages/2026-fuji-gravel-overview"
+    }
+  ],
+  "remove_gaps": [
+    "Spring 2026 and Fuji Cycle Festival dates not captured"
+  ],
+  "add_gaps": [
+    "Record covers a multi-event series; location fields describe only the Yamanashi edition"
+  ],
+  "verifier_flags": [
+    "scope: record mixes the Fuji Gravel series run by Terra Incognita. Shizuoka editions at Fujisan Kodomo no Kuni, Fuji City (spring: 18 May 2025 and 17 May 2026 inside Suruga Bank presents Fuji Cycle Festival; Fuji Gravel Extra: 7 Dec 2025 and 5 to 6 Dec 2026) plus the first Fuji Gravel Yamanashi in Nanbu (11 Oct 2026). Location fields point at Nanbu only; consider Fuji City, Shizuoka as the home location or split the Yamanashi edition.",
+    "dates: next edition corrected from 'Spring 2027 expected' to Fuji Gravel Extra 2026, 5 to 6 Dec 2026 (confirmed); frequency set to seasonal (two to three editions a year).",
+    "sponsors: Panaracer special sponsorship ('supported by Panaracer' 2025, 'supported by Gravelking' with 特別協賛 Panaracer 2026) applies to the Shizuoka spring edition; Yamanashi 2026 lists only government backers and Monoral Bikes. Attendance 107 riders is Yamanashi only."
+  ],
+  "notes": "Next edition fixed to Fuji Gravel Extra 5 to 6 Dec 2026. Scope flagged; Panaracer 2026 added (Shizuoka only)."
+}

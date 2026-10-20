@@ -1,0 +1,14 @@
+{
+  "id": "meeting-of-styles-peru-lima",
+  "add_sources": [
+    {
+      "field": "dates.next_edition (verified)",
+      "url": "https://meetingofstyles.com/01-08-november-2026-lima-metropolitan-area-peru/",
+      "note": "Organiser page (3 Sep 2026): heading '26 to 29 November 2026, Lima (Perú)' but the Spanish body says 'Del 24 al 29 de noviembre de 2026'; venue Centro de Convenciones Festiva, Centro de Lima; organiser MOSPERÚ. Verified on page 21 Oct 2026."
+    }
+  ],
+  "verifier_flags": [
+    "dates.next_edition: organiser page conflicts with itself (heading 26 to 29 Nov, body 24 to 29 Nov 2026); kept 26 to 29 Nov. Venue Centro de Convenciones Festiva, Centro de Lima."
+  ],
+  "notes": "Start date 24 or 26 Nov."
+}

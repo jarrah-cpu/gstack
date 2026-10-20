@@ -1,0 +1,14 @@
+{
+  "id": "bigsound-brisbane",
+  "add_sources": [
+    {
+      "field": "sponsors.role",
+      "url": "https://www.bigsound.org.au/information/partners",
+      "note": "Partners page (2026): Oztix under Presenting Partners; Spotify, Amplify Music Education and Gyrostream under Platinum Partners; Amazon Music, APRA AMCOS, American Apparel, BrewDog, Sony Music and Up under Major Partners. Logos lack alt text; names read from link URLs. Verified on page 21 Oct 2026."
+    }
+  ],
+  "verifier_flags": [
+    "sponsors: Gyrostream, BrewDog and APRA AMCOS rest on the partners page logos only (names from link URLs); single-source for 2026. Oztix, Spotify, Amazon Music, Amplify, American Apparel, Sony Music and Up are corroborated by hub or stage naming, press or festival IG posts."
+  ],
+  "notes": "Tiers confirmed on partners page; three major partners single-source."
+}

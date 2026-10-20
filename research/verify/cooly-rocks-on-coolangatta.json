@@ -1,0 +1,17 @@
+{
+  "id": "cooly-rocks-on-coolangatta",
+  "add_sources": [
+    {
+      "field": "attendance.note",
+      "url": "https://statements.qld.gov.au/statements/85879",
+      "note": "Queensland Government statement, 30 Oct 2018: 'lured more than 110,000 people and generated about 34,000 visitor nights this year' (2018 edition). Verified on page 21 Oct 2026."
+    }
+  ],
+  "add_gaps": [
+    "Sponsorship email sponsorship@experiencegoldcoast.com was decoded from Cloudflare email protection and is not shown as text on any page found"
+  ],
+  "verifier_flags": [
+    "partnership_contact: sponsorship@experiencegoldcoast.com unconfirmed; the become-a-sponsor page shows only a Cloudflare '[email protected]' placeholder and a search found no page carrying the address. Organiser (Experience Gold Coast) confirmed in the page footer."
+  ],
+  "notes": "Email left in place but flagged unconfirmed; 2018 attendance snippet verified."
+}

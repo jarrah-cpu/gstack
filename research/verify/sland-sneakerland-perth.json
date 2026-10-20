@@ -1,0 +1,23 @@
+{
+  "id": "sland-sneakerland-perth",
+  "set": {
+    "attendance": {
+      "figure": null,
+      "year": null,
+      "is_estimate": null,
+      "source": "https://www.fortemagazine.com.au/?p=298368",
+      "note": "No current attendance figure. Forte Magazine (Melbourne preview for 19 Nov 2022) says Perth's Sneakerland 2.0 drew 'more than 5,000 attendees' with 35 local brands and vendors (year not stated, before Nov 2022); the Melbourne 2022 edition had 52 vendors and over 3,000 sneakers. The figure is from the earlier one-day convention format, not the HoopsFest edition. Organiser bills SLAND as Australia's largest fashion and culture festival."
+    }
+  },
+  "add_sources": [
+    {
+      "field": "attendance.source",
+      "url": "https://www.fortemagazine.com.au/?p=298368",
+      "note": "Page gives Perth Sneakerland 2.0 'more than 5,000 attendees'; it does not contain the 30,000+ cumulative figure. Verified on page 21 Oct 2026."
+    }
+  ],
+  "verifier_flags": [
+    "attendance: the search-summary claim of 30,000+ across three cities since 2021 is not on the cited Forte page, which gives only 'more than 5,000 attendees' for an early Perth edition; note corrected, figure left null."
+  ],
+  "notes": "Unsupported 30,000 claim removed from the attendance note."
+}

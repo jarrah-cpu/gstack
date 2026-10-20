@@ -1,0 +1,126 @@
+{
+  "id": "the-big-sweat-leura",
+  "set": {
+    "ticket_price": {
+      "min": 80,
+      "max": null,
+      "currency": "AUD",
+      "free_entry": false,
+      "note": "2026: 'Cost: $80' on the Blue Mountains What's On listing (verified on page 21 Oct 2026); full price ladder not seen; organiser page says adult and kids tickets were available. Clothed sessions, open to all ages."
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "SDS Australia",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://saunaaustralia.org.au/l/the-big-sweat"
+    },
+    {
+      "brand": "Harvia",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://saunaaustralia.org.au/l/the-big-sweat"
+    },
+    {
+      "brand": "Refined Wellness",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://saunaaustralia.org.au/l/the-big-sweat"
+    },
+    {
+      "brand": "TimberHaus",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://saunaaustralia.org.au/l/the-big-sweat"
+    },
+    {
+      "brand": "Butcher's Pride",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://saunaaustralia.org.au/l/the-big-sweat"
+    },
+    {
+      "brand": "Celsium Wellness",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://saunaaustralia.org.au/l/the-big-sweat"
+    },
+    {
+      "brand": "Kippis Finnish Long Drink",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://saunaaustralia.org.au/l/the-big-sweat"
+    },
+    {
+      "brand": "SENA Rituals",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://saunaaustralia.org.au/l/the-big-sweat"
+    },
+    {
+      "brand": "Mountain Culture Beer Co",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://saunaaustralia.org.au/l/the-big-sweat"
+    },
+    {
+      "brand": "Yesterday Store",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://saunaaustralia.org.au/l/the-big-sweat"
+    },
+    {
+      "brand": "Fidelity Coffee",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://saunaaustralia.org.au/l/the-big-sweat"
+    }
+  ],
+  "add_sources": [
+    {
+      "field": "ticket_price",
+      "url": "https://www.bluemts.com.au/whatson/45605/the-big-sweat-copresented-by-blue-mountains-sauna-the-australia-sauna-association/",
+      "note": "verified on page 21 Oct 2026: 'Cost: $80'; 22 to 23 Aug 2026 at Blue Mountains Sauna, 7 Quinns Avenue, Leura; 'Co-Presented by Blue Mountains Sauna & The Australia Sauna Association'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://saunaaustralia.org.au/l/the-big-sweat",
+      "note": "verified on page 21 Oct 2026: event page ('This event has finished') lists 2026 major sponsors SDS Australia, Harvia, Refined Wellness, TimberHaus, Butcher's Pride and Celsium Wellness; supporting partners Kippis, SENA Rituals, Mountain Culture Beer Co, Yesterday Store, Fidelity Coffee; sauna partners Sweat & Flow, Sauna Bastu, Haut Hutt. 'Hosted by Blue Mountains Sauna in Leura and supported by the Australian Sauna Association'. No 2027 date on the page."
+    }
+  ],
+  "remove_gaps": [
+    "No commercial sponsors named; Harvia appears as 'partners' in a third-party Midnight Runners post, unclear whose partner"
+  ],
+  "add_gaps": [
+    "May 2027 appears only in the festival's Instagram bio; venue and exact dates not announced"
+  ],
+  "verifier_flags": [
+    "dates.next_edition: May 2027 confirmed only by the festival's own Instagram bio (21 Oct 2026); the organiser event page and press show no 2027 date or venue.",
+    "sponsors: six 2026 major sponsors added from the organiser event page only (single source); two are wellness brands (Refined Wellness, Celsium Wellness), a possible category conflict.",
+    "sponsors: Blue Mountains Sauna is host and co-presenter (effectively co-organiser), not a paying sponsor; role left as venue."
+  ],
+  "notes": "Earlier gap saying no commercial sponsors were named was wrong; the organiser page lists a full 2026 sponsor tier."
+}

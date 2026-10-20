@@ -1,0 +1,11 @@
+{
+  "id": "here-comes-the-sun-gold-coast",
+  "add_sources": [
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.abc.net.au/triplej/news/here-comes-the-sun-festival-torquay-cancelled/106436236",
+      "note": "triple j, 10 Mar 2026: the Torquay stop (planned 4 Apr) was cancelled 'due to unforeseen circumstances'; 'Margaret River and Gold Coast events will be going ahead as planned'. No statement on 2027. Verified on page 21 Oct 2026."
+    }
+  ],
+  "notes": "Torquay cancellation snippet verified; Gold Coast leg unaffected."
+}

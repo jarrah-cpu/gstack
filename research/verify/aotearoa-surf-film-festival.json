@@ -1,0 +1,15 @@
+{
+  "id": "aotearoa-surf-film-festival",
+  "add_sources": [
+    {
+      "field": "sponsors.years",
+      "url": "https://christchurchartgallery.org.nz/events/aotearoa-surf-film-festival",
+      "note": "verified on page 21 Oct 2026: 'The O'Neill Aotearoa Surf Film Festival (ASFF) is proud to be back for its 8th year'; the 14th edition was 2026, so the 8th was 2020."
+    }
+  ],
+  "verifier_flags": [
+    "sponsors: O'Neill naming confirmed for 2020 only; O'Neill is absent from the 2026 partners page (asff.co.nz/partners, checked 21 Oct 2026), so it is not a current partner",
+    "sources: FilmFreeway returned 403, so its snippet facts (Photo Warehouse award, Feb to Apr tour) stay unverified; the 5,000 attendance is also on the organiser's About page"
+  ],
+  "notes": "Special check: O'Neill is a past (2020) naming sponsor only. Record already shows years [2020]."
+}

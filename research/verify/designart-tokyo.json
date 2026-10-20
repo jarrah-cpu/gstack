@@ -1,0 +1,11 @@
+{
+  "id": "designart-tokyo",
+  "add_sources": [
+    {
+      "field": "attendance",
+      "url": "https://www.designart.jp/designarttokyo2025/report/",
+      "note": "2025 Festival Report, verified on page 21 Oct 2026: 総来場者数 のべ約248,800人, 31 Oct to 9 Nov 2025, 91 venues, 130 exhibitors."
+    }
+  ],
+  "notes": "248,800 (2025) confirmed on the organiser report page."
+}

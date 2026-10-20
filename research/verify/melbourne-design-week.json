@@ -1,0 +1,23 @@
+{
+  "id": "melbourne-design-week",
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://designweek.melbourne/about/",
+      "note": "verified on page 21 Oct 2026: official MDW site."
+    },
+    {
+      "field": "attendance",
+      "url": "https://designweek.melbourne/about/",
+      "note": "verified on page 21 Oct 2026: 'With more than 120,000 attendees in 2026'."
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://designweek.melbourne/about/",
+      "note": "verified on page 21 Oct 2026: 'will run from 20-30 May in 2027'."
+    }
+  ],
+  "verifier_flags": [
+    "sponsors: Telstra (Major Partner, 2026) rests on one Google snippet of an NGV Facebook post (the Instagram snippet cuts off before names); single source. Mercedes-Benz is confirmed by the NGV media release (award presenter)."
+  ]
+}
