@@ -15,6 +15,7 @@ Usage: python3 research/tools/phase2_ledger.py <run_id> <step> <label> <input_fi
 Prints the running total. Exits 2 when the total passes the cap.
 """
 import json
+import re
 import sys
 import urllib.request
 from datetime import date
@@ -36,6 +37,30 @@ def write_table(rows):
         body.append(f"| {r['n']} | {r['date']} | {r['step']} | {r['actor']} | `{r['input']}` | {r['items']} | "
                     f"{r['cost_usd']:.4f}{est} | {r['running_total_usd']:.4f} | {r['run_id']} | {r['dataset_id']} | `{r['raw']}` |")
     md.write_text(head + "\n".join(body) + "\n")
+
+
+SECRET_PATTERNS = [
+    (re.compile(r"\b(sk|pk|tk)\.eyJ[A-Za-z0-9._\-]{20,}"), "<redacted-token>"),
+    (re.compile(r"AIza[0-9A-Za-z_\-]{35}"), "<redacted-key>"),
+    (re.compile(r"(?i)\b(access_token|api_key|apikey|key|token|client_secret|signature|sig|auth)=([A-Za-z0-9._%\-]{12,})"),
+     r"\1=<redacted>"),
+]
+
+
+def redact(text):
+    """Remove credential-like strings that third-party pages embed (map tokens, API keys)."""
+    for pat, rep in SECRET_PATTERNS:
+        text = pat.sub(rep, text)
+    return text
+
+
+def project_page(it):
+    """Keep the crawl fields used for extraction; drop headers, raw HTML and cookies."""
+    crawl, meta = it.get("crawl") or {}, it.get("metadata") or {}
+    return {"url": it.get("url"), "loadedUrl": crawl.get("loadedUrl"), "status": crawl.get("httpStatusCode"),
+            "depth": crawl.get("depth"), "contentType": crawl.get("contentType"), "title": meta.get("title"),
+            "description": meta.get("description"), "language": meta.get("languageCode"),
+            "markdown": redact(it.get("markdown") or it.get("text") or "")}
 
 
 def strip_profile(p):
@@ -86,9 +111,11 @@ if fields:
             it[k] = [{x: u.get(x) for x in keep_user} for u in (it.get(k) or [])]
         it["childPosts"] = [{"taggedUsers": [{x: u.get(x) for x in keep_user} for u in (c.get("taggedUsers") or [])]}
                             for c in (it.get("childPosts") or []) if c.get("taggedUsers")]
+if step == "crawl":
+    items_json = [project_page(it) for it in items_json]
 if step in ("ig-profile", "ig-search"):
     items_json = [strip_profile(it) for it in items_json]
-raw.write_text("".join(json.dumps(it, ensure_ascii=False) + "\n" for it in items_json))
+raw.write_text(redact("".join(json.dumps(it, ensure_ascii=False) + "\n" for it in items_json)))
 items = sum(1 for l in raw.read_text().split("\n") if l.strip())
 actual_input = APIFY / "inputs" / f"{n:02d}-{label}.actual-input.json"
 actual_input.write_bytes(get(f"https://api.apify.com/v2/key-value-stores/{run['defaultKeyValueStoreId']}/records/INPUT"))
