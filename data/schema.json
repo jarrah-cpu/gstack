@@ -1,0 +1,293 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://high-ground.local/subculture-scan/event.schema.json",
+  "title": "Subculture festival and event record",
+  "description": "One event per line in data/events.jsonl. Unknown values are null, never guessed. Every factual field needs a matching entry in sources[]. Estimates set is_estimate true.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id", "name", "scope", "region", "category", "subculture_tags", "location",
+    "dates", "website", "instagram", "attendance", "audience", "organiser",
+    "sponsors", "activation_formats", "partnership_contact", "ticket_price",
+    "vibe", "fit_notes", "status", "scores", "sources", "gaps", "record_meta"
+  ],
+  "$defs": {
+    "nullable_string": { "type": ["string", "null"] },
+    "nullable_url": { "type": ["string", "null"], "pattern": "^https?://" },
+    "nullable_date": {
+      "description": "ISO date (YYYY-MM-DD), month (YYYY-MM) or year (YYYY). Use the most precise value the source supports.",
+      "type": ["string", "null"],
+      "pattern": "^\\d{4}(-\\d{2}(-\\d{2})?)?$"
+    },
+    "edition": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["start", "end", "status", "label"],
+      "properties": {
+        "start": { "$ref": "#/$defs/nullable_date" },
+        "end": { "$ref": "#/$defs/nullable_date" },
+        "status": {
+          "type": ["string", "null"],
+          "enum": ["held", "confirmed", "expected", "unknown", null],
+          "description": "held = already happened. confirmed = organiser has announced dates. expected = inferred from past pattern, not announced."
+        },
+        "label": {
+          "$ref": "#/$defs/nullable_string",
+          "description": "Edition name or number, e.g. '2nd edition' or '2026'."
+        }
+      }
+    }
+  },
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "description": "Stable kebab-case slug: event name plus city if needed to disambiguate, e.g. 'surplus-sydney'."
+    },
+    "name": { "type": "string", "minLength": 1 },
+    "scope": {
+      "type": "string",
+      "enum": ["A", "B", "A+B"],
+      "description": "A = Australian event like SURPLUS. B = global subculture festival. A+B = qualifies as both."
+    },
+    "region": {
+      "type": "string",
+      "description": "Research region key that found it, e.g. 'a-sydney', 'b-japan'."
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "streetwear-culture-festival",
+        "creative-market",
+        "design-art-week",
+        "skate-surf-culture-weekend",
+        "independent-music-festival",
+        "club-culture",
+        "makers-vintage",
+        "food-culture-night-market",
+        "subculture-festival",
+        "competition-or-contest",
+        "expo-or-trade-show",
+        "other"
+      ]
+    },
+    "subculture_tags": {
+      "type": "array",
+      "description": "Lower-case kebab tags. Preferred vocabulary: longboard-downhill, skateboarding, surf, log-single-fin, sneaker-streetwear, independent-music, electronic-music, club-culture, van-life-overlanding, climbing-bouldering, gravel-cycling, fixed-gear-cycling, tattoo, vintage-motorcycle-custom, car-culture, wellness-breathwork, art-street-art, zines-publishing, design, vintage-fashion, makers-craft, food-culture, film, photography. Add new tags when a subculture is not covered.",
+      "items": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" }
+    },
+    "location": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["city", "state_or_region", "country", "venue_or_area"],
+      "properties": {
+        "city": { "$ref": "#/$defs/nullable_string" },
+        "state_or_region": { "$ref": "#/$defs/nullable_string" },
+        "country": { "type": "string" },
+        "venue_or_area": { "$ref": "#/$defs/nullable_string" }
+      }
+    },
+    "dates": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["last_edition", "next_edition", "frequency", "duration_days"],
+      "properties": {
+        "last_edition": { "$ref": "#/$defs/edition" },
+        "next_edition": { "$ref": "#/$defs/edition" },
+        "frequency": {
+          "type": ["string", "null"],
+          "enum": ["annual", "biannual", "biennial", "monthly", "weekly", "seasonal", "irregular", "one-off", "unknown", null],
+          "description": "biannual = twice a year. biennial = every two years."
+        },
+        "duration_days": { "type": ["integer", "null"], "minimum": 1 }
+      }
+    },
+    "website": { "$ref": "#/$defs/nullable_url" },
+    "instagram": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["handle", "url", "followers", "followers_as_of", "followers_source", "organiser_handle", "organiser_url", "organiser_followers"],
+      "properties": {
+        "handle": { "type": ["string", "null"], "pattern": "^@[A-Za-z0-9._]+$" },
+        "url": { "$ref": "#/$defs/nullable_url" },
+        "followers": { "type": ["integer", "null"], "minimum": 0 },
+        "followers_as_of": { "$ref": "#/$defs/nullable_date" },
+        "followers_source": {
+          "$ref": "#/$defs/nullable_string",
+          "description": "Where the count came from: 'apify-instagram-profile-scraper', 'search snippet', etc."
+        },
+        "organiser_handle": { "type": ["string", "null"], "pattern": "^@[A-Za-z0-9._]+$" },
+        "organiser_url": { "$ref": "#/$defs/nullable_url" },
+        "organiser_followers": { "type": ["integer", "null"], "minimum": 0 },
+        "post_count": { "type": ["integer", "null"], "minimum": 0 },
+        "bio": { "$ref": "#/$defs/nullable_string" },
+        "avg_recent_engagement": {
+          "type": ["number", "null"],
+          "description": "Mean likes plus comments across the last 12 posts. Phase 2 only."
+        }
+      }
+    },
+    "attendance": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["figure", "year", "is_estimate", "source", "note"],
+      "properties": {
+        "figure": { "type": ["integer", "null"], "minimum": 0 },
+        "figure_high": {
+          "type": ["integer", "null"],
+          "minimum": 0,
+          "description": "Upper bound when the source gives a range. figure holds the lower bound."
+        },
+        "year": { "type": ["integer", "null"] },
+        "is_estimate": { "type": ["boolean", "null"] },
+        "source": { "$ref": "#/$defs/nullable_url" },
+        "note": { "$ref": "#/$defs/nullable_string" }
+      }
+    },
+    "audience": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["age_range", "gender_skew", "psychographics", "source"],
+      "properties": {
+        "age_range": { "$ref": "#/$defs/nullable_string" },
+        "gender_skew": { "$ref": "#/$defs/nullable_string" },
+        "psychographics": { "$ref": "#/$defs/nullable_string" },
+        "source": {
+          "$ref": "#/$defs/nullable_string",
+          "description": "URL, or 'inferred from IG audience signals' when not from a published source."
+        }
+      }
+    },
+    "organiser": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["name", "website"],
+      "properties": {
+        "name": { "$ref": "#/$defs/nullable_string" },
+        "type": {
+          "type": ["string", "null"],
+          "enum": ["independent", "brand-owned", "retailer", "promoter", "government-or-council", "non-profit", "media", "community-collective", "other", null]
+        },
+        "website": { "$ref": "#/$defs/nullable_url" }
+      }
+    },
+    "sponsors": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["brand", "years", "role", "source"],
+        "properties": {
+          "brand": { "type": "string" },
+          "years": { "type": "array", "items": { "type": "integer" } },
+          "role": {
+            "type": ["string", "null"],
+            "enum": ["presenting", "naming", "major", "partner", "media", "venue", "vendor-or-stall", "collab", "government", "unknown", null]
+          },
+          "source": { "$ref": "#/$defs/nullable_url" }
+        }
+      }
+    },
+    "activation_formats": {
+      "type": "array",
+      "description": "Preferred vocabulary: stall, lounge, collab-product, product-drop, workshop, customisation-station, stage-or-program-takeover, sampling, competition-or-prize, installation, after-party, content-series, hospitality-bar, naming-rights.",
+      "items": { "type": "string" }
+    },
+    "partnership_contact": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["email", "page_url", "named_person", "source"],
+      "properties": {
+        "email": { "$ref": "#/$defs/nullable_string" },
+        "page_url": { "$ref": "#/$defs/nullable_url" },
+        "named_person": { "$ref": "#/$defs/nullable_string" },
+        "source": { "$ref": "#/$defs/nullable_url" }
+      }
+    },
+    "ticket_price": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["min", "max", "currency", "free_entry", "note"],
+      "properties": {
+        "min": { "type": ["number", "null"], "minimum": 0 },
+        "max": { "type": ["number", "null"], "minimum": 0 },
+        "currency": { "type": ["string", "null"], "pattern": "^[A-Z]{3}$" },
+        "free_entry": { "type": ["boolean", "null"], "description": "True when general entry is free, even if some program items are ticketed." },
+        "note": { "$ref": "#/$defs/nullable_string" }
+      }
+    },
+    "vibe": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["score", "rationale", "preliminary"],
+      "properties": {
+        "score": { "type": ["integer", "null"], "minimum": 1, "maximum": 5 },
+        "rationale": { "$ref": "#/$defs/nullable_string" },
+        "preliminary": {
+          "type": "boolean",
+          "description": "True when scored at discovery from limited evidence. Phase 4 sets false."
+        }
+      }
+    },
+    "fit_notes": { "$ref": "#/$defs/nullable_string" },
+    "status": {
+      "type": "string",
+      "enum": ["active", "on-hiatus", "discontinued", "unknown"],
+      "description": "discontinued and long-dormant events move to data/archived.jsonl in Phase 3."
+    },
+    "scores": {
+      "type": "object",
+      "additionalProperties": false,
+      "description": "Phase 4 scoring. Null until then.",
+      "required": ["vibe_fit", "audience_fit", "scale_band", "accessibility", "cost_signal", "weighted_total"],
+      "properties": {
+        "vibe_fit": { "type": ["integer", "null"], "minimum": 1, "maximum": 5 },
+        "audience_fit": { "type": ["integer", "null"], "minimum": 1, "maximum": 5 },
+        "scale_band": {
+          "type": ["string", "null"],
+          "enum": ["<1k", "1k-5k", "5k-20k", "20k-50k", "50k-100k", "100k+", "unknown", null]
+        },
+        "accessibility": {
+          "type": ["string", "null"],
+          "enum": ["open", "selective", "locked", "unknown", null],
+          "description": "open = multiple partners, actively seeking more. selective = partners but curated. locked = single dominant sponsor or brand-owned."
+        },
+        "cost_signal": {
+          "type": ["string", "null"],
+          "enum": ["low", "medium", "high", "unknown", null]
+        },
+        "weighted_total": { "type": ["number", "null"] }
+      }
+    },
+    "sources": {
+      "type": "array",
+      "minItems": 1,
+      "description": "One entry per claim. field names the schema path the URL supports, e.g. 'dates.next_edition', 'sponsors', 'attendance'.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["field", "url"],
+        "properties": {
+          "field": { "type": "string" },
+          "url": { "type": "string", "pattern": "^https?://" },
+          "note": { "$ref": "#/$defs/nullable_string" }
+        }
+      }
+    },
+    "gaps": {
+      "type": "array",
+      "description": "Plain-English notes on what is unknown or conflicting, e.g. 'attendance not published', 'two sources disagree on 2027 dates'.",
+      "items": { "type": "string" }
+    },
+    "record_meta": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["phase", "updated"],
+      "properties": {
+        "phase": { "type": "string", "enum": ["discovery", "enriched", "verified", "scored"] },
+        "updated": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+        "verifier_flags": { "type": "array", "items": { "type": "string" } }
+      }
+    }
+  }
+}
