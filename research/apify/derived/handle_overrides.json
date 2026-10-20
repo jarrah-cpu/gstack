@@ -1,0 +1,557 @@
+{
+  "the-village-markets-burleigh": {
+    "handle": "thevillagemarkets",
+    "organiser_handle": null,
+    "note": "Main account; @thevillagemarketsgc points to it. Bio on 20 Oct 2026 says no future TVM events scheduled."
+  },
+  "valley-fiesta-brisbane": {
+    "handle": null,
+    "organiser_handle": "brisbanecitycouncil",
+    "note": "Council event; @valleycrawlfest is a different event. No event account found."
+  },
+  "woodford-folk-festival": {
+    "handle": "woodfordfolkfestival",
+    "organiser_handle": null,
+    "note": "@woodfordfolkclub is a separate small account."
+  },
+  "bleach-festival-gold-coast": {
+    "handle": "bleachfestival",
+    "organiser_handle": "hotagc",
+    "note": "Presented at HOTA."
+  },
+  "a3-festival-lardner-park": {
+    "handle": "a3festival",
+    "organiser_handle": "wearenovel",
+    "note": "Novel promotes A3."
+  },
+  "golden-plains-meredith": {
+    "handle": "goldenplainsfestival",
+    "organiser_handle": null,
+    "note": "Official but unused: bio says announcements happen only at goldenplains.com.au."
+  },
+  "the-breakfast-club-melbourne": {
+    "handle": "thebreakfastclub_melbourne",
+    "organiser_handle": null,
+    "note": "@the_breakfast_club_melbourne is an unrelated brunch blog."
+  },
+  "victorias-pride-street-party": {
+    "handle": null,
+    "organiser_handle": "midsummafestival",
+    "note": "Run by Midsumma; no separate event account found."
+  },
+  "summer-dance-astral-people-sydney": {
+    "handle": "summerdance.au",
+    "organiser_handle": "astral_people",
+    "note": null
+  },
+  "boulderfest-brisbane": {
+    "handle": null,
+    "organiser_handle": null,
+    "note": "Search hits were other Boulderfests (Idaho, Morocco)."
+  },
+  "vanlife-gathering-natural-bridge": {
+    "handle": null,
+    "organiser_handle": "vanlifediaries",
+    "note": "Gatherings are run and promoted by Vanlife Diaries."
+  },
+  "rip-curl-cup-padang-padang": {
+    "handle": null,
+    "organiser_handle": "ripcurl_indo",
+    "note": "No event account; Rip Curl Indonesia runs the event."
+  },
+  "fuji-gravel": {
+    "handle": null,
+    "organiser_handle": null,
+    "note": "@fujin_gravelwear is an unrelated clothing brand."
+  },
+  "himeji-skateboard-jam": {
+    "handle": null,
+    "organiser_handle": "himeji_skateboard_association",
+    "note": "Association bio announces HIMEJI SKATEBOARD JAM 2026 on 25 Oct."
+  },
+  "snow-peak-way-japan": {
+    "handle": null,
+    "organiser_handle": "snowpeak_official",
+    "note": "Snow Peak Way is run by Snow Peak; no separate event account found."
+  },
+  "gravel-in-paradise-otago": {
+    "handle": null,
+    "organiser_handle": null,
+    "note": "Search hits were unrelated gravel accounts (Fuerteventura and others)."
+  },
+  "motofest-hampton-downs": {
+    "handle": null,
+    "organiser_handle": null,
+    "note": "Search hits were MotoFests in other countries."
+  },
+  "la-bodega-skate-music-fest-jerez": {
+    "handle": null,
+    "organiser_handle": "labodegaskate",
+    "note": "Fest is run by La Bodega Skate Center Jerez."
+  },
+  "single-fin-classic-donostia": {
+    "handle": null,
+    "organiser_handle": null,
+    "note": "@singlefinclassic is an empty unrelated account."
+  },
+  "climb-smart-joshua-tree": {
+    "handle": null,
+    "organiser_handle": null,
+    "note": "Search hits were unrelated climbing accounts."
+  },
+  "dirtybird-campout-northern-nights": {
+    "handle": "dirtybirdcamp",
+    "organiser_handle": "nnmfestival",
+    "note": "Joint event; Northern Nights has its own account."
+  },
+  "da-klinic-go-skateboarding-day-adelaide": {
+    "handle": null,
+    "organiser_handle": null,
+    "note": "Instagram search returned only unrelated accounts."
+  },
+  "hidden-treasures-fremantle": {
+    "handle": null,
+    "organiser_handle": null,
+    "note": "Accounts linked from the council page are performers."
+  },
+  "king-of-the-park-margaret-river": {
+    "handle": null,
+    "organiser_handle": null,
+    "note": "Instagram search returned only unrelated accounts."
+  },
+  "lavan-whalebone-longboard-classic-cottesloe": {
+    "handle": null,
+    "organiser_handle": null,
+    "note": "Instagram search returned only unrelated accounts."
+  },
+  "unsound-adelaide": {
+    "handle": null,
+    "organiser_handle": "illuminateadelaide",
+    "note": "Presented within Illuminate Adelaide."
+  },
+  "blak-day-out-brisbane": {
+    "handle": null,
+    "organiser_handle": "blak.social",
+    "note": "Co-run by Blak Social."
+  },
+  "here-comes-the-sun-gold-coast": {
+    "handle": "hctsfest",
+    "organiser_handle": null,
+    "note": "One account for all Here Comes The Sun dates."
+  },
+  "here-comes-the-sun-torquay": {
+    "handle": "hctsfest",
+    "organiser_handle": null,
+    "note": "One account for all Here Comes The Sun dates."
+  },
+  "ima-zine-fair-brisbane": {
+    "handle": null,
+    "organiser_handle": "instituteofmodernart",
+    "note": null
+  },
+  "designedmade-makers-market-hobart": {
+    "handle": null,
+    "organiser_handle": null,
+    "note": "Accounts found were individual makers."
+  },
+  "fashion-thrift-society-hobart": {
+    "handle": null,
+    "organiser_handle": null,
+    "note": "No account found in search."
+  },
+  "go-skateboarding-day-hobart": {
+    "handle": null,
+    "organiser_handle": "skate__of__mind",
+    "note": "Skate of Mind runs the Hobart event."
+  },
+  "incubator-zine-digital-art-fair-darwin": {
+    "handle": null,
+    "organiser_handle": "darwinfringefestival",
+    "note": "Part of Darwin Fringe."
+  },
+  "kuuma-dark-dip-hobart": {
+    "handle": null,
+    "organiser_handle": "kuumasauna",
+    "note": "Dark Dip is a KUUMA product."
+  },
+  "nude-solstice-swim-hobart": {
+    "handle": null,
+    "organiser_handle": "dark_mofo",
+    "note": "Part of Dark Mofo."
+  },
+  "bells-beach-longboard-classic": {
+    "handle": null,
+    "organiser_handle": "wsl",
+    "note": "No event account; run by the World Surf League."
+  },
+  "fashion-thrift-society-melbourne": {
+    "handle": null,
+    "organiser_handle": null,
+    "note": "@fashionthriftsociety returned no profile data (missing or private)."
+  },
+  "laneway-festival-melbourne": {
+    "handle": "lanewayfest",
+    "organiser_handle": "lanewaypresents",
+    "note": "National Laneway account."
+  },
+  "laneway-festival-sydney": {
+    "handle": "lanewayfest",
+    "organiser_handle": "lanewaypresents",
+    "note": "National Laneway account; Laneway Presents is the promoter."
+  },
+  "laneway-festival-auckland": {
+    "handle": "lanewayfestnz",
+    "organiser_handle": null,
+    "note": null
+  },
+  "melbourne-art-book-fair": {
+    "handle": null,
+    "organiser_handle": "ngvmelbourne",
+    "note": null
+  },
+  "melbourne-design-week": {
+    "handle": null,
+    "organiser_handle": "ngvmelbourne",
+    "note": "No separate Melbourne Design Week account found."
+  },
+  "queen-victoria-night-market": {
+    "handle": "thenightmarket",
+    "organiser_handle": "vicmarket",
+    "note": "Winter Night Market account."
+  },
+  "waxo-paradiso-open-air": {
+    "handle": null,
+    "organiser_handle": null,
+    "note": "Instagram search returned only unrelated accounts."
+  },
+  "festival-of-the-photocopier-melbourne": {
+    "handle": null,
+    "organiser_handle": "sticky_institute",
+    "note": null
+  },
+  "fair-go-skate-competition-ballina": {
+    "handle": null,
+    "organiser_handle": "truckstopsk8school",
+    "note": "Organiser role inferred in Phase 1."
+  },
+  "festival-of-the-stone-byron-bay": {
+    "handle": null,
+    "organiser_handle": "stoneandwood",
+    "note": null
+  },
+  "water-women-campout-skennars-head": {
+    "handle": "water.women.collective",
+    "organiser_handle": null,
+    "note": "Profile link is the campout page on surfersforclimate.org.au."
+  },
+  "seas-the-day-kingscliff": {
+    "handle": null,
+    "organiser_handle": "surfingaus",
+    "note": "@nrmainsurance is the naming sponsor."
+  },
+  "marrickville-organic-food-market": {
+    "handle": null,
+    "organiser_handle": "organicfoodmarkets",
+    "note": "Organic Food Markets runs the Marrickville market."
+  },
+  "australian-national-slalom-championships-canberra": {
+    "handle": null,
+    "organiser_handle": null,
+    "note": "Instagram search returned only unrelated accounts."
+  },
+  "sheffield-international-mural-fest": {
+    "handle": "mural_fest",
+    "organiser_handle": null,
+    "note": "Bio names Sheffield, Tasmania."
+  },
+  "the-big-sweat-leura": {
+    "handle": "the.big.sweat",
+    "organiser_handle": "australian.sauna.association",
+    "note": "Bio: Australia's National Sauna Festival, May 2027, presented by the Australian Sauna Association."
+  },
+  "deus-slidetoberfest-canggu": {
+    "handle": null,
+    "organiser_handle": "deusexmachina.id",
+    "note": null
+  },
+  "island-of-gods-tattoo-convention-kuta": {
+    "handle": null,
+    "organiser_handle": null,
+    "note": "Instagram search returned only unrelated accounts."
+  },
+  "uluwatu-single-fin-classic": {
+    "handle": null,
+    "organiser_handle": null,
+    "note": "@singlefinbali is the Single Fin bar; its link to the event is not confirmed."
+  },
+  "urban-sneaker-society-jakarta": {
+    "handle": "u.s.s",
+    "organiser_handle": null,
+    "note": "Profile link is the USS 2026 tenant registration form."
+  },
+  "mooneyes-street-car-nationals-odaiba": {
+    "handle": null,
+    "organiser_handle": "mooneyesjp",
+    "note": null
+  },
+  "yokohama-hot-rod-custom-show": {
+    "handle": null,
+    "organiser_handle": "mooneyesjp",
+    "note": null
+  },
+  "niseko-gravel": {
+    "handle": "nisekogravel",
+    "organiser_handle": null,
+    "note": "Bio announces Panaracer NISEKO GRAVEL 2026 on 26 and 27 Sep."
+  },
+  "tell-okinawa-yoga-wellness-festival": {
+    "handle": null,
+    "organiser_handle": "telljapan",
+    "note": null
+  },
+  "vihta-sauna-fes-yachiho": {
+    "handle": null,
+    "organiser_handle": null,
+    "note": "Instagram search returned only unrelated accounts."
+  },
+  "yokohama-urban-sports-festival": {
+    "handle": "yusf_pr",
+    "organiser_handle": null,
+    "note": "Profile link is yusf.jp."
+  },
+  "european-tour-of-longboard-estoril": {
+    "handle": null,
+    "organiser_handle": null,
+    "note": "Instagram search returned only unrelated accounts."
+  },
+  "sagres-sessions": {
+    "handle": "sagres.sessions",
+    "organiser_handle": null,
+    "note": "Small event account (Sagres Sessions 2026)."
+  },
+  "fed-feria-de-editores-buenos-aires": {
+    "handle": "feriadeeditores",
+    "organiser_handle": null,
+    "note": "Found by site:instagram.com search."
+  },
+  "festival-de-fanzines-banfield": {
+    "handle": null,
+    "organiser_handle": null,
+    "note": "Instagram search returned only unrelated accounts."
+  },
+  "goiania-crew-attack": {
+    "handle": "crewattack",
+    "organiser_handle": null,
+    "note": null
+  },
+  "mandinga-tattoo-expo-buenos-aires": {
+    "handle": "mandingatattooexpo",
+    "organiser_handle": null,
+    "note": null
+  },
+  "furgofesta-les-planes-dhostoles": {
+    "handle": "furgofesta",
+    "organiser_handle": null,
+    "note": "Profile link is furgofesta.cat."
+  },
+  "furgovolkswagen-sant-pere-pescador": {
+    "handle": null,
+    "organiser_handle": null,
+    "note": "Only hit was an unrelated small account."
+  },
+  "madrid-urban-fest": {
+    "handle": null,
+    "organiser_handle": "comunidadmadrid",
+    "note": "Two small accounts (@madridurbanfestival, @madridurbanfesti5) have no bio or link, so neither is confirmed."
+  },
+  "pro-zarautz-surf-festival": {
+    "handle": "prozarautz",
+    "organiser_handle": null,
+    "note": "Profile link is prozarautz.com."
+  },
+  "salinas-international-longboard-festival": {
+    "handle": null,
+    "organiser_handle": null,
+    "note": "Instagram search returned only unrelated accounts."
+  },
+  "uvnt-art-fair-madrid": {
+    "handle": "urvanityprojects",
+    "organiser_handle": null,
+    "note": "Urvanity Projects runs the fair (formerly Urvanity); no separate UVNT account found."
+  },
+  "belgian-waffle-ride-california": {
+    "handle": null,
+    "organiser_handle": null,
+    "note": "Instagram search returned only unrelated accounts."
+  },
+  "boardroom-show-del-mar": {
+    "handle": "boardroomshow",
+    "organiser_handle": null,
+    "note": null
+  },
+  "la-art-book-fair": {
+    "handle": "printedmatter_artbookfairs",
+    "organiser_handle": null,
+    "note": "One account for the NY and LA Art Book Fairs."
+  },
+  "lake-tahoe-wellness-festival": {
+    "handle": null,
+    "organiser_handle": null,
+    "note": "@wellnessplaygroundretreats runs Lake Tahoe retreats; no link to the festival confirmed."
+  },
+  "musink-costa-mesa": {
+    "handle": null,
+    "organiser_handle": null,
+    "note": "Instagram search returned only unrelated accounts."
+  },
+  "sf-zine-fest": {
+    "handle": "sfzinefest",
+    "organiser_handle": null,
+    "note": null
+  },
+  "glebe-markets": {
+    "handle": "glebemarkets",
+    "organiser_handle": null,
+    "note": "Profile link is glebemarkets.com.au."
+  },
+  "wild-horses-festival-carapooee": {
+    "handle": "wildhorsesfestival",
+    "organiser_handle": null,
+    "note": null
+  },
+  "margaret-river-pro": {
+    "handle": null,
+    "organiser_handle": "wsl",
+    "note": "@margaretriver is the regional tourism account that hosts the event page."
+  },
+  "perth-festival": {
+    "handle": "perthfest",
+    "organiser_handle": null,
+    "note": null
+  },
+  "sydney-road-street-party": {
+    "handle": null,
+    "organiser_handle": "brunswickmusicfest",
+    "note": "Opening day of Brunswick Music Festival."
+  },
+  "burleigh-heads-single-fin-festival": {
+    "handle": null,
+    "organiser_handle": null,
+    "note": "Website-matched account was unrelated; no event account found."
+  },
+  "lakemba-nights-during-ramadan": {
+    "handle": null,
+    "organiser_handle": "ourcbcity",
+    "note": "Council-run event."
+  },
+  "north-coast-mud-trail": {
+    "handle": null,
+    "organiser_handle": "northcoastceramics",
+    "note": "Trail run by North Coast Ceramics; its profile links to the trail site."
+  },
+  "byron-bay-malibu-classic": {
+    "handle": null,
+    "organiser_handle": "byronbaymalibuclub",
+    "note": "Run by the Byron Bay Malibu Club."
+  },
+  "labyrinth-minakami": {
+    "handle": null,
+    "organiser_handle": "mindgames.labyrinth",
+    "note": "Mindgames runs The Labyrinth."
+  },
+  "cullera-downhill-race": {
+    "handle": null,
+    "organiser_handle": "visit_cullera",
+    "note": "Town tourism account that hosts the event page; organiser not confirmed."
+  },
+  "scrapworld-madrid": {
+    "handle": null,
+    "organiser_handle": "ifema_madrid",
+    "note": "Held at IFEMA; no event account found."
+  },
+  "bike-summer-pedalpalooza-portland": {
+    "handle": "pedalpaloozapdx",
+    "organiser_handle": "shift2bikes",
+    "note": "Bike Summer account; Shift runs it."
+  },
+  "grinduro-california-quincy": {
+    "handle": "grinduro",
+    "organiser_handle": null,
+    "note": "@sierratrails hosts the event page."
+  },
+  "logjam-santa-cruz": {
+    "handle": null,
+    "organiser_handle": null,
+    "note": "Website-matched account was unrelated."
+  },
+  "meeting-of-styles-peru-lima": {
+    "handle": null,
+    "organiser_handle": "int_meetingofstyles",
+    "note": "International Meeting of Styles account."
+  },
+  "darwin-fringe-festival": {
+    "handle": "darwinfringefestival",
+    "organiser_handle": null,
+    "note": null
+  },
+  "darwin-festival": {
+    "handle": "darwinfestival",
+    "organiser_handle": null,
+    "note": null
+  },
+  "sydney-fringe-festival": {
+    "handle": "sydneyfringe",
+    "organiser_handle": null,
+    "note": null
+  },
+  "pickathon-happy-valley": {
+    "handle": "pickathon",
+    "organiser_handle": null,
+    "note": null
+  },
+  "siurana-climbing-festival": {
+    "handle": "siuranaclimbingfestival",
+    "organiser_handle": null,
+    "note": "@tenayaclimbing is a sponsor."
+  },
+  "great-ocean-road-womens-surf-fest": {
+    "handle": "gorwomenssurffest",
+    "organiser_handle": null,
+    "note": null
+  },
+  "zina-warrior-print-fest-adelaide": {
+    "handle": "zinawarriorprintfest",
+    "organiser_handle": null,
+    "note": null
+  },
+  "meredith-music-festival": {
+    "handle": "meredithmusicfestival",
+    "organiser_handle": null,
+    "note": "Official but unused: bio says announcements happen only at mmf.com.au."
+  },
+  "zushi-beach-film-festival": {
+    "handle": null,
+    "organiser_handle": "cinemacaravan",
+    "note": "CINEMA CARAVAN runs the festival; its bio lists the 2026 dates."
+  },
+  "techno-picnic-canberra": {
+    "handle": null,
+    "organiser_handle": "thesouldefender",
+    "note": "Soul Defender mobile stage runs Techno Picnic (organiser per Phase 1 record)."
+  },
+  "australian-tattoo-expo": {
+    "handle": null,
+    "organiser_handle": null,
+    "note": "@australiantattooexpo returned no profile data (missing or private)."
+  },
+  "yoga-festa-yokohama": {
+    "handle": null,
+    "organiser_handle": null,
+    "note": "Only hit (@yogafes) is an unrelated personal account."
+  },
+  "bowerbird-design-market-adelaide": {
+    "handle": "bowerbird.au",
+    "organiser_handle": null,
+    "note": "Bowerbird design market brand account."
+  }
+}
