@@ -2,8 +2,10 @@
 """Merge every research/<region>/candidates.jsonl into data/events.jsonl.
 
 - Skips records that fail schema validation (and reports them).
-- Dedupes on id, then flags likely duplicates with different ids (same
-  normalised name and country) for a human or verifier to resolve.
+- Applies research/tools/aliases.json ({"duplicate-id": "canonical-id"})
+  so the same event recorded under two ids by two regions merges into one.
+- Dedupes on id, then flags likely duplicates with different ids (similar
+  normalised names in the same country) for a human to add to aliases.json.
 - When the same id comes from several regions, keeps the record with the
   most filled fields and unions sponsors, tags, formats, sources and gaps.
 - Routes status "discontinued" to data/archived.jsonl.
@@ -14,6 +16,8 @@ Usage: python3 research/tools/merge.py
 import json
 import re
 from collections import Counter, defaultdict
+from difflib import SequenceMatcher
+from itertools import combinations
 from pathlib import Path
 
 from jsonschema import Draft202012Validator
@@ -21,6 +25,8 @@ from jsonschema import Draft202012Validator
 ROOT = Path(__file__).resolve().parents[2]
 SCHEMA = json.loads((ROOT / "data" / "schema.json").read_text())
 VALIDATOR = Draft202012Validator(SCHEMA)
+ALIASES_PATH = ROOT / "research" / "tools" / "aliases.json"
+ALIASES = json.loads(ALIASES_PATH.read_text()) if ALIASES_PATH.exists() else {}
 
 
 def filled(value) -> int:
@@ -93,6 +99,7 @@ def main():
                 invalid.append(f"{path.relative_to(ROOT)}:{n} [{rec.get('id')}]: {errs[0].message}")
                 continue
             per_region[region] += 1
+            rec["id"] = ALIASES.get(rec["id"], rec["id"])
             by_id[rec["id"]].append(rec)
 
     merged = [combine(recs) for recs in by_id.values()]
@@ -107,10 +114,15 @@ def main():
         for r in archived:
             f.write(json.dumps(r, ensure_ascii=False) + "\n")
 
-    name_groups = defaultdict(list)
+    by_country = defaultdict(list)
     for r in merged:
-        name_groups[(norm_name(r["name"]), r["location"]["country"])].append(r["id"])
-    likely_dupes = {k: v for k, v in name_groups.items() if len(v) > 1}
+        by_country[r["location"]["country"]].append(r)
+    likely_dupes = []
+    for country, recs in by_country.items():
+        for a, b in combinations(recs, 2):
+            na, nb = norm_name(a["name"]), norm_name(b["name"])
+            if na == nb or (min(len(na), len(nb)) >= 8 and (na in nb or nb in na)) or SequenceMatcher(None, na, nb).ratio() >= 0.85:
+                likely_dupes.append((country, a["id"], b["id"]))
 
     print("Raw candidates per region:")
     for region, count in sorted(per_region.items()):
@@ -120,9 +132,9 @@ def main():
     print(f"Active/hiatus/unknown -> data/events.jsonl: {len(active)}")
     print(f"Discontinued -> data/archived.jsonl: {len(archived)}")
     if likely_dupes:
-        print("Likely duplicates with different ids (resolve by hand):")
-        for (_, country), ids in likely_dupes.items():
-            print(f"  {country}: {', '.join(ids)}")
+        print("Likely duplicates with different ids (add real ones to aliases.json):")
+        for country, a, b in likely_dupes:
+            print(f"  {country}: {a}  <>  {b}")
     if invalid:
         print(f"Skipped {len(invalid)} invalid record(s):")
         for line in invalid:
