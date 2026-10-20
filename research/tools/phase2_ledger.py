@@ -14,6 +14,7 @@ Usage: python3 research/tools/phase2_ledger.py <run_id> <step> <label> <input_fi
   label  short name for this run, e.g. handles-all
 Prints the running total. Exits 2 when the total passes the cap.
 """
+import fcntl
 import json
 import re
 import sys
@@ -63,15 +64,22 @@ def project_page(it):
             "markdown": redact(it.get("markdown") or it.get("text") or "")}
 
 
+PROFILE_KEEP = ("id", "username", "url", "fullName", "biography", "externalUrl", "followersCount", "followsCount",
+                "postsCount", "verified", "isBusinessAccount", "businessCategoryName", "private", "searchTerm",
+                "inputUrl", "error", "errorDescription")
+POST_KEEP = ("id", "type", "url", "timestamp", "likesCount", "commentsCount", "videoViewCount", "isPinned",
+             "paidPartnership", "mentions", "hashtags")
+
+
 def strip_profile(p):
-    """Drop related profiles (often personal accounts) and comment text from profile records."""
-    p.pop("relatedProfiles", None)
-    for k in ("latestPosts", "latestIgtvVideos"):
-        for post in p.get(k) or []:
-            for c in [post] + (post.get("childPosts") or []):
-                c.pop("firstComment", None)
-                c.pop("latestComments", None)
-    return p
+    """Keep the profile fields used here; latest posts keep dates, counts, mentions and a short caption.
+    Drops related profiles (often personal accounts), comment text, images and Facebook page data."""
+    out = {k: p.get(k) for k in PROFILE_KEEP if k in p}
+    out["externalUrls"] = [{"url": u.get("url"), "title": u.get("title")} for u in (p.get("externalUrls") or [])]
+    out["latestPosts"] = [dict({k: x.get(k) for k in POST_KEEP if k in x}, caption=(x.get("caption") or "")[:300],
+                               taggedUsers=[t.get("username") for t in (x.get("taggedUsers") or [])])
+                          for x in (p.get("latestPosts") or [])]
+    return out
 
 
 def get(url):
@@ -83,6 +91,8 @@ if sys.argv[1:] == ["--rebuild"]:
     write_table([json.loads(l) for l in (APIFY / "runs.jsonl").read_text().split("\n") if l.strip()])
     sys.exit(0)
 run_id, step, label, input_file = sys.argv[1:5]
+lock = open(APIFY / ".ledger.lock", "w")
+fcntl.flock(lock, fcntl.LOCK_EX)  # one writer at a time; a second collector waits, then sees the run recorded
 ledger_json = APIFY / "runs.jsonl"
 done = [json.loads(l) for l in ledger_json.read_text().split("\n") if l.strip()] if ledger_json.exists() else []
 if any(r["run_id"] == run_id for r in done):
