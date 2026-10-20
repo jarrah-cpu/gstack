@@ -1,0 +1,17 @@
+{
+ "id": "uvnt-art-fair-madrid",
+ "set": {
+  "name": "CAN Madrid Art Fair (formerly UVNT Art Fair, Urvanity)"
+ },
+ "add_sources": [
+  {
+   "field": "name",
+   "url": "https://www.mataderomadrid.org/programacion/can-art-fair-madrid",
+   "note": "Fair renamed CAN Madrid Art Fair (Contemporary Art Now) from its 10th edition, 5 to 8 Mar 2026."
+  }
+ ],
+ "verifier_flags": [
+  "name: fair rebranded as CAN Madrid Art Fair; record id kept for continuity"
+ ],
+ "notes": "Orchestrator fix."
+}

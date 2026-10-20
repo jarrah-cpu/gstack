@@ -1,0 +1,260 @@
+{
+  "id": "niseko-gravel",
+  "set": {
+    "website": "https://nisekogravel.com/",
+    "organiser": {
+      "name": "HOKKAIDO EVENTS (一般社団法人 HOKKAIDO EVENTS, Kutchan)",
+      "type": "promoter",
+      "website": "https://hokkaidoevents.com/"
+    },
+    "attendance": {
+      "figure": 616,
+      "figure_high": null,
+      "year": 2025,
+      "is_estimate": false,
+      "source": "https://nisekogravel.com/history",
+      "note": "Organiser-reported rider participants for Autumn Ride 2025 (616); Autumn Ride 2024 had 647. Festival visitors not counted; 2026 figure not yet posted."
+    },
+    "partnership_contact": {
+      "email": "info@hokkaidoevents.com",
+      "page_url": "https://nisekogravel.com/contact",
+      "named_person": null,
+      "source": "https://nisekogravel.com/autumnride/requirements"
+    },
+    "ticket_price": {
+      "min": 6000,
+      "max": 16000,
+      "currency": "JPY",
+      "free_entry": null,
+      "note": "2026 rider entry: ride session 6,000 JPY, Shimarisu course (50km+) 9,000, Ezoshika course (100km+) 13,000, Higuma course (120km) 16,000; welcome night 6,400. Whether the main-venue festival is free to walk in is not stated."
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "RHYTHM Japan",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://nisekogravel.com/partner"
+    },
+    {
+      "brand": "Skye Niseko",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://nisekogravel.com/partner"
+    },
+    {
+      "brand": "ANA (ANA Furusato Nozei)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://nisekogravel.com/partner"
+    },
+    {
+      "brand": "Niseko Real Estate",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://nisekogravel.com/partner"
+    },
+    {
+      "brand": "Shimano",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "partner",
+      "source": "https://nisekogravel.com/partner"
+    },
+    {
+      "brand": "Fukaya Co., Ltd (DAVOS, QUOC, OTSO; Cannondale distributor)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://nisekogravel.com/partner"
+    },
+    {
+      "brand": "POC (Full Marks)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://nisekogravel.com/partner"
+    },
+    {
+      "brand": "Ridley (Mizutani Bike)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://nisekogravel.com/partner"
+    },
+    {
+      "brand": "Sweet Protection (Sputnik inc.)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://nisekogravel.com/partner"
+    },
+    {
+      "brand": "Brompton",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://nisekogravel.com/partner"
+    },
+    {
+      "brand": "halo commodity",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://nisekogravel.com/partner"
+    },
+    {
+      "brand": "Niseko Tokyu Grand Hirafu",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://nisekogravel.com/partner"
+    },
+    {
+      "brand": "Vivobarefoot",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://nisekogravel.com/partner"
+    },
+    {
+      "brand": "Cycle Ono Sapporo",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://nisekogravel.com/partner"
+    },
+    {
+      "brand": "LAVAGGIO",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://nisekogravel.com/partner"
+    },
+    {
+      "brand": "NAMBA (Niseko Area Mountain Bike Association)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://nisekogravel.com/partner"
+    },
+    {
+      "brand": "Fine Produce",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://nisekogravel.com/partner"
+    },
+    {
+      "brand": "UP STUDIO",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://nisekogravel.com/partner"
+    },
+    {
+      "brand": "URANO Co., Ltd",
+      "years": [
+        2026
+      ],
+      "role": "collab",
+      "source": "https://nisekogravel.com/"
+    },
+    {
+      "brand": "Shinra base",
+      "years": [
+        2026
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://nisekogravel.com/"
+    }
+  ],
+  "add_activation_formats": [
+    "stall",
+    "collab-product",
+    "customisation-station"
+  ],
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://www.instagram.com/nisekogravel/",
+      "note": "Official Instagram profile links to nisekogravel.com."
+    },
+    {
+      "field": "organiser",
+      "url": "https://nisekogravel.com/autumnride/requirements",
+      "note": "Requirements page (2026): 主催 一般社団法人 HOKKAIDO EVENTS, Kutchan; main sponsor Panaracer; 後援 still being arranged."
+    },
+    {
+      "field": "attendance",
+      "url": "https://nisekogravel.com/history",
+      "note": "Event history table of 参加人数 (participants): Autumn Ride 2022 336, 2023 451, 2024 647, 2025 616; Spring Ride 2024 223."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://nisekogravel.com/autumnride/requirements",
+      "note": "Enquiries: HOKKAIDO EVENTS, info@hokkaidoevents.com, phone 0136-55-6081. Site also has a contact form at /contact."
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://nisekogravel.com/autumnride/requirements",
+      "note": "2026 fees: ride session 6,000 JPY, welcome night 6,400, Higuma 120km 16,000, Ezoshika 100km+ 13,000, Shimarisu 50km+ 9,000."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://nisekogravel.com/partner",
+      "note": "OFFICIAL PARTNER page as crawled Oct 2026, after the 2026 edition: Panaracer, RHYTHM Japan, Skye Niseko, ANA, Niseko Real Estate, Shimano, Fukaya (DAVOS, QUOC, OTSO), POC, Ridley, Sweet Protection, Brompton, halo commodity, Niseko Tokyu Grand Hirafu, Vivobarefoot, Cycle Ono Sapporo, LAVAGGIO, NAMBA, Fine Produce, UP STUDIO. Logos were uploaded Aug to Dec 2025, so several likely also partnered in 2025. A second logo strip adds Pas Normal Studios (via Magnets), IKEUCHI and Cannondale, years unclear."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DOP_5zVjx8Z/",
+      "note": "Google snippet: 2025 Autumn Ride booth introduction lists SHIMANO."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://nisekogravel.com/",
+      "note": "Home page (2026): booth introduction Part 2 lists Sweet Protection, Shinra base, UP STUDIO and Vivobarefoot; commemorative 'PazuMe!' 3D paper puzzle made in collaboration with URANO Co., Ltd, orders to 20 Oct 2026."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://nisekogravel.com/partner",
+      "note": "Brand booths at the main venue: Ridley demo rides of GRX Di2 gravel bikes, Vivobarefoot try-on and sales, Fine Produce insole fitting with foot pressure measurement, POC on-site sales, LAVAGGIO bike wash and shipping, UP STUDIO live T-shirt printing."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://nisekogravel.com/",
+      "note": "Collab product: URANO x NISEKO GRAVEL commemorative 3D paper puzzle (2026)."
+    }
+  ],
+  "remove_gaps": [
+    "Organiser, participant numbers and entry fees not captured"
+  ],
+  "add_gaps": [
+    "Festival (non-rider) visitor numbers not published",
+    "Audience age and gender not published"
+  ],
+  "notes": "Official site gives organiser (HOKKAIDO EVENTS, info@hokkaidoevents.com), organiser-reported rider numbers (616 in 2025) and a 19-brand partner page; Panaracer stays title sponsor. Wellness-adjacent partners: Vivobarefoot and Fine Produce (insole and foot pressure checks), useful precedent for a health brand booth."
+}

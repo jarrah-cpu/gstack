@@ -1,0 +1,57 @@
+{
+  "id": "soundsplash-raglan",
+  "set": {
+    "organiser": {
+      "name": "Soundsplash Ltd",
+      "type": "promoter",
+      "website": "https://soundsplash.co.nz/"
+    },
+    "attendance": {
+      "figure": 8000,
+      "figure_high": null,
+      "year": 2024,
+      "is_estimate": true,
+      "source": "https://www.stuff.co.nz/culture/350465078/new-look-soundsplash-gets-praise-from-festival-goers",
+      "note": "Stuff (19 Jan 2024): organisers praised for making 'this year's arrival of 8000 festival-goers' seamless. Press figure. NZ Herald (Jan 2021) reported up to 8,000 teenagers queueing; a Facebook-shared report said around 10,000 expected (year not shown)."
+    },
+    "audience": {
+      "age_range": "Teens and young adults; all-ages event with a large under-18 share",
+      "gender_skew": null,
+      "psychographics": "Youth summer camping festival in a surf town. Organiser says it exists to give young people space to connect, dance and discover; heavy duty-of-care setup (chill zones, Kaitiaki wellbeing teams, Know Your Stuff drug checking, sexual health team).",
+      "source": "https://www.nzherald.co.nz/nz/soundsplash-festival-chaos-up-to-8000-teenagers-endure-massive-queues-in-hot-sun-in-raglan/P4RNF2IT2PZCUG3BC5DTEPA4WY/"
+    },
+    "partnership_contact": {
+      "email": "info@soundsplash.co.nz",
+      "page_url": "https://soundsplash.co.nz/faqs/",
+      "named_person": null,
+      "source": "https://soundsplash.co.nz/faqs/"
+    }
+  },
+  "add_sponsors": [
+    {"brand": "ZM", "years": [2019], "role": "presenting", "source": "https://www.muzic.nz/news/soundsplash-first-line-up-announced/"},
+    {"brand": "AMI Insurance", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DSwaZKGjaZ5/"}
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {"field": "organiser", "url": "https://soundsplash.co.nz/", "note": "Crawled homepage footer: '© 2026 Soundsplash Ltd. All Rights Reserved.'"},
+    {"field": "attendance", "url": "https://www.stuff.co.nz/culture/350465078/new-look-soundsplash-gets-praise-from-festival-goers", "note": "Google snippet (19 Jan 2024): 'this year's arrival of 8000 festival-goers'."},
+    {"field": "attendance", "url": "https://www.facebook.com/soundsplashnz/posts/the-countdown-to-soundsplash-2027-is-officially-onearly-bird-is-gone-and-there-a/1577858777018497/", "note": "Google snippet: 'around 10,000 people expected to attend' at Wainui Reserve (year not shown)."},
+    {"field": "audience", "url": "https://www.nzherald.co.nz/nz/soundsplash-festival-chaos-up-to-8000-teenagers-endure-massive-queues-in-hot-sun-in-raglan/P4RNF2IT2PZCUG3BC5DTEPA4WY/", "note": "Google snippet (Jan 2021): 'Thousands of underage teens at Soundsplash'; headline 'Up to 8000 teenagers'."},
+    {"field": "audience", "url": "https://www.instagram.com/p/DcP8aj8j6iI/", "note": "Organiser post (Aug 2026): 'Soundsplash is about giving young people space to connect, create, dance, discover'. Duty-of-care services listed at https://www.instagram.com/p/DTe3OuGD7OL/."},
+    {"field": "partnership_contact", "url": "https://soundsplash.co.nz/faqs/", "note": "Crawled FAQ page shows info@soundsplash.co.nz (general enquiries) and soundsplash@flicket.co.nz (ticketing)."},
+    {"field": "sponsors", "url": "https://www.muzic.nz/news/soundsplash-first-line-up-announced/", "note": "Google snippet (Aug 2018): 'Soundsplash 2019 - presented by ZM'."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DSwaZKGjaZ5/", "note": "27 Dec 2025: 'Big thanks to @amiinsurancenz for supporting Soundsplash attendees this year with free AMI Roadside Rescue for eligible new drivers'."}
+  ],
+  "add_gaps": [
+    "Current sponsor roster not published; only AMI Insurance (2026) seen in posts",
+    "Ticket prices not captured (a Facebook post shows a Final Release price of $258, year not shown)",
+    "Gender split not published"
+  ],
+  "remove_gaps": [
+    "Attendance not found",
+    "Partner named in the muzic.net.nz announcement not captured",
+    "Organiser not named in search results",
+    "No public partnerships contact found"
+  ],
+  "notes": "Youth-skewed festival: press describes thousands of under-18s, so the adult share is low, which counts against an adult health brand despite the surf-town setting. About 8,000 attendees (2024 press). Health services on site (Know Your Stuff, Sexual Wellbeing Aotearoa, Peak Safety medics) are service providers, not sponsors."
+}

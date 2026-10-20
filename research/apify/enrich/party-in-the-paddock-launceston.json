@@ -1,0 +1,140 @@
+{
+  "id": "party-in-the-paddock-launceston",
+  "set": {
+    "website": "https://partyinthepaddockfestival.com.au/",
+    "organiser": {
+      "name": "Vibestown Productions (co-festival directors Alec McLelland and Ryan Limb)",
+      "type": "independent",
+      "website": "https://partyinthepaddockfestival.com.au/"
+    },
+    "dates": {
+      "last_edition": {
+        "start": "2026-02",
+        "end": null,
+        "status": "held",
+        "label": "13th edition (2026)"
+      },
+      "next_edition": {
+        "start": "2027-02-04",
+        "end": "2027-02-07",
+        "status": "confirmed",
+        "label": "14th edition (2027)"
+      },
+      "frequency": "annual",
+      "duration_days": 4
+    },
+    "attendance": {
+      "figure": 14000,
+      "figure_high": null,
+      "year": 2026,
+      "is_estimate": false,
+      "source": "https://pulsetasmania.com.au/news/party-in-the-paddock-locked-in-for-2027-as-festival-smashes-attendance-record/",
+      "note": "Organiser-reported via Pulse Tasmania (11 Feb 2026): record 14,000, up 1,000 on 2025; festival director Ryan Limb said it hit the target."
+    },
+    "audience": {
+      "age_range": null,
+      "gender_skew": null,
+      "psychographics": "Tasmania's largest multi-day camping music festival; 2026 drew more families, older audiences, interstate visitors and southern Tasmanians than earlier years.",
+      "source": "https://pulsetasmania.com.au/news/party-in-the-paddock-locked-in-for-2027-as-festival-smashes-attendance-record/"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Triple J",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://partyinthepaddockfestival.com.au/"
+    },
+    {
+      "brand": "Boags",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://partyinthepaddockfestival.com.au/"
+    },
+    {
+      "brand": "Havilah",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://partyinthepaddockfestival.com.au/"
+    },
+    {
+      "brand": "Wallaroo",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://partyinthepaddockfestival.com.au/"
+    },
+    {
+      "brand": "City of Launceston",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://partyinthepaddockfestival.com.au/"
+    }
+  ],
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://partyinthepaddockfestival.com.au/",
+      "note": "Official site; footer '2014-2027 Vibestown Productions'"
+    },
+    {
+      "field": "organiser",
+      "url": "https://partyinthepaddockfestival.com.au/",
+      "note": "Footer credits Vibestown Productions"
+    },
+    {
+      "field": "organiser",
+      "url": "https://en.wikipedia.org/wiki/Party_in_the_Paddock",
+      "note": "Google snippet: festival presented by Vibestown Productions"
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://partyinthepaddockfestival.com.au/",
+      "note": "Thursday 4 to Sunday 7 February 2027 at Quercus Park, 415 Oaks Road, Carrick"
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://pulsetasmania.com.au/news/party-in-the-paddock-locked-in-for-2027-as-festival-smashes-attendance-record/",
+      "note": "Article dated 11 Feb 2026 reports the festival ran 'over the weekend'"
+    },
+    {
+      "field": "attendance",
+      "url": "https://pulsetasmania.com.au/news/party-in-the-paddock-locked-in-for-2027-as-festival-smashes-attendance-record/",
+      "note": "Record 14,000, a 1,000-person increase on the previous year; Ryan Limb quoted"
+    },
+    {
+      "field": "audience",
+      "url": "https://pulsetasmania.com.au/news/party-in-the-paddock-locked-in-for-2027-as-festival-smashes-attendance-record/",
+      "note": "Demographic shift bringing more families and older audiences; more interstate visitors and southern Tasmanians; camping and non-camping sales up"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://partyinthepaddockfestival.com.au/",
+      "note": "'OUR PARTNERS' (no tiers): Tasmanian Government, Triple J, Boags, Havilah, Wallaroo, City of Launceston; undated strip on current site"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://partyinthepaddockfestival.com.au/sign-up/",
+      "note": "Google snippet: same partner list on presale sign-up page"
+    }
+  ],
+  "remove_gaps": [
+    "Official website not captured in search results",
+    "Exact 2026 dates not captured (February 2026)"
+  ],
+  "add_gaps": [
+    "Exact 2026 day dates not captured (held early February 2026)",
+    "Ticket prices not captured",
+    "Partner tiers not shown; 'Wallaroo' brand not identified"
+  ],
+  "notes": "Official site found with partner strip: Tasmanian Government, Triple J, Boags, Havilah, Wallaroo, City of Launceston (years assumed 2026 from current site). Organiser is Vibestown Productions. Pulse reports an older, more family and interstate crowd in 2026. No partnerships email on site."
+}

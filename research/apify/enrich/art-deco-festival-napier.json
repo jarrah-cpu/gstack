@@ -1,0 +1,43 @@
+{
+  "id": "art-deco-festival-napier",
+  "set": {
+    "organiser": {"name": "Art Deco Trust", "type": "non-profit", "website": "https://www.artdeconapier.com/"},
+    "dates": {
+      "last_edition": {"start": "2026-02-19", "end": "2026-02-22", "status": "held", "label": "2026"},
+      "next_edition": {"start": "2027-02-18", "end": "2027-02-21", "status": "confirmed", "label": "2027"},
+      "frequency": "annual",
+      "duration_days": 4
+    },
+    "attendance": {"figure": 18000, "figure_high": null, "year": 2024, "is_estimate": false, "source": "https://www.scoop.co.nz/stories/CU2405/S00017/the-staggering-impact-of-art-deco-festival-napier-across-hawkes-bay-and-new-zealand.htm", "note": "Organiser-reported (Art Deco Trust release, 2 May 2024, citing an Event Economics report): 'over 18,000 unique event attendees' at the 2024 festival (15 to 18 Feb), and '50,000+ visits' to festival events."},
+    "partnership_contact": {"email": "festival@artdeconapier.com", "page_url": "https://www.artdecofestival.co.nz/sponsors/", "named_person": null, "source": "https://www.artdecofestival.co.nz/sponsors/"}
+  },
+  "add_sponsors": [
+    {"brand": "Napier City Council", "years": [2026], "role": "government", "source": "https://www.artdecofestival.co.nz/sponsors/"},
+    {"brand": "Hastings District Council", "years": [2026], "role": "government", "source": "https://www.artdecofestival.co.nz/sponsors/"},
+    {"brand": "Trillian", "years": [2026], "role": "partner", "source": "https://www.artdecofestival.co.nz/sponsors/"},
+    {"brand": "Midlands Funds Management", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DVcUidkgSmV/"},
+    {"brand": "Falcon", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DVW7yVgk6Ww/"},
+    {"brand": "Conroy Removals", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DVt2v8BE5Dh/"},
+    {"brand": "New Zealand Government Events Boost Fund", "years": [2026], "role": "government", "source": "https://napiercbd.co.nz/2026/05/01/the-2026-art-deco-festival-napier-delivers/"},
+    {"brand": "Hawke's Bay Airport", "years": [], "role": "partner", "source": "https://hawkesbay-airport.co.nz/about-us/sponsorship-partners/"}
+  ],
+  "add_activation_formats": ["stage-or-program-takeover"],
+  "add_sources": [
+    {"field": "organiser", "url": "https://www.artdeconapier.com/", "note": "'Art Deco Trust is a not-for-profit charity'; the Trust hosts Art Deco Festival Napier. Sponsors page says 'Produced by the Art Deco Trust'."},
+    {"field": "organiser", "url": "https://www.instagram.com/p/DVwiuEQjU5P/", "note": "'Art Deco Trust Inc is a not-for-profit registered charity CC21328'."},
+    {"field": "dates.last_edition", "url": "https://www.hawkesbaynz.com/articles/art-deco-festival-napier", "note": "Google snippet: 'Thursday 19 - Sunday 22 February, 2026'. IG reel also gives 19 to 22 Feb 2026."},
+    {"field": "dates.frequency", "url": "https://www.instagram.com/p/DVwiuEQjU5P/", "note": "Trust 'celebrate[s] our city's heritage annual[ly] by hosting the iconic Art Deco Festival Napier'."},
+    {"field": "attendance", "url": "https://www.scoop.co.nz/stories/CU2405/S00017/the-staggering-impact-of-art-deco-festival-napier-across-hawkes-bay-and-new-zealand.htm", "note": "Read via WebFetch: 18,000+ unique attendees, 50,000+ visits, 23,262 visitor nights, 10% international (2024)."},
+    {"field": "sponsors", "url": "https://www.artdecofestival.co.nz/sponsors/", "note": "Read via WebFetch: 'Thank you to our supporters' logos link to Napier City Council, Hastings District Council and Trillian; two more logos unnamed. Page year not stated (copyright 2026)."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DVcUidkgSmV/", "note": "Mar 2026: Midlands Funds Management sponsored the Gatsby Jazz Series at Art Deco Festival 2026."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DVW7yVgk6Ww/", "note": "Mar 2026: Falcon sponsored the Memorial Flying Displays for its 50th anniversary."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DVt2v8BE5Dh/", "note": "Mar 2026: 'Thanks to our sponsors Conroy Removals' for the Soap Box Derby."},
+    {"field": "sponsors", "url": "https://napiercbd.co.nz/2026/05/01/the-2026-art-deco-festival-napier-delivers/", "note": "Google snippet: festival 'proudly supported by the New Zealand Government's Events Boost Fund'."},
+    {"field": "sponsors", "url": "https://hawkesbay-airport.co.nz/about-us/sponsorship-partners/", "note": "Google snippet: airport's Sponsorship & Partners page lists Art Deco Festival Napier; year not shown."},
+    {"field": "activation_formats", "url": "https://www.instagram.com/p/DVcUidkgSmV/", "note": "Sponsors attach to programme strands (Gatsby Jazz Series, Memorial Flying Displays, Soap Box Derby)."},
+    {"field": "partnership_contact", "url": "https://www.artdecofestival.co.nz/sponsors/", "note": "General festival contact festival@artdeconapier.com, 0800 427 833. The Trust page also lists eventmanager@artdeconapier.com as 'Email the Festival' (https://www.artdeconapier.com/the-trust/)."}
+  ],
+  "add_gaps": ["Ticket prices not captured", "Audience age and gender not published", "No sponsorship-specific contact; general festival email only", "Supporter tiers not published; two supporter logos unnamed"],
+  "remove_gaps": ["Organiser entity not confirmed (Art Deco Trust appears as main location)", "Attendance, ticket prices and sponsors not captured", "Frequency not confirmed in sources", "No public partnerships contact found"],
+  "notes": "Organiser confirmed as Art Deco Trust (registered charity). Attendance is the 2024 economic impact figure (18,000+ unique, 50,000+ visits). Sponsors are mostly councils and local firms tied to programme strands. IG @art_deco_napier is the Trust's own account; a separate festival account @art_deco_festival (3,128 followers) exists and may suit the record better."
+}

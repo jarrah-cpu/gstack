@@ -1,0 +1,400 @@
+{
+  "id": "sydney-fringe-festival",
+  "set": {
+    "website": "https://sydneyfringe.com/",
+    "organiser": {
+      "name": "Sydney Fringe Festival",
+      "type": "non-profit",
+      "website": "https://sydneyfringe.com/"
+    },
+    "attendance": {
+      "figure": 106872,
+      "figure_high": null,
+      "year": 2026,
+      "is_estimate": false,
+      "source": "https://www.instagram.com/p/DefrHMwTq1a/",
+      "note": "Organiser-reported: '47 days | 372 events | 70 venues | 106,872 attendees' for 2026, 'our biggest year yet'. Partner page cites 103,000+ attendees for an earlier edition."
+    },
+    "partnership_contact": {
+      "email": "partnerships@sydneyfringe.com",
+      "page_url": "https://sydneyfringe.com/partner-with-sydney-fringe/",
+      "named_person": null,
+      "source": "https://sydneyfringe.com/our-partners/"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "NSW Government",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://sydneyfringe.com/our-partners/"
+    },
+    {
+      "brand": "City of Sydney",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://sydneyfringe.com/our-partners/"
+    },
+    {
+      "brand": "Destination NSW",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://sydneyfringe.com/our-partners/"
+    },
+    {
+      "brand": "Inner West Council",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://sydneyfringe.com/our-partners/"
+    },
+    {
+      "brand": "The Rocks (Place Management NSW)",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://sydneyfringe.com/our-partners/"
+    },
+    {
+      "brand": "Entertainment Quarter",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://sydneyfringe.com/our-partners/"
+    },
+    {
+      "brand": "Ingenia Holiday Parks",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DPV0F8nDtPK/"
+    },
+    {
+      "brand": "Neilson Foundation",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://sydneyfringe.com/our-partners/"
+    },
+    {
+      "brand": "Lane Cove Council",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://sydneyfringe.com/our-partners/"
+    },
+    {
+      "brand": "George Place",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://sydneyfringe.com/our-partners/"
+    },
+    {
+      "brand": "Canberra Theatre Centre",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://sydneyfringe.com/our-partners/"
+    },
+    {
+      "brand": "Merrigong Theatre Company",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://sydneyfringe.com/our-partners/"
+    },
+    {
+      "brand": "Fool's Paradise",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://sydneyfringe.com/our-partners/"
+    },
+    {
+      "brand": "Museums of History NSW",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://sydneyfringe.com/our-partners/"
+    },
+    {
+      "brand": "CINCiN",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://sydneyfringe.com/our-partners/"
+    },
+    {
+      "brand": "Mt Yengo Wines",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://sydneyfringe.com/our-partners/"
+    },
+    {
+      "brand": "The Grifter Brewing Co",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://sydneyfringe.com/our-partners/"
+    },
+    {
+      "brand": "The Drifter",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://sydneyfringe.com/our-partners/"
+    },
+    {
+      "brand": "Orana Car and Truck Rental",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://sydneyfringe.com/our-partners/"
+    },
+    {
+      "brand": "Shiftly",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://sydneyfringe.com/our-partners/"
+    },
+    {
+      "brand": "Travel With Care",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://sydneyfringe.com/our-partners/"
+    },
+    {
+      "brand": "Monstera Creative",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://sydneyfringe.com/our-partners/"
+    },
+    {
+      "brand": "Gigpiglet",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://sydneyfringe.com/our-partners/"
+    },
+    {
+      "brand": "Sydney Event Services",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://sydneyfringe.com/our-partners/"
+    },
+    {
+      "brand": "PACT",
+      "years": [
+        2026
+      ],
+      "role": "venue",
+      "source": "https://sydneyfringe.com/our-partners/"
+    },
+    {
+      "brand": "New Theatre",
+      "years": [
+        2026
+      ],
+      "role": "venue",
+      "source": "https://sydneyfringe.com/our-partners/"
+    },
+    {
+      "brand": "UNSW",
+      "years": [
+        2026
+      ],
+      "role": "venue",
+      "source": "https://sydneyfringe.com/our-partners/"
+    },
+    {
+      "brand": "Hurstville Entertainment Centre",
+      "years": [
+        2026
+      ],
+      "role": "venue",
+      "source": "https://sydneyfringe.com/our-partners/"
+    },
+    {
+      "brand": "Qtopia Sydney",
+      "years": [
+        2026
+      ],
+      "role": "venue",
+      "source": "https://sydneyfringe.com/our-partners/"
+    },
+    {
+      "brand": "Factory Theatre",
+      "years": [
+        2026
+      ],
+      "role": "venue",
+      "source": "https://sydneyfringe.com/our-partners/"
+    },
+    {
+      "brand": "Flight Path Theatre",
+      "years": [
+        2026
+      ],
+      "role": "venue",
+      "source": "https://sydneyfringe.com/our-partners/"
+    },
+    {
+      "brand": "Old Fitz Theatre",
+      "years": [
+        2026
+      ],
+      "role": "venue",
+      "source": "https://sydneyfringe.com/our-partners/"
+    },
+    {
+      "brand": "Improv Theatre Sydney",
+      "years": [
+        2026
+      ],
+      "role": "venue",
+      "source": "https://sydneyfringe.com/our-partners/"
+    },
+    {
+      "brand": "Torch Media",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://sydneyfringe.com/our-partners/"
+    },
+    {
+      "brand": "Time Out",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://sydneyfringe.com/our-partners/"
+    },
+    {
+      "brand": "ArtsHub",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://sydneyfringe.com/our-partners/"
+    },
+    {
+      "brand": "TodayTix",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://sydneyfringe.com/our-partners/"
+    },
+    {
+      "brand": "Rock Posters",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://sydneyfringe.com/our-partners/"
+    },
+    {
+      "brand": "Ferve",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://sydneyfringe.com/our-partners/"
+    }
+  ],
+  "add_activation_formats": [
+    "competition-or-prize",
+    "content-series"
+  ],
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://sydneyfringe.com/",
+      "note": "Official site."
+    },
+    {
+      "field": "organiser",
+      "url": "https://sydneyfringe.com/about-us/",
+      "note": "'We are a not-for-profit, open-access festival'; largest independent arts festival in NSW and a NSW Foundation Event; 2026 to 2029 strategic plan seeks 'new commercial partnerships'."
+    },
+    {
+      "field": "attendance",
+      "url": "https://www.instagram.com/p/DefrHMwTq1a/",
+      "note": "Sydney Fringe wrap post, 15 Oct 2026: 47 days, 372 events, 70 venues, 106,872 attendees. Same figures in a Facebook video (Google snippet)."
+    },
+    {
+      "field": "attendance",
+      "url": "https://sydneyfringe.com/partner-with-sydney-fringe/",
+      "note": "'89 venues, 460+ events, 3,000+ artists and 103,000+ attendees' (Google snippet; edition year not shown)."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://sydneyfringe.com/our-partners/",
+      "note": "'For partnership opportunities, contact partnerships@sydneyfringe.com'. Contact page also routes partnerships to Hq@sydneyfringe.com and media to marketing@sydneyfringe.com."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://sydneyfringe.com/our-partners/",
+      "note": "Partners page (2026 logos): funded by NSW Government; Principal Government Partner City of Sydney; Strategic Sponsor Destination NSW; Major Partners Inner West Council, The Rocks, Entertainment Quarter; Fringe Kids Partner Ingenia Holiday Parks; Trusts and Foundations (logo links neilson.org.au); Presenting Partners Lane Cove Council, Georges River Council, George Place, Canberra Theatre Centre, Merrigong, Fool's Paradise, Museums of History NSW; Official Spritz CINCiN, Wine Mt Yengo, Beer Grifter; Accommodation The Drifter; Transport Orana; Volunteer Shiftly; Limitless Partner Travel With Care; venue, production and media partners. Names read from logo links and file names."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/Dd-nqaRkzLs/",
+      "note": "2026: 'Copa on The Rocks presented by @cincinbeverages', a pop-up piano bar in The Rocks."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/Db7juwSDIdi/",
+      "note": "2026 'Fringe Kids Golden Getaway' giveaway with Ingenia Holiday Parks ($1,000 gift card plus passes); 2025 Fringe Kids spin-the-wheel prizes (https://www.instagram.com/p/DPV0F8nDtPK/)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DcdCvJYzRij/",
+      "note": "2026: 'Say hello to our Official Spritz Partner @cincinbeverages'; CINCiN also ran a 'Find Your Fringe Flavour' post series pairing spritzes with shows (https://www.instagram.com/p/DdlLxOxzNzC/)."
+    }
+  ],
+  "add_gaps": [
+    "Audience age and gender not published (Fringe runs audience surveys but results not found)"
+  ],
+  "remove_gaps": [
+    "Organiser type, website and partner roster not captured",
+    "No attendance figure found",
+    "No public partnerships contact found"
+  ],
+  "notes": "Large, open partner model (about 40 partners across government, drinks, travel, venues and media) with a dedicated partnerships email and a stated push for new commercial partners: accessible for High Ground. Trust logo assumed to be the Neilson Foundation from its link (neilson.org.au); 'George Place' read from the logo link georgeplace.com.au. 2026 date conflict gap left open; the wrap post says the festival ran 47 days, which does not match 29 Aug to 11 Oct (44 days)."
+}

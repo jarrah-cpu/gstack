@@ -1,0 +1,59 @@
+{
+  "id": "lisbon-design-week",
+  "set": {
+    "dates": {
+      "last_edition": {"start": "2026-05-27", "end": "2026-05-31", "status": "held", "label": "4th edition (2026)"},
+      "next_edition": {"start": "2027-05-19", "end": "2027-05-26", "status": "confirmed", "label": "5th anniversary edition (2027), 19 to 26 May"},
+      "frequency": "annual",
+      "duration_days": 5
+    },
+    "partnership_contact": {"email": "info@lisbondesignweek.pt", "page_url": "https://www.lisbondesignweek.com/en/contact", "named_person": null, "source": "https://www.lisbondesignweek.com/en/contact"}
+  },
+  "add_sponsors": [
+    {"brand": "novobanco", "years": [2023, 2024, 2025, 2026], "role": "major", "source": "https://www.instagram.com/p/DZGAxkeM6bE/"},
+    {"brand": "Cosentino Portugal", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DZGAxkeM6bE/"},
+    {"brand": "Roca Lisboa Gallery", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DZGAxkeM6bE/"},
+    {"brand": "Laufen", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DZGAxkeM6bE/"},
+    {"brand": "Banema Studio", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DZGAxkeM6bE/"},
+    {"brand": "De La Espada", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DZGAxkeM6bE/"},
+    {"brand": "Gandia Blasco", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DZGAxkeM6bE/"},
+    {"brand": "ME Lisbon (hotel)", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DZGAxkeM6bE/"},
+    {"brand": "CUPRA", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DZGAxkeM6bE/"},
+    {"brand": "Lillet", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DZGAxkeM6bE/"},
+    {"brand": "Ferradosa Wines", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DZGAxkeM6bE/"},
+    {"brand": "Companhia Portugueza do Chá", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DZGAxkeM6bE/"},
+    {"brand": "Cutipol", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DZGAxkeM6bE/"},
+    {"brand": "Sofalca Blackcork", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DY7OhCTDACs/"},
+    {"brand": "Bica do Sapato", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DZGAxkeM6bE/"},
+    {"brand": "Elitis", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DZGAxkeM6bE/"},
+    {"brand": "Herclique", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DZGAxkeM6bE/"},
+    {"brand": "Guialmi", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DZGAxkeM6bE/"},
+    {"brand": "LACS", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DZGAxkeM6bE/"},
+    {"brand": "Botaca Living Concepts", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DZGAxkeM6bE/"},
+    {"brand": "Barreiros e Barreiros", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DZGAxkeM6bE/"},
+    {"brand": "MUDE, Museu do Design", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DZQG6lYG3h9/"},
+    {"brand": "Dezeen", "years": [2026], "role": "media", "source": "https://www.instagram.com/p/DZGAxkeM6bE/"},
+    {"brand": "Clube da Criatividade de Portugal", "years": [2026], "role": "media", "source": "https://www.instagram.com/p/DY7OhCTDACs/"}
+  ],
+  "add_activation_formats": ["competition-or-prize"],
+  "add_sources": [
+    {"field": "dates.next_edition", "url": "https://www.lisbondesignweek.com/en/ldw-27-application", "note": "Call for participation: LDW 2027, 5th anniversary edition, 19 to 26 May 2027; applications close 30 Nov 2026."},
+    {"field": "partnership_contact", "url": "https://www.lisbondesignweek.com/en/contact", "note": "Contact page: info@lisbondesignweek.pt. Press contacts are at agency O Apartamento (press page)."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DZGAxkeM6bE/", "note": "2 Jun 2026 founder thank-you: novobanco 'our lead sponsor'; sponsors Cosentino, Roca Lisboa Gallery, Laufen, Banema Studio, De La Espada, Gandia Blasco, ME Lisbon; partners Guialmi, Herclique, Ferradosa Wines, LACS, Botaca, Bica do Sapato, Lillet, Barreiros e Barreiros, Elitis, Companhia Portugueza do Chá, CUPRA, Cutipol, Sofalca Blackcork, Clube da Criatividade; MUDE special partnership; international media partner Dezeen. Over 80 venues."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DJ304nOMMjT/", "note": "Google snippet of novobanco IG (2025): official sponsor of LDW for the third consecutive year (so 2023 to 2025)."},
+    {"field": "sponsors", "url": "https://eco.sapo.pt/2025/12/15/novobanco-renova-patrocinio-a-lisbon-design-week-2026-e-apoia-young-design-generation-com-o-mude/", "note": "Google snippet: novobanco renewed its sponsorship for 2026 and supports Young Design Generation with MUDE."},
+    {"field": "sponsors", "url": "https://jornaleconomico.sapo.pt/noticias/novobanco-e-patrocinador-da-lisbon-design-week-e-expoe-instalacao-de-wesley-sacardi/", "note": "Google snippet: 2024 edition had novobanco's official sponsorship and a Wesley Sacardi installation."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DY7OhCTDACs/", "note": "YDG'26 is a partnership between LDW and MUDE with support from novobanco and SOFALCA Blackcork; Clube da Criatividade and CIEBA (Belas-Artes Lisboa) are communication partners."},
+    {"field": "activation_formats", "url": "https://www.instagram.com/p/DY7OhCTDACs/", "note": "Young Design Generation open call for designers under 35 (20 finalists exhibited at MUDE), supported by novobanco."},
+    {"field": "activation_formats", "url": "https://www.instagram.com/p/DZSrl5akhY6/", "note": "novobanco Photography Gallery hosted the 'Terra' exhibition during LDW 2026."}
+  ],
+  "add_gaps": [
+    "Visitor numbers and ticketing not published; YDG exhibition was free entry"
+  ],
+  "remove_gaps": [
+    "No public partnerships contact found",
+    "Partners and ticketing not found",
+    "2027 dates not announced"
+  ],
+  "notes": "novobanco is lead sponsor every year since 2023 and backs the YDG young designer competition with MUDE. 2026 had about 30 brand sponsors and partners, including non-endemic CUPRA, Lillet and ME Lisbon. 2027 edition confirmed 19 to 26 May (8 days, longer than 2026). Participants pay application fees (LDW27 pack). Contact info@lisbondesignweek.pt."
+}

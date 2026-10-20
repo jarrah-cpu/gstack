@@ -1,0 +1,164 @@
+{
+  "id": "australian-tattoo-expo",
+  "set": {
+    "attendance": {
+      "figure": 40000,
+      "figure_high": null,
+      "year": 2026,
+      "is_estimate": false,
+      "source": "https://www.austattooexpo.com.au/exhibit-sponsor",
+      "note": "Organiser-reported '40,000+ visitors annually' across all cities, as published on the 2026 site. The Sydney page claims '10,000+ attendees'; the homepage counter shows 42,560 attendees with no period stated; Tattoofilter cites 57,000 visitors annually (third party)."
+    },
+    "ticket_price": {
+      "min": 25,
+      "max": 79,
+      "currency": "AUD",
+      "free_entry": false,
+      "note": "Sydney 2026: twilight session $25 (door only), single-day pass $50, 3-day pass $79 (online only); kids 14 and under free (door only)."
+    },
+    "partnership_contact": {
+      "email": null,
+      "page_url": "https://www.austattooexpo.com.au/enquiry/sponsorship-enquiry",
+      "named_person": null,
+      "source": "https://www.austattooexpo.com.au/exhibit-sponsor"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Ink Pro",
+      "years": [
+        2026
+      ],
+      "role": "presenting",
+      "source": "https://www.austattooexpo.com.au/sydney"
+    },
+    {
+      "brand": "Harley Heaven",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.austattooexpo.com.au/sydney"
+    },
+    {
+      "brand": "Traza",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.austattooexpo.com.au/sydney"
+    },
+    {
+      "brand": "Numbskulled",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.austattooexpo.com.au/sydney"
+    },
+    {
+      "brand": "Gallagher",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.austattooexpo.com.au/sydney"
+    },
+    {
+      "brand": "Removery",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.austattooexpo.com.au/sydney"
+    },
+    {
+      "brand": "Spanian's Kebabs",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.austattooexpo.com.au/sydney"
+    },
+    {
+      "brand": "PUSHAS",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.austattooexpo.com.au/sydney"
+    },
+    {
+      "brand": "Strictly Tattoo",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.austattooexpo.com.au/sydney"
+    },
+    {
+      "brand": "Anime Tattoo Festival Bangkok",
+      "years": [
+        2026
+      ],
+      "role": "collab",
+      "source": "https://www.austattooexpo.com.au/sydney"
+    }
+  ],
+  "add_activation_formats": [
+    "competition-or-prize"
+  ],
+  "add_sources": [
+    {
+      "field": "sponsors",
+      "url": "https://www.austattooexpo.com.au/sydney",
+      "note": "Page read: 'Proudly Presented by' Ink Pro; 'Supported by' Harley Heaven, Traza, Numbskulled, Gallagher, Removery, Spanian's Kebabs, PUSHAS, Strictly Tattoo, Anime Tattoo Festival Bangkok. Names from logo file names and link URLs (no alt text)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.austattooexpo.com.au/",
+      "note": "Google snippet of the homepage: 'Presented by. INKPRO'."
+    },
+    {
+      "field": "attendance",
+      "url": "https://www.austattooexpo.com.au/exhibit-sponsor",
+      "note": "Crawled page: '40,000+ VISITORS ANNUALLY', '$6.4M SPENT AT SHOW ANNUALLY', '15,000+ EXPO TATTOOS DONE ANNUALLY'."
+    },
+    {
+      "field": "attendance",
+      "url": "https://www.austattooexpo.com.au/sydney",
+      "note": "Page read: '10,000+' attendees on the Sydney page."
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://www.austattooexpo.com.au/sydney",
+      "note": "Page read (FAQ): single-day $50, 3-day $79 online only, twilight $25 door only, kids 14 and under free."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.austattooexpo.com.au/exhibit-sponsor",
+      "note": "Crawled page links 'Sponsor The Expo' to /enquiry/sponsorship-enquiry and 'Partner With Us' to /enquiry/retailer."
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.austattooexpo.com.au/",
+      "note": "Crawled homepage lists Perth 23 to 25 Oct 2026 and Melbourne 4 to 6 Dec 2026 with ticket links."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.facebook.com/kosarewska/posts/what-an-honour-best-of-the-show-best-collaborationaustralian-tattoo-expo-sydney-/4040173786116874/",
+      "note": "Google snippet: artist thanks 'the judges and sponsors TRAZA Justat Tattoo Supplies' for Best of Show awards at the Sydney expo (year not shown)."
+    }
+  ],
+  "remove_gaps": [
+    "Perth and Melbourne 2026 dates come from one aggregator (World Tattoo Events); not seen on the organiser site",
+    "Organiser name, visitor numbers, ticket prices and sponsors not found",
+    "No public partnerships contact found"
+  ],
+  "add_gaps": [
+    "Organiser legal entity not named on the site (footer only says Australian Tattoo Expo)",
+    "Supporter names read from logo file names; tiers below presenting not stated",
+    "Per-city visitor numbers not published apart from the Sydney '10,000+' claim"
+  ],
+  "notes": "Ink Pro (tattoo supply) presents 2026; supporters include Removery (tattoo removal clinics, health-adjacent) and Gallagher (insurance). Sponsorship enquiry form published. Do not confuse with the Sydney Tattoo Convention (Australian Tattoo Arts Ltd, Red Bull partner), a separate event."
+}

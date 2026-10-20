@@ -1,0 +1,27 @@
+{
+  "id": "furgovolkswagen-sant-pere-pescador",
+  "set": {
+    "website": "https://www.volkswagen-comerciales.es/es/the-originals/furgovolkswagen.html",
+    "organiser": {"name": "Volkswagen Vehículos Comerciales (Volkswagen Group España)", "type": "brand-owned", "website": "https://www.volkswagen-comerciales.es/"},
+    "dates": {"last_edition": {"start": "2026-05-15", "end": "2026-05-17", "status": "held", "label": "22nd edition (2026)"}, "next_edition": {"start": "2027-05", "end": null, "status": "expected", "label": "23rd edition (2027)"}, "frequency": "annual", "duration_days": 3},
+    "location": {"city": "Sant Pere Pescador", "state_or_region": "Catalonia (Girona)", "country": "Spain", "venue_or_area": "Camping La Ballena Alegre"},
+    "attendance": {"figure": 8000, "figure_high": null, "year": 2026, "is_estimate": true, "source": "https://es.motor1.com/news/796784/furgovolkswagen-volkswagen-camper-concentracion/", "note": "Press-reported (Motor1, Google snippet): 'se han superado las 1.000 furgonetas y los 8.000' in 2026, so a lower bound. La Vanguardia reports about a thousand vehicles."},
+    "partnership_contact": {"email": "ana.rivas@volkswagengroup.es", "page_url": "https://www.volkswagen-comerciales.es/comunicacion/2026/04/07/la-furgovolkswagen-2026-abre-inscripciones-y-vuelve-a-convocar-a-los-fans-del-bulli-y-del-espiritu-camper-original/", "named_person": "Ana Rivas, Jefa de prensa de Comunicación Corporativa", "source": "https://www.volkswagen-comerciales.es/comunicacion/2026/04/07/la-furgovolkswagen-2026-abre-inscripciones-y-vuelve-a-convocar-a-los-fans-del-bulli-y-del-espiritu-camper-original/"}
+  },
+  "add_sponsors": [
+    {"brand": "Camping La Ballena Alegre", "years": [2026], "role": "venue", "source": "https://www.volkswagen-comerciales.es/comunicacion/2026/04/07/la-furgovolkswagen-2026-abre-inscripciones-y-vuelve-a-convocar-a-los-fans-del-bulli-y-del-espiritu-camper-original/"}
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {"field": "organiser", "url": "https://www.volkswagen-comerciales.es/comunicacion/2026/04/07/la-furgovolkswagen-2026-abre-inscripciones-y-vuelve-a-convocar-a-los-fans-del-bulli-y-del-espiritu-camper-original/", "note": "VW press release, 7 Apr 2026: 'Volkswagen Vehículos Comerciales ha abierto las inscripciones para la FurgoVolkswagen 2026'; 'vigésimo segunda edición', 15 to 17 May, Camping de la Ballena Alegre; registration on the VW Commercial Vehicles The Originals page; no other partners named."},
+    {"field": "website", "url": "https://www.volkswagen-comerciales.es/comunicacion/2026/04/07/la-furgovolkswagen-2026-abre-inscripciones-y-vuelve-a-convocar-a-los-fans-del-bulli-y-del-espiritu-camper-original/", "note": "Release points to volkswagen-comerciales.es/es/the-originals/furgovolkswagen.html for event info and registration. An owners' forum post (furgovw.org) also points to vencontufurgo.com."},
+    {"field": "dates.last_edition", "url": "https://www.quadismotorsol.es/noticias/furgovolkswagen-2026-inscripciones-abiertas-concentracion-bulli-sant-pere-pescador/", "note": "Google snippet: 'celebra su 22ª edición, del 15 al 17 de mayo de 2026'. The record's '23rd' was wrong."},
+    {"field": "location", "url": "https://www.facebook.com/quadismotorsol/posts/-la-furgovolkswagen-celebra-su-22%C2%AA-edici%C3%B3n-del-15-al-17-de-mayo-de-2026-camping-/1375993991236915/", "note": "Google snippet: Camping La Ballena Alegre, Sant Pere Pescador (Girona)."},
+    {"field": "attendance", "url": "https://es.motor1.com/news/796784/furgovolkswagen-volkswagen-camper-concentracion/", "note": "Google snippet, as quoted."},
+    {"field": "attendance", "url": "https://www.lavanguardia.com/motor/vehiculos/caravaning/20260517/11538695/gran-cita-camper-ano-vuelve-convertir-pequeno-pueblo-costero-catalan-meca-miticas-furgonetas-volkswagen.html", "note": "Google snippet: the 22nd edition 'ha concentrado un millar de vehículos'."},
+    {"field": "partnership_contact", "url": "https://www.volkswagen-comerciales.es/comunicacion/2026/04/07/la-furgovolkswagen-2026-abre-inscripciones-y-vuelve-a-convocar-a-los-fans-del-bulli-y-del-espiritu-camper-original/", "note": "Press contacts on the release: Ana Rivas (corporate communication, ana.rivas@volkswagengroup.es) and Joaquín Torres (product press, joaquin.torres@volkswagengroup.es). Media contacts, not a sponsorship channel."}
+  ],
+  "add_gaps": ["No co-sponsors named; the event is owned by Volkswagen Commercial Vehicles, so third-party brand access is uncertain"],
+  "remove_gaps": ["Organiser (brand, dealer network or owners' forum) not confirmed", "Venue not captured", "No public partnerships contact found"],
+  "notes": "Edition corrected to 22nd (2026). Brand-owned by VW Commercial Vehicles, which limits a health brand to a guest or stall role. Origin: owners met in Sant Pere Pescador in 2004 (Motor16 snippet). No Instagram captured; IG post DWBoiclmIB5 (Catalan, registrations open for the 22nd Concentració) may be the event's own account, worth checking."
+}

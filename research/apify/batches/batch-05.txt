@@ -1,0 +1,14 @@
+a-melbourne	a3-festival-lardner-park
+a-melbourne	bells-beach-longboard-classic
+a-melbourne	big-design-market-melbourne
+a-melbourne	brunswick-music-festival
+a-melbourne	fashion-thrift-society-melbourne
+a-melbourne	festival-of-the-photocopier-melbourne
+a-melbourne	finders-keepers-melbourne
+a-melbourne	golden-plains-meredith
+a-melbourne	great-ocean-road-womens-surf-fest
+a-melbourne	here-comes-the-sun-torquay
+a-melbourne	laneway-festival-melbourne
+a-melbourne	leaps-and-bounds-music-festival
+a-melbourne	let-them-eat-cake-werribee
+a-melbourne	melbourne-art-book-fair

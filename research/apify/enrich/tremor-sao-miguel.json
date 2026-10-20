@@ -1,0 +1,53 @@
+{
+  "id": "tremor-sao-miguel",
+  "set": {
+    "organiser": {"name": "Associação Cultural Plutão Camaleão (Lovers & Lollypops, António Pedro Lopes and YUZIN)", "type": "non-profit", "website": "https://www.tremor-pdl.com/"},
+    "partnership_contact": {"email": "info@tremor-pdl.com", "page_url": "https://www.tremor-pdl.com/single/faqs/", "named_person": null, "source": "https://www.tremor-pdl.com/single/faqs/"}
+  },
+  "add_sponsors": [
+    {"brand": "FLAD (Fundação Luso-Americana para o Desenvolvimento)", "years": [2026], "role": "partner", "source": "https://www.tremor-pdl.com/single/parceiros/"},
+    {"brand": "Grupo Bensaude", "years": [2026], "role": "partner", "source": "https://www.tremor-pdl.com/single/parceiros/"},
+    {"brand": "Wayzor Rent a Car", "years": [2026], "role": "partner", "source": "https://www.tremor-pdl.com/single/parceiros/"},
+    {"brand": "Bentrans", "years": [2026], "role": "partner", "source": "https://www.tremor-pdl.com/single/parceiros/"},
+    {"brand": "Azores Easy Rent", "years": [2026], "role": "partner", "source": "https://www.tremor-pdl.com/single/parceiros/"},
+    {"brand": "Novo Banco dos Açores", "years": [2026], "role": "partner", "source": "https://www.tremor-pdl.com/single/parceiros/"},
+    {"brand": "A.C. Cymbron", "years": [2026], "role": "partner", "source": "https://www.tremor-pdl.com/single/parceiros/"},
+    {"brand": "Bensaude Hotels", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DZnoA2rkauq/"},
+    {"brand": "NOS", "years": [2026], "role": "partner", "source": "https://www.tremor-pdl.com/single/parceiros/"},
+    {"brand": "Holy Cow", "years": [2026], "role": "partner", "source": "https://www.tremor-pdl.com/single/parceiros/"},
+    {"brand": "Sociedade Ponto Verde", "years": [2026], "role": "partner", "source": "https://www.tremor-pdl.com/single/parceiros/"},
+    {"brand": "Ocean Pellets", "years": [2026], "role": "partner", "source": "https://www.tremor-pdl.com/single/parceiros/"},
+    {"brand": "APF Açores", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DWUuoCojKTU/"},
+    {"brand": "Governo dos Açores", "years": [2026], "role": "government", "source": "https://www.tremor-pdl.com/single/parceiros/"},
+    {"brand": "Câmara Municipal de Ponta Delgada", "years": [2026], "role": "government", "source": "https://www.tremor-pdl.com/single/parceiros/"},
+    {"brand": "Câmara Municipal da Ribeira Grande", "years": [2026], "role": "government", "source": "https://www.tremor-pdl.com/single/parceiros/"},
+    {"brand": "Município da Lagoa", "years": [2026], "role": "government", "source": "https://www.tremor-pdl.com/single/parceiros/"},
+    {"brand": "República Portuguesa / DGArtes", "years": [2026], "role": "government", "source": "https://www.tremor-pdl.com/single/parceiros/"},
+    {"brand": "Certificado Açores", "years": [2026], "role": "government", "source": "https://www.tremor-pdl.com/single/parceiros/"},
+    {"brand": "Turismo de Portugal", "years": [2026], "role": "government", "source": "https://www.tremor-pdl.com/single/parceiros/"},
+    {"brand": "Arquipélago, Centro de Artes Contemporâneas", "years": [2026], "role": "government", "source": "https://www.tremor-pdl.com/single/parceiros/"},
+    {"brand": "Antena 3 (RTP)", "years": [2026], "role": "media", "source": "https://www.tremor-pdl.com/single/parceiros/"},
+    {"brand": "RTP Açores", "years": [2026], "role": "media", "source": "https://www.tremor-pdl.com/single/parceiros/"},
+    {"brand": "Antena 1 Açores", "years": [2026], "role": "media", "source": "https://www.tremor-pdl.com/single/parceiros/"},
+    {"brand": "RTP", "years": [2026], "role": "media", "source": "https://www.tremor-pdl.com/single/parceiros/"}
+  ],
+  "add_activation_formats": ["competition-or-prize"],
+  "add_sources": [
+    {"field": "organiser", "url": "https://www.tremor-pdl.com/single/parceiros/", "note": "Partners page heading 'Organização': Plutão Camaleão."},
+    {"field": "organiser", "url": "https://www.tremor-pdl.com/single/sobre/", "note": "About page: Associação Cultural Plutão Camaleão, founded early 2017 in Ponta Delgada by Lovers & Lollypops, curator António Pedro Lopes and YUZIN-Agenda Cultural; has run 12 Tremor editions."},
+    {"field": "partnership_contact", "url": "https://www.tremor-pdl.com/single/faqs/", "note": "FAQ lists info@tremor-pdl.com (general), tremorpress@gmail.com (press) and bookings@grupoanc.pt."},
+    {"field": "sponsors", "url": "https://www.tremor-pdl.com/single/parceiros/", "note": "Partners page (read Oct 2026, year not stated, taken as the 2026 edition): Financiamento Governo dos Açores, CM Ponta Delgada, CM Ribeira Grande, Certificado Açores, República Portuguesa + DGArtes, Lagoa; Patrocinadores FLAD, Grupo Bensaude, Wayzor, Bentrans, Azores Easy Rent; Mecenas Novo Banco dos Açores (Som Sim Zero) and A.C. Cymbron (Rabo de Peixe music school residency); Parceiros mediáticos Antena 3, RTP Açores, Antena 1 Açores, RTP; Apoios include NOS, Holy Cow, Neat Hotel, Bensaude Hotéis, Sociedade Ponto Verde, Ocean Pellets, Turismo de Portugal, Lovers & Lollypops; creative partners include Arquipélago, Coliseu Micaelense, APF."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DZnoA2rkauq/", "note": "Jun 2026 giveaway 'Tremor x Bensaude Hotels x Wayzor Rent a Car': 2 passes, 2 nights at NEAT Hotel Avenida and 25% off car hire for the 2027 edition."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DWUuoCojKTU/", "note": "Plutão Camaleão and APF-Açores run the #TremorSeguro safety and inclusion point at the festival."},
+    {"field": "activation_formats", "url": "https://www.instagram.com/p/DZnoA2rkauq/", "note": "Partner giveaway with hotel and car-hire sponsors."},
+    {"field": "ticket_price", "url": "https://www.instagram.com/p/Dc-5DzcsD9N/", "note": "7 Sep 2026: Tremor 2027 general passes sold out; first tier sold out in under 24 hours (4 Apr 2026 post)."}
+  ],
+  "add_gaps": [
+    "Partners page does not state its edition year; roster assumed to be 2026"
+  ],
+  "remove_gaps": [
+    "No public partnerships contact found",
+    "Organiser entity and partner roster not found"
+  ],
+  "notes": "Organiser is Plutão Camaleão (Lovers & Lollypops, António Pedro Lopes, YUZIN). Large mixed roster: regional government funding, Bensaude group and car-hire sponsors, Novo Banco dos Açores as patron, NOS and Holy Cow as supporters. 2027 general passes sold out by Sep 2026, so demand is strong. Antena 3 already on record for 2025; years now extend to 2026."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "wander-yogi-festival-ericeira",
+  "set": {
+    "dates": {
+      "last_edition": {"start": "2026-10-01", "end": "2026-10-04", "status": "held", "label": "5th edition (2026), 'The Invisible Thread'"},
+      "next_edition": {"start": "2027", "end": null, "status": "expected", "label": "6th edition (2027)"},
+      "frequency": "annual",
+      "duration_days": 4
+    },
+    "location": {"city": "Ericeira", "state_or_region": "Mafra, Lisbon district", "country": "Portugal", "venue_or_area": "Casa Paço d'Ilhas, near Ericeira"},
+    "organiser": {"name": "The Wander Yogi", "type": "independent", "website": "https://thewanderyogi.com/"},
+    "partnership_contact": {"email": "hello@thewanderyogi.com", "page_url": "https://www.thewanderyogi.com/contact", "named_person": null, "source": "https://www.thewanderyogi.com/contact"}
+  },
+  "add_sponsors": [
+    {"brand": "Casa Paço d'Ilhas", "years": [2025, 2026], "role": "venue", "source": "https://www.instagram.com/thewanderyogi_official/"},
+    {"brand": "AZUL, Ericeira Mag", "years": [2026], "role": "media", "source": "https://www.instagram.com/p/Dd5zjaFuoJW/"}
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {"field": "dates.last_edition", "url": "https://www.instagram.com/thewanderyogi_official/", "note": "IG bio: '1-4 Oct 2026, 5th WanderYogi Festival Ericeira @casapacodilhas'."},
+    {"field": "dates.last_edition", "url": "https://www.thewanderyogi.com/", "note": "Official site: festival 1 to 4 October 2026."},
+    {"field": "dates.last_edition", "url": "https://www.facebook.com/AZULericeiramag/posts/entre-os-dias-1-e-4-de-outubro-o-festival-de-yoga-wander-yogi-vai-realizar-se-so/1377235571062452/", "note": "Google snippet: 1 to 4 October under the theme 'The Invisible Thread'."},
+    {"field": "location", "url": "https://www.instagram.com/thewanderyogi_official/", "note": "IG bio venue tag @casapacodilhas; Google snippet of a 2026 post: 'na Casa Paço d'Ilhas, perto da Ericeira'."},
+    {"field": "organiser", "url": "https://www.thewanderyogi.com/about", "note": "About page: The Wander Yogi runs international yoga events; founder is an Italian former advertising professional (not named in crawl)."},
+    {"field": "partnership_contact", "url": "https://www.thewanderyogi.com/contact", "note": "Contact page: hello@thewanderyogi.com."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DP04xdUDFZb/", "note": "15 Oct 2025 post thanks @thewanderyogi_official and @casapacodilhas for the festival (venue in 2025 too)."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/Dd5zjaFuoJW/", "note": "AZUL Ericeira Mag promoted the festival with reader promo codes (code WANDERYOGI_AZUL), Sep to Oct 2026."}
+  ],
+  "add_gaps": [
+    "Attendance not found",
+    "No brand sponsors found beyond venue and local media"
+  ],
+  "remove_gaps": [
+    "No public partnerships contact found",
+    "2026 dates conflict (Visit Lisboa 10 to 13 Oct with no year vs an aggregator listing from 1 Oct 2026)",
+    "Venue, attendance and organiser entity not found"
+  ],
+  "notes": "Corrected edition: 2026 was the 5th edition, 1 to 4 Oct at Casa Paço d'Ilhas (record said 4th). Small yoga festival (5.5k IG followers) with teachers credited, not sponsors. Only partners: venue and AZUL Ericeira Mag. Also ran a June 2026 Yoga Gives Back fundraiser. Contact hello@thewanderyogi.com. A Google snippet mentions Everest Ayurveda products at a Wander Yogi event at the same venue; not verified, not added."
+}

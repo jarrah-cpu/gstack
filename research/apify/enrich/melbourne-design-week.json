@@ -1,0 +1,61 @@
+{
+  "id": "melbourne-design-week",
+  "set": {
+    "attendance": {
+      "figure": 120000,
+      "figure_high": null,
+      "year": 2026,
+      "is_estimate": false,
+      "source": "https://designweek.melbourne/about/",
+      "note": "Organiser-reported: 'more than 120,000 attendees in 2026' (MDW About page). 2025: more than 100,000, the largest crowd on record at the time (NGV 2026 media release)."
+    },
+    "audience": {
+      "age_range": null,
+      "gender_skew": null,
+      "psychographics": "Designers, architects, educators, design businesses and the design-curious public; the organiser says MDW engages both professional audiences and the general public through talks, tours, dinners, exhibitions, launches and workshops.",
+      "source": "https://designweek.melbourne/about/"
+    },
+    "partnership_contact": {
+      "email": "designweek@ngv.vic.gov.au",
+      "page_url": "https://designweek.melbourne/contact/",
+      "named_person": null,
+      "source": "https://designweek.melbourne/contact/"
+    },
+    "ticket_price": {
+      "min": 0,
+      "max": null,
+      "currency": "AUD",
+      "free_entry": true,
+      "note": "Open public program; FAQ says the majority of events are free but may need bookings or have capacity limits. Ticketed events are priced individually."
+    }
+  },
+  "add_sponsors": [
+    {"brand": "Mercedes-Benz Australia", "years": [2026], "role": "major", "source": "https://www.facebook.com/NGVMelbourne/posts/what-an-incredible-weekthank-you-to-everyone-whos-joined-us-for-melbourne-design/1409328957897057/"},
+    {"brand": "Telstra", "years": [2026], "role": "major", "source": "https://www.facebook.com/NGVMelbourne/posts/what-an-incredible-weekthank-you-to-everyone-whos-joined-us-for-melbourne-design/1409328957897057/"},
+    {"brand": "Stylecraft", "years": [2026], "role": "partner", "source": "https://www.ngv.vic.gov.au/media_release/melbourne-design-week-2026-australias-largest-design-event-showcases-the-future-of-food-fitness-furniture-and-more/"}
+  ],
+  "add_activation_formats": ["competition-or-prize"],
+  "add_sources": [
+    {"field": "attendance", "url": "https://designweek.melbourne/about/", "note": "About page (crawled Oct 2026): 'With more than 120,000 attendees in 2026, MDW is Australia's most influential design event'; over 500 events and 1,300 designers in 2026."},
+    {"field": "attendance", "url": "https://www.ngv.vic.gov.au/media_release/melbourne-design-week-2026-australias-largest-design-event-showcases-the-future-of-food-fitness-furniture-and-more/", "note": "Page read: 2025 'more than 100,000 attended', the largest crowd on record."},
+    {"field": "sponsors", "url": "https://www.facebook.com/NGVMelbourne/posts/what-an-incredible-weekthank-you-to-everyone-whos-joined-us-for-melbourne-design/1409328957897057/", "note": "Google snippet of NGV post on MDW 2026: 'Presented by @NGVMelbourne and @Creative_Vic, with thanks to Major Partners @MercedesBenzAU and @Telstra, Design ...' (rest of the tier list cut off)."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DYAoVnEn8tB/", "note": "Google snippet of the MDW 2026 opening post: 'Presented by @NGVMelbourne and @Creative_Vic, with thanks to Major Partners ...'."},
+    {"field": "sponsors", "url": "https://www.ngv.vic.gov.au/media_release/melbourne-design-week-2026-australias-largest-design-event-showcases-the-future-of-food-fitness-furniture-and-more/", "note": "Page read: 'The Melbourne Design Week Award, presented by Mercedes-Benz Australia' (Google snippet adds 'for the seventh-year running'); Australian Furniture Design Award 'Presented by Stylecraft and NGV'."},
+    {"field": "activation_formats", "url": "https://www.ngv.vic.gov.au/media_release/melbourne-design-week-2026-australias-largest-design-event-showcases-the-future-of-food-fitness-furniture-and-more/", "note": "Brand-presented awards: Mercedes-Benz Australia (MDW Award) and Stylecraft (Australian Furniture Design Award)."},
+    {"field": "audience", "url": "https://designweek.melbourne/dashboard/event-submission/", "note": "Google snippet: 'Melbourne Design Week engages both professional audiences and the general public.'"},
+    {"field": "partnership_contact", "url": "https://designweek.melbourne/contact/", "note": "Contact page: general queries via form or designweek@ngv.vic.gov.au. No dedicated partnerships contact."},
+    {"field": "ticket_price", "url": "https://designweek.melbourne/faqs/", "note": "FAQ: 'the majority of Melbourne Design Week events are free but may require bookings and/or have capacity limits'."}
+  ],
+  "remove_gaps": [
+    "2026 attendance not published in search results",
+    "No partnerships contact found; program entry is via the open call",
+    "Ticket pricing not found"
+  ],
+  "add_gaps": [
+    "No dedicated partnerships contact; designweek@ngv.vic.gov.au is the general enquiries address",
+    "Full 2026 partner tier list not captured (partner logos on designweek.melbourne are an image grid)",
+    "Mercedes-Benz award sponsorship runs seven years but earlier years not itemised",
+    "Prices of individual ticketed events not captured"
+  ],
+  "notes": "Organiser now reports 120,000+ attendees for 2026. Commercial tier: Mercedes-Benz Australia and Telstra as Major Partners (2026), Mercedes-Benz also presents the MDW Award for its seventh year. Brands such as Muji Australia and Local Design present their own events through the open call (participant route, not sponsorship), which is a low-cost entry path."
+}

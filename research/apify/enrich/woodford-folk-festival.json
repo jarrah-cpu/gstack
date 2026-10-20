@@ -1,0 +1,170 @@
+{
+  "id": "woodford-folk-festival",
+  "set": {
+    "website": "https://woodfordfolkfestival.com/",
+    "organiser": {
+      "name": "Woodfordia Ltd",
+      "type": "non-profit",
+      "website": "https://woodfordia.org/"
+    },
+    "dates": {
+      "last_edition": {
+        "start": "2025-12-27",
+        "end": "2026-01-01",
+        "status": "held",
+        "label": "2025/26 (38th festival)"
+      },
+      "next_edition": {
+        "start": "2026-12-27",
+        "end": "2027-01-01",
+        "status": "confirmed",
+        "label": "2026/27"
+      },
+      "frequency": "annual",
+      "duration_days": 6
+    },
+    "attendance": {
+      "figure": 35000,
+      "figure_high": null,
+      "year": 2022,
+      "is_estimate": false,
+      "source": "https://woodfordia.org/wp-content/uploads/2023/11/WFF-Media-Fact-Sheet-2023.pdf",
+      "note": "Organiser-reported (2023 media fact sheet): the 2022/23 festival drew 'an aggregate audience of over 120,000 visitors', which 'translates into 35,000 unique visitors' (Qld 20,013, interstate 14,254, international 1,728)."
+    },
+    "audience": {
+      "age_range": null,
+      "gender_skew": null,
+      "psychographics": "All ages per organiser: families, young partygoers, music lovers, community leaders, educators, students, artists, environmentalists and retired professionals; 70% repeat visitors; 2022/23 visitors 8% local, 60.4% elsewhere in Qld, 30% interstate, 1.2% overseas.",
+      "source": "https://woodfordia.org/wp-content/uploads/2023/11/WFF-Media-Fact-Sheet-2023.pdf"
+    },
+    "partnership_contact": {
+      "email": "media@woodfordia.com",
+      "page_url": "https://woodfordfolkfestival.com/contact/",
+      "named_person": null,
+      "source": "https://woodfordfolkfestival.com/media/"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Tourism and Events Queensland (Queensland Government)",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://woodfordfolkfestival.com/the-festival/sponsors/"
+    },
+    {
+      "brand": "Arts Queensland",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://woodfordfolkfestival.com/media/"
+    },
+    {
+      "brand": "Coopers Brewing",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://woodfordfolkfestival.com/the-festival/sponsors/"
+    },
+    {
+      "brand": "Arris Water",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://woodfordfolkfestival.com/the-festival/sponsors/"
+    },
+    {
+      "brand": "Cave Urban",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://woodfordfolkfestival.com/the-festival/sponsors/"
+    },
+    {
+      "brand": "McCullough Robertson Lawyers",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://woodfordfolkfestival.com/the-festival/sponsors/"
+    },
+    {
+      "brand": "Epic Cycles",
+      "years": [
+        2023
+      ],
+      "role": "partner",
+      "source": "https://woodfordia.org/wp-content/uploads/2023/11/WFF-Media-Fact-Sheet-2023.pdf"
+    }
+  ],
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://woodfordfolkfestival.com/",
+      "note": "Official site: 'Woodford Folk Festival 27 Dec 26 to 1 Jan 27', Jinibara Country, Woodford."
+    },
+    {
+      "field": "organiser",
+      "url": "https://woodfordfolkfestival.com/media/",
+      "note": "Media page: 'produced by Woodfordia Ltd. a not-for profit community arts organisation and is supported by the Queensland Government through Arts Queensland and Tourism and Events Queensland' (Google snippet and crawl)."
+    },
+    {
+      "field": "organiser",
+      "url": "https://woodfordfolkfestival.com/the-festival/sponsors/",
+      "note": "Footer: Copyright Woodfordia, ABN 74 616 312 239, ACNC registered charity logo."
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://woodfordfolkfestival.com/info/faqs/",
+      "note": "FAQ: Season ticket 'valid for all 6 days of the festival, 27 Dec to 1 Jan'; 2026/27 programme published."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.abc.net.au/news/2025-12-30/woodford-folk-festivals-thirty-eighth-year/106186650",
+      "note": "ABC (30 Dec 2025): Woodford Folk Festival's 38th year, more than 450 acts across six days."
+    },
+    {
+      "field": "attendance",
+      "url": "https://woodfordia.org/wp-content/uploads/2023/11/WFF-Media-Fact-Sheet-2023.pdf",
+      "note": "2023 media fact sheet: 2022/23 aggregate audience over 120,000, 35,000 unique visitors; 2023/24 estimated aggregate up to 120,000; site infrastructure for up to 20,000 patrons per day."
+    },
+    {
+      "field": "audience",
+      "url": "https://woodfordia.org/wp-content/uploads/2023/11/WFF-Media-Fact-Sheet-2023.pdf",
+      "note": "Fact sheet: programme 'reflects the broad and diverse demographic'; '70% of the audience are repeat visitors'; visitor origins from the 2022/23 Visitor Survey."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://woodfordfolkfestival.com/the-festival/sponsors/",
+      "note": "Sponsors page (crawled Oct 2026, 'this year's festival'): supported by the Queensland Government through TEQ; sponsor logos Coopers Brewing, Arris Water, Cave Urban, McCullough Robertson Lawyers."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://woodfordia.org/wp-content/uploads/2023/11/WFF-Media-Fact-Sheet-2023.pdf",
+      "note": "Fact sheet (2023/24): cycling initiative 'In partnership with Epic Cycles' (priority gate entry and luggage transport for cyclists)."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://woodfordfolkfestival.com/contact/",
+      "note": "Contact page lists reception, ticketing, volunteers, glamping, stalls and media@woodfordia.com; no sponsorship-specific address."
+    }
+  ],
+  "remove_gaps": [
+    "Dates come from a third-party roundup, not the organiser",
+    "Organiser, website and last edition not captured in this pass",
+    "Attendance not published in results",
+    "Sponsors not found",
+    "No public partnerships contact found"
+  ],
+  "add_gaps": [
+    "No sponsorship-specific contact; media@woodfordia.com used",
+    "Ticket prices are on a separate page not captured",
+    "Attendance figure is for 2022/23; no later unique-visitor figure found"
+  ],
+  "notes": "Big fill: official site, organiser (Woodfordia Ltd, charity), confirmed 27 Dec 2026 to 1 Jan 2027 dates, organiser attendance (35,000 unique, 120,000+ aggregate, 2022/23) and audience profile. Few, low-key sponsors (Coopers, Arris Water, Cave Urban, McCullough Robertson) and a 'non-commercial feel' per the fact sheet. Fact sheet names the producer 'Woodfordia Inc.'; current site says Woodfordia Ltd."
+}

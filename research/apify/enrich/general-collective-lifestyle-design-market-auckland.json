@@ -1,0 +1,24 @@
+{
+  "id": "general-collective-lifestyle-design-market-auckland",
+  "set": {
+    "dates": {
+      "last_edition": {"start": "2026-08-09", "end": "2026-08-09", "status": "held", "label": "Winter Edition 2026"},
+      "next_edition": {"start": "2026-11-29", "end": "2026-11-29", "status": "confirmed", "label": "Christmas Edition 2026"},
+      "frequency": "biannual",
+      "duration_days": 1
+    },
+    "audience": {"age_range": null, "gender_skew": null, "psychographics": "Visitors from across New Zealand shopping curated New Zealand-made design: homewares, jewellery, natural skincare, ethical fashion, ceramics, art and children's goods; family-friendly (under 12s free).", "source": "https://generalcollective.co.nz/pages/showcase-your-brand-with-general-collective"},
+    "partnership_contact": {"email": "rose@generalcollective.co.nz", "page_url": "https://generalcollective.co.nz/pages/collaborate", "named_person": "Rose Barbarich (collaborative, press and marketing enquiries)", "source": "https://generalcollective.co.nz/pages/contact"}
+  },
+  "add_sponsors": [],
+  "add_activation_formats": [],
+  "add_sources": [
+    {"field": "dates.last_edition", "url": "https://www.instagram.com/p/Dbv1ArJEnlL/", "note": "Aug 2026: 'General Collective Lifestyle & Design Market - Winter Edition / Sunday 9 August | 9am to 3pm', more than 100 brands."},
+    {"field": "dates.frequency", "url": "https://www.instagram.com/p/DbiQWBnoI5R/", "note": "'This is one of only two General Collective Lifestyle & Design Markets being held in 2026'; homepage says 'Held just twice a year' (Google snippet)."},
+    {"field": "audience", "url": "https://generalcollective.co.nz/pages/showcase-your-brand-with-general-collective", "note": "'Visitors from across New Zealand attend our in-person events'; market page lists product mix and 'Kids under 12 FREE' (https://generalcollective.co.nz/pages/lifestyle-and-design-market)."},
+    {"field": "partnership_contact", "url": "https://generalcollective.co.nz/pages/contact", "note": "'Collaborative, Press & Marketing Enquiries: Rose Barbarich, +64 22 0611 277, rose@generalcollective.co.nz'. Vendor enquiries go to hello@generalcollective.co.nz."}
+  ],
+  "add_gaps": ["Attendance not published; 220+ stalls at the Nov 2025 edition and 100+ vendors at the Aug 2026 edition", "Customer demographics are published only as an image on the site; age and gender not transcribed", "No sponsors found; market is run by retailer General Collective"],
+  "remove_gaps": ["Edition pattern (how many per year) not confirmed", "Stallholder count and attendance not captured", "Sponsors not captured", "No public partnerships contact found"],
+  "notes": "Retailer-run curated market, twice a year at Auckland Showgrounds ($5 entry). No sponsors; the brand route in is a stall or a collaboration via Rose Barbarich. The site has a 'customer demographics' graphic (GCLD_Customers_2.png) that could give age and gender if someone views it. IG @generalcollective is the organiser account covering several markets (Ponsonby, Downtown), not just this event."
+}

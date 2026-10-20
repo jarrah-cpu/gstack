@@ -1,0 +1,443 @@
+{
+  "id": "himeji-skateboard-jam",
+  "set": {
+    "organiser": {
+      "name": "Himeji Skateboard Association (姫路スケートボード協会)",
+      "type": "community-collective",
+      "website": null
+    },
+    "location": {
+      "city": "Himeji",
+      "state_or_region": "Hyogo",
+      "country": "Japan",
+      "venue_or_area": "Himeji City Skateboard Park and upper plaza (上段広場)"
+    },
+    "dates": {
+      "last_edition": {
+        "start": "2025-11-02",
+        "end": "2025-11-02",
+        "status": "held",
+        "label": "HIMEJI SKATEBOARD JAM 2025"
+      },
+      "next_edition": {
+        "start": "2026-10-25",
+        "end": "2026-10-25",
+        "status": "confirmed",
+        "label": "HIMEJI SKATEBOARD JAM 2026"
+      },
+      "frequency": "annual",
+      "duration_days": 1
+    },
+    "partnership_contact": {
+      "email": null,
+      "page_url": "https://www.instagram.com/himeji_skateboard_association/",
+      "named_person": null,
+      "source": "https://www.instagram.com/p/Dcv5A9gJXVw/"
+    },
+    "ticket_price": {
+      "min": 0,
+      "max": 2500,
+      "currency": "JPY",
+      "free_entry": true,
+      "note": "Free entry; skating in the park JPY 500 incl. insurance; junior school (junior high age and younger, 12 places) JPY 2,500. Cancelled in rain."
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "SHELTER SKATE DISTRIBUTION",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DeJBqUIkZWJ/"
+    },
+    {
+      "brand": "SNACK SKATEBOARDS",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DeJBqUIkZWJ/"
+    },
+    {
+      "brand": "SPRINKLES",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DeJBqUIkZWJ/"
+    },
+    {
+      "brand": "LOOPHOLE",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DeJBqUIkZWJ/"
+    },
+    {
+      "brand": "DAMAGE",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DeJBqUIkZWJ/"
+    },
+    {
+      "brand": "CLEAVER",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DeJBqUIkZWJ/"
+    },
+    {
+      "brand": "SKATE JAWN MAGAZINE",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DeJBqUIkZWJ/"
+    },
+    {
+      "brand": "AREth",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DeJBqUIkZWJ/"
+    },
+    {
+      "brand": "BP TRADING",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DeJBqUIkZWJ/"
+    },
+    {
+      "brand": "BEAUTIFUL PLANET",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DeJBqUIkZWJ/"
+    },
+    {
+      "brand": "KAONKA",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DeJBqUIkZWJ/"
+    },
+    {
+      "brand": "SATORI WHEELS",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DeJBqUIkZWJ/"
+    },
+    {
+      "brand": "hasco",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DeJBqUIkZWJ/"
+    },
+    {
+      "brand": "INDEPENDENT",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DeJBqUIkZWJ/"
+    },
+    {
+      "brand": "OJ WHEELS",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DeJBqUIkZWJ/"
+    },
+    {
+      "brand": "kinari",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DeJBqUIkZWJ/"
+    },
+    {
+      "brand": "EVISEN",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DeJBqUIkZWJ/"
+    },
+    {
+      "brand": "TIGHTBOOTH",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DeJBqUIkZWJ/"
+    },
+    {
+      "brand": "HAYASHI TRADING",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DeJBqUIkZWJ/"
+    },
+    {
+      "brand": "OSC DISTRIBUTION",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DeJBqUIkZWJ/"
+    },
+    {
+      "brand": "ACE TRUCK",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DeJBqUIkZWJ/"
+    },
+    {
+      "brand": "AMPERSAND POUND",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DeJBqUIkZWJ/"
+    },
+    {
+      "brand": "ITAL DUCT",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DeJBqUIkZWJ/"
+    },
+    {
+      "brand": "K STUDIO",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DeJBqUIkZWJ/"
+    },
+    {
+      "brand": "MDP SKATEPARK",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DeJBqUIkZWJ/"
+    },
+    {
+      "brand": "BIG MOUTH SKATE",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DeJBqUIkZWJ/"
+    },
+    {
+      "brand": "PULP SKATESHOP",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DeJBqUIkZWJ/"
+    },
+    {
+      "brand": "the UNIVERSE",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DeJBqUIkZWJ/"
+    },
+    {
+      "brand": "NEW BUILD",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DeJBqUIkZWJ/"
+    },
+    {
+      "brand": "BOOM KITCHEN",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DeJBqUIkZWJ/"
+    },
+    {
+      "brand": "spice Suehiro",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DeJBqUIkZWJ/"
+    },
+    {
+      "brand": "talk and nup",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DeJBqUIkZWJ/"
+    },
+    {
+      "brand": "Aono Shoten",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DeJBqUIkZWJ/"
+    },
+    {
+      "brand": "Orang Vibes",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DeJBqUIkZWJ/"
+    },
+    {
+      "brand": "YUMEDEN",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DeJBqUIkZWJ/"
+    },
+    {
+      "brand": "Ono Mokko",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DeJBqUIkZWJ/"
+    },
+    {
+      "brand": "Saiko Onkyo",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DeJBqUIkZWJ/"
+    },
+    {
+      "brand": "YURAGI",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DeJBqUIkZWJ/"
+    },
+    {
+      "brand": "JAU",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DeJBqUIkZWJ/"
+    },
+    {
+      "brand": "Himeji City",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.instagram.com/p/DeJBqUIkZWJ/"
+    },
+    {
+      "brand": "Himeji City Board of Education",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.instagram.com/p/DeJBqUIkZWJ/"
+    }
+  ],
+  "add_activation_formats": [
+    "competition-or-prize",
+    "stall"
+  ],
+  "add_sources": [
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DeJBqUIkZWJ/",
+      "note": "2026 flyer post: 【協賛】 list of 39 sponsors (skate brands, distributors, local shops and food stalls); 後援 Himeji City and Himeji City Board of Education; 主催 Himeji Skateboard Association."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DQOgGiKEZfe/",
+      "note": "2025 sponsor intro: Shelter Skate Distribution (Kobe) supports Himeji Jam every year and supplied jam session prizes in 2025."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.jau.ne.jp/news/himeji-skateboard-jam-2025/",
+      "note": "Google snippet: JAU news for HIMEJI SKATEBOARD JAM 2025 lists sponsors incl. Shelter Distribution and SNACK."
+    },
+    {
+      "field": "organiser",
+      "url": "https://www.instagram.com/p/DeJBqUIkZWJ/",
+      "note": "主催 姫路スケートボード協会; the association runs a monthly beginner class at the city skate park (IG bio)."
+    },
+    {
+      "field": "location",
+      "url": "https://www.instagram.com/p/DeJBqUIkZWJ/",
+      "note": "Venue: 姫路市立スケートボードパークと上段広場."
+    },
+    {
+      "field": "dates",
+      "url": "https://www.instagram.com/p/DQOReaEkVbm/",
+      "note": "HIMEJI SKATEBOARD JAM 2025 held Sun 2 Nov 2025, 10:00 to 17:00."
+    },
+    {
+      "field": "dates",
+      "url": "https://www.instagram.com/jau_mon/",
+      "note": "Google snippet: HIMEJI SKATEBOARD JAM 2024 on 3 Nov 2024; https://himejiskateboard.jp/news/hello-world/ shows a 30 Oct 2022 edition, so the event is annual."
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://www.instagram.com/p/DeJBqUIkZWJ/",
+      "note": "Entry free (skate fee JPY 500 incl. insurance); junior school JPY 2,500."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.instagram.com/p/Dcv5A9gJXVw/",
+      "note": "2026 sponsor call: one unit JPY 5,000, benefit is a logo on the official flyer; apply by DM to the association's Instagram or by direct contact; deadline 13 Sep 2026."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/DeJBqUIkZWJ/",
+      "note": "Sponsor-supplied prizes for the free jam session; special booths by Skate Jawn Mag (Shelter), AREth and BP Trading; food and market booths."
+    }
+  ],
+  "add_gaps": [
+    "Attendance not published",
+    "Official website not confirmed (himejiskateboard.jp hosts a 2022 event page)"
+  ],
+  "remove_gaps": [
+    "Venue, organiser, attendance and past editions not captured",
+    "Frequency assumed annual from the year-stamped name; not confirmed",
+    "No partnerships contact found"
+  ],
+  "notes": "Grassroots, council-backed skate jam run by the Himeji Skateboard Association. Sponsorship is cheap and open (JPY 5,000 per unit for a flyer logo, via IG DM), 39 sponsors in 2026, mostly skate brands and local businesses. Low scale; useful as a low-cost community entry point."
+}

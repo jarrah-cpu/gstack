@@ -1,0 +1,225 @@
+{
+  "id": "finders-keepers-melbourne",
+  "set": {
+    "dates": {
+      "last_edition": {
+        "start": "2026-10-09",
+        "end": "2026-10-11",
+        "status": "held",
+        "label": "October 2026"
+      },
+      "next_edition": {
+        "start": "2027-07-09",
+        "end": "2027-07-11",
+        "status": "confirmed",
+        "label": "Autumn Winter 2027"
+      },
+      "frequency": "biannual",
+      "duration_days": 3
+    },
+    "ticket_price": {
+      "min": 7,
+      "max": 10,
+      "currency": "AUD",
+      "free_entry": false,
+      "note": "Official SS26 page: $7 daily entry plus fee, $10 weekend pass, $13 ticket with zine package; under-13s free per City of Melbourne."
+    },
+    "attendance": {
+      "figure": null,
+      "figure_high": null,
+      "year": null,
+      "is_estimate": null,
+      "source": "https://thefinderskeepers.com/support-the-finders-keepers.html",
+      "note": "No Melbourne figure. Organiser says it reaches 'more than 200,000 people at our markets each year' across all its markets (not Melbourne-specific)."
+    },
+    "audience": {
+      "age_range": null,
+      "gender_skew": null,
+      "psychographics": "Design-minded shoppers who love unique and handmade wares and buy into a 'Mindfully Made, Thoughtfully Bought' ethos; families welcome (under-13 free).",
+      "source": "https://thefinderskeepers.com/support-the-finders-keepers.html"
+    },
+    "partnership_contact": {
+      "email": "media@thefinderskeepers.com",
+      "page_url": "https://thefinderskeepers.com/support-the-finders-keepers.html",
+      "named_person": null,
+      "source": "https://thefinderskeepers.com/contact.html"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Ampjar",
+      "years": [],
+      "role": "partner",
+      "source": "https://thefinderskeepers.com/support-the-finders-keepers.html"
+    },
+    {
+      "brand": "Inke Packaging",
+      "years": [],
+      "role": "partner",
+      "source": "https://thefinderskeepers.com/support-the-finders-keepers.html"
+    },
+    {
+      "brand": "Sked Social",
+      "years": [],
+      "role": "partner",
+      "source": "https://thefinderskeepers.com/support-the-finders-keepers.html"
+    },
+    {
+      "brand": "Valiant Event Hire",
+      "years": [],
+      "role": "partner",
+      "source": "https://thefinderskeepers.com/support-the-finders-keepers.html"
+    },
+    {
+      "brand": "Pin Payments",
+      "years": [],
+      "role": "partner",
+      "source": "https://thefinderskeepers.com/support-the-finders-keepers.html"
+    },
+    {
+      "brand": "King St",
+      "years": [],
+      "role": "partner",
+      "source": "https://thefinderskeepers.com/support-the-finders-keepers.html"
+    },
+    {
+      "brand": "Peppermint",
+      "years": [],
+      "role": "media",
+      "source": "https://thefinderskeepers.com/support-the-finders-keepers.html"
+    },
+    {
+      "brand": "Brookie's",
+      "years": [],
+      "role": "partner",
+      "source": "https://thefinderskeepers.com/support-the-finders-keepers.html"
+    },
+    {
+      "brand": "Allpress",
+      "years": [],
+      "role": "partner",
+      "source": "https://thefinderskeepers.com/support-the-finders-keepers.html"
+    },
+    {
+      "brand": "Sendle",
+      "years": [],
+      "role": "partner",
+      "source": "https://thefinderskeepers.com/support-the-finders-keepers.html"
+    },
+    {
+      "brand": "Better Packaging Co",
+      "years": [],
+      "role": "partner",
+      "source": "https://thefinderskeepers.com/support-the-finders-keepers.html"
+    },
+    {
+      "brand": "Xero",
+      "years": [],
+      "role": "partner",
+      "source": "https://thefinderskeepers.com/support-the-finders-keepers.html"
+    },
+    {
+      "brand": "Stone & Wood",
+      "years": [],
+      "role": "partner",
+      "source": "https://thefinderskeepers.com/support-the-finders-keepers.html"
+    },
+    {
+      "brand": "Lunch Lady",
+      "years": [],
+      "role": "media",
+      "source": "https://thefinderskeepers.com/support-the-finders-keepers.html"
+    },
+    {
+      "brand": "CAPI",
+      "years": [],
+      "role": "partner",
+      "source": "https://thefinderskeepers.com/support-the-finders-keepers.html"
+    },
+    {
+      "brand": "Dann Event Hire",
+      "years": [],
+      "role": "partner",
+      "source": "https://thefinderskeepers.com/support-the-finders-keepers.html"
+    },
+    {
+      "brand": "Frankie",
+      "years": [],
+      "role": "media",
+      "source": "https://thefinderskeepers.com/support-the-finders-keepers.html"
+    },
+    {
+      "brand": "PayPal",
+      "years": [],
+      "role": "partner",
+      "source": "https://thefinderskeepers.com/support-the-finders-keepers.html"
+    },
+    {
+      "brand": "Cocobella",
+      "years": [],
+      "role": "partner",
+      "source": "https://thefinderskeepers.com/support-the-finders-keepers.html"
+    },
+    {
+      "brand": "See Make Play",
+      "years": [],
+      "role": "partner",
+      "source": "https://thefinderskeepers.com/support-the-finders-keepers.html"
+    },
+    {
+      "brand": "Shillington",
+      "years": [],
+      "role": "partner",
+      "source": "https://thefinderskeepers.com/support-the-finders-keepers.html"
+    }
+  ],
+  "add_sources": [
+    {
+      "field": "dates.next_edition",
+      "url": "https://thefinderskeepers.com/apply-for-a-stall.html",
+      "note": "Stall applications page: Melbourne Autumn Winter 2027 market 9 to 11 July 2027."
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://www.thefinderskeepers.com/melbourne-markets/",
+      "note": "Official Melbourne page: $7 daily entry + fee, $10 weekend pass + fee, $13 ticket + zine package."
+    },
+    {
+      "field": "attendance",
+      "url": "https://thefinderskeepers.com/support-the-finders-keepers.html",
+      "note": "Partnerships page read: 'We reach more than 200,000 people at our markets each year.' No years or city split."
+    },
+    {
+      "field": "audience",
+      "url": "https://thefinderskeepers.com/support-the-finders-keepers.html",
+      "note": "Partnerships page read: audience described as 'lovers of unique and handmade wares' sharing a 'Mindfully Made, Thoughtfully Bought' ethos. No demographics."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://thefinderskeepers.com/contact.html",
+      "note": "Contact page links a Partnerships page and its form offers 'Sponsorship Enquiry' and 'Advertising Enquiry' subjects."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://thefinderskeepers.com/media/",
+      "note": "Media page: 'For all media enquiries, please email media@thefinderskeepers.com'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://thefinderskeepers.com/support-the-finders-keepers.html",
+      "note": "Partnerships page read: 'Who we've worked with' lists Ampjar, Inke Packaging, Sked Social, Valiant Event Hire, Pin Payments, King St, Peppermint, Brookie's, Allpress, Sendle, Better Packaging Co, Xero, Stone & Wood, Lunch Lady, CAPI, Dann Event Hire, Frankie, PayPal; testimonials name Cocobella, See Make Play, Shillington. National, years not stated."
+    }
+  ],
+  "remove_gaps": [
+    "2027 dates not found; mid-year and spring editions expected from the 2026 pattern",
+    "Ticket price differs across listings",
+    "Instagram, attendance and sponsors not found"
+  ],
+  "add_gaps": [
+    "Melbourne attendance not published (only a national 200,000+ a year reach figure)",
+    "Partner list is national with no years; Melbourne-specific sponsors not confirmed",
+    "Spring 2027 Melbourne dates not yet listed",
+    "Audience age and gender not published"
+  ],
+  "notes": "Next Melbourne market 9 to 11 Jul 2027. Partnerships page lists 21 past national partners (drinks, payments, packaging, media) with no years, so they are recorded with empty years. Partner activations exist but formats are not described. Media email published; sponsorship goes via a form. Paid-partnership posts are influencers and stallholders, not sponsors."
+}

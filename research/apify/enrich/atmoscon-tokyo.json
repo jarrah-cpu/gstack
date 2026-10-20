@@ -1,0 +1,276 @@
+{
+  "id": "atmoscon-tokyo",
+  "set": {
+    "partnership_contact": {
+      "email": "atmoscon_info@atmos-tokyo.com",
+      "page_url": "https://www.atmos-tokyo.com/lp/atmoscon-eng",
+      "named_person": null,
+      "source": "https://www.atmos-tokyo.com/lp/atmoscon-eng"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Air Rhizome (TOOLS x HIROCK x Air Rhizome)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.atmos-tokyo.com/lp/atmoscon-eng"
+    },
+    {
+      "brand": "Complex Japan",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.atmos-tokyo.com/lp/atmoscon-eng"
+    },
+    {
+      "brand": "Family Style",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.atmos-tokyo.com/lp/atmoscon-eng"
+    },
+    {
+      "brand": "Sumally Pocket",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://prtimes.jp/topics/keywords/atmoscon"
+    },
+    {
+      "brand": "'47",
+      "years": [
+        2026
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.instagram.com/p/Dcc9KIIJnAr/"
+    },
+    {
+      "brand": "MLB Japan",
+      "years": [
+        2026
+      ],
+      "role": "collab",
+      "source": "https://www.instagram.com/p/DeTY_orE1RO/"
+    },
+    {
+      "brand": "A Bathing Ape",
+      "years": [
+        2026
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.atmos-tokyo.com/lp/atmoscon-eng"
+    },
+    {
+      "brand": "Anima",
+      "years": [
+        2026
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.atmos-tokyo.com/lp/atmoscon-eng"
+    },
+    {
+      "brand": "Birkenstock",
+      "years": [
+        2026
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.atmos-tokyo.com/lp/atmoscon-eng"
+    },
+    {
+      "brand": "Converse",
+      "years": [
+        2026
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.atmos-tokyo.com/lp/atmoscon-eng"
+    },
+    {
+      "brand": "Crazy Raccoon",
+      "years": [
+        2026
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.atmos-tokyo.com/lp/atmoscon-eng"
+    },
+    {
+      "brand": "Crep Protect",
+      "years": [
+        2026
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.atmos-tokyo.com/lp/atmoscon-eng"
+    },
+    {
+      "brand": "Crocs",
+      "years": [
+        2026
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.atmos-tokyo.com/lp/atmoscon-eng"
+    },
+    {
+      "brand": "HOKA",
+      "years": [
+        2026
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.atmos-tokyo.com/lp/atmoscon-eng"
+    },
+    {
+      "brand": "HYBEX",
+      "years": [
+        2026
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.atmos-tokyo.com/lp/atmoscon-eng"
+    },
+    {
+      "brand": "KEEN",
+      "years": [
+        2026
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.atmos-tokyo.com/lp/atmoscon-eng"
+    },
+    {
+      "brand": "Liberty Walk",
+      "years": [
+        2026
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.atmos-tokyo.com/lp/atmoscon-eng"
+    },
+    {
+      "brand": "Merrell",
+      "years": [
+        2026
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.atmos-tokyo.com/lp/atmoscon-eng"
+    },
+    {
+      "brand": "New Era",
+      "years": [
+        2026
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.atmos-tokyo.com/lp/atmoscon-eng"
+    },
+    {
+      "brand": "Northwave",
+      "years": [
+        2026
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.atmos-tokyo.com/lp/atmoscon-eng"
+    },
+    {
+      "brand": "On",
+      "years": [
+        2026
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.atmos-tokyo.com/lp/atmoscon-eng"
+    },
+    {
+      "brand": "Salomon",
+      "years": [
+        2026
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.atmos-tokyo.com/lp/atmoscon-eng"
+    },
+    {
+      "brand": "Saucony",
+      "years": [
+        2026
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.atmos-tokyo.com/lp/atmoscon-eng"
+    },
+    {
+      "brand": "Vans",
+      "years": [
+        2026
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.atmos-tokyo.com/lp/atmoscon-eng"
+    }
+  ],
+  "add_activation_formats": [
+    "customisation-station",
+    "workshop",
+    "installation"
+  ],
+  "add_sources": [
+    {
+      "field": "sponsors",
+      "url": "https://www.atmos-tokyo.com/lp/atmoscon-eng",
+      "note": "Official 2026 page: SPONSORS section lists Air Rhizome (株式会社エア・リゾーム) with a TOOLS x HIROCK x Air Rhizome furniture booth; SPECIAL PARTNERS lists Complex Japan and Family Style; EXHIBITORS lists brand booths incl. BAPE, adidas Originals, Anima, ASICS SportStyle, Birkenstock, Converse, Crazy Raccoon, Crep Protect, Crocs, HOKA, HYBEX, Jordan Brand, KEEN, Liberty Walk, Merrell, New Balance, New Era, Nike, Northwave, On, Salomon, Saucony, Vans."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://prtimes.jp/main/html/rd/p/000000902.000063811.html",
+      "note": "atmos press release (Google snippet): Air Rhizome confirmed as a sponsor (スポンサー) of atmoscon 2026."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/Dd8OEdDz8Mr/",
+      "note": "@atmoscon collab post with @airrhizome_official (1 Oct 2026) announcing Air Rhizome as a sponsor."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://prtimes.jp/topics/keywords/atmoscon",
+      "note": "Google snippet: PR Times release title says Sumally Pocket (サマリーポケット) sponsored (協賛) atmoscon 2025."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DeTY_orE1RO/",
+      "note": "@atmoscon post: New Era x MLB x TRADMAN'S BONSAI triple collab caps sold at atmoscon 2026."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/DcSPonwzJcx/",
+      "note": "Crocs 'PLAY JIBBITZ' booth: visitors customise Crocs, bags and accessories (customisation-station)."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/Dcc9KIIJnAr/",
+      "note": "'47 booth: try-on photo experience and custom parts for the '47 x MLB x atmos pink event-exclusive cap."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/DcQiaO1zZoU/",
+      "note": "New Era debut booth with a bonsai workshop and prize draw."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.atmos-tokyo.com/lp/atmoscon-eng",
+      "note": "Exhibitor blurbs: Vans 60th anniversary 'Off The Wall' exhibition, Salomon immersive space, HOKA 'URBAN LODGE', Birkenstock and KEEN game booths with prizes."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.atmos-tokyo.com/lp/atmoscon-eng",
+      "note": "Page footer link '協賛・広告に関するお問い合わせ' (sponsorship and advertising enquiries) mails atmoscon_info@atmos-tokyo.com; same address under 'Contact Us'. Press: press@atmos-tokyo.com (atmos press page)."
+    },
+    {
+      "field": "attendance",
+      "url": "https://www.atmos-tokyo.com/lp/atmoscon-eng",
+      "note": "HISTORY section: vol.1 (Harajuku, 2016) drew 600 attendees; the 2025 comeback drew 'its largest crowd yet'. No current figure published, so attendance left null."
+    }
+  ],
+  "add_gaps": [
+    "Attendance for 2025 and 2026 not published (only 600 at vol.1 in 2016; 2025 called the largest crowd yet)",
+    "Sponsor tiers and fees not published; only Air Rhizome is listed as a sponsor, other brands are exhibitors"
+  ],
+  "remove_gaps": [
+    "No partnerships contact found",
+    "Exhibitor list taken from secondary coverage; official list of 26 brands not checked"
+  ],
+  "notes": "Official page has a sponsorship and advertising enquiry email (atmoscon_info@atmos-tokyo.com). Air Rhizome is the only listed SPONSOR for 2026; Complex Japan and Family Style are SPECIAL PARTNERS; about 23 brands exhibit (wellness-adjacent ones include HOKA, Merrell, Birkenstock, Salomon). Sumally Pocket sponsored 2025 (Google snippet only). IG account @atmoscon is correct."
+}

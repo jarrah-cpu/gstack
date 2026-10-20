@@ -1,0 +1,178 @@
+{
+  "id": "nati-frinj-natimuk",
+  "set": {
+    "dates": {
+      "last_edition": {
+        "start": "2025-10-31",
+        "end": "2025-11-02",
+        "status": "held",
+        "label": "Nati Frinj Biennale 2025"
+      },
+      "next_edition": {
+        "start": "2027",
+        "end": null,
+        "status": "expected",
+        "label": "2027"
+      },
+      "frequency": "biennial",
+      "duration_days": 3
+    },
+    "organiser": {
+      "name": "Arapiles Community Theatre Inc (ACT Natimuk)",
+      "type": "non-profit",
+      "website": "https://www.natifrinj.com"
+    },
+    "attendance": {
+      "figure": 3500,
+      "figure_high": null,
+      "year": 2025,
+      "is_estimate": false,
+      "source": "https://natifrinj.com/attending-frinj/",
+      "note": "Organiser-reported: town of about 510 'grows to around 3,500 people during the festival weekend'."
+    },
+    "partnership_contact": {
+      "email": "director@natifrinj.com",
+      "page_url": "https://natifrinj.com/contact/",
+      "named_person": null,
+      "source": "https://natifrinj.com/contact/"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Visit Victoria",
+      "years": [
+        2025
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/DQXxzZnkRTj/"
+    },
+    {
+      "brand": "Creative Victoria",
+      "years": [
+        2025
+      ],
+      "role": "government",
+      "source": "https://www.instagram.com/p/DPdfEtwEQtI/"
+    },
+    {
+      "brand": "Festivals Australia",
+      "years": [
+        2025
+      ],
+      "role": "government",
+      "source": "https://www.instagram.com/p/DPdfEtwEQtI/"
+    },
+    {
+      "brand": "Creative Australia",
+      "years": [
+        2025
+      ],
+      "role": "government",
+      "source": "https://www.instagram.com/p/DQJVwOgge-E/"
+    },
+    {
+      "brand": "Horsham Rural City Council",
+      "years": [
+        2025
+      ],
+      "role": "government",
+      "source": "https://www.instagram.com/p/DPdfEtwEQtI/"
+    },
+    {
+      "brand": "VicHealth",
+      "years": [
+        2025
+      ],
+      "role": "government",
+      "source": "https://www.instagram.com/p/DP3PBgKjlsc/"
+    },
+    {
+      "brand": "FRRR (Foundation for Rural and Regional Renewal)",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DPdfEtwEQtI/"
+    },
+    {
+      "brand": "Regional Arts Australia",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DPdfEtwEQtI/"
+    },
+    {
+      "brand": "Regional Arts Victoria",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DQLHCNUiSnJ/"
+    }
+  ],
+  "add_activation_formats": [
+    "workshop"
+  ],
+  "add_sources": [
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.instagram.com/p/DPyHJRwCnz9/",
+      "note": "Festival post (14 Oct 2025): 'From Fri 31 Oct to Sun 2 Nov, Natimuk transforms'."
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.instagram.com/p/DXqlBLHDYs8/",
+      "note": "Festival post (2026): 'With the Nati Frinj 2025 all now done and dusted, it's time to plan for the 2027 festival'; festival director role for 2026/27 advertised."
+    },
+    {
+      "field": "organiser",
+      "url": "https://www.acnc.gov.au/charity/charities/797592b3-3aaf-e811-a963-000d3ad24077",
+      "note": "Google snippet: Arapiles Community Theatre Inc (registered charity) runs 'the biennial Nati Frinj festival' and the Goatfest climbing film festival."
+    },
+    {
+      "field": "attendance",
+      "url": "https://natifrinj.com/attending-frinj/",
+      "note": "Crawled page: population about 510 'grows to around 3,500 people during the festival weekend'."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://natifrinj.com/contact/",
+      "note": "Crawled page: 'Contact Us: director@natifrinj.com'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DPdfEtwEQtI/",
+      "note": "Festival post (6 Oct 2025): 'Proudly supported by Creative Victoria, Festivals Australia, VisitMelbourne, Regional Arts Australia, Horsham Rural City Council, FRRR, VicHealth, actnatimuk'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DQXxzZnkRTj/",
+      "note": "Festival post (28 Oct 2025): 'Many thanks to our major festival sponsor Visit Victoria'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DQLHCNUiSnJ/",
+      "note": "Festival post (24 Oct 2025): supporters include Creative Australia and Regional Arts Victoria."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DP3PBgKjlsc/",
+      "note": "Festival post (16 Oct 2025): 'Circus For All is generously sponsored by Vic Health'."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/DP3PBgKjlsc/",
+      "note": "VicHealth sponsored the free Circus for All workshops and performances (1 Nov 2025)."
+    }
+  ],
+  "remove_gaps": [
+    "2027 edition not announced; biennial pattern assumed",
+    "Dates, attendance, program and organiser not found",
+    "No public partnerships contact found"
+  ],
+  "add_gaps": [
+    "2027 dates not announced; organiser says planning for the 2027 festival has begun"
+  ],
+  "notes": "Biennial experimental arts festival run by a community charity; about 3,500 people in 2025. Funded by government and philanthropy; Visit Victoria is the major sponsor and VicHealth sponsored a free circus workshop program, a useful health-promotion precedent. No commercial brands seen."
+}

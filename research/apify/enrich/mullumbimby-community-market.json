@@ -1,0 +1,81 @@
+{
+  "id": "mullumbimby-community-market",
+  "set": {
+    "website": "https://www.mullumbimbycommunitymarket.com.au/",
+    "location": {
+      "city": "Mullumbimby",
+      "state_or_region": "NSW",
+      "country": "Australia",
+      "venue_or_area": "Summers Park, grounds of the Mullumbimby Museum"
+    },
+    "partnership_contact": {
+      "email": "mullumbimbymarket@gmail.com",
+      "page_url": "https://www.mullumbimbycommunitymarket.com.au/contact/",
+      "named_person": "Market Manager (not named)",
+      "source": "https://www.mullumbimbycommunitymarket.com.au/contact/"
+    },
+    "audience": {
+      "age_range": null,
+      "gender_skew": null,
+      "psychographics": "Local families and visitors; billed as 'a buzzing little family festival' with local artisans, up-cycled and retro stalls, eco-products, healing crystals, massage, live music buskers and food. Locally made products get stall priority.",
+      "source": "https://www.mullumbimbycommunitymarket.com.au/"
+    },
+    "dates": {
+      "last_edition": {
+        "start": "2026-10-17",
+        "end": "2026-10-17",
+        "status": "unknown",
+        "label": "Oct 2026 (scheduled on the organiser site)"
+      },
+      "next_edition": {
+        "start": "2026-11-21",
+        "end": "2026-11-21",
+        "status": "expected",
+        "label": "Nov 2026 (third Saturday monthly)"
+      },
+      "frequency": "monthly",
+      "duration_days": 1
+    }
+  },
+  "add_sponsors": [],
+  "add_activation_formats": [],
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://www.instagram.com/mullummarket/",
+      "note": "@mullummarket profile links to mullumbimbycommunitymarket.com.au."
+    },
+    {
+      "field": "location",
+      "url": "https://www.mullumbimbycommunitymarket.com.au/",
+      "note": "Home page: 'the original Mullumbimby Community Market in the picturesque Summers Park'; 'Established in 1989'; '3rd Saturday of every month from 8am-2pm'. IG bio: 'A Monthly Community Gathering At The Mullumbimby Museum'."
+    },
+    {
+      "field": "dates",
+      "url": "https://www.mullumbimbycommunitymarket.com.au/",
+      "note": "Home page: 'Come to our next great community market on Saturday 17 Oct 2026!'."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.mullumbimbycommunitymarket.com.au/contact/",
+      "note": "Contact page lists mullumbimbymarket@gmail.com and 0494 610 454 (stallholder contact); booking page says to email the Market Manager at the same address."
+    },
+    {
+      "field": "audience",
+      "url": "https://www.mullumbimbycommunitymarket.com.au/",
+      "note": "Home page description of the market and stall mix."
+    }
+  ],
+  "add_gaps": [
+    "Operator not named on the site (only a 'Market Manager')",
+    "No sponsors or brand partners found",
+    "Attendance and stall count not published",
+    "Markets are cancelled in wet weather (Facebook notice), so a scheduled date may not run"
+  ],
+  "remove_gaps": [
+    "Venue, organiser and stall count not captured",
+    "Start year (1989) unconfirmed",
+    "Dates inferred from the third-Saturday pattern"
+  ],
+  "notes": "Official site, venue (Summers Park at the Museum) and 1989 start confirmed. No sponsors: a stallholder market run by an unnamed Market Manager. IG bio still shows 19 Sept 2026 as next market, so it is not kept current."
+}

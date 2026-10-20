@@ -1,0 +1,497 @@
+{
+  "id": "byron-writers-festival",
+  "set": {
+    "attendance": {
+      "figure": 10000,
+      "figure_high": null,
+      "year": 2026,
+      "is_estimate": false,
+      "source": "https://www.instagram.com/p/DcIqv1ZnDSb/",
+      "note": "Organiser-reported 'Over 10,000 of you gathered with us' across the three days, 14 to 16 Aug 2026 (30th anniversary). Friday and Saturday day passes sold out."
+    },
+    "organiser": {
+      "name": "Byron Writers Festival",
+      "type": "non-profit",
+      "website": "https://www.byronwritersfestival.com/"
+    },
+    "partnership_contact": {
+      "email": "info@byronwritersfestival.com",
+      "page_url": "https://www.byronwritersfestival.com/partners",
+      "named_person": null,
+      "source": "https://www.byronwritersfestival.com/partners"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "The Vasudhara Fund (Principal Patron)",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.byronwritersfestival.com/partners"
+    },
+    {
+      "brand": "Southern Cross University",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.byronwritersfestival.com/partners"
+    },
+    {
+      "brand": "Tasmanian Walking Company",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/DcZZz0xG9i0/"
+    },
+    {
+      "brand": "The Book Room Collective",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.byronwritersfestival.com/partners"
+    },
+    {
+      "brand": "Create NSW (NSW Government)",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.byronwritersfestival.com/partners"
+    },
+    {
+      "brand": "Creative Australia",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.byronwritersfestival.com/partners"
+    },
+    {
+      "brand": "Byron Shire Council",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.byronwritersfestival.com/partners"
+    },
+    {
+      "brand": "Guardian Australia",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.byronwritersfestival.com/partners"
+    },
+    {
+      "brand": "The Byron Shire Echo",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.byronwritersfestival.com/partners"
+    },
+    {
+      "brand": "ABC North Coast",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.byronwritersfestival.com/partners"
+    },
+    {
+      "brand": "The Bangalow Herald",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.byronwritersfestival.com/partners"
+    },
+    {
+      "brand": "BayFM",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.byronwritersfestival.com/partners"
+    },
+    {
+      "brand": "ByronBay.com",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.byronwritersfestival.com/partners"
+    },
+    {
+      "brand": "Koori Mail",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.byronwritersfestival.com/partners"
+    },
+    {
+      "brand": "Rusty's Byron Guide",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.byronwritersfestival.com/partners"
+    },
+    {
+      "brand": "Byron Edit",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.byronwritersfestival.com/partners"
+    },
+    {
+      "brand": "The Weekend Edition",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.byronwritersfestival.com/partners"
+    },
+    {
+      "brand": "ABC Radio National",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.byronwritersfestival.com/partners"
+    },
+    {
+      "brand": "First National Byron Bay",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.byronwritersfestival.com/partners"
+    },
+    {
+      "brand": "MUD Literary Club",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.byronwritersfestival.com/partners"
+    },
+    {
+      "brand": "Organic India",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.byronwritersfestival.com/partners"
+    },
+    {
+      "brand": "Basq House",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.byronwritersfestival.com/partners"
+    },
+    {
+      "brand": "Copyright Agency Cultural Fund",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.byronwritersfestival.com/partners"
+    },
+    {
+      "brand": "Hotel Marvell (Byron Bay Oyster Bar)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.byronwritersfestival.com/partners"
+    },
+    {
+      "brand": "Fireside (agency)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.byronwritersfestival.com/partners"
+    },
+    {
+      "brand": "The Australia Institute",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.byronwritersfestival.com/partners"
+    },
+    {
+      "brand": "The Conversation",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.byronwritersfestival.com/partners"
+    },
+    {
+      "brand": "Honey Bee Homes",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.byronwritersfestival.com/partners"
+    },
+    {
+      "brand": "Northern Rivers Community Foundation",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.byronwritersfestival.com/partners"
+    },
+    {
+      "brand": "The Bank House Bangalow",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.byronwritersfestival.com/partners"
+    },
+    {
+      "brand": "The Sunseeker Byron Bay",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.byronwritersfestival.com/partners"
+    },
+    {
+      "brand": "Australian Poetry",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.byronwritersfestival.com/partners"
+    },
+    {
+      "brand": "Blak & Bright First Nations Literary Festival",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.byronwritersfestival.com/partners"
+    },
+    {
+      "brand": "Bold Authors",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.byronwritersfestival.com/partners"
+    },
+    {
+      "brand": "Griffith Review",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.byronwritersfestival.com/partners"
+    },
+    {
+      "brand": "MusicNSW",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.byronwritersfestival.com/partners"
+    },
+    {
+      "brand": "IngramSpark",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.byronwritersfestival.com/partners"
+    },
+    {
+      "brand": "Poets Out Loud",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.byronwritersfestival.com/partners"
+    },
+    {
+      "brand": "Quarterly Essay",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.byronwritersfestival.com/partners"
+    },
+    {
+      "brand": "Red Room Poetry",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.byronwritersfestival.com/partners"
+    },
+    {
+      "brand": "Word Travels",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.byronwritersfestival.com/partners"
+    },
+    {
+      "brand": "Elements of Byron",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.byronwritersfestival.com/partners"
+    },
+    {
+      "brand": "Frontline Print & Copy Centre",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.byronwritersfestival.com/partners"
+    },
+    {
+      "brand": "Bask & Stow",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.byronwritersfestival.com/partners"
+    },
+    {
+      "brand": "Rochdale Accounting & Advisory",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.byronwritersfestival.com/partners"
+    },
+    {
+      "brand": "ink gin",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.byronwritersfestival.com/partners"
+    },
+    {
+      "brand": "Jilly Wines",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.byronwritersfestival.com/partners"
+    },
+    {
+      "brand": "Byron Bay Surf Club",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.byronwritersfestival.com/partners"
+    },
+    {
+      "brand": "Haven Gallery",
+      "years": [
+        2026
+      ],
+      "role": "venue",
+      "source": "https://www.byronwritersfestival.com/partners"
+    },
+    {
+      "brand": "Beach Hotel Byron Bay",
+      "years": [
+        2026
+      ],
+      "role": "venue",
+      "source": "https://www.byronwritersfestival.com/partners"
+    },
+    {
+      "brand": "Byron Community Centre",
+      "years": [
+        2026
+      ],
+      "role": "venue",
+      "source": "https://www.byronwritersfestival.com/partners"
+    }
+  ],
+  "add_activation_formats": [
+    "lounge",
+    "sampling",
+    "workshop",
+    "hospitality-bar",
+    "stage-or-program-takeover"
+  ],
+  "add_sources": [
+    {
+      "field": "sponsors",
+      "url": "https://www.byronwritersfestival.com/partners",
+      "note": "2026 partners page by tier: Principal Patron (Vasudhara Fund); Government (Create NSW, Creative Australia, Byron Shire Council); Major (SCU, Tasmanian Walking Company, Book Room Collective); Major Media (Guardian, Echo, ABC North Coast); Festival, Precinct, Supporting, Media, Cultural, Community, Hospitality and Charity partners. Individual benefactors and patrons not added."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DcZZz0xG9i0/",
+      "note": "'Tasmanian Walking Company is a valued Major Partner of Byron Writers Festival 2026'."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/DcZZz0xG9i0/",
+      "note": "Tas Walking Co ran a massage station with drinks at the Byron Bay Surf Life Saving Club, with a newsletter sign-up and a $250 walk voucher offer."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/Daq6f-nkx2q/",
+      "note": "Organic India hosted a complimentary journaling and wellbeing workshop ('The Well-Lived Life') at The Shack, Beach Hotel, Sun 16 Aug 2026."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/DbSpQ2SEnuT/",
+      "note": "ink gin promoted as festival hospitality partner (27 Jul 2026)."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/Db_jOMrk6tU/",
+      "note": "Copyright Agency 'proudly supported' a festival session (8 Aug 2026)."
+    },
+    {
+      "field": "attendance",
+      "url": "https://www.instagram.com/p/DcIqv1ZnDSb/",
+      "note": "Post 17 Aug 2026: 'Over 10,000 of you gathered with us at the weekend in Byron Bay for three days of ideas, stories and conversation'."
+    },
+    {
+      "field": "organiser",
+      "url": "https://www.byronwritersfestival.com/",
+      "note": "'Byron Writers Festival is a registered charity with DGR status'; Facebook describes it as a non-profit member organisation."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.byronwritersfestival.com/contact",
+      "note": "General email info@byronwritersfestival.com, phone (02) 6685 5115; media kit requests and media enquiries go to the festival publicist (viv@fantincomesalive.com.au)."
+    }
+  ],
+  "add_gaps": [
+    "Ticket prices not captured; Festival Friends membership starts at $60 a year",
+    "No published audience demographics; media kit is by request from the publicist"
+  ],
+  "remove_gaps": [
+    "Sponsors, attendance and ticket prices not collected",
+    "Organiser type not confirmed"
+  ],
+  "notes": "Large 2026 partner roster (51 added). Health and wellness precedent: Organic India (Festival Partner) ran a wellness workshop and Tas Walking Co (Major Partner) ran a massage station. Organiser-reported 10,000+ in 2026. Media kit available on request via the publicist."
+}

@@ -1,0 +1,289 @@
+{
+  "id": "go-out-camp-fujinomiya",
+  "set": {
+    "partnership_contact": {
+      "email": "info@gooutcamp.jp",
+      "page_url": "https://pro.form-mailer.jp/fms/b9af749f289151",
+      "named_person": null,
+      "source": "https://pro.form-mailer.jp/fms/b9af749f289151"
+    },
+    "ticket_price": {
+      "min": 3000,
+      "max": 20000,
+      "currency": "JPY",
+      "free_entry": false,
+      "note": "vol.22 (2026) door prices: Sunday-only JPY 3,000; Saturday day trip JPY 8,000; 1-night JPY 12,000; 2-night JPY 14,000; packages with auto-camp or Jimny-site parking up to JPY 20,000; Friday stay add-on JPY 3,000."
+    },
+    "audience": {
+      "age_range": null,
+      "gender_skew": null,
+      "psychographics": "Readers of outdoor fashion magazine GO OUT: style-led campers, families and dog owners; organiser says about 20% of campers are newcomers to camping.",
+      "source": "https://www.instagram.com/p/DcLICnYRuGE/"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Suzuki",
+      "years": [
+        2026
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.instagram.com/p/DdnDv1Kn7pp/"
+    },
+    {
+      "brand": "SUBARU",
+      "years": [
+        2026
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.instagram.com/p/DdnDv1Kn7pp/"
+    },
+    {
+      "brand": "Taylor Guitars",
+      "years": [
+        2026
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.instagram.com/p/DdnDv1Kn7pp/"
+    },
+    {
+      "brand": "Terzo (PIAA)",
+      "years": [
+        2026
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.instagram.com/p/DdnDv1Kn7pp/"
+    },
+    {
+      "brand": "Sanjo City (Niigata)",
+      "years": [
+        2026
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.instagram.com/p/DdnDv1Kn7pp/"
+    },
+    {
+      "brand": "EcoFlow",
+      "years": [
+        2026
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.instagram.com/p/DdiQBAbn5xs/"
+    },
+    {
+      "brand": "NANGA",
+      "years": [
+        2026
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.instagram.com/p/DdiQBAbn5xs/"
+    },
+    {
+      "brand": "Bialetti",
+      "years": [
+        2026
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.instagram.com/p/DdiQBAbn5xs/"
+    },
+    {
+      "brand": "ENO",
+      "years": [
+        2026
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.instagram.com/p/DdiQBAbn5xs/"
+    },
+    {
+      "brand": "TOKYO CRAFTS",
+      "years": [
+        2026
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.instagram.com/p/DdiQBAbn5xs/"
+    },
+    {
+      "brand": "AVANT GARDE",
+      "years": [
+        2026
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.instagram.com/p/DdiQBAbn5xs/"
+    },
+    {
+      "brand": "Blundstone",
+      "years": [
+        2026
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.instagram.com/p/DdYbUEAH7A7/"
+    },
+    {
+      "brand": "GRIP SWANY",
+      "years": [
+        2026
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.instagram.com/p/DdYbUEAH7A7/"
+    },
+    {
+      "brand": "BAREFOO",
+      "years": [
+        2026
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.instagram.com/p/DdYbUEAH7A7/"
+    },
+    {
+      "brand": "COBMASTER",
+      "years": [
+        2026
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.instagram.com/p/DdYbUEAH7A7/"
+    },
+    {
+      "brand": "OWNDAYS",
+      "years": [
+        2026
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.instagram.com/p/DddGVZXn3Yp/"
+    },
+    {
+      "brand": "POLER",
+      "years": [
+        2026
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.instagram.com/p/DddGVZXn3Yp/"
+    },
+    {
+      "brand": "PRO TREK (Casio)",
+      "years": [
+        2026
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.instagram.com/p/DddGVZXn3Yp/"
+    },
+    {
+      "brand": "Universal Overall",
+      "years": [
+        2026
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.instagram.com/p/DddGVZXn3Yp/"
+    },
+    {
+      "brand": "SUBU",
+      "years": [
+        2026
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.instagram.com/p/DddGVZXn3Yp/"
+    },
+    {
+      "brand": "Biore (Kao)",
+      "years": [],
+      "role": "partner",
+      "source": "https://web.goout.jp/tag/go-out-camp/"
+    },
+    {
+      "brand": "Daihatsu",
+      "years": [
+        2022
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.daihatsu.co.jp/local-activities/272/20221008_006647.html"
+    },
+    {
+      "brand": "Toyo Tires",
+      "years": [
+        2022
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.facebook.com/toyotires.jp/posts/%E5%AF%8C%E5%A3%AB%E5%B1%B1%E3%81%AE%E3%81%B5%E3%82%82%E3%81%A8%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%81%9F%E3%82%A2%E3%82%A6%E3%83%88%E3%83%89%E3%82%A2%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%ABgo-out-camp%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%8810%E6%9C%881%E6%97%A5%E5%9C%9F2%E6%97%A5%E6%97%A5%E9%9D%99%E5%B2%A1%E7%9C%8C%E5%AF%8C%E5%A3%AB%E5%AE%AE%E5%B8%82%E3%81%B5%E3%82%82%E3%81%A8%E3%81%A3%E3%81%B1%E3%82%89%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%81%9F%E6%97%A5%E6%9C%AC%E6%9C%80%E5%A4%A7%E7%B4%9A%E3%81%AE%E3%82%AD%E3%83%A3/3337831253141712/"
+    }
+  ],
+  "add_activation_formats": [
+    "customisation-station",
+    "competition-or-prize",
+    "installation"
+  ],
+  "add_sources": [
+    {
+      "field": "partnership_contact",
+      "url": "https://pro.form-mailer.jp/fms/b9af749f289151",
+      "note": "Google snippet: 'GO OUT CAMP / GO OUT JAMBOREE お問い合わせ', form for sponsorship (ご協賛), exhibiting and ticket enquiries."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.gooutcamp.jp/goc/news/goc22_info_-36/",
+      "note": "Official vol.22 notice gives info@gooutcamp.jp; IG bio says all event enquiries go to info@gooutcamp.jp."
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://www.gooutcamp.jp/goc/news/goc22_info_-34/",
+      "note": "Same-day ticket prices for vol.22."
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://www.gooutcamp.jp/goc/news/goc22_info_-33/",
+      "note": "Sunday 4 Oct day ticket JPY 3,000 (JPY 4,000 with parking), venue only."
+    },
+    {
+      "field": "audience",
+      "url": "https://www.instagram.com/p/DcLICnYRuGE/",
+      "note": "@goout_camp (18 Aug 2026): '2割の人はキャンプを始めたばかり' (20% have just started camping); about 50 brand booths on site."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/Db2ADKLxK3Y/",
+      "note": "@goout_camp BRAND AVENUE exhibitor announcements for vol.22 (Aug to Sep 2026): gear, fashion and car-life brands incl. Suzuki, SUBARU, EcoFlow, NANGA, OWNDAYS, PRO TREK, Blundstone, Taylor Guitars."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://news.mynavi.jp/article/20261002-5062248/",
+      "note": "Google snippet: EcoFlow exhibited at GO OUT CAMP 2026 (2 to 4 Oct) with a hands-on booth with TOKYO CRAFTS."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://web.goout.jp/tag/go-out-camp/",
+      "note": "Google snippet: GO OUT CAMP article list includes a headline 'ビオレ協賛！' (Biore sponsorship); edition year not shown."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.daihatsu.co.jp/local-activities/272/20221008_006647.html",
+      "note": "Daihatsu CSR page: 'GO OUT CAMP in 富士宮' booth activity, Oct 2022."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.facebook.com/toyotires.jp/posts/%E5%AF%8C%E5%A3%AB%E5%B1%B1%E3%81%AE%E3%81%B5%E3%82%82%E3%81%A8%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%81%9F%E3%82%A2%E3%82%A6%E3%83%88%E3%83%89%E3%82%A2%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%ABgo-out-camp%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%8810%E6%9C%881%E6%97%A5%E5%9C%9F2%E6%97%A5%E6%97%A5%E9%9D%99%E5%B2%A1%E7%9C%8C%E5%AF%8C%E5%A3%AB%E5%AE%AE%E5%B8%82%E3%81%B5%E3%82%82%E3%81%A8%E3%81%A3%E3%81%B1%E3%82%89%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%81%9F%E6%97%A5%E6%9C%AC%E6%9C%80%E5%A4%A7%E7%B4%9A%E3%81%AE%E3%82%AD%E3%83%A3/3337831253141712/",
+      "note": "Google snippet: Toyo Tires post says it had a booth at GO OUT CAMP at Fumotoppara on Sat 1 to Sun 2 Oct (2022)."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/DdyD-oqE1MY/",
+      "note": "B.S.K.K x GO OUT paid silk-screen print service at the GO OUT booth (customisation-station)."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.gooutcamp.jp/goc/news/goc22_info_-35/",
+      "note": "LINE shopping stamp rally across Brand Avenue booths with a prize draw for discount coupons up to JPY 5,000."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/DbNgXrNxRXH/",
+      "note": "Suzuki vehicle display booth (Jimny Nomad and accessory-fitted models) at GO OUT CAMP events."
+    }
+  ],
+  "add_gaps": [
+    "Sponsor tiers, title partner and fees not published; brands appear as Brand Avenue exhibitors",
+    "Biore sponsorship edition year unknown (Google snippet only)"
+  ],
+  "remove_gaps": [
+    "Commercial brand partner and exhibitor list not captured",
+    "Ticket prices not captured"
+  ],
+  "notes": "vol.22 had about 50 Brand Avenue booths (outdoor gear, fashion, cars). Contact info@gooutcamp.jp and a form that covers sponsorship. Health angle: organiser recruits a volunteer GO OUT MEDICAL TEAM of doctors and nurses (IG 18 May 2026), and Biore has sponsored before. Medical team post: https://www.instagram.com/p/DYeVknBR6Oz/. Attendance is still the Sanei 14,000 projection."
+}

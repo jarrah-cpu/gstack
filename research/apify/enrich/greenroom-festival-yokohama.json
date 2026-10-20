@@ -1,0 +1,100 @@
+{
+  "id": "greenroom-festival-yokohama",
+  "set": {
+    "website": "https://greenroom.jp/",
+    "organiser": {
+      "name": "GREENROOM CO. (株式会社グリーンルーム); founder and organiser Naoki Kamayachi (釜萢直起)",
+      "type": "promoter",
+      "website": "https://greenroom.co/"
+    },
+    "partnership_contact": {
+      "email": "info@greenroom.jp",
+      "page_url": "https://greenroom.co/contact/booth.html",
+      "named_person": null,
+      "source": "https://greenroom.co/contact/booth.html"
+    },
+    "dates": {
+      "last_edition": {
+        "start": "2026-05-23",
+        "end": "2026-05-24",
+        "status": "held",
+        "label": "GREENROOM FESTIVAL '26"
+      },
+      "next_edition": {
+        "start": "2027-05-22",
+        "end": "2027-05-23",
+        "status": "confirmed",
+        "label": "GREENROOM FESTIVAL'27 Yokohama (Kobe leg 29 to 30 May 2027)"
+      },
+      "frequency": "annual",
+      "duration_days": 2
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "City of Yokohama SDGs Design Center",
+      "years": [
+        2022
+      ],
+      "role": "government",
+      "source": "https://www.yokohama-sdgs.jp/topics/greenroomfes22/"
+    }
+  ],
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://greenroom.jp/",
+      "note": "Official site GREENROOM FESTIVAL'26; also the link in @greenroomfestival's IG bio."
+    },
+    {
+      "field": "dates",
+      "url": "https://greenroom.jp/",
+      "note": "News (10 Aug 2026): GREENROOM FESTIVAL 2027 at Yokohama Red Brick Warehouse on 22 to 23 May 2027 and Kobe Meriken Park on 29 to 30 May 2027."
+    },
+    {
+      "field": "organiser",
+      "url": "https://greenroom.co/contact/booth.html",
+      "note": "Google snippet: GREENROOM CO. contact page for sponsorship and exhibiting at 'events our company runs (GREENROOM FESTIVAL, OCEAN PEOPLES, Local Green Festival etc.)'."
+    },
+    {
+      "field": "organiser",
+      "url": "https://qetic.jp/interview/greenroom-240522/460828/",
+      "note": "Interview with 釜萢直起 of GREENROOM CO. on the festival's 'Save The Beach Save The Ocean' concept."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://greenroom.co/contact/booth.html",
+      "note": "Google snippet: '協賛・出店に関するお問合せ' (sponsorship and exhibiting enquiries) form for GREENROOM CO. events."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://greenroom.jp/faq/",
+      "note": "Festival site footer links 'イベントに関する協賛のお問い合わせ' to https://greenroom.co/contact_form/; FAQ gives info@greenroom.jp for other enquiries."
+    },
+    {
+      "field": "attendance",
+      "url": "https://greenroom.co/festival/",
+      "note": "Google snippet: GREENROOM CO. event page lists '来場者数：120,000人' for the festival (edition year not shown); Cinra (2018) says the previous year drew about 110,000 over two days."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.yokohama-sdgs.jp/topics/greenroomfes22/",
+      "note": "Google snippet: Yokohama's SDGs Design Center partnered with GREENROOM FESTIVAL'22 on 'SDGs actions'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://greenroom.jp/history/2026",
+      "note": "2026 history page names no sponsors; footer logos are GREENROOM CO. properties (Local Green, Ocean Peoples, Driftwood, Greenroom Gallery)."
+    }
+  ],
+  "add_gaps": [
+    "No sponsor or booth exhibitor list published on the festival site for 2026",
+    "2026 attendance not published (company page shows 120,000 without a year)"
+  ],
+  "remove_gaps": [
+    "Official website URL and organising company not captured",
+    "Romanised name of the organiser not confirmed from sources",
+    "2027 dates not announced; late May expected"
+  ],
+  "notes": "Official site greenroom.jp; organiser GREENROOM CO. (Naoki Kamayachi). Sponsorship enquiries go through GREENROOM CO.'s form; general email info@greenroom.jp. 2027 adds a Kobe leg (29 to 30 May) after Yokohama (22 to 23 May). No 2026 sponsor names found on site or IG; brand booth list still a gap."
+}

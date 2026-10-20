@@ -1,0 +1,242 @@
+{
+  "id": "darwin-aboriginal-art-fair",
+  "set": {
+    "attendance": {
+      "figure": 15538,
+      "figure_high": null,
+      "year": 2025,
+      "is_estimate": false,
+      "source": "https://daaf.com.au/wp-content/uploads/2025/10/DAAF_Fact_Sheet_2025-web.pdf",
+      "note": "Organiser-reported (DAAF Impact Report 2025): 15,538 physical Fair visitors plus 13,130 online Fair visitors, 28,668 in total. 2023: 'over 17,000 event visitors' per an Ian Potter Foundation case study (Google snippet)."
+    },
+    "audience": {
+      "age_range": null,
+      "gender_skew": null,
+      "psychographics": "Art collectors, cultural tourists and locals buying direct from Aboriginal and Torres Strait Islander art centres. In 2025, 40.7% of physical Fair visitors came from interstate and 2.3% from overseas; online visitors were 80.3% interstate and 16.8% overseas; 92% of visitors intend to return.",
+      "source": "https://daaf.com.au/wp-content/uploads/2025/10/DAAF_Fact_Sheet_2025-web.pdf"
+    },
+    "partnership_contact": {
+      "email": "holly@daaf.com.au",
+      "page_url": "https://daaf.com.au/contact/",
+      "named_person": "Holly Deans, Partnership Relations (Sponsorship Enquiries)",
+      "source": "https://daaf.com.au/contact/"
+    },
+    "dates": {
+      "last_edition": {
+        "start": "2026-08-06",
+        "end": "2026-08-09",
+        "status": "held",
+        "label": "2026"
+      },
+      "next_edition": {
+        "start": "2027-08-05",
+        "end": "2027-08-08",
+        "status": "confirmed",
+        "label": "2027"
+      },
+      "frequency": "annual",
+      "duration_days": 4
+    },
+    "organiser": {
+      "name": "Darwin Aboriginal Art Fair Foundation (DAAF Foundation)",
+      "type": "non-profit",
+      "website": "https://daaf.com.au/"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Creative Australia (Australian Cultural Fund)",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.instagram.com/p/DcKEEJWoJmS/"
+    },
+    {
+      "brand": "Australian Government Indigenous Visual Arts Industry Support",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.instagram.com/p/DcKEEJWoJmS/"
+    },
+    {
+      "brand": "Australian Government Visual Arts and Craft Strategy",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.instagram.com/p/DcKEEJWoJmS/"
+    },
+    {
+      "brand": "Northern Territory Government (Tourism and Events NT)",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.instagram.com/p/DcKEEJWoJmS/"
+    },
+    {
+      "brand": "City of Darwin",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.instagram.com/p/DcKEEJWoJmS/"
+    },
+    {
+      "brand": "Tim Fairfax Family Foundation",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DcKEEJWoJmS/"
+    },
+    {
+      "brand": "University of Melbourne",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DcKEEJWoJmS/"
+    },
+    {
+      "brand": "Chapman & Bailey",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DcKEEJWoJmS/"
+    },
+    {
+      "brand": "QIC",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DbpZD7JAKOT/"
+    },
+    {
+      "brand": "Nautilus Aviation",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DbpZD7JAKOT/"
+    },
+    {
+      "brand": "Global Headquarters",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DbpZD7JAKOT/"
+    },
+    {
+      "brand": "Pacific Werribee",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DbpZD7JAKOT/"
+    },
+    {
+      "brand": "Canberra Centre",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DbpZD7JAKOT/"
+    },
+    {
+      "brand": "Country Road",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DbpZD7JAKOT/"
+    },
+    {
+      "brand": "RMIT University",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DbpZD7JAKOT/"
+    },
+    {
+      "brand": "NITV",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.instagram.com/p/DbpZD7JAKOT/"
+    },
+    {
+      "brand": "Bassike",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://daaf.com.au/wp-content/uploads/2025/10/DAAF_Fact_Sheet_2025-web.pdf"
+    }
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {
+      "field": "attendance",
+      "url": "https://daaf.com.au/wp-content/uploads/2025/10/DAAF_Fact_Sheet_2025-web.pdf",
+      "note": "Impact Report 2025: hybrid event attracted 28,668 visitors (13,130 online, 15,538 physical); 78 art centres; $5.1m sales"
+    },
+    {
+      "field": "audience",
+      "url": "https://daaf.com.au/wp-content/uploads/2025/10/DAAF_Fact_Sheet_2025-web.pdf",
+      "note": "Visitor origin shares and 92% intend to return"
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://daaf.com.au/contact/",
+      "note": "Contact page: Partnership Relations (Sponsorship Enquiries) Holly Deans, holly@daaf.com.au"
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://daaf.com.au/",
+      "note": "Homepage: save the date DAAF 2027, 5 to 8 August, free to attend 6 to 8 August. IG bio also says 5-8 AUG 2027"
+    },
+    {
+      "field": "organiser",
+      "url": "https://daaf.com.au/",
+      "note": "Not-for-profit Indigenous organisation owned and governed by the 90+ art centres and peak bodies it represents"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DcKEEJWoJmS/",
+      "note": "17 Aug 2026 post thanks Tim Fairfax Family Foundation, Creative Australia (Australian Cultural Fund), IVAIS, Visual Arts and Craft Strategy, NT Government through Tourism and Events NT, University of Melbourne, City of Darwin, Chapman and Bailey"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DbpZD7JAKOT/",
+      "note": "National Indigenous Fashion Awards 2026 (DAAF Foundation, Indigenous Fashion Projects): presenting, showcase and designer travel partner QIC; travel sponsor Nautilus Aviation; production partner Global Headquarters; principal media partner NITV; award partners QIC, Pacific Werribee, Canberra Centre, Country Road, RMIT, Desart"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://daaf.com.au/wp-content/uploads/2025/10/DAAF_Fact_Sheet_2025-web.pdf",
+      "note": "Bassike Pty Ltd listed among daaf1000 supporters (donor tier) in the 2025 report"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://daaf-beyond-the-fair.raiselysite.com/",
+      "note": "Matched giving campaign matched by Sharma Consulting Group and Rebecca Hossack Gallery"
+    }
+  ],
+  "add_gaps": [
+    "Audience age and gender not published",
+    "Partner logo tiers in the 2025 report are images; only text-listed names captured"
+  ],
+  "remove_gaps": [
+    "Attendance not published in search results",
+    "Sponsors and partnerships contact not captured",
+    "2027 dates not announced; August expected"
+  ],
+  "notes": "Strong find: named sponsorship contact, 2025 organiser visitor figures and 2027 dates. NIFA sponsors (QIC, Country Road, Canberra Centre, NITV) are for the fashion awards run by DAAF Foundation during DAAF week, not the fair itself. One paid-partnership post is a creator (@cleo.collects) promoting DAAF."
+}

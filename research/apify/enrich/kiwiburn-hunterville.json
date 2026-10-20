@@ -1,0 +1,21 @@
+{
+  "id": "kiwiburn-hunterville",
+  "set": {
+    "organiser": {"name": "Kiwiburn Incorporated Society (volunteer-run Burning Man regional event)", "type": "community-collective", "website": "https://kiwiburn.com/"},
+    "attendance": {"figure": 2400, "figure_high": null, "year": 2025, "is_estimate": true, "source": "https://www.nzherald.co.nz/whanganui-chronicle/news/kiwiburn-organisers-ask-attendees-to-dob-in-people-having-public-sex-possibly-in-front-of-kids/26JGCYG6CNGQVHLH356VDTKMA4/", "note": "Press figure: event 'attended by about 2400 people' (NZ Herald/Whanganui Chronicle, Google snippet; article covers the January 2025 burn, year inferred from coverage timing). Organiser FAQ says 2025 numbers were increased to 2450 and the event is heavily oversubscribed; organiser 2020 census gives a population of 1,995."},
+    "audience": {"age_range": "Mostly 22 to 35 (2020 census: largest bands 29 to 35, then 22 to 28)", "gender_skew": "Female 50.6%, male 43.7%, other 5.7% (2020 census, 521 respondents)", "psychographics": "Participatory Burning Man community with no spectators; top draws are community, self-expression and art; respondents mostly from Auckland and Wellington; 37% first-timers in 2020.", "source": "https://kiwiburn.com/wp-content/uploads/2021/10/KB20-census.pdf"},
+    "partnership_contact": {"email": null, "page_url": "https://kiwiburn.com/about/contact/", "named_person": null, "source": "https://kiwiburn.com/about/contact/"}
+  },
+  "add_sponsors": [],
+  "add_activation_formats": [],
+  "add_sources": [
+    {"field": "organiser", "url": "https://kiwiburn.com/about/the-organisation/how-it-works/", "note": "'The ticket price includes your automatic annual membership subscription to Kiwiburn Incorporated Society'; 'a festival run entirely by volunteers'."},
+    {"field": "attendance", "url": "https://kiwiburn.com/the-event/getting-ready/faqs/", "note": "'The numbers for Kiwiburn 2025 have been increased to 2450, of which 450 will be available via the lottery, however the event is still heavily oversubscribed'."},
+    {"field": "attendance", "url": "https://kiwiburn.com/wp-content/uploads/2021/10/KB20-census.pdf", "note": "2020 census: '2020 Population: 1,995'; 'Census forms returned: 521'."},
+    {"field": "audience", "url": "https://kiwiburn.com/wp-content/uploads/2021/10/KB20-census.pdf", "note": "Read via WebFetch (PDF): gender Female 50.59%, Male 43.73%, Other 5.69%; age bars peak at 29 to 35 and 22 to 28; first time 37%; top attractions Community, Self expression, Art; most respondents from Auckland and Wellington. Newest census on the site is 2020."},
+    {"field": "partnership_contact", "url": "https://kiwiburn.com/about/contact/", "note": "Contact form with a 'Media Liaison' option for media enquiries; no email or partnership route."}
+  ],
+  "add_gaps": ["Commerce-free event under Burning Man's Decommodification principle; no sponsors and brand activations unlikely to be accepted", "Audience data is from the 2020 census; no newer census published", "No partnerships contact; contact form only (Media Liaison option)"],
+  "remove_gaps": ["Attendance not found", "Organiser legal entity not captured", "No public partnerships contact found"],
+  "notes": "Kiwiburn's homepage states the Decommodification principle: environments 'unmediated by commercial sponsorships, transactions, or advertising', and the FAQ says it is a commerce-free event (only ice is sold). Treat as not partnerable for High Ground; any presence would have to be gifted participation by people, not branding. A third-party blog says 2026 tickets cost $300 (Google snippet, https://www.furrociousfurr.com/blogs/news/what-to-expect-at-kiwiburn-nz-festival-style-in-the-land-of-the-long-white-cloud), not confirmed on kiwiburn.com, so ticket_price left unset."
+}

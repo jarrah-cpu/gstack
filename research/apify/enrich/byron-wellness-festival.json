@@ -1,0 +1,101 @@
+{
+  "id": "byron-wellness-festival",
+  "set": {
+    "partnership_contact": {
+      "email": null,
+      "page_url": "https://form.123formbuilder.com/6908182/byron-wellness-sponsorship",
+      "named_person": null,
+      "source": "https://byronwellnessfestival.com/"
+    },
+    "audience": {
+      "age_range": null,
+      "gender_skew": null,
+      "psychographics": "Byron wellness and yoga community plus music fans and families: sunrise yoga, cacao ceremonies, Party Pilates, breathwork, sound healing and kids' yoga by day, live music (Boy & Bear, YAIMA, Kim Churchill, Cinnamon Sun) and a silent disco by night, with 60+ conscious market stalls and food trucks.",
+      "source": "https://www.instagram.com/p/DamNMshMpFs/"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Jewel Juice",
+      "years": [
+        2026
+      ],
+      "role": "presenting",
+      "source": "https://www.instagram.com/p/DYytP2yvv9r/"
+    },
+    {
+      "brand": "Saname (@sanamecom)",
+      "years": [
+        2026
+      ],
+      "role": "presenting",
+      "source": "https://www.instagram.com/p/DaHP2TvvqZq/"
+    },
+    {
+      "brand": "Ingenia Holiday Parks Byron Bay",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://byronwellnessfestival.com/information/"
+    }
+  ],
+  "add_activation_formats": [
+    "sampling",
+    "naming-rights"
+  ],
+  "add_sources": [
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DYytP2yvv9r/",
+      "note": "Lineup post (26 May 2026): 'This festival is proudly brought to you by @jeweljuiceofficial'; repeated 6 Oct 2026 (https://www.instagram.com/p/DeKupGizUva/). Jewel Juice image also sits above the 'Our Partners' block on the home page (uploaded Oct 2026)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DaHP2TvvqZq/",
+      "note": "Posts on 21 May, 28 Jun and 3 Jul 2026: 'This festival is proudly brought to you by @sanamecom'. Saname's business was not identified."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://byronwellnessfestival.com/information/",
+      "note": "'Our official accommodation partner is located directly across the road from the Byron Wellness Festival', 15% off with code WELLNESS; partner logo file is ingeniaholidayparksbyron."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://byronwellnessfestival.com/",
+      "note": "Home page 'Our Partners' section links 'Partner with us' to a 123formbuilder sponsorship form; separate stallholder form also linked."
+    },
+    {
+      "field": "audience",
+      "url": "https://www.instagram.com/p/DamNMshMpFs/",
+      "note": "Save-the-date post (10 Jul 2026) lists the daytime wellness program, silent disco, kids yoga and '60+ conscious market stalls & delicious food trucks' at Red Devils Park, Bangalow Road."
+    },
+    {
+      "field": "dates",
+      "url": "https://thebyronbayguide.com.au/news/byron-wellness-festival-three-days-of-music-and-wellbeing-in-november/",
+      "note": "Cites an Echo piece titled 'Namaste tuned, Byron: Inaugural Byron Wellness Festival', so 2026 is the first edition (Google snippet)."
+    },
+    {
+      "field": "organiser",
+      "url": "https://www.instagram.com/p/DcUmVhzPzWL/",
+      "note": "@danielle_djokic co-authors 7 festival posts since Jan 2026, which supports the Dani Djokic (Boho Luxe Market) organiser link; no organiser statement found."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://byronwellnessfestival.com/",
+      "note": "Home page promises 'Wellness Stalls', 'Delicious Food Trucks' and 'Conscious Brands'; presenting credits ('brought to you by') to Jewel Juice and Saname."
+    }
+  ],
+  "add_gaps": [
+    "Partner logos on the home page did not load in the crawl; full partner list not captured",
+    "Saname (@sanamecom) not identified; may be a brand or the operating company",
+    "Ticket prices not captured (Leap Events ticket page not crawled)",
+    "Inaugural edition, so no attendance history"
+  ],
+  "remove_gaps": [
+    "No public partnerships contact found",
+    "Not clear whether 2026 is the first edition; no earlier edition found",
+    "Whether 2026 is the first edition is not confirmed"
+  ],
+  "notes": "Strongest HG fit in this batch: inaugural wellness and music festival with a public sponsorship form. Two 'brought to you by' presenters (Jewel Juice, Saname). A Google snippet also shows 'Presented by @qldmusicfest' on a festival post, but the full caption does not contain it, so not added."
+}

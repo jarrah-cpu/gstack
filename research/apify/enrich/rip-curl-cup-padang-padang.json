@@ -1,0 +1,32 @@
+{
+  "id": "rip-curl-cup-padang-padang",
+  "set": {},
+  "add_sponsors": [
+    {"brand": "Swellnet", "years": [2026], "role": "partner", "source": "https://www.ripcurl.co.id/blogs/ripcurlcup"},
+    {"brand": "Sungai Watch", "years": [2026], "role": "partner", "source": "https://www.ripcurl.co.id/blogs/ripcurlcup"},
+    {"brand": "Ulu Cliffhouse", "years": [2026], "role": "partner", "source": "https://bgsbali.com/event/rip-curl-cup-padang-padang-2026-world-class-surfing-competition-and-events-in-bali/"},
+    {"brand": "Island Brewing", "years": [2025], "role": "major", "source": "https://www.ripcurl.co.id/blogs/ripcurlcup/westen-hirst-and-jasmine-studer-win-rip-curl-cup-padang-padang"},
+    {"brand": "Dragon", "years": [2025], "role": "major", "source": "https://www.ripcurl.co.id/blogs/ripcurlcup/westen-hirst-and-jasmine-studer-win-rip-curl-cup-padang-padang"},
+    {"brand": "BGS Bali", "years": [2025], "role": "major", "source": "https://www.ripcurl.co.id/blogs/ripcurlcup/westen-hirst-and-jasmine-studer-win-rip-curl-cup-padang-padang"},
+    {"brand": "INDO Amazon Acai", "years": [2025], "role": "major", "source": "https://www.ripcurl.co.id/blogs/ripcurlcup/westen-hirst-and-jasmine-studer-win-rip-curl-cup-padang-padang"},
+    {"brand": "Red Bull", "years": [2025], "role": "major", "source": "https://www.ripcurl.co.id/blogs/ripcurlcup/westen-hirst-and-jasmine-studer-win-rip-curl-cup-padang-padang"},
+    {"brand": "Biznet", "years": [2025], "role": "major", "source": "https://www.ripcurl.co.id/blogs/ripcurlcup/westen-hirst-and-jasmine-studer-win-rip-curl-cup-padang-padang"},
+    {"brand": "Samudera Indonesia", "years": [2023, 2024], "role": "presenting", "source": "https://www.ripcurl.co.id/blogs/ripcurlcup/the-21st-annual-rip-curl-cup-padang-padang-is-set-for-the-big-kick-off"}
+  ],
+  "add_activation_formats": ["after-party", "collab-product"],
+  "add_sources": [
+    {"field": "sponsors", "url": "https://www.ripcurl.co.id/blogs/ripcurlcup", "note": "Rip Curl Cup blog: 4 Aug 2026 post calls Swellnet 'Rip Curl's official surf forecasting partner'; 17 Jul 2026 post 'Rip Curl Cup Padang Padang 2026 Expands Environmental Commitment Through Continued Partnership With Sungai Watch' (official merch purchases help protect rivers and oceans); 5 Aug 2023 post 'Rip Curl Cup Warm-Up presented by Samudera Indonesia'."},
+    {"field": "sponsors", "url": "https://bgsbali.com/event/rip-curl-cup-padang-padang-2026-world-class-surfing-competition-and-events-in-bali/", "note": "Google snippet (1 Aug 2026): 'Rip Curl Cup Padang Padang Party presented by Ulu Cliffhouse'."},
+    {"field": "sponsors", "url": "https://www.ripcurl.co.id/blogs/ripcurlcup/westen-hirst-and-jasmine-studer-win-rip-curl-cup-padang-padang", "note": "Google snippet (7 Aug 2025): 'The Rip Curl Cup Padang Padang is proudly presented by Island Brewing, Dragon, BGS, INDO Amazon Acai, Red Bull & Biznet.' Recorded as major (co-presenting group)."},
+    {"field": "sponsors", "url": "https://www.ripcurl.co.id/blogs/ripcurlcup/the-21st-annual-rip-curl-cup-padang-padang-is-set-for-the-big-kick-off", "note": "Google snippet (2024): 'The Rip Curl Cup Padang Padang 2024 is presented by SAMUDERA INDONESIA'; party with SKEGSS at The Bench."},
+    {"field": "activation_formats", "url": "https://bgsbali.com/event/rip-curl-cup-padang-padang-2026-world-class-surfing-competition-and-events-in-bali/", "note": "Official party presented by Ulu Cliffhouse (after-party); Sungai Watch merch tie-in (collab-product, https://www.ripcurl.co.id/blogs/ripcurlcup)."}
+  ],
+  "add_gaps": [
+    "Attendance not published",
+    "Full 2026 presenting-sponsor list not seen (2026 winners post not opened); 2024 and 2025 presenters differ"
+  ],
+  "remove_gaps": [
+    "Attendance and partners beyond Rip Curl not in results"
+  ],
+  "notes": "Brand-owned contest with rotating co-presenters: Samudera Indonesia (2023 to 2024), Island Brewing, Dragon, BGS, INDO Amazon Acai, Red Bull and Biznet (2025); 2026 partners seen are Swellnet, Sungai Watch and Ulu Cliffhouse (party). Acai brand INDO Amazon Acai shows food and wellness brands do co-present. No partnership contact found."
+}

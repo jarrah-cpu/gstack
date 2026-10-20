@@ -1,0 +1,70 @@
+{
+  "id": "starlight-festival-bangalow",
+  "set": {
+    "website": "https://starlightfestival.com.au/",
+    "organiser": {
+      "name": "Starlight Festival (run annually by @rosie_adventures_)",
+      "type": "independent",
+      "website": "https://starlightfestival.com.au/"
+    },
+    "attendance": {
+      "figure": 2000,
+      "figure_high": null,
+      "year": 2026,
+      "is_estimate": true,
+      "source": "https://timesnewsgroup.com.au/ballinatimes/news/conscious-living-boom-leads-to-record-crowds-at-starlight-festival/",
+      "note": "Press-reported 'A RECORD 2,000 people' at the 1 to 4 Jan 2026 festival (Times News Group, 8 Jan 2026). In a 2024 presenter call the organiser cited 'an audience of over 2500 women'."
+    },
+    "audience": {
+      "age_range": null,
+      "gender_skew": "Mostly women (organiser cites 'an audience of over 2500 women' in a 2024 presenter call)",
+      "psychographics": "Mind-body-spirit community: 'a conscious, engaged audience seeking connection, wellbeing, and personal growth'; readers, healers, sound baths, breathwork, yoga and workshops, plus conscious markets. Children under 13 free with a paying adult.",
+      "source": "https://events.humanitix.com/host/starlight-festival"
+    }
+  },
+  "add_sponsors": [],
+  "add_activation_formats": [],
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://starlightfestival.com.au/program-list/",
+      "note": "Official site hosts the program list and the Jan 2026 program PDF (A&I Hall, Bangalow, 1 to 4 January)."
+    },
+    {
+      "field": "organiser",
+      "url": "https://www.instagram.com/p/DTJ6ukTkuDz/",
+      "note": "Festival post (6 Jan 2026): 'Thanks to @rosie_adventures_ for her time, energy and devotion into running Starlight Festival annually in Bangalow as well as other festivals.'"
+    },
+    {
+      "field": "attendance",
+      "url": "https://timesnewsgroup.com.au/ballinatimes/news/conscious-living-boom-leads-to-record-crowds-at-starlight-festival/",
+      "note": "Times News Group, 8 Jan 2026: 'A RECORD 2,000 people flocked to the annual Starlight Festival last weekend' (Google snippet)."
+    },
+    {
+      "field": "audience",
+      "url": "https://events.humanitix.com/host/starlight-festival",
+      "note": "Humanitix host page: 'a growing mind-body-spirit event designed to bring together a conscious, engaged audience seeking connection, wellbeing, and personal growth' (Google snippet)."
+    },
+    {
+      "field": "audience",
+      "url": "https://www.facebook.com/starlightfest/posts/-%F0%9D%97%A7%F0%9D%97%9B%F0%9D%97%98-%F0%9D%97%A6%F0%9D%97%A7%F0%9D%97%94%F0%9D%97%9A%F0%9D%97%98-%F0%9D%97%9C%F0%9D%97%A6-%F0%9D%97%96%F0%9D%97%94%F0%9D%97%9F%F0%9D%97%9F%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%9A-do-you-have-something-to-share-that-could-move-inspire-awa/1062930646092089/",
+      "note": "Presenter applications post for Jan 2024: 'audience of over 2500 women' (Google snippet)."
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://events.humanitix.com/starlight-festival",
+      "note": "Organiser's Humanitix listing: A&I Hall Bangalow, Thursday 7 January 2027; IG bio '7 to 10 Jan'."
+    }
+  ],
+  "add_gaps": [
+    "No sponsors found; IG collaborators are practitioners and presenters",
+    "No partnerships email or page published (Facebook lists a phone number only)",
+    "Organiser's full name not published; only the IG handle @rosie_adventures_"
+  ],
+  "remove_gaps": [
+    "Organiser not named in search results",
+    "2027 dates come from a regional guide, not the organiser",
+    "Attendance, sponsors and prices not found"
+  ],
+  "notes": "Wellness-adjacent, women-skewed audience (organiser claim) and a record 2,000 in Jan 2026 (press). No brand sponsors visible; practitioner-led format. Organiser identified only by IG handle. Ticket prices still not captured."
+}

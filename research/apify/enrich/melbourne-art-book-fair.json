@@ -1,0 +1,123 @@
+{
+  "id": "melbourne-art-book-fair",
+  "set": {
+    "attendance": {
+      "figure": 21500,
+      "figure_high": null,
+      "year": 2025,
+      "is_estimate": false,
+      "source": "https://www.ngv.vic.gov.au/media_release/melbourne-art-book-fair-2026-giramondo-publishing-caesar-li-international-poster-biennial-of-mexico-and-more/",
+      "note": "Organiser-reported (NGV): the three-day Stallholder Fair 'was attended by more than 21,500 people in 2025'. The inaugural 2015 fair drew over 16,000 per a Melbourne School of Design post."
+    },
+    "dates": {
+      "last_edition": {
+        "start": "2026-05-14",
+        "end": "2026-05-24",
+        "status": "held",
+        "label": "2026"
+      },
+      "next_edition": {
+        "start": "2027-05-20",
+        "end": "2027-05-30",
+        "status": "confirmed",
+        "label": "13th edition (2027); Stallholder Fair 21 to 23 May"
+      },
+      "frequency": "annual",
+      "duration_days": 11
+    },
+    "ticket_price": {
+      "min": 0,
+      "max": 0,
+      "currency": "AUD",
+      "free_entry": true,
+      "note": "Official FAQ: 'The fair is free and open to the public.'"
+    },
+    "partnership_contact": {
+      "email": "artbookfair@ngv.vic.gov.au",
+      "page_url": "https://artbookfair.melbourne/contact/",
+      "named_person": null,
+      "source": "https://artbookfair.melbourne/contact/"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Asahi Super Dry",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.facebook.com/NGVMelbourne/posts/%EF%B8%8F-hot-off-the-press-your-melbourne-art-book-fair-program-for-2026-is-herethis-pa/1371762601653693/"
+    },
+    {
+      "brand": "City of Melbourne",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.facebook.com/NGVMelbourne/posts/%EF%B8%8F-hot-off-the-press-your-melbourne-art-book-fair-program-for-2026-is-herethis-pa/1371762601653693/"
+    },
+    {
+      "brand": "The Copyright Agency",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.facebook.com/NGVMelbourne/posts/%EF%B8%8F-hot-off-the-press-your-melbourne-art-book-fair-program-for-2026-is-herethis-pa/1371762601653693/"
+    },
+    {
+      "brand": "Victorian Government (Melbourne Design Week)",
+      "years": [
+        2027
+      ],
+      "role": "government",
+      "source": "https://artbookfair.melbourne/faqs/"
+    }
+  ],
+  "add_sources": [
+    {
+      "field": "attendance",
+      "url": "https://www.ngv.vic.gov.au/media_release/melbourne-art-book-fair-2026-giramondo-publishing-caesar-li-international-poster-biennial-of-mexico-and-more/",
+      "note": "Page read: 'the three-day Stallholder Fair was attended by more than 21,500 people in 2025'."
+    },
+    {
+      "field": "attendance.note",
+      "url": "https://www.facebook.com/msdsocial/posts/open-i-close-an-exhibition-featuring-the-work-of-our-graphic-design-students-who/844864534338584/",
+      "note": "Google snippet: 'The inaugural event saw over 16,000 visitors attend' (1 to 3 May 2015)."
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://artbookfair.melbourne/faqs/",
+      "note": "Official FAQ: 2027 runs 20 to 30 May, Stallholder Fair at NGV International 21 to 23 May."
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://artbookfair.melbourne/faqs/",
+      "note": "Official FAQ: 'The fair is free and open to the public.'"
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://artbookfair.melbourne/contact/",
+      "note": "Contact page: 'Please direct any enquiries or questions to artbookfair@ngv.vic.gov.au'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.facebook.com/NGVMelbourne/posts/%EF%B8%8F-hot-off-the-press-your-melbourne-art-book-fair-program-for-2026-is-herethis-pa/1371762601653693/",
+      "note": "Google snippet of NGV's 2026 program post: 'supported by Event Partner Asahi Super Dry, Partner City of Melbourne and Supporter The Copyright Agency'. Asahi tier label 'Event Partner' recorded as major."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://artbookfair.melbourne/faqs/",
+      "note": "Official FAQ: 'presented as part of Melbourne Design Week, an initiative of the Victorian Government.'"
+    }
+  ],
+  "remove_gaps": [
+    "Attendance not found",
+    "No sponsors or partnerships contact found",
+    "Ticket pricing not found"
+  ],
+  "add_gaps": [
+    "2026 sponsor tiers rest on a Google snippet of an NGV Facebook post; 2027 partners not yet listed",
+    "Audience demographics not published"
+  ],
+  "notes": "2025 Stallholder Fair drew 21,500+ (NGV). 2026 partners: Asahi Super Dry (Event Partner), City of Melbourne, The Copyright Agency; the site has a Partners block but logos were not captured. 2027 is 20 to 30 May, free entry, general contact artbookfair@ngv.vic.gov.au. Sits inside NGV and Melbourne Design Week, so partnerships likely route through NGV."
+}

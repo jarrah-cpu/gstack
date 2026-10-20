@@ -1,0 +1,44 @@
+{
+  "id": "yoga-festa-yokohama",
+  "set": {
+    "organiser": {"name": "Yoga Town Co., Ltd (株式会社ヨガタウン)", "type": "promoter", "website": "https://www.yogafest.jp/new/"},
+    "attendance": {"figure": 10000, "figure_high": null, "year": 2026, "is_estimate": true, "source": "https://2026.yogafest.jp/", "note": "Organiser's projected figure: '10,000+ 来場者数（予想）' (expected visitors) for 2026; actual count not published."},
+    "partnership_contact": {"email": "info@yogafest.jp", "page_url": "https://2026.yogafest.jp/forexibitors/", "named_person": null, "source": "https://2026.yogafest.jp/faq/"},
+    "ticket_price": {"min": 3410, "max": 10780, "currency": "JPY", "free_entry": true, "note": "2026 paid academy classes 3,410 to 10,780 JPY incl. tax (special 90-minute classes at the top end); showcase booth area, trial classes and park yoga free; online viewing tickets also sold; mat hire 1,000 JPY a day."}
+  },
+  "add_sponsors": [
+    {"brand": "YogaWorks", "years": [2026], "role": "partner", "source": "https://2026.yogafest.jp/booth/"},
+    {"brand": "Nihon Shuji (日本習字)", "years": [2026], "role": "partner", "source": "https://2026.yogafest.jp/booth/"},
+    {"brand": "The Yogis magazine mall (Lotus8)", "years": [2026], "role": "partner", "source": "https://2026.yogafest.jp/booth/"},
+    {"brand": "natural&therapy", "years": [2026], "role": "partner", "source": "https://2026.yogafest.jp/booth/"},
+    {"brand": "Otsuka Pharmaceutical (Pocari Sweat, Ion Water)", "years": [2026], "role": "vendor-or-stall", "source": "https://2026.yogafest.jp/booth/"},
+    {"brand": "Oisix", "years": [2026], "role": "vendor-or-stall", "source": "https://2026.yogafest.jp/booth/"},
+    {"brand": "Nescafé Dolce Gusto", "years": [2026], "role": "vendor-or-stall", "source": "https://2026.yogafest.jp/booth/"},
+    {"brand": "C'BON", "years": [2026], "role": "vendor-or-stall", "source": "https://2026.yogafest.jp/booth/"},
+    {"brand": "TOKAI (water servers)", "years": [2026], "role": "vendor-or-stall", "source": "https://2026.yogafest.jp/booth/"},
+    {"brand": "Yoga Journal Japan", "years": [2026], "role": "vendor-or-stall", "source": "https://2026.yogafest.jp/booth/"},
+    {"brand": "super.natural", "years": [2026], "role": "vendor-or-stall", "source": "https://2026.yogafest.jp/booth/"},
+    {"brand": "suria", "years": [2026], "role": "vendor-or-stall", "source": "https://2026.yogafest.jp/booth/"},
+    {"brand": "TAEKO skincare", "years": [2026], "role": "vendor-or-stall", "source": "https://2026.yogafest.jp/booth/"},
+    {"brand": "omniflow", "years": [2026], "role": "vendor-or-stall", "source": "https://www.instagram.com/p/DdntsHApDSG/"}
+  ],
+  "add_activation_formats": ["stage-or-program-takeover"],
+  "add_sources": [
+    {"field": "organiser", "url": "https://2026.yogafest.jp/booth/", "note": "Footer: '© 2026 YOGAFEST YOKOHAMA / 株式会社ヨガタウン' names Yoga Town Co., Ltd as operator; no explicit 主催 label."},
+    {"field": "attendance", "url": "https://2026.yogafest.jp/", "note": "Home page stat block: '10,000+ 来場者数（予想）' (expected visitors); 100+ paid programs; 30 booths."},
+    {"field": "partnership_contact", "url": "https://2026.yogafest.jp/faq/", "note": "FAQ: Yoga Festa secretariat info@yogafest.jp for enquiries. Site also has an exhibitor information page (/forexibitors/) and a contact form at official.yogafest.jp/contact/."},
+    {"field": "ticket_price", "url": "https://2026.yogafest.jp/", "note": "Class prices shown 3,410 to 10,780 JPY incl. tax; FAQ says showcase entry free, trial classes free with booking, mat hire 1,000 JPY."},
+    {"field": "sponsors", "url": "https://2026.yogafest.jp/booth/", "note": "Booth page 2026: 協賛企業 heading lists yogaworks (trial class sponsor), Nihon Shuji (calligraphy workshop), The Yogis magazine mall (Lotus8), natural&therapy. 30 booths include Otsuka Pharmaceutical (Pocari Sweat, Ion Water), Oisix, Nescafé Dolce Gusto (tasting), C'BON (sampling, skin check), TOKAI, Yoga Journal Japan (sampling), Yamato (healthcare equipment), Mercy (foot-care demo), super.natural, suria, TAEKO skincare."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DdntsHApDSG/", "note": "Google snippet: omniflow exhibiting at yogafest Yokohama 2026 with up to 50 percent off and a free hair tie for visitors."},
+    {"field": "activation_formats", "url": "https://2026.yogafest.jp/faq/", "note": "Free 45-minute trial yoga classes sponsored by YogaWorks (program takeover); booths ran sampling, tastings, skin checks and device demos."}
+  ],
+  "remove_gaps": [
+    "Attendance, ticket prices and exhibitor list not captured",
+    "Organiser name not captured"
+  ],
+  "add_gaps": [
+    "Actual 2026 visitor count not published (only a 10,000+ projection)",
+    "Audience age and gender not published"
+  ],
+  "notes": "Best health-brand precedent in this batch: Otsuka Pharmaceutical (Pocari Sweat), Oisix, Nescafé, C'BON and healthcare device brands took booths; YogaWorks sponsored free trial classes. Operator Yoga Town Co., Ltd; contact info@yogafest.jp. Instagram: the event's real account appears to be @yogafestjp (seen in captions), not @yogafes; orchestrator should profile it."
+}

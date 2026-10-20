@@ -1,0 +1,28 @@
+{
+  "id": "waking-life-crato",
+  "set": {
+    "organiser": {"name": "Associação Waking Life", "type": "non-profit", "website": "https://wakinglife.pt/"},
+    "dates": {
+      "last_edition": {"start": "2026-06-17", "end": "2026-06-22", "status": "held", "label": "2026"},
+      "next_edition": {"start": "2027-06-16", "end": "2027-06-21", "status": "confirmed", "label": "2027"},
+      "frequency": "annual",
+      "duration_days": 6
+    }
+  },
+  "add_sponsors": [],
+  "add_activation_formats": [],
+  "add_sources": [
+    {"field": "organiser", "url": "https://www.facebook.com/municipiodocrato/posts/associa%C3%A7%C3%A3o-waking-life-organiza-workshops-sobre-permacultura-no-cratoa-associa%C3%A7%C3%A3/1561618110858122/", "note": "Google snippet (Município do Crato): 'a associação Waking Life' runs permaculture workshops for local residents."},
+    {"field": "organiser", "url": "https://www.odoo.com/pt_BR/customers/associacao-waking-life-9951643", "note": "Google snippet: customer listing 'Associação Waking Life'."},
+    {"field": "dates.next_edition", "url": "https://www.instagram.com/wakinglife.pt/", "note": "IG bio: 'Next convergence: 16 to 21 June 2027'."},
+    {"field": "audience", "url": "https://www.instagram.com/p/DJbSaCYNgGA/", "note": "Google snippet (2025): resident ticket registration open to all residents of Crato municipality."}
+  ],
+  "add_gaps": [
+    "No partnerships or general contact email captured (wakinglife.pt is image-only to a fetcher)"
+  ],
+  "remove_gaps": [
+    "2027 dates not announced; June expected from solstice pattern",
+    "Organiser entity not confirmed"
+  ],
+  "notes": "No sponsors found; IG partner mentions relate to an EU ecovillage project where Waking Life is a partner, not festival sponsors. Organiser is the non-profit Associação Waking Life. 2027 dates 16 to 21 Jun confirmed by organiser IG. JN reported a young woman found dead at the festival (Google snippet, date not shown, article ID suggests mid 2026); orchestrator may want to check. Brand-light, ecology-focused event."
+}

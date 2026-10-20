@@ -1,0 +1,86 @@
+{
+  "id": "ubud-food-festival",
+  "set": {
+    "website": "https://www.ubudfoodfestival.com/",
+    "organiser": {
+      "name": "Yayasan Mudra Swari Saraswati (also runs Ubud Writers & Readers Festival)",
+      "type": "non-profit",
+      "website": "https://www.ubudfoodfestival.com/"
+    },
+    "attendance": {
+      "figure": 15000,
+      "figure_high": null,
+      "year": 2024,
+      "is_estimate": false,
+      "source": "https://www.ubudwritersfestival.com/news/feasts-of-flavours-await-at-the-ubud-food-festival-from-30-may-to-1-june",
+      "note": "Organiser-reported: 'In 2024, the Festival set a new attendance record, drawing over 15,000' (Google snippet of the foundation's news post). 2019 also reported 15,000. No 2026 figure found."
+    },
+    "partnership_contact": {
+      "email": null,
+      "page_url": "https://www.ubudfoodfestival.com/partners/",
+      "named_person": null,
+      "source": "https://www.ubudfoodfestival.com/partners/"
+    },
+    "dates": {
+      "last_edition": {
+        "start": "2026-05-28",
+        "end": "2026-05-31",
+        "status": "held",
+        "label": "10th anniversary edition (2026), 28 to 31 May listed; theme 'Farmers: Guardians of Land and Sea'"
+      },
+      "next_edition": {
+        "start": "2027",
+        "end": null,
+        "status": "expected",
+        "label": "2027"
+      },
+      "frequency": "annual",
+      "duration_days": 4
+    }
+  },
+  "add_sponsors": [
+    {"brand": "Samsara Ubud", "years": [2026], "role": "major", "source": "https://www.ubudfoodfestival.com/partners/"},
+    {"brand": "Bumi Kinar", "years": [2026], "role": "major", "source": "https://www.ubudfoodfestival.com/partners/"},
+    {"brand": "Honeymoon Guest House", "years": [2026], "role": "major", "source": "https://www.ubudfoodfestival.com/partners/"},
+    {"brand": "Indus Restaurant", "years": [2026], "role": "major", "source": "https://www.ubudfoodfestival.com/partners/"},
+    {"brand": "Casa Luna Restaurant", "years": [2026], "role": "major", "source": "https://www.ubudfoodfestival.com/partners/"},
+    {"brand": "ISMAYA Group", "years": [2026], "role": "partner", "source": "https://www.ubudfoodfestival.com/partners/"},
+    {"brand": "Restoware", "years": [2026], "role": "partner", "source": "https://www.ubudfoodfestival.com/partners/"},
+    {"brand": "Four Seasons Resort Bali at Sayan", "years": [2026], "role": "partner", "source": "https://www.ubudfoodfestival.com/partners/"},
+    {"brand": "Bintang", "years": [2026], "role": "partner", "source": "https://www.ubudfoodfestival.com/partners/"},
+    {"brand": "Javara Indigenous Indonesia", "years": [2026], "role": "partner", "source": "https://www.ubudfoodfestival.com/partners/"},
+    {"brand": "Junglegold", "years": [2026], "role": "partner", "source": "https://www.ubudfoodfestival.com/partners/"},
+    {"brand": "Biznet", "years": [2026], "role": "partner", "source": "https://www.ubudfoodfestival.com/partners/"},
+    {"brand": "Embassy of Peru in Indonesia", "years": [2026], "role": "government", "source": "https://www.ubudfoodfestival.com/partners/"},
+    {"brand": "Capella Ubud", "years": [2026], "role": "partner", "source": "https://www.ubudfoodfestival.com/partners/"},
+    {"brand": "COMO Uma Ubud", "years": [2026], "role": "partner", "source": "https://www.ubudfoodfestival.com/partners/"},
+    {"brand": "The Yoga Barn", "years": [2026], "role": "partner", "source": "https://www.ubudfoodfestival.com/partners/"},
+    {"brand": "Tastemade Indonesia", "years": [2026], "role": "media", "source": "https://www.ubudfoodfestival.com/partners/"},
+    {"brand": "IDN Times", "years": [2026], "role": "media", "source": "https://www.ubudfoodfestival.com/partners/"},
+    {"brand": "Yummy ID", "years": [2026], "role": "media", "source": "https://www.ubudfoodfestival.com/partners/"},
+    {"brand": "DEWI Magazine", "years": [2026], "role": "media", "source": "https://www.ubudfoodfestival.com/partners/"},
+    {"brand": "NOW! Bali", "years": [2026], "role": "media", "source": "https://www.ubudfoodfestival.com/partners/"}
+  ],
+  "add_activation_formats": ["stall", "competition-or-prize"],
+  "add_sources": [
+    {"field": "website", "url": "https://www.ubudfoodfestival.com/partners/", "note": "Official site (partners, vendors and program pages crawled; copyright 2026 Ubud Food Festival)."},
+    {"field": "organiser", "url": "https://www.cimbniaga.co.id/id/business/promo/promo-ff16/ubud-food-festival", "note": "Google snippet: 'Ubud Food Festival (UFF) adalah acara tahunan Yayasan Mudra Swari Saraswati'. Partners page lists Yayasan Mudra Swari Saraswati first; UFF 2022 promo pack names the foundation behind UFF and UWRF."},
+    {"field": "attendance", "url": "https://www.ubudwritersfestival.com/news/feasts-of-flavours-await-at-the-ubud-food-festival-from-30-may-to-1-june", "note": "Google snippet: 'In 2024, the Festival set a new attendance record, drawing over 15,000'."},
+    {"field": "attendance", "url": "https://www.ubudfoodfestival.com/15-000-pengunjung-menghadiri-ubud-food-festival-2019-presented-by-abc/", "note": "Organiser news: 15,000 visitors at UFF 2019 (Presented by ABC)."},
+    {"field": "partnership_contact", "url": "http://www.ubudfoodfestival.com/partnership-report/", "note": "Partnership Report page offers a download of the 2022 partner report with participant survey results; no partnership email on crawled pages."},
+    {"field": "dates.last_edition", "url": "https://www.instagram.com/ubudfoodfest/", "note": "Instagram bio after the event: 'THANK YOU for joining #UFF26 ... See you in the next edition'; festival posts dated 31 May 2026."},
+    {"field": "sponsors", "url": "https://www.ubudfoodfestival.com/partners/", "note": "2026 partners page: Platinum Samsara Ubud, Bumi Kinar, Honeymoon Guest House, Indus Restaurant, Casa Luna Restaurant; Silver ISMAYA Group, Restoware, Four Seasons Resort Bali at Sayan, Bintang Beer; Bronze Javara, ISMAYA+, Junglegold, Embassy of Peru, Biznet; Media Exquisite Media, Tastemade Indonesia, IDN Times, Yummy ID, DEWI, NOW! Jakarta, NOW! Bali; Diamond accommodation Noema, Capella Ubud, Kappa Senses, SenS, Seres, COMO Uma Ubud, Metland Venya; Pearl accommodation incl. Viceroy Bali, The Yoga Barn; Visa partner SPUN."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DZMlqfvTnOd/", "note": "@ubudfoodfest (5 Jun 2026) thank-you series by tier: Platinum, Silver, Community Partners, Cocktail Competition Partners, Media, Diamond and Pearl Accommodation, Visa Official Partner, Festival Friends."},
+    {"field": "sponsors", "url": "https://pressrelease.kontan.co.id/news/modena-dukung-ubud-food-festival-2024-rayakan-keanekaragaman-kulinerkomunitas-lokal", "note": "Context: MODENA supported UFF 2024 (stove auction); ABC was presenting partner in 2019 and 2020 ('Ubud Food Festival Presented by ABC'). Not added as 2026 sponsors."},
+    {"field": "activation_formats", "url": "https://www.ubudfoodfestival.com/vendors/", "note": "Food Market at Taman Kuliner with 70+ stalls, free entry; Cocktail Competition Partners tier (https://www.instagram.com/p/DZMtV6Qz-2I/)."}
+  ],
+  "add_gaps": [
+    "No partnership email published on UFF pages (the same foundation lists partnership@yayasansaraswati.org on the UWRF site)",
+    "No 2026 attendance figure found"
+  ],
+  "remove_gaps": [
+    "Organiser entity not named in results",
+    "Attendance and sponsors not in results"
+  ],
+  "notes": "Tiered 2026 partner roster added; Platinum partners are Ubud hospitality venues (Casa Luna, Indus, Honeymoon Guest House) that also back UWRF, so possibly organiser-linked (not checked). Bintang (beer) is a Silver partner. Organiser is Yayasan Mudra Swari Saraswati, which also runs UWRF and publishes partnership@yayasansaraswati.org there. 2026 edition confirmed held. ABC was presenting partner in 2019 and 2020."
+}

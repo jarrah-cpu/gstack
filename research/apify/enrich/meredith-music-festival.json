@@ -1,0 +1,61 @@
+{
+  "id": "meredith-music-festival",
+  "set": {
+    "website": "https://mmf.com.au/",
+    "organiser": {
+      "name": "MMF Pty Ltd ('Aunty Meredith')",
+      "type": "independent",
+      "website": "https://aunty.mmf.com.au/"
+    },
+    "dates": {
+      "last_edition": {"start": null, "end": null, "status": "unknown", "label": null},
+      "next_edition": {"start": "2026-12-11", "end": "2026-12-13", "status": "confirmed", "label": "Meredith 34 (2026), sold out"},
+      "frequency": "annual",
+      "duration_days": 3
+    },
+    "attendance": {
+      "figure": null,
+      "figure_high": null,
+      "year": null,
+      "is_estimate": null,
+      "source": "https://2013.mmf.com.au/ticket-info/capacity/",
+      "note": "No attendance published. Organiser states capacity is 12,500 patrons (capacity, not attendance); the 2026 price page says capacity will not go beyond what the Supernatural Amphitheatre can comfortably hold."
+    },
+    "partnership_contact": {
+      "email": "auntym@mmf.com.au",
+      "page_url": null,
+      "named_person": null,
+      "source": "https://aunty.mmf.com.au/ticket-info/online-sales/"
+    },
+    "ticket_price": {
+      "min": 541,
+      "max": 541,
+      "currency": "AUD",
+      "free_entry": false,
+      "note": "Meredith 34: one ticket type, $541 including booking fee, covers camping and parking for 3 days and 2 nights. Sold via subscriber ballot, then online sales open to all on Thu 27 Aug 2026, then Aunty's Last Chance; now sold out with a waitlist."
+    }
+  },
+  "add_sources": [
+    {"field": "website", "url": "https://mmf.com.au/", "note": "Official site (crawled Oct 2026): 'Meredith 2026, December 11, 12 & 13, 2026'; 'Tickets to Meredith 34 are now sold out'; 'Independent. Since 1991.' Also linked from @meredithmusicfestival bio."},
+    {"field": "dates.next_edition", "url": "https://mmf.com.au/", "note": "11 to 13 Dec 2026, Meredith 34, sold out."},
+    {"field": "organiser", "url": "https://aunty.mmf.com.au/ticket-info/terms-and-conditions/", "note": "T&Cs (crawled): contract is with 'MMF Pty Ltd, ABN 15 157 031 720 (referred to as the Organiser)'; site footer '© MMF Pty Ltd'."},
+    {"field": "ticket_price", "url": "https://aunty.mmf.com.au/ticket-info/price/", "note": "Crawled: 'The ticket price for Meredith 34 is $541 (inclusive of booking fee)'; only one type of ticket is sold."},
+    {"field": "ticket_price", "url": "https://aunty.mmf.com.au/ticket-info/ticket-dates/", "note": "Crawled: after the two ballot rounds, Online Sales 'Open to all comers on Thursday 27 August from 11am', then Aunty's Last Chance."},
+    {"field": "sponsors", "url": "https://aunty.mmf.com.au/ticket-info/price/", "note": "Crawled: 'We are very proud of the fact that there are still no commercial sponsors at Meredith'."},
+    {"field": "sponsors", "url": "https://2014.mmf.com.au/", "note": "Google snippet: 'There are no commercial sponsors, and never will be.'"},
+    {"field": "partnership_contact", "url": "https://aunty.mmf.com.au/ticket-info/online-sales/", "note": "Crawled: 'Please contact Aunty' with mailto auntym@mmf.com.au (general contact)."},
+    {"field": "attendance", "url": "https://2013.mmf.com.au/ticket-info/capacity/", "note": "Google snippet: 'Capacity for the Meredith Music Festival is 12,500 patrons.'"}
+  ],
+  "remove_gaps": [
+    "Official website, organiser, Instagram, attendance and sponsors not captured",
+    "Ticket price not found",
+    "Whether any general sale follows the ballot is unclear"
+  ],
+  "add_gaps": [
+    "Attendance not published (capacity 12,500 only)",
+    "Meredith 33 (2025) dates not captured",
+    "Audience demographics not published",
+    "No partnerships contact: no commercial sponsors by long-held policy"
+  ],
+  "notes": "No commercial sponsors by policy ('still no commercial sponsors', 'never will be'), so closed to brand partnerships; same operator (MMF Pty Ltd) as Golden Plains. Instagram @meredithmusicfestival is official but unused (bio: announcements only at mmf.com.au). RRR lists it under 'RRR Presents', which is RRR's own promotion, not described by the festival as a sponsor."
+}

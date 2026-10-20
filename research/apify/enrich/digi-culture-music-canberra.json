@@ -1,0 +1,88 @@
+{
+  "id": "digi-culture-music-canberra",
+  "set": {
+    "dates": {
+      "last_edition": {
+        "start": "2026-02-28",
+        "end": "2026-02-28",
+        "status": "held",
+        "label": "2026"
+      },
+      "next_edition": {
+        "start": "2027",
+        "end": null,
+        "status": "expected",
+        "label": "2027 (organiser confirms return and has opened pre-registration; no date)"
+      },
+      "frequency": "annual",
+      "duration_days": 1
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Purple Audio (Funktion-One sound)",
+      "years": [
+        2026
+      ],
+      "role": "unknown",
+      "source": "https://www.instagram.com/p/DTcDBt-k6WA/"
+    },
+    {
+      "brand": "Lofi Wines",
+      "years": [
+        2026
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.instagram.com/p/DUE2RNZE_QQ/"
+    },
+    {
+      "brand": "Fiction Club",
+      "years": [],
+      "role": "presenting",
+      "source": "https://www.facebook.com/INTIXAU/photos/digi-culture-music-fest-presented-by-fiction-club-is-next-week-only-a-few-ticket/1623015831398222/"
+    }
+  ],
+  "add_activation_formats": [
+    "stall",
+    "installation"
+  ],
+  "add_sources": [
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.instagram.com/p/Defv6IPzLck/",
+      "note": "15 Oct 2026: 'DIGI returns in 2027. Pre-register now for first access'"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DTcDBt-k6WA/",
+      "note": "All stages delivered through Funktion-One sound 'thanks to our friends at Purple Audio'; likely a production supplier rather than a paying sponsor"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DUE2RNZE_QQ/",
+      "note": "DownTempo Village 2026: natural wine bar by Lofi Wines, hammock area, tooth gems, market stalls, artist Q&A zone, art installations"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.facebook.com/INTIXAU/photos/digi-culture-music-fest-presented-by-fiction-club-is-next-week-only-a-few-ticket/1623015831398222/",
+      "note": "Google snippet: 'Digi Culture & Music Fest presented by Fiction Club'; edition year not shown"
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/DUE2RNZE_QQ/",
+      "note": "Market stalls and art installations in the DownTempo Village"
+    },
+    {
+      "field": "attendance",
+      "url": "https://www.instagram.com/p/DVSNmWpE_9x/",
+      "note": "2026 sold out, described as the 5th year; organiser says 'thousands of people' attended, no figure"
+    }
+  ],
+  "add_gaps": [
+    "No headline commercial sponsor found; only a production supplier, a wine bar vendor and an undated 'presented by Fiction Club' credit"
+  ],
+  "remove_gaps": [
+    "Commercial sponsors not captured"
+  ],
+  "notes": "No real sponsor roster: Purple Audio (sound supplier) and Lofi Wines (bar) are suppliers or vendors. 2026 sold out (5th year); 2027 return confirmed without a date. Attendance still unpublished."
+}

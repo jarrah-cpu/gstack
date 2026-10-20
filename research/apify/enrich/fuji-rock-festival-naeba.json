@@ -1,0 +1,448 @@
+{
+  "id": "fuji-rock-festival-naeba",
+  "set": {
+    "organiser": {
+      "name": "SMASH Corporation",
+      "type": "promoter",
+      "website": "http://smash-jpn.com/"
+    },
+    "ticket_price": {
+      "min": 9000,
+      "max": 59000,
+      "currency": "JPY",
+      "free_entry": false,
+      "note": "2026 festival entry: 3-day JPY 57,000 to 59,000; 1-day JPY 25,000 to 26,000; Friday night JPY 16,000; 1-day under 22 JPY 18,000; 1-day under 17 JPY 9,000; children 15 and under covered by a separate offer. Campsite JPY 6,000; parking JPY 6,000 to 22,000."
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Amazon",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://en.fujirockfestival.com/info/index"
+    },
+    {
+      "brand": "American Express",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://en.fujirockfestival.com/info/index"
+    },
+    {
+      "brand": "Barbour",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://en.fujirockfestival.com/info/index"
+    },
+    {
+      "brand": "BrewDog",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://en.fujirockfestival.com/info/index"
+    },
+    {
+      "brand": "Causette Joli",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://en.fujirockfestival.com/info/index"
+    },
+    {
+      "brand": "Coleman",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://en.fujirockfestival.com/info/index"
+    },
+    {
+      "brand": "Columbia Sportswear",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://en.fujirockfestival.com/info/index"
+    },
+    {
+      "brand": "FamilyMart Convenience Wear",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://en.fujirockfestival.com/info/index"
+    },
+    {
+      "brand": "Nissin Curry Meshi",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://en.fujirockfestival.com/info/index"
+    },
+    {
+      "brand": "Land Rover Defender",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://en.fujirockfestival.com/info/index"
+    },
+    {
+      "brand": "glo",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://en.fujirockfestival.com/info/index"
+    },
+    {
+      "brand": "Heineken",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://en.fujirockfestival.com/info/index"
+    },
+    {
+      "brand": "Morinaga ICEBOX",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://en.fujirockfestival.com/info/index"
+    },
+    {
+      "brand": "iichiko",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://en.fujirockfestival.com/info/index"
+    },
+    {
+      "brand": "Johnnie Walker",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://en.fujirockfestival.com/info/index"
+    },
+    {
+      "brand": "KEEN",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://en.fujirockfestival.com/info/index"
+    },
+    {
+      "brand": "KiU",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://en.fujirockfestival.com/info/index"
+    },
+    {
+      "brand": "Kumagai Gumi",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://en.fujirockfestival.com/info/index"
+    },
+    {
+      "brand": "Levi's",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://en.fujirockfestival.com/info/index"
+    },
+    {
+      "brand": "SMBC Mobit",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://en.fujirockfestival.com/info/index"
+    },
+    {
+      "brand": "Japan Sake and Shochu Makers Association",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://en.fujirockfestival.com/info/index"
+    },
+    {
+      "brand": "Pocari Sweat",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://en.fujirockfestival.com/info/index"
+    },
+    {
+      "brand": "Record City",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://en.fujirockfestival.com/info/index"
+    },
+    {
+      "brand": "Tabasco",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://en.fujirockfestival.com/info/index"
+    },
+    {
+      "brand": "Thermos",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://en.fujirockfestival.com/info/index"
+    },
+    {
+      "brand": "Tower Records",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://en.fujirockfestival.com/info/index"
+    },
+    {
+      "brand": "TuneCore Japan",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://en.fujirockfestival.com/info/index"
+    },
+    {
+      "brand": "YETI",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://en.fujirockfestival.com/info/index"
+    },
+    {
+      "brand": "CHUMS",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://en.fujirockfestival.com/info/index"
+    },
+    {
+      "brand": "Shure",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://en.fujirockfestival.com/info/index"
+    },
+    {
+      "brand": "Fuji TV NEXT",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://en.fujirockfestival.com/info/index"
+    },
+    {
+      "brand": "J-WAVE",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://en.fujirockfestival.com/info/index"
+    },
+    {
+      "brand": "InterFM",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://en.fujirockfestival.com/info/index"
+    },
+    {
+      "brand": "ZIP-FM",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://en.fujirockfestival.com/info/index"
+    },
+    {
+      "brand": "FM802",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://en.fujirockfestival.com/info/index"
+    },
+    {
+      "brand": "FM COCOLO",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://en.fujirockfestival.com/info/index"
+    },
+    {
+      "brand": "FM NIIGATA",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://en.fujirockfestival.com/info/index"
+    },
+    {
+      "brand": "Space Shower TV",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://en.fujirockfestival.com/info/index"
+    },
+    {
+      "brand": "SIB TV",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://en.fujirockfestival.com/info/index"
+    },
+    {
+      "brand": "UX Niigata Television 21",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://en.fujirockfestival.com/info/index"
+    },
+    {
+      "brand": "FM North Wave",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://en.fujirockfestival.com/info/index"
+    },
+    {
+      "brand": "Date fm",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://en.fujirockfestival.com/info/index"
+    },
+    {
+      "brand": "TOKYO FM",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://en.fujirockfestival.com/info/index"
+    },
+    {
+      "brand": "bayfm",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://en.fujirockfestival.com/info/index"
+    },
+    {
+      "brand": "FM Yokohama",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://en.fujirockfestival.com/info/index"
+    },
+    {
+      "brand": "alpha-station (FM Kyoto)",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://en.fujirockfestival.com/info/index"
+    },
+    {
+      "brand": "Kiss FM Kobe",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://en.fujirockfestival.com/info/index"
+    },
+    {
+      "brand": "LOVE FM",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://en.fujirockfestival.com/info/index"
+    }
+  ],
+  "add_activation_formats": [
+    "sampling",
+    "stall"
+  ],
+  "add_sources": [
+    {
+      "field": "organiser",
+      "url": "https://en.fujirockfestival.com/info/index",
+      "note": "Festival information: Organizer SMASH Corporation; planning and production SMASH / HOT STUFF PROMOTION / e+."
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://en.fujirockfestival.com/info/index",
+      "note": "Tickets table for FRF'26 (two price columns by sales period)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://en.fujirockfestival.com/info/index",
+      "note": "Official Supporter section (2026): Official Supporters (28 brands incl. Amazon, Amex, Heineken, Pocari Sweat, Thermos, YETI, Columbia, KEEN, Land Rover Defender), 'Corporate with' CHUMS and Shure, Official Media, Supporting TV and Supporting Radio. Names read from logo file names and link URLs."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://tabasco.co.jp/fuji-rock-festival-vol01/",
+      "note": "Google snippet: Tabasco's first sponsorship (初協賛) of FRF'26 with a 'TABASCO BRAND SPICE CHARGE STATION' across the venue."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://tabasco.co.jp/fuji-rock-festival-vol01/",
+      "note": "Tabasco spice station sampling across the site (Google snippet)."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.tv-tokyo.co.jp/plus/external-pr/entry/215011.html",
+      "note": "Google snippet: Thermos booth ran a water refill spot ('給水スポット') for reusable bottles, about 2,544 litres over the three days of FRF'26."
+    }
+  ],
+  "add_gaps": [
+    "Sponsor fees and tier benefits not published",
+    "Audience demographics not published"
+  ],
+  "remove_gaps": [
+    "Organiser name not captured in results",
+    "Sponsor list, ticket prices and demographics not captured"
+  ],
+  "notes": "Organiser is SMASH Corporation. 2026 Official Supporter page gives a full list: 28 official supporters (Pocari Sweat, Thermos water refill, YETI, Columbia, KEEN, Coleman are wellness or outdoor-adjacent), 2 'corporate with', 18 media. Roles set as partner and media because tiers are not ranked. Audience demographics still unpublished."
+}

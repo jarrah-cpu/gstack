@@ -1,0 +1,81 @@
+{
+  "id": "here-comes-the-sun-torquay",
+  "set": {
+    "website": "https://www.hctsfest.com/",
+    "status": "unknown",
+    "dates": {
+      "last_edition": {
+        "start": "2024-03-30",
+        "end": "2024-03-30",
+        "status": "held",
+        "label": "2024 Torquay leg (most recent held)"
+      },
+      "next_edition": {
+        "start": null,
+        "end": null,
+        "status": "unknown",
+        "label": "No Torquay date after the 4 Apr 2026 leg was cancelled"
+      },
+      "frequency": "irregular",
+      "duration_days": 1
+    },
+    "audience": {
+      "age_range": "All ages (licensed; adult supervision ratios for under-18s)",
+      "gender_skew": null,
+      "psychographics": null,
+      "source": "https://www.hctsfest.com/faq"
+    }
+  },
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://www.hctsfest.com/faq",
+      "note": "Google result: official Here Comes The Sun site (FAQ page)."
+    },
+    {
+      "field": "status",
+      "url": "https://www.abc.net.au/triplej/news/here-comes-the-sun-festival-torquay-cancelled/106436236",
+      "note": "Page read (10 Mar 2026): Torquay stop planned for 4 Apr 2026 cancelled 'Due to unforeseen circumstances'; Margaret River and Gold Coast legs went ahead; most recent previous Torquay edition was 2024."
+    },
+    {
+      "field": "status",
+      "url": "https://themusic.com.au/news/victorian-leg-of-here-comes-the-sun-festival-cancelled/UPLuQkVER0Y/10-03-26",
+      "note": "Google snippet: World Surf League-presented festival cancelled its Torquay leg weeks before kick-off."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.abc.net.au/triplej/news/here-comes-the-sun-festival-torquay-cancelled/106436236",
+      "note": "Page read: most recent previous edition was 2024, with stops in Torquay and Margaret River."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.facebook.com/musicfestivalsaustralia/posts/set-times-are-here-for-margaret-rivers-hctsfest-here-comes-the-sun2504-margaret-/1553708446757786/",
+      "note": "Google snippet: 'Here Comes the Sun Festival 30/03 Torquay, VIC 13/04 Margaret River' (2024 per ABC; both dates are Saturdays in 2024)."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.margaretriver.com/things-to-do/events-whats-on/here-comes-the-sun-x-world-surf-league-drops-epic-festival-lineup/",
+      "note": "Google snippet: 'Torquay in 2024 with Ocean Alley and Ball Park Music'."
+    },
+    {
+      "field": "audience",
+      "url": "https://www.hctsfest.com/faq",
+      "note": "Google snippet: 'a licensed all-ages event with supervision requirements that vary by location' (adult to minor ratios)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.worldsurfleague.com/posts/551545/world-surf-league-presents-here-comes-the-sun-in-2026",
+      "note": "Google result: 'World Surf League Presents Here Comes the Sun in 2026' (presenting partner of the 2026 tour)."
+    }
+  ],
+  "remove_gaps": [
+    "Organiser, website, Instagram, attendance and pricing not captured",
+    "Single source"
+  ],
+  "add_gaps": [
+    "Organiser not named (ABC refers only to 'East Coast promoters')",
+    "Attendance and pricing not captured",
+    "Whether the Torquay leg returns after the 2026 cancellation is unknown"
+  ],
+  "notes": "Correction: the 2026 Torquay leg (4 Apr 2026) was cancelled, not held. Most recent Torquay edition was 2024 (30 Mar per a Google snippet); none in 2025. Brand continues in WA (IG bio now 'Margaret River, 31 Oct') and on the Gold Coast. Status set to unknown; consider archiving. WSL's existing role 'partner' should read 'presenting' for 2026. @hctsfest is the national account, not Torquay-specific."
+}

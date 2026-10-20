@@ -1,0 +1,38 @@
+{
+  "id": "parap-village-markets-darwin",
+  "set": {
+    "website": "https://parapvillage.com.au/",
+    "partnership_contact": {
+      "email": null,
+      "page_url": "https://parapvillage.com.au/shops/",
+      "named_person": null,
+      "source": "https://parapvillage.com.au/shops/"
+    }
+  },
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://parapvillage.com.au/shops/",
+      "note": "Parap Village site (Google result titled 'Shops - Parap Village Markets'); IG bio link parapvillagemarkets.com.au did not resolve when crawled on 20 Oct 2026"
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://parapvillage.com.au/shops/",
+      "note": "Lists mobile 0438 882 373 and business phone 08 8942 0805; email obfuscated; no stall, events or sponsorship page"
+    },
+    {
+      "field": "audience",
+      "url": "https://www.instagram.com/parapvillage/",
+      "note": "IG bio: market only on Saturdays 8am to 2pm, over 95 food and craft stalls, rain or shine"
+    }
+  ],
+  "remove_gaps": [
+    "Organiser, stall count and attendance not captured"
+  ],
+  "add_gaps": [
+    "Organiser and attendance not captured",
+    "No email or sponsorship contact published; phone numbers only",
+    "No sponsors found"
+  ],
+  "notes": "No sponsors found. RMI Security says it is 'proud to support' the market but is the security provider, so not added. Website set to parapvillage.com.au because the IG bio domain no longer resolves; the site does not name the market operator. Stall count 95+ from IG bio."
+}

@@ -1,0 +1,55 @@
+{
+  "id": "roots-auckland-tattoo-convention",
+  "set": {
+    "website": "https://aucklandroots.com/",
+    "organiser": {
+      "name": "Ben (DB Kaye) and Madeline Kaye",
+      "type": "independent",
+      "website": "https://aucklandroots.com/"
+    },
+    "partnership_contact": {
+      "email": "info@aucklandroots.com",
+      "page_url": "https://aucklandroots.com/pages/contact",
+      "named_person": null,
+      "source": "https://aucklandroots.com/pages/contact"
+    },
+    "ticket_price": {
+      "min": 25,
+      "max": 45,
+      "currency": "NZD",
+      "free_entry": false,
+      "note": "2026: Saturday pass $25, Sunday pass $25, weekend pass $45 (Eventfinda, fees extra). 2027 tickets not yet on sale."
+    }
+  },
+  "add_sponsors": [
+    {"brand": "Metrix Tattoo", "years": [2026, 2027], "role": "presenting", "source": "https://www.instagram.com/p/DVDGs8yFshA/"},
+    {"brand": "NZICC (New Zealand International Convention Centre)", "years": [2027], "role": "venue", "source": "https://aucklandroots.com/pages/event-information"},
+    {"brand": "Auckland Live (The Cloud)", "years": [2026], "role": "venue", "source": "https://www.instagram.com/p/DV2aAAaEQVC/"},
+    {"brand": "Bonehead Digital", "years": [2027], "role": "partner", "source": "https://aucklandroots.com/"},
+    {"brand": "Ship Shape Tattoo", "years": [2027], "role": "partner", "source": "https://aucklandroots.com/"}
+  ],
+  "add_activation_formats": ["sampling", "competition-or-prize"],
+  "add_sources": [
+    {"field": "website", "url": "https://aucklandroots.com/", "note": "Official site (crawled): 'ROOTS RETURNS 13 to 14 MARCH 2027 @ the NEW ZEALAND INTERNATIONAL CONVENTION CENTRE'; linked from the @roots_auckland bio."},
+    {"field": "organiser", "url": "https://aucklandroots.com/pages/about-us", "note": "Crawled page: 'We are Ben and Madeline Kaye ... We are excited to present the Roots Auckland Tattoo Convention'; founders of Reference87; IG bio 'Brought to you by @dbkaye'."},
+    {"field": "partnership_contact", "url": "https://aucklandroots.com/pages/contact", "note": "Crawled page: 'want to become a sponsor? ... interested in partnering with us, fill out the contact form'; info@aucklandroots.com shown on the page."},
+    {"field": "ticket_price", "url": "https://www.eventfinda.co.nz/2026/roots-auckland-tattoo-conention/auckland", "note": "Google snippet: Saturday Pass $25.00; Sunday Pass $25.00; Weekend Pass $45.00; additional fees may apply."},
+    {"field": "dates.next_edition", "url": "https://aucklandroots.com/pages/event-information", "note": "Official event page: Roots 2027 takes place 13 to 14 March at the NZICC."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DVDGs8yFshA/", "note": "22 Feb 2026: 'our main sponsor @metrixtattoo ... on-site all weekend with samples to give away'. Every 2026 and 2027 artist post says 'Presented by @metrixtattoo'; IG bio 'Presented by @metrixtattoo'."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DV-AMvnEaa7/", "note": "17 Mar 2026 wrap post: 'Massive shout out to our main sponsor @metrixtattoo'."},
+    {"field": "sponsors", "url": "https://aucklandroots.com/", "note": "Crawled 'OUR Sponsors' block: Metrix logo, Bonehead Digital (boneheaddigital.com), DBKaye (organiser's own brand) and Ship Shape Tattoo (shipshapetattoo.co.nz)."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DV2aAAaEQVC/", "note": "14 Mar 2026 post co-authored with @aucklandlive at The Cloud, Auckland CBD (2026 venue)."},
+    {"field": "activation_formats", "url": "https://www.instagram.com/p/DV2aAAaEQVC/", "note": "2026 floor had 'tattoo comps, beers, arcade machines'; Metrix gave away samples and ran an artist booth."}
+  ],
+  "add_gaps": [
+    "Attendance not published (2026 lineup listed 199 artists)",
+    "Audience age and gender not published (tattooing is 18+ only)"
+  ],
+  "remove_gaps": [
+    "Organiser not named in search results",
+    "Attendance, ticket prices and sponsors not captured",
+    "2027 dates from event aggregators; confirm with organiser",
+    "No public partnerships contact found"
+  ],
+  "notes": "New convention (first held 14 to 15 Mar 2026 at The Cloud) run by tattooist Ben Kaye and Madeline Kaye; moves to the NZICC for 13 to 14 Mar 2027. Metrix Tattoo (needle and cartridge supplier) presents both years. DBKaye in the sponsor block is the organisers' own brand, so not listed. IG @roots_auckland is correct."
+}

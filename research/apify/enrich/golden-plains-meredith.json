@@ -1,0 +1,99 @@
+{
+  "id": "golden-plains-meredith",
+  "set": {
+    "website": "https://goldenplains.com.au/",
+    "organiser": {
+      "name": "Meredith Music Festival (MMF Pty Ltd, 'Aunty Meredith')",
+      "type": "independent",
+      "website": "https://aunty.mmf.com.au/"
+    },
+    "dates": {
+      "last_edition": {
+        "start": "2026-03-07",
+        "end": null,
+        "status": "held",
+        "label": "Golden Plains Eighteen (2026)"
+      },
+      "next_edition": {
+        "start": "2027-03-06",
+        "end": "2027-03-08",
+        "status": "confirmed",
+        "label": "Golden Plains Nineteen (2027)"
+      },
+      "frequency": "annual",
+      "duration_days": 3
+    },
+    "partnership_contact": {
+      "email": "auntym@mmf.com.au",
+      "page_url": "https://aunty.mmf.com.au/every-thing/publicity/",
+      "named_person": null,
+      "source": "https://goldenplains.com.au/"
+    },
+    "attendance": {
+      "figure": null,
+      "figure_high": null,
+      "year": null,
+      "is_estimate": null,
+      "source": "https://aunty.goldenplains.com.au/ticket-info/capacity/",
+      "note": "No attendance published. Organiser states capacity is 12,500 and that far fewer tickets are sold (capacity, not attendance)."
+    }
+  },
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://goldenplains.com.au/",
+      "note": "Official site: Golden Plains 2027, March 6, 7 & 8, 2027; online sales Wed 28 Oct (AEDT)."
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://goldenplains.com.au/",
+      "note": "Official site confirms 6 to 8 Mar 2027."
+    },
+    {
+      "field": "organiser",
+      "url": "https://aunty.goldenplains.com.au/every-thing/sponsors/",
+      "note": "Page read: footer '© MMF Pty Ltd'; logos for Golden Plains, Meredith Supernatural Amphitheatre and Meredith Music Festival. Contact email on goldenplains.com.au is on the mmf.com.au domain."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://scenestr.com.au/music/review-2026-golden-plains-meredith-supernatural-amphitheatre-20260310",
+      "note": "Google snippet: live review of Golden Plains Festival, 7 to 8 March 2026."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://farragomagazine.com/news/article/farrago/GOLDEN-PLAINS-18-A-Tough-Act-to-Follow/",
+      "note": "Google result: 'GOLDEN PLAINS 18' review."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://aunty.goldenplains.com.au/every-thing/sponsors/",
+      "note": "Page read: 'There are no commercial sponsors, nor is there any commercial signage on-site.'"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://aunty.mmf.com.au/every-thing/publicity/",
+      "note": "Google snippet: 'Meredith and Golden Plains do not have promotional partnerships or commercial sponsors'."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://goldenplains.com.au/",
+      "note": "Official site: 'Write to me about anything, anytime' with mailto auntym@mmf.com.au."
+    },
+    {
+      "field": "attendance",
+      "url": "https://aunty.goldenplains.com.au/ticket-info/capacity/",
+      "note": "Google snippet: 'Golden Plains' capacity is 12,500 ... Far fewer tickets are sold'."
+    }
+  ],
+  "remove_gaps": [
+    "Recorded from orchestrator-supplied facts without a fresh search",
+    "Official website, organiser, Instagram, attendance and sponsors not captured",
+    "Previous (Eighteen) edition dates not captured"
+  ],
+  "add_gaps": [
+    "Attendance not published (capacity 12,500 only)",
+    "Golden Plains Eighteen end date not confirmed (review covers 7 to 8 Mar 2026)",
+    "Audience demographics not published"
+  ],
+  "notes": "No commercial sponsors, no promotional partnerships and no on-site signage by policy, so effectively closed to brand partnerships. Instagram @goldenplainsfestival is official but unused (bio says announcements happen only on the website). RRR logo sits in the site logo bar but is not described as a sponsor."
+}

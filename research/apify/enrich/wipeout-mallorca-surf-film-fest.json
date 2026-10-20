@@ -1,0 +1,115 @@
+{
+  "id": "wipeout-mallorca-surf-film-fest",
+  "set": {
+    "dates": {
+      "last_edition": {
+        "start": "2026-09-30",
+        "end": "2026-10-03",
+        "status": "held",
+        "label": "5th edition (2026); Saturday 3 Oct cut short by a downpour"
+      },
+      "next_edition": {
+        "start": "2027",
+        "end": null,
+        "status": "expected",
+        "label": "6th edition (2027)"
+      },
+      "frequency": "annual",
+      "duration_days": 4
+    },
+    "ticket_price": {
+      "min": 6,
+      "max": null,
+      "currency": "EUR",
+      "free_entry": null,
+      "note": "Passes from EUR 6 on Tickety (Ticketrona lists from EUR 5.86); Google snippets. Full price range not captured."
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Govern de les Illes Balears (Illes Balears Sostenibles)",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.instagram.com/p/Dd8uY1uDIxh/"
+    },
+    {
+      "brand": "Ajuntament de Calvia",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.instagram.com/p/Dd8uY1uDIxh/"
+    },
+    {
+      "brand": "Visit Calvia",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.instagram.com/p/Dd8uY1uDIxh/"
+    },
+    {
+      "brand": "Estrella Damm",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/Dd8uY1uDIxh/"
+    },
+    {
+      "brand": "LOMUSIC",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/Dd8vtcjjBZz/"
+    },
+    {
+      "brand": "Powerhouse",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/Dd8uY1uDIxh/"
+    }
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.instagram.com/p/DeEZB8KjHtK/",
+      "note": "4 Oct 2026 post: Saturday's downpour knocked out all electrical equipment and forced an early stop."
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://tickety.es/event-type/festivales",
+      "note": "'WIPEOUT MALLORCA SURF FILM FEST 2026. Desde 6EUR'; Google snippet."
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://entradas.ticketrona.com/gl/organizers/wipe-out-mallorca-surf-film-festival",
+      "note": "'Desde 5,86 EUR'; Google snippet."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/Dd8uY1uDIxh/",
+      "note": "1 Oct 2026 post 'Con el apoyo de': Govern de les Illes Balears / Illes Balears Sostenibles, Ajuntament de Calvia, Visit Calvia, Estrella Damm Mallorca, LOMUSIC, Powerhouse."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/Dd8vtcjjBZz/",
+      "note": "'@lomusic.es sea nuestro patrocinador y partner tecnico oficial' (official sponsor and technical partner, audiovisual)."
+    }
+  ],
+  "add_gaps": [
+    "Attendance not captured",
+    "Official website not found (ticketing pages only)"
+  ],
+  "remove_gaps": [
+    "Sponsors not identified",
+    "Attendance and ticket prices not captured"
+  ],
+  "notes": "2026 support came mostly from public bodies (Balearic government, Calvia council and tourism board), plus Estrella Damm, AV supplier LOMUSIC and Powerhouse. Rain cut the final day short. The organiser is still unidentified."
+}

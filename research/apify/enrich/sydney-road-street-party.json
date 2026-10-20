@@ -1,0 +1,103 @@
+{
+  "id": "sydney-road-street-party",
+  "set": {
+    "attendance": {
+      "figure": 50000,
+      "figure_high": null,
+      "year": null,
+      "is_estimate": true,
+      "source": "https://brunswickvoice.com.au/annual-street-party-safe-for-now/",
+      "note": "Press upper bound: 'On a good year, the Sydney Road Street Party can draw as many as 50,000 people' (Brunswick Voice, 15 May 2026). No year given. A 7NEWS Facebook post mentions 70,000 (year unknown, not used)."
+    },
+    "dates": {
+      "last_edition": {
+        "start": "2026-03-01",
+        "end": "2026-03-01",
+        "status": "held",
+        "label": "2026 (opening day of Brunswick Music Festival)"
+      },
+      "next_edition": {
+        "start": "2027-02-28",
+        "end": "2027-02-28",
+        "status": "expected",
+        "label": "2027 (expected opening day of BMF, 28 Feb to 7 Mar 2027)"
+      },
+      "frequency": "annual",
+      "duration_days": 1
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Kiss FM Australia (Kiss FM Park Party stage)",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://kissfm.com.au/events/kiss-fm-park-party-sydney-rd-street-party-2026"
+    },
+    {
+      "brand": "Jellis Craig Northern",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.facebook.com/brunswickmusicfestival/"
+    },
+    {
+      "brand": "Sydney Road Brunswick",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/brunswickmusicfest/?hl=en"
+    }
+  ],
+  "add_sources": [
+    {
+      "field": "attendance",
+      "url": "https://brunswickvoice.com.au/annual-street-party-safe-for-now/",
+      "note": "Page read (15 May 2026): council staff proposed making the street party biennial (next likely 2028); councillors deferred the decision to September 2026."
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.instagram.com/brunswickmusicfest/",
+      "note": "Organiser IG bio: 'BMF is back 28 Feb - 7 Mar 2027'; the street party opens BMF (Merri-bek EOI PDF: 'The Brunswick Music Festival opens with the Sydney Road Street Party')."
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.melbournepoint.com.au/events/sydney-road-street-party/",
+      "note": "Google snippet (aggregator): free street party on 28 February 2027, noon to 6pm."
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.merri-bek.vic.gov.au/brunswick-music-festival",
+      "note": "Google snippet: 'Sydney Road Street Party 2027: Stallholder EOIs Now Open!'"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://kissfm.com.au/events/kiss-fm-park-party-sydney-rd-street-party-2026",
+      "note": "Google snippet: 'Kiss FM PARK PARTY @ Sydney Rd Street Party 2026'. RA lists an earlier SRSP Lane Rave Stage presented by Kiss FM (ra.co/events/1862687, year not shown)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.facebook.com/brunswickmusicfestival/",
+      "note": "Google snippet: 'Big thanks to our sponsors Jellis Craig Northern for helping bring Brunswick Music Festival to life in 2026' (festival-level sponsor; the street party is BMF's opening day)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/brunswickmusicfest/?hl=en",
+      "note": "Google snippet: '@sydneyroadbrunswick, proud supporters of Brunswick Music Festival' (2026)."
+    }
+  ],
+  "remove_gaps": [
+    "Attendance not captured",
+    "2027 date not announced"
+  ],
+  "add_gaps": [
+    "Merri-bek Council deferred (May 2026) a staff proposal to make the street party biennial; outcome of the September 2026 decision not found",
+    "2027 street party date from an aggregator; a council EOI had listed 7 Mar 2027",
+    "Attendance is a press upper bound with no year",
+    "Audience demographics not published"
+  ],
+  "notes": "Check frequency risk: council staff recommended going biennial (next edition 2028), decision deferred to Sep 2026; a 2027 stallholder EOI and BMF 2027 dates suggest 2027 is going ahead. Sponsors are BMF-level and local (Jellis Craig, Sydney Road Brunswick traders) plus a Kiss FM branded stage. Brunswick Ballroom and other venues run their own parties on the day."
+}

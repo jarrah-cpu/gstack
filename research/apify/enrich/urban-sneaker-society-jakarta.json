@@ -1,0 +1,39 @@
+{
+  "id": "urban-sneaker-society-jakarta",
+  "set": {
+    "dates": {
+      "last_edition": {
+        "start": "2025-11-07",
+        "end": "2025-11-09",
+        "status": "held",
+        "label": "2025 (Presented by BRImo)"
+      },
+      "next_edition": {
+        "start": "2026-11-06",
+        "end": "2026-11-08",
+        "status": "confirmed",
+        "label": "USS 2026, JICC Senayan Halls A and B; 300+ participants announced"
+      },
+      "frequency": "annual",
+      "duration_days": 3
+    }
+  },
+  "add_sponsors": [
+    {"brand": "BRI", "years": [2024], "role": "partner", "source": "https://investortrust.id/lifestyle/45542/bri-jadi-official-mobile-banking-partnerdiurban-sneaker-societyuss-2024-ada-sneakers-seharga-rp-50-ribu"},
+    {"brand": "SatuCollective", "years": [2026], "role": "collab", "source": "https://www.instagram.com/p/DeOzgDsyUWE/"}
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {"field": "dates.next_edition", "url": "https://www.instagram.com/u.s.s/", "note": "Official Instagram bio: 'USS 2026, JAKARTA, November 6-8, JICC Senayan, Hall A-B'; profile link is the USS 2026 tenant registration form."},
+    {"field": "dates.next_edition", "url": "https://www.instagram.com/p/DehJKidGu-0/", "note": "@u.s.s (15 Oct 2026): USS 2026 returns in November with exclusive releases and collaboration drops, 'featuring 300+ participants' from Indonesia, Southeast Asia and beyond."},
+    {"field": "sponsors", "url": "https://investortrust.id/lifestyle/45542/bri-jadi-official-mobile-banking-partnerdiurban-sneaker-societyuss-2024-ada-sneakers-seharga-rp-50-ribu", "note": "Google snippet: BRI was Official Mobile Banking Partner at USS 2024 (25 to 27 Oct 2024, JCC per Tempo)."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DeOzgDsyUWE/", "note": "@u.s.s (8 Oct 2026): 'USS 2026 welcomes @satucollective on board as this year's visual collaborator.'"}
+  ],
+  "add_gaps": [
+    "USS 2026 presenting partner not yet announced in scraped posts (BRImo presented 2025)"
+  ],
+  "remove_gaps": [
+    "No 2026 date or venue found as of 20 Oct 2026"
+  ],
+  "notes": "USS 2026 confirmed for 6 to 8 Nov 2026 at JICC Senayan Halls A and B (organiser IG bio), 300+ participants. BRI also partnered in 2024 (Official Mobile Banking Partner). No 2026 sponsor announcements yet in the scraped window; huge owned media reach (@u.s.s 962k, @ussfeeds 2.2m followers)."
+}

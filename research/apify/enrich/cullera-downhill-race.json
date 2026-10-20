@@ -1,0 +1,35 @@
+{
+  "id": "cullera-downhill-race",
+  "set": {
+    "website": "https://dhfuerte.com/",
+    "organiser": {"name": "L'Horta Downhill Club de Patinatge", "type": "community-collective", "website": "https://dhfuerte.com/"},
+    "dates": {"last_edition": {"start": "2026-03-27", "end": "2026-03-29", "status": "held", "label": "3rd edition (2026), Copa de España and Eurotour opener"}, "next_edition": {"start": "2027-03", "end": null, "status": "expected", "label": "4th edition (2027)"}, "frequency": "annual", "duration_days": 3},
+    "partnership_contact": {"email": "hortadownhillclub@gmail.com", "page_url": "https://dhfuerte.com/", "named_person": null, "source": "https://dhfuerte.com/"},
+    "ticket_price": {"min": 0, "max": 0, "currency": "EUR", "free_entry": true, "note": "Free to watch ('un plan gratuito para toda la familia', Valencia Bonita, Google snippet). Riders pay a registration fee (amount not captured)."},
+    "location": {"city": "Cullera", "state_or_region": "Valencian Community", "country": "Spain", "venue_or_area": "Road up to the weather radar (carretera del radar meteorológico); Slide Jam on Replà San Antoni street"}
+  },
+  "add_sponsors": [
+    {"brand": "MP Group", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DQlux0gAmCy/"},
+    {"brand": "Walabi Camper", "years": [2026], "role": "collab", "source": "https://www.facebook.com/walabicamper/posts/walabi-con-cullera-downhill-race-2026en-walabi-creemos-en-el-movimiento-la-liber/1351790830310151/"},
+    {"brand": "Kaina DH", "years": [2026], "role": "unknown", "source": "https://dhfuerte.com/"},
+    {"brand": "Baifo", "years": [2026], "role": "unknown", "source": "https://dhfuerte.com/"},
+    {"brand": "UB-I", "years": [2026], "role": "unknown", "source": "https://dhfuerte.com/"},
+    {"brand": "Torimu", "years": [2026], "role": "unknown", "source": "https://dhfuerte.com/"}
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {"field": "website", "url": "https://dhfuerte.com/", "note": "Organiser site for Cullera Downhill Race 2026 (registration, info, sponsors)."},
+    {"field": "organiser", "url": "https://dhfuerte.com/politica-privacidad/", "note": "Google snippet: 'L'HORTA DOWNHILL CLUB DE PATINATGE NIF: G70700398. Email de contacto: hortadownhillclub@gmail.com'. Homepage describes a group of Valencian skaters (Horta Downhill Club)."},
+    {"field": "dates.last_edition", "url": "https://dhfuerte.com/", "note": "Homepage: 27, 28 and 29 March 2026, Cullera; Spanish Championship and first Eurotour stop. visit-cullera.es: 'This event ended on March 29, 2026'."},
+    {"field": "dates.last_edition", "url": "https://www.facebook.com/visitcullera/videos/-vuelve-la-cullera-downhill-race-hortadownhill-la-velocidad-toma-cullera-con-la-/1244222037834529/", "note": "Google snippet: '3ª edición'."},
+    {"field": "partnership_contact", "url": "https://dhfuerte.com/", "note": "Sponsors section: 'Estamos en búsqueda de sponsors!!' with contact hortadownhillclub@gmail.com and @hortadownhill."},
+    {"field": "ticket_price", "url": "https://www.valenciabonita.es/2026/03/24/cullera-downhill-race-2026/", "note": "Google snippet: free plan for the whole family."},
+    {"field": "location", "url": "https://visit-cullera.es/eventos/evento/cullera-downhill-race/", "note": "Race on the road up to the weather radar; Slide Jam on Saturday 28th, 7 to 9 pm, Replà San Antoni street."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DQlux0gAmCy/", "note": "Google snippet of the 2026 confirmation post: 'Sponsors @mp_group____2020 @teammpgroup'. A later post says the full poster lists all sponsors (https://www.instagram.com/p/DWEdd6JlqG2/), not captured."},
+    {"field": "sponsors", "url": "https://www.facebook.com/walabicamper/posts/walabi-con-cullera-downhill-race-2026en-walabi-creemos-en-el-movimiento-la-liber/1351790830310151/", "note": "Google snippet: Walabi (camper hire) is proud to be a collaborator ('colaboradores') of the 2026 race."},
+    {"field": "sponsors", "url": "https://dhfuerte.com/", "note": "Sponsor logos have empty alt text; filenames read Kaina DH, Baifo, UB-I and Torimu (plus the skating federation logo). Roles left unknown."}
+  ],
+  "add_gaps": ["Spectator numbers not published", "Rider registration fee not captured", "Full 2026 sponsor list only on the poster image; logo brands identified from filenames"],
+  "remove_gaps": ["Exact 2026 dates not captured (late March)", "Organiser not identified", "Sponsors not identified", "Website is a council tourism page, not an organiser site", "No public partnerships contact found"],
+  "notes": "Pack Instagram is wrong: @visit_cullera is the town tourism office. The event's own account is @hortadownhill (Cullera Downhill Race, about 2,414 followers per profile data in the CND pack); orchestrator should switch it. Small grassroots race (83 riders in 2026) that openly seeks sponsors. Walabi camper hire is a non-endemic precedent."
+}

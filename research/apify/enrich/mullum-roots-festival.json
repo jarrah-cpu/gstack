@@ -1,0 +1,94 @@
+{
+  "id": "mullum-roots-festival",
+  "set": {
+    "organiser": {
+      "name": "Mullum Roots Festival (founder and organiser Lou Bradley, also founder of Nimbin Roots Festival)",
+      "type": "independent",
+      "website": "https://mullumrootsfest.com/"
+    },
+    "partnership_contact": {
+      "email": "lou@mullumrootsfest.com",
+      "page_url": "https://mullumrootsfest.com/",
+      "named_person": "Lou Bradley (festival organiser)",
+      "source": "https://mullumrootsfest.com/"
+    },
+    "dates": {
+      "last_edition": {
+        "start": "2026-07-11",
+        "end": "2026-07-12",
+        "status": "held",
+        "label": "2nd edition (2026)"
+      },
+      "next_edition": {
+        "start": "2027-07-10",
+        "end": "2027-07-11",
+        "status": "confirmed",
+        "label": "3rd edition (2027)"
+      },
+      "frequency": "annual",
+      "duration_days": 2
+    },
+    "ticket_price": {
+      "min": 260,
+      "max": 295,
+      "currency": "AUD",
+      "free_entry": false,
+      "note": "2027 First Release weekend ticket $260 (early birds sold out); Friday opening concert ticketed separately. NSW Government listing showed $295 for 2026, likely a weekend pass."
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Stone & Wood",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.noise11.com/news/mullum-roots-festival-2026-expands-with-mental-as-anything-headlining-return-20260323"
+    }
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {
+      "field": "sponsors",
+      "url": "https://www.noise11.com/news/mullum-roots-festival-2026-expands-with-mental-as-anything-headlining-return-20260323",
+      "note": "Noise11 (23 Mar 2026): 'Support from local partners continues to underpin the event, with Stone & Wood returning as sponsor' (Google snippet). 'Returning' implies the 2025 debut too."
+    },
+    {
+      "field": "organiser",
+      "url": "https://www.instagram.com/p/DYVibI7yUdl/",
+      "note": "Festival post (14 May 2026): @loubradley_music is 'the founder of Nimbin Roots and Mullum Roots Festivals'; post of 9 Jul 2026 calls Lou Bradley 'our festival organiser'."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://mullumrootsfest.com/",
+      "note": "Only email on the site is lou@mullumrootsfest.com (given for accessibility enquiries); Lou Bradley is the organiser. No sponsorship page."
+    },
+    {
+      "field": "dates",
+      "url": "https://mullumrootsfest.com/",
+      "note": "Site: 'Mullum Roots Festival is back in Mullumbimby, July 10 - 11 2027! After a sold-out 2025 and 2026 we're expanding with a new venue and more seating'. IG bio: '10 to 11 JULY 2027'."
+    },
+    {
+      "field": "dates",
+      "url": "https://thebyronbayguide.com.au/news/mullum-roots-festival-draws-big-names-to-mullumbimby/",
+      "note": "2026 festival ran across multiple Mullumbimby venues on 11 to 12 July (Google snippet)."
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://www.facebook.com/p/Mullum-Roots-Festival-61560006800623/",
+      "note": "'First Release weekend tickets for Mullum Roots Festival 2027 are now available for $260' (Google snippet). FAQ: Friday night opening concert needs a separate ticket."
+    }
+  ],
+  "add_gaps": [
+    "Attendance not published; 2025 and 2026 both sold out across five small venues",
+    "No sponsor list beyond Stone & Wood; festival IG mentions sponsors without naming them"
+  ],
+  "remove_gaps": [
+    "Organiser not identified",
+    "Stone & Wood sponsorship came from a search summary; the supporting URL was not pinned",
+    "2025 debut month not confirmed, so the July pattern rests on one edition",
+    "2027 dates not announced"
+  ],
+  "notes": "Organiser is Lou Bradley (Nimbin Roots founder); 2027 confirmed for 10 to 11 Jul with a new venue. Stone & Wood sponsorship now pinned to Noise11. Its Facebook URL slug is 'nimbinrootsfest', consistent with the shared founder. Existing Stone & Wood entry has no source; this add supplies one."
+}

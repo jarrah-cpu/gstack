@@ -1,0 +1,342 @@
+{
+  "id": "flash-foxy-climbing-festival-bishop",
+  "set": {
+    "location": {
+      "city": "Bishop",
+      "state_or_region": "California",
+      "country": "USA",
+      "venue_or_area": "Eastern Sierra Tri-County Fairgrounds (2026 base)"
+    },
+    "attendance": {
+      "figure": null,
+      "figure_high": null,
+      "year": null,
+      "is_estimate": null,
+      "source": "https://www.flashfoxy.com/climbing-fest/faq",
+      "note": "No per-edition count published. Festival FAQ caps registration at 350 participants; organiser says festivals sell out within minutes with 500+ on the waitlist and have reached 2,500+ climbers since 2016."
+    },
+    "audience": {
+      "age_range": "All ages (infants to over 70, per organiser)",
+      "gender_skew": "Women and genderqueer climbers only, including trans and gender non-conforming people",
+      "psychographics": "Climbers of all levels who have travelled from 36 states and territories and 3 countries; strong inclusion, stewardship and scholarship ethos; fills within minutes.",
+      "source": "https://www.flashfoxy.com/climbing-fest"
+    },
+    "partnership_contact": {
+      "email": "events@flashfoxy.com",
+      "page_url": "https://www.flashfoxy.com/contact",
+      "named_person": null,
+      "source": "https://www.flashfoxy.com/contact"
+    },
+    "ticket_price": {
+      "min": null,
+      "max": null,
+      "currency": "USD",
+      "free_entry": false,
+      "note": "Sliding-scale passes (Standard, Pay-it-forward and Lower-cost tiers; amounts not captured). Clinics USD 125 each for pass holders; under 6 free with an adult."
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Arc'teryx",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.flashfoxy.com/climbing-fest/sponsors"
+    },
+    {
+      "brand": "Touchstone Climbing",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DWPbL6pkt7Z/"
+    },
+    {
+      "brand": "SCARPA North America",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DWPbL6pkt7Z/"
+    },
+    {
+      "brand": "Ocun",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DWPbL6pkt7Z/"
+    },
+    {
+      "brand": "La Sportiva",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DWPbL6pkt7Z/"
+    },
+    {
+      "brand": "Edelrid",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DWPbL6pkt7Z/"
+    },
+    {
+      "brand": "Renewal by Andersen",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DWPbL6pkt7Z/"
+    },
+    {
+      "brand": "Sage to Summit",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DWPbL6pkt7Z/"
+    },
+    {
+      "brand": "Fifth Class Climbing",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DWPbL6pkt7Z/"
+    },
+    {
+      "brand": "The Hostel California",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DWPbL6pkt7Z/"
+    },
+    {
+      "brand": "Mountain View Motel",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DWPbL6pkt7Z/"
+    },
+    {
+      "brand": "Rocky Talkie",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DWPbL6pkt7Z/"
+    },
+    {
+      "brand": "The North Face",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DWPbL6pkt7Z/"
+    },
+    {
+      "brand": "Alpine Start Foods",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DWPbL6pkt7Z/"
+    },
+    {
+      "brand": "Climb Moab Gym",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DWPbL6pkt7Z/"
+    },
+    {
+      "brand": "Gear Aid",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DWPbL6pkt7Z/"
+    },
+    {
+      "brand": "OnCrux",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DWPbL6pkt7Z/"
+    },
+    {
+      "brand": "Eastside Sports",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DWPbL6pkt7Z/"
+    },
+    {
+      "brand": "Rhino Skin Solutions",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DWPbL6pkt7Z/"
+    },
+    {
+      "brand": "Kaya Climbing",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DWPbL6pkt7Z/"
+    },
+    {
+      "brand": "Seirus",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DWPbL6pkt7Z/"
+    },
+    {
+      "brand": "Nuun Hydration",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DWPbL6pkt7Z/"
+    },
+    {
+      "brand": "HyQ",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DWPbL6pkt7Z/"
+    },
+    {
+      "brand": "Mountain Rambler Brewery",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DWPbL6pkt7Z/"
+    },
+    {
+      "brand": "Looney Bean Bishop",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DWPbL6pkt7Z/"
+    },
+    {
+      "brand": "JuneShine",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DWPbL6pkt7Z/"
+    },
+    {
+      "brand": "Waterboy",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DWPbL6pkt7Z/"
+    },
+    {
+      "brand": "Baobab Foods",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DWPbL6pkt7Z/"
+    },
+    {
+      "brand": "YETI",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DWPbL6pkt7Z/"
+    },
+    {
+      "brand": "Eastern Sierra Tri-County Fairgrounds",
+      "years": [
+        2026
+      ],
+      "role": "venue",
+      "source": "https://www.tickettailor.com/events/flashfoxy/1920027"
+    }
+  ],
+  "add_activation_formats": [
+    "workshop",
+    "sampling",
+    "competition-or-prize"
+  ],
+  "add_sources": [
+    {
+      "field": "sponsors",
+      "url": "https://www.flashfoxy.com/climbing-fest/sponsors",
+      "note": "Sponsors + Partners page for the 13 to 15 Mar 2026 festival: Gold sponsor Arc'teryx (logo); Silver logos incl. Touchstone, Fifth Class, Hostel California, Mountain View Motel; Bronze incl. La Sportiva, Sage to Summit; In-kind incl. The North Face, Alpine Start, Gear Aid, Rhino Skin, Nuun, Seirus, Looney Bean, JuneShine, YETI, Kaya, Eastside Sports, OnCrux, Mountain Rambler. Some logos unnamed."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DWPbL6pkt7Z/",
+      "note": "@heyflashfoxy 23 Mar 2026 thank-you post: 'Gold, Silver, and Bronze Sponsors: @arcteryx @touchstoneclimbing @scarpana @ocun.climbing @lasportivana @edelrid_sport @renewalbyandersen @sagetosummit @fifthclassclimbing @thehostelcaliforniabishop Mountain View Motel'. In-kind: @rockytalkies @thenorthface @alpinestartfoods @climbmoabgym @gearaid @oncrux_official @eastsidesports @rhinoskinsolutions @kayaclimbing @seirus_gear @nuunhydration @drinkhyq @mountainramblerbrewery @looneybeanbishop @juneshineco @waterboycan @baobabfoods @yeti. Community partners (Bishop Chamber, Access Fund, Friends of the Inyo, USFS, BLM and others) not added."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.tickettailor.com/events/flashfoxy/1920027",
+      "note": "2026 ticket page: Eastern Sierra Tri-County Fairgrounds, 13 to 15 Mar 2026."
+    },
+    {
+      "field": "location",
+      "url": "https://www.tickettailor.com/events/flashfoxy/1920027",
+      "note": "2026 Flash Foxy Climbing Festival in Bishop, CA at Eastern Sierra Tri-County Fairgrounds."
+    },
+    {
+      "field": "attendance",
+      "url": "https://www.flashfoxy.com/climbing-fest/faq",
+      "note": "FAQ: 'the number of participants is limited to 350'. Festival page: 'reached more than 2,500 climbers since the start of the festival... sold out within minutes and have had over 500 climbers on the waitlist.'"
+    },
+    {
+      "field": "audience",
+      "url": "https://www.flashfoxy.com/climbing-fest",
+      "note": "Climbers from 36 states and territories and 3 countries, aged infants to over 70. About page: 'Flash Foxy stands with women and genderqueer climbers - including trans and gender non-conforming folks'."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.flashfoxy.com/contact",
+      "note": "Contact page: 'Festival Questions? events@flashfoxy.com'; 'Education Questions? education@flashfoxy.com'. General info@flashfoxy.com in the footer. No dedicated sponsorship contact."
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://www.flashfoxy.com/festival/faqs",
+      "note": "Festival FAQs: 'pay more if you are willing and able' model with Standard, Pay-it-forward and Lower-cost tickets. Climbing-fest FAQ: clinics USD 125 each; under 6 free with adult."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.flashfoxy.com/climbing-fest/faq",
+      "note": "FAQ: 'Shoe + harness demos will be available from our sponsors'; 'SWAG from our generous sponsors'. Clinics listed as 'presented by Arc'teryx' on the clinics page; raffle prizes donated by sponsors (festival page)."
+    }
+  ],
+  "add_gaps": [
+    "Per-edition attendance not published (registration capped at 350)",
+    "Standard pass price not captured",
+    "Some sponsor logos on the sponsors page are unnamed image files"
+  ],
+  "remove_gaps": [
+    "Attendance, sponsors and prices not captured",
+    "Women's focus taken from Flash Foxy's identity; confirm program details"
+  ],
+  "notes": "Full 2026 roster captured: Arc'teryx is Gold (and presents Flash Foxy's education program and clinics), plus 10 tiered and 18 in-kind sponsors including hydration and food brands (Nuun, HyQ, Alpine Start, Baobab Foods, JuneShine) and a non-endemic home brand (Renewal by Andersen). Small capped event (350) for women and genderqueer climbers; sponsors run demos, swag and raffle prizes. 2027 dates 'soon' per IG bio. IG @heyflashfoxy is correct."
+}

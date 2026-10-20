@@ -1,0 +1,56 @@
+{
+  "id": "tokyo-art-book-fair",
+  "set": {
+    "website": "https://tokyoartbookfair.com/",
+    "organiser": {"name": "Tokyo Art Book Fair (一般社団法人東京アートブックフェア); exhibition area co-organised with the Museum of Contemporary Art Tokyo", "type": null, "website": "https://tokyoartbookfair.com/"},
+    "dates": {
+      "last_edition": {"start": "2025-12-11", "end": "2025-12-21", "status": "held", "label": "15th edition (TABF 2025), two weekends: 11 to 14 and 19 to 21 Dec 2025"},
+      "next_edition": {"start": "2027-01-21", "end": "2027-01-31", "status": "confirmed", "label": "16th edition (TABF 2026), 21 to 24 and 29 to 31 Jan 2027"},
+      "frequency": "annual",
+      "duration_days": 7
+    },
+    "attendance": {"figure": 25000, "figure_high": null, "year": 2024, "is_estimate": true, "source": "https://deeptokyo.jp/culture/2808/", "note": "Press-reported 'over 25,000' visitors and about 300 exhibitors at the 14th edition (Nov 2024, MOT); Google snippet. Organiser's About page says each edition draws about 350 exhibitors and over 20,000 visitors."},
+    "audience": {"age_range": "20s to 30s (main audience)", "gender_skew": null, "psychographics": "Art, design, photography and independent publishing community with high interest in art and culture; zine makers, small presses, galleries and collectors.", "source": "https://www.fashionsnap.com/article/art-book-fair/"},
+    "partnership_contact": {"email": "info@tokyoartbookfair.com", "page_url": "https://tokyoartbookfair.com/contact/", "named_person": null, "source": "https://tokyoartbookfair.com/contact/"},
+    "ticket_price": {"min": 1000, "max": 1200, "currency": "JPY", "free_entry": false, "note": "2025 edition: online timed ticket 1,000 JPY plus 165 JPY fee; same-day ticket 1,200 JPY; primary school age and under free. 2027 pricing not yet captured."}
+  },
+  "add_sponsors": [
+    {"brand": "Sigma", "years": [2025], "role": "major", "source": "https://www.sigma-global.com/jp/news/2025/11/20/011960/"},
+    {"brand": "Square", "years": [2025], "role": "partner", "source": "https://tokyoartbookfair.com/2025/"},
+    {"brand": "Tokyu Corporation", "years": [2025], "role": "partner", "source": "https://tokyoartbookfair.com/2025/"},
+    {"brand": "New Balance Japan", "years": [2024, 2025], "role": "partner", "source": "https://tokyoartbookfair.com/2025/"},
+    {"brand": "Bang & Olufsen Japan", "years": [2025], "role": "partner", "source": "https://tokyoartbookfair.com/2025/"},
+    {"brand": "BEAMS CULTUART", "years": [2024, 2025], "role": "partner", "source": "https://tokyoartbookfair.com/2025/"},
+    {"brand": "Hakko Bijutsu (株式会社八紘美術)", "years": [2025], "role": "partner", "source": "https://tokyoartbookfair.com/2025/"},
+    {"brand": "Shiba Park Hotel", "years": [2025], "role": "partner", "source": "https://tokyoartbookfair.com/2025/"},
+    {"brand": "Nordisk Japan", "years": [2025], "role": "partner", "source": "https://tokyoartbookfair.com/2025/"},
+    {"brand": "Blackmagic Design", "years": [2025], "role": "partner", "source": "https://tokyoartbookfair.com/2025/"},
+    {"brand": "tokyobike", "years": [2025], "role": "partner", "source": "https://tokyoartbookfair.com/2025/"},
+    {"brand": "Museum of Contemporary Art Tokyo", "years": [2025], "role": "venue", "source": "https://tokyoartbookfair.com/2025/"}
+  ],
+  "add_activation_formats": ["competition-or-prize"],
+  "add_sources": [
+    {"field": "website", "url": "https://www.instagram.com/tokyoartbookfair/", "note": "Official IG profile links to tokyoartbookfair.com; MOT page also cites it as the official site."},
+    {"field": "organiser", "url": "https://tokyoartbookfair.com/2025/", "note": "2025 主催: 一般社団法人東京アートブックフェア and MOT (Tokyo Metropolitan Foundation for History and Culture) for the exhibition area; open booth area by the association with MOT as special cooperation."},
+    {"field": "dates.last_edition", "url": "https://tokyoartbookfair.com/2025/", "note": "15th edition over two weekends for the first time: 11 to 14 Dec and 19 to 21 Dec 2025 at MOT."},
+    {"field": "attendance", "url": "https://deeptokyo.jp/culture/2808/", "note": "Google snippet: 14th edition, Nov 2024 at MOT, about 300 exhibitors and over 25,000 visitors."},
+    {"field": "attendance", "url": "https://tokyoartbookfair.com/about/", "note": "About page: about 350 exhibitors and over 20,000 visitors each edition (organiser-reported, no year)."},
+    {"field": "audience", "url": "https://www.fashionsnap.com/article/art-book-fair/", "note": "Google snippet: main audience is people in their 20s and 30s with high interest in art and culture."},
+    {"field": "partnership_contact", "url": "https://tokyoartbookfair.com/contact/", "note": "Contact page lists info@tokyoartbookfair.com; IG bio says enquiries by email only, not DM."},
+    {"field": "ticket_price", "url": "https://tokyoartbookfair.com/2025/", "note": "2025: 1,000 JPY online plus 165 JPY fee, 1,200 JPY same day, primary school age and under free."},
+    {"field": "sponsors", "url": "https://tokyoartbookfair.com/2025/", "note": "2025 特別協賛 Sigma; 協賛 Square, Tokyu, New Balance Japan, Bang & Olufsen Japan, BEAMS CULTUART, Hakko Bijutsu, Shiba Park Hotel; 協力 includes L PACK., Nordisk Japan, Blackmagic Design, Istituto Italiano di Cultura, DESIGNTIDE TOKYO, tokyobike."},
+    {"field": "sponsors", "url": "https://www.sigma-global.com/jp/news/2025/11/20/011960/", "note": "Sigma press release (20 Nov 2025): first time as main sponsor (特別協賛) of TABF 2025, and exhibiting. Google snippet."},
+    {"field": "sponsors", "url": "https://tokyoartbookfair.com/2024/partners/", "note": "Google snippet: 2024 協賛 includes New Balance Japan and BEAMS CULTUART."},
+    {"field": "activation_formats", "url": "https://www.instagram.com/p/DSO63PREfJl/", "note": "TABF Talent Award 2025: winners received Sigma BF cameras as supplementary prizes (副賞)."}
+  ],
+  "remove_gaps": [
+    "Last edition dates not captured",
+    "Official TABF website and organising body not captured",
+    "Visitor numbers, ticketing and sponsors not captured"
+  ],
+  "add_gaps": [
+    "Sponsors for the 16th edition (Jan 2027) not yet published",
+    "No organiser-reported visitor count for 2025"
+  ],
+  "notes": "Strong sponsor roster: Sigma main sponsor 2025, with New Balance Japan, Square, Tokyu, Bang & Olufsen, BEAMS CULTUART and others, so non-endemic lifestyle brands are accepted. Over 20,000 visitors per edition (organiser), over 25,000 in 2024 (press); audience mainly 20s to 30s. Contact info@tokyoartbookfair.com. Japan Travel's December 2026 window conflicts with the confirmed Jan 2027 dates; Jan 2027 is right per IG bio."
+}

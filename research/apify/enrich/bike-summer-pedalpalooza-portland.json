@@ -1,0 +1,24 @@
+{
+  "id": "bike-summer-pedalpalooza-portland",
+  "set": {
+    "ticket_price": {"min": 0, "max": null, "currency": "USD", "free_entry": true, "note": "Most rides are free; any ride with a fee must say so in its listing (Shift calendar FAQ)."},
+    "partnership_contact": {"email": "bikesummerPDX@gmail.com", "page_url": "https://www.shift2bikes.org/pages/bike-summer/", "named_person": null, "source": "https://www.shift2bikes.org/pages/bike-summer/"}
+  },
+  "add_sponsors": [
+    {"brand": "Umbrella (fiscal sponsor)", "years": [2026], "role": "partner", "source": "https://www.shift2bikes.org/"},
+    {"brand": "RiseUp", "years": [2026], "role": "partner", "source": "https://www.shift2bikes.org/"},
+    {"brand": "Bike Loud PDX", "years": [2026], "role": "partner", "source": "https://www.shift2bikes.org/"},
+    {"brand": "Travel Portland", "years": [2026], "role": "partner", "source": "https://everout.com/portland/events/bike-summer-2026/e238813/"}
+  ],
+  "add_activation_formats": ["stage-or-program-takeover"],
+  "add_sources": [
+    {"field": "ticket_price", "url": "https://www.shift2bikes.org/pages/calendar-faq/", "note": "Calendar FAQ: 'Most events are free. If there's a fee, it has to be listed in the description.' Bike Summer page: 'hundreds of volunteer-organized free bike events'."},
+    {"field": "partnership_contact", "url": "https://www.shift2bikes.org/pages/bike-summer/", "note": "Bike Summer page Contact section lists bikesummerPDX@gmail.com, Instagram @pedalpaloozapdx and Bluesky. Shift is volunteer-run with a 6-person board (board@shift2bikes.org on the contact page)."},
+    {"field": "sponsors", "url": "https://www.shift2bikes.org/", "note": "Google snippet of Shift homepage: 'Our Sponsors. Umbrella; RiseUp; Bike Loud PDX; You.' These back Shift, which runs Bike Summer; Umbrella is Shift's fiscal sponsor. Not commercial brand sponsors."},
+    {"field": "sponsors", "url": "https://everout.com/portland/events/bike-summer-2026/e238813/", "note": "EverOut Bike Summer 2026 listing (Google snippet) includes 'Pride Ride presented by Travel Portland. Friday, July 17'. A single ride within the festival, not the whole event."},
+    {"field": "activation_formats", "url": "https://everout.com/portland/events/bike-summer-2026/e238813/", "note": "Brand-presented ride inside the program (Travel Portland Pride Ride, 2026)."}
+  ],
+  "add_gaps": ["No commercial sponsors for the festival as a whole; individual rides are run by volunteers and some carry their own presenting partner", "Attendance not published; press only says thousands join the kickoff ride"],
+  "remove_gaps": ["Sponsors and partnership approach not captured"],
+  "notes": "Bike Summer is a free, volunteer-led calendar of hundreds of rides; Shift only promotes them. No brand sponsor for the festival; the route in is presenting an individual ride (Travel Portland did a Pride Ride in 2026). bike-summer.org is also linked as a festival site. IG @pedalpaloozapdx is correct."
+}

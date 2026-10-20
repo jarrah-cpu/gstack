@@ -1,0 +1,46 @@
+{
+  "id": "ima-zine-fair-brisbane",
+  "set": {
+    "organiser": {
+      "name": "Institute of Modern Art (IMA)",
+      "type": "non-profit",
+      "website": "https://www.ima.org.au/"
+    },
+    "partnership_contact": {
+      "email": "ima@ima.org.au",
+      "page_url": "https://www.ima.org.au/ima-events/zine-fair/",
+      "named_person": null,
+      "source": "https://www.ima.org.au/ima-events/zine-fair/"
+    }
+  },
+  "add_sources": [
+    {
+      "field": "organiser",
+      "url": "https://www.ima.org.au/about/",
+      "note": "About page: founded 1975; 'The IMA is a registered charity and membership organisation'."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.ima.org.au/ima-events/zine-fair/",
+      "note": "Zine Fair page (2026) gives ima@ima.org.au as the contact; general enquiries only."
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://www.ima.org.au/ima-events/zine-fair/",
+      "note": "Zine Fair 13 June 2026, 10am to 3pm, Free."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.ima.org.au/ima-events/zine-fair/",
+      "note": "Zine Fair page lists no event-specific presenters or sponsors; Principal Funders and Partners sections cover the IMA as a whole."
+    }
+  ],
+  "remove_gaps": [
+    "No public partnerships contact found"
+  ],
+  "add_gaps": [
+    "No event-specific sponsors; IMA funders (Arts Queensland, Creative Australia) support the organisation as a whole",
+    "Contact is the IMA general inbox; no partnerships contact published"
+  ],
+  "notes": "Small free one-day zine fair run by the IMA (registered charity). No sponsors for the fair itself; IMA-level funders not added as event sponsors. Instagram is the IMA's own account (organiser), not an event account."
+}

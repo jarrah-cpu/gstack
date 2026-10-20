@@ -1,0 +1,323 @@
+{
+  "id": "byron-bay-malibu-classic",
+  "set": {
+    "partnership_contact": {
+      "email": "byronbaymalibuclub@gmail.com",
+      "page_url": "https://byronbaymalibuclub.org/contact",
+      "named_person": "Chris Stevens (Sponsorship Coordinator, club committee list)",
+      "source": "https://byronbaymalibuclub.org/contact"
+    },
+    "audience": {
+      "age_range": null,
+      "gender_skew": null,
+      "psychographics": "Traditional single-fin longboard community (9ft and over Malibus only). Competitors come from up and down the East Coast with a regular New Zealand contingent, plus families and spectators; divisions run up to over 80s, with a kids' Future Legends session. Money raised goes to local charities.",
+      "source": "https://byronbaymalibuclub.org/the-classic"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Ezriderz eBikes",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/DW2o7XmkyRF/"
+    },
+    {
+      "brand": "Traeger Grills Australia",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/DW2o7XmkyRF/"
+    },
+    {
+      "brand": "Byron Palms Guesthouse and Spa",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/DW2o7XmkyRF/"
+    },
+    {
+      "brand": "Club Byron (Byron bowling club, @clubbyronbowlo)",
+      "years": [
+        2026
+      ],
+      "role": "venue",
+      "source": "https://www.instagram.com/p/DW2rHNMkzW0/"
+    },
+    {
+      "brand": "Munro and Sons (surfboards)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DW2rHNMkzW0/"
+    },
+    {
+      "brand": "Byron Bay Property Sales",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DW2rHNMkzW0/"
+    },
+    {
+      "brand": "Byron Bay Dive Centre",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DW2rHNMkzW0/"
+    },
+    {
+      "brand": "Lennox Gelato Coffee Co",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DW2rHNMkzW0/"
+    },
+    {
+      "brand": "Trevor Mead Quality Meats",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DUcIUxZk3z4/"
+    },
+    {
+      "brand": "Balloon Aloft Byron Bay",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DW2rHNMkzW0/"
+    },
+    {
+      "brand": "Byron Bay Weddings",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DW2rHNMkzW0/"
+    },
+    {
+      "brand": "Fig Tree Restaurant",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DW2rHNMkzW0/"
+    },
+    {
+      "brand": "McTavish Surfboards",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DW2rHNMkzW0/"
+    },
+    {
+      "brand": "Old Mill Timberyard",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DW2rHNMkzW0/"
+    },
+    {
+      "brand": "Sunee Co (@sunee_co)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DW2rHNMkzW0/"
+    },
+    {
+      "brand": "O'Meara Didgeridoos",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DW2rHNMkzW0/"
+    },
+    {
+      "brand": "PMD Byron (@pmdbyron)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DW2rHNMkzW0/"
+    },
+    {
+      "brand": "Golden Breed",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DW2rHNMkzW0/"
+    },
+    {
+      "brand": "Stoked Surf Adventures",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DW2rHNMkzW0/"
+    },
+    {
+      "brand": "Bennett Surfboards",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DW2rHNMkzW0/"
+    },
+    {
+      "brand": "Cunning Stunts Events",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DW2rHNMkzW0/"
+    },
+    {
+      "brand": "Okanui Classics",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DW2rHNMkzW0/"
+    },
+    {
+      "brand": "Yoflo (@yoflo)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DW2rHNMkzW0/"
+    },
+    {
+      "brand": "In The Pink Gelato",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DW2rHNMkzW0/"
+    },
+    {
+      "brand": "Ozymex",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DW2rHNMkzW0/"
+    },
+    {
+      "brand": "Byron Corner Store",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DW2rHNMkzW0/"
+    },
+    {
+      "brand": "Cape Byron Kayaks",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DW2rHNMkzW0/"
+    },
+    {
+      "brand": "Three Blue Ducks",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DW2rHNMkzW0/"
+    },
+    {
+      "brand": "Byron Cello (@byroncello)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DW2rHNMkzW0/"
+    },
+    {
+      "brand": "Porky's Byron Bay",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DW2rHNMkzW0/"
+    }
+  ],
+  "add_activation_formats": [
+    "competition-or-prize"
+  ],
+  "add_sources": [
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DW2rHNMkzW0/",
+      "note": "@byronbaymalibuclub post (8 Apr 2026): 'Thanks to all this years sponsors' then tags the 2026 sponsors and, separately, 'our prize donors'. Prize donors (Cunning Stunts Events, Okanui Classics, Yoflo, In The Pink Gelato, Ozymex, Byron Corner Store, Cape Byron Kayaks, Three Blue Ducks, Byron Cello, Porky's) recorded as partner. @connolly47 also tagged but not identified, so not added."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DW2o7XmkyRF/",
+      "note": "Post (8 Apr 2026): 'Great prizes from some of our major sponsors raffle drawn at our presentation night @clubbyronbowlo' tagging Ezriderz eBikes, Traeger Grills and Byron Palms Guesthouse."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DUcIUxZk3z4/",
+      "note": "Post (7 Feb 2026): Trevor Meads Quality Meats 'long term sponsors of the Byron Bay Malibu Club and of course the Malibu Classic'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DWS1WREE-g_/",
+      "note": "Post (25 Mar 2026): Brett (Munro and Sons, local independent shaper) donates a competitor's board every year."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://byronbaymalibuclub.org/contact",
+      "note": "Contact page lists byronbaymalibuclub@gmail.com (general club email)."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://byronbaymalibuclub.org/about-1",
+      "note": "Committee list names Sponsorship Coordinator Chris Stevens; the same page refers to the 2023 Classic, so the list may be dated."
+    },
+    {
+      "field": "audience",
+      "url": "https://byronbaymalibuclub.org/the-classic",
+      "note": "Official page: single fin only 9ft and over; competitors from up and down the East Coast and regularly a New Zealand contingent; first held 1980."
+    },
+    {
+      "field": "audience",
+      "url": "https://www.instagram.com/p/DXwJQd0E1_e/",
+      "note": "Post (30 Apr 2026): over 80s division in the 2026 Classic."
+    },
+    {
+      "field": "dates",
+      "url": "https://byronbaymalibuclub.org/the-classic",
+      "note": "Official page dates the 2026 Classic 18 and 19 April 2026 at Wategos; 2023 edition was 29 and 30 April (About page), so April is the current pattern."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/DW2o7XmkyRF/",
+      "note": "Sponsors supply raffle prizes and a competitors' board giveaway drawn at the presentation night."
+    }
+  ],
+  "add_gaps": [
+    "Spectator numbers not published; only competitor counts ('over 150 competitors' on the club About page for 2023, Echo March 2025)",
+    "Sponsor tiers beyond the three 'major sponsors' not published"
+  ],
+  "remove_gaps": [
+    "Sources disagree on April versus May timing",
+    "Entrant numbers, sponsors and spectator figures not found"
+  ],
+  "notes": "30 sponsors and prize donors added from the club's 2026 thank-you posts; mostly local Byron businesses plus surf brands (McTavish, Golden Breed, Bennett, Okanui). Official page confirms April timing. Competitor count (over 150) kept as a gap, not attendance. @surf.shell tagged after the artwork credit, so not added."
+}

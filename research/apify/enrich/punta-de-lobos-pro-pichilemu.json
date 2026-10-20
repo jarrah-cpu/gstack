@@ -1,0 +1,126 @@
+{
+ "id": "punta-de-lobos-pro-pichilemu",
+ "set": {
+  "organiser": {
+   "name": "Club de Surf Punta de Lobos (gestor), produced by Surfbeats Radio and TLC Company Producciones, with Surfestival; 3rd date of the FECHSURF national circuit",
+   "type": "non-profit",
+   "website": null
+  }
+ },
+ "add_sponsors": [
+  {
+   "brand": "Santander Chile",
+   "years": [
+    2026
+   ],
+   "role": "presenting",
+   "source": "https://www.instagram.com/p/DTVqcryEcVt/"
+  },
+  {
+   "brand": "Cerveza Royal Guard",
+   "years": [
+    2026
+   ],
+   "role": "major",
+   "source": "https://www.instagram.com/p/DTVqcryEcVt/"
+  },
+  {
+   "brand": "Suzuki Chile",
+   "years": [
+    2026
+   ],
+   "role": "partner",
+   "source": "https://www.instagram.com/p/DTVqcryEcVt/"
+  },
+  {
+   "brand": "Los Lobos Records",
+   "years": [
+    2026
+   ],
+   "role": "partner",
+   "source": "https://www.instagram.com/p/DTVqcryEcVt/"
+  },
+  {
+   "brand": "Schweppes Chile",
+   "years": [
+    2026
+   ],
+   "role": "partner",
+   "source": "https://www.instagram.com/p/DTVqcryEcVt/"
+  },
+  {
+   "brand": "Marley Coffee Chile",
+   "years": [
+    2026
+   ],
+   "role": "partner",
+   "source": "https://www.instagram.com/p/DTVqcryEcVt/"
+  },
+  {
+   "brand": "Red Bull Chile",
+   "years": [
+    2026
+   ],
+   "role": "collab",
+   "source": "https://www.instagram.com/p/DTVqcryEcVt/"
+  },
+  {
+   "brand": "Stoked Chile",
+   "years": [
+    2026
+   ],
+   "role": "collab",
+   "source": "https://www.instagram.com/p/DTVqcryEcVt/"
+  },
+  {
+   "brand": "Latinwave",
+   "years": [
+    2026
+   ],
+   "role": "media",
+   "source": "https://www.instagram.com/p/DTVqcryEcVt/"
+  },
+  {
+   "brand": "Ilustre Municipalidad de Pichilemu",
+   "years": [
+    2025
+   ],
+   "role": "government",
+   "source": "https://chile.as.com/deportes_aventura/pichilemu-esta-de-fiesta-asi-fue-el-dia-inaugural-del-punta-de-lobos-pro-by-surfestival-n/"
+  }
+ ],
+ "add_activation_formats": [
+  "content-series"
+ ],
+ "add_sources": [
+  {
+   "field": "organiser",
+   "url": "https://www.instagram.com/p/DTVqcryEcVt/",
+   "note": "Credit: 'Producen: @surbeatsradiocom @tlccompany_producciones; Gestor: @clubsurfpuntadelobos'; '3ra fecha del Circuito Chileno de Surf @fechsurf'; 'by Surfestival'."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://www.instagram.com/p/DTVqcryEcVt/",
+   "note": "2026 credit: 'Presenta: @santanderchile; Sponsor Oficial: @cervezaroyalguard; Invita: @suzukichile_; Auspician: @los.lobos.records @schweppes_cl @marleycoffee.chile; Colaboran: @redbullcl @stokedchile @fechsurf; Media: @latinwave.cl'."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://chile.as.com/deportes_aventura/pichilemu-esta-de-fiesta-asi-fue-el-dia-inaugural-del-punta-de-lobos-pro-by-surfestival-n/",
+   "note": "Google snippet: contest 'cuenta con el patrocinio de la Ilustre Municipalidad de Pichilemu y el Club de Surf Punta de Lobos' (inaugural circuit stage, 2025)."
+  },
+  {
+   "field": "activation_formats",
+   "url": "https://www.instagram.com/p/DTVqcryEcVt/",
+   "note": "Live broadcast on the 'Pichilemu Pro' YouTube channel; CLP 3,000,000 prize purse."
+  }
+ ],
+ "add_gaps": [
+  "Attendance and website not captured",
+  "2025 municipal sponsorship year inferred from 'etapa inaugural' coverage"
+ ],
+ "remove_gaps": [
+  "Federation name inferred from 'circuito nacional de surf federado'; confirm organiser",
+  "Sponsors, attendance, website and Instagram not captured"
+ ],
+ "notes": "Federated surf contest run by the local surf club and the Surfestival production team; shares Surfestival's sponsor stack (Santander presenting, Royal Guard, Suzuki, Marley Coffee, Red Bull). Small spectator event; best approached as part of a Surfestival package."
+}

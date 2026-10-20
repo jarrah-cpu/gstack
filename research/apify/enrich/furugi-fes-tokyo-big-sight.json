@@ -1,0 +1,115 @@
+{
+  "id": "furugi-fes-tokyo-big-sight",
+  "set": {
+    "attendance": {
+      "figure": 10000,
+      "figure_high": null,
+      "year": 2026,
+      "is_estimate": false,
+      "source": "https://furugi-fes.com/",
+      "note": "Organiser-reported 'about 10,000 visitors' and about 300 shops at the previous edition, shown on the 15 Nov 2026 site; IG confirms the previous edition was June 2026."
+    },
+    "audience": {
+      "age_range": "mostly teens and 20s",
+      "gender_skew": "male-leaning",
+      "psychographics": "Vintage clothing shoppers and resellers on a treasure hunt across 300+ shop booths; Fashionsnap (2024) reports visitors are mostly men in their teens and 20s.",
+      "source": "https://www.fashionsnap.com/article/2024-07-02/furugi-fes/"
+    },
+    "organiser": {
+      "name": "AND BUYER (一般社団法人AND BUYER, general incorporated association)",
+      "type": "other",
+      "website": "https://andbuyer.or.jp/furugifestival/"
+    },
+    "ticket_price": {
+      "min": 500,
+      "max": 1000,
+      "currency": "JPY",
+      "free_entry": false,
+      "note": "15 Nov 2026: advance JPY 500, door JPY 700, 9am early entry JPY 1,000, advance pair JPY 900 (door pair JPY 1,200)."
+    },
+    "dates": {
+      "last_edition": {
+        "start": "2026-06-14",
+        "end": "2026-06-14",
+        "status": "held",
+        "label": "Furugi Fes with ZOZOUSED (Jun 2026)"
+      },
+      "next_edition": {
+        "start": "2026-11-15",
+        "end": "2026-11-15",
+        "status": "confirmed",
+        "label": "13th edition: Furugi Fes with ZOZOUSED, 15 Nov 2026"
+      },
+      "frequency": "irregular",
+      "duration_days": 1
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "ZOZOUSED",
+      "years": [
+        2026
+      ],
+      "role": "naming",
+      "source": "https://prtimes.jp/main/html/rd/p/000000025.000044565.html"
+    },
+    {
+      "brand": "WEGO VINTAGE",
+      "years": [],
+      "role": "vendor-or-stall",
+      "source": "https://furugi-fes.com/"
+    }
+  ],
+  "add_sources": [
+    {
+      "field": "attendance",
+      "url": "https://furugi-fes.com/",
+      "note": "Site for 15 Nov 2026: '10,000 VISITORS / 前回' and about 300 shops at the previous edition."
+    },
+    {
+      "field": "attendance",
+      "url": "https://www.instagram.com/p/DeRNVC3TdcH/",
+      "note": "@furugi_festival post refers to '前回6月に開催された古着フェス' (the previous edition, held in June)."
+    },
+    {
+      "field": "audience",
+      "url": "https://www.fashionsnap.com/article/2024-07-02/furugi-fes/",
+      "note": "Google snippet: '来場者は10、20代の男性が多い' (visitors are mostly men in their teens and 20s), June 2024 edition."
+    },
+    {
+      "field": "organiser",
+      "url": "https://furugi-fes.com/",
+      "note": "Footer and hero alt text: ORGANIZER 一般社団法人AND BUYER; 主催 AND BUYER, 協賛 ZOZOUSED; 'FURUGI FESTIVAL PRESENTED BY AND BUYER'."
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://furugi-fes.com/",
+      "note": "Ticket section: advance JPY 500 (door JPY 700), early entry JPY 1,000, pair JPY 900 advance or JPY 1,200 at the door."
+    },
+    {
+      "field": "dates",
+      "url": "https://www.instagram.com/p/DeOwIeFza9f/",
+      "note": "@furugi_festival (8 Oct 2026): 15 Nov 2026 at Tokyo Big Sight East Halls 1 and 2 is the 13th edition ('今回で13回目')."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://prtimes.jp/main/html/rd/p/000000025.000044565.html",
+      "note": "Google snippet: And Buyer release (15 Oct 2026) for 'Furugi Fes with ZOZOUSED', ZOZOUSED as sponsor (協賛)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://furugi-fes.com/",
+      "note": "Gallery alt text shows a WEGO VINTAGE booth at a past edition (year not stated)."
+    }
+  ],
+  "add_gaps": [
+    "Editions 11 and 12 fall between Jan and Nov 2026 but only the June 2026 edition is dated",
+    "No sponsorship or partnership contact published (exhibitor applications only)"
+  ],
+  "remove_gaps": [
+    "Edition numbering unclear: Jan 2026 was the 10th; sources disagree on whether the 11th was June or is November 2026",
+    "Year of the 10,000-visitor figure not stated",
+    "Organiser's legal name and type not confirmed"
+  ],
+  "notes": "ZOZOUSED is title sponsor for both June and Nov 2026; Rakuten Rakuma was title sponsor in Jan 2026 (existing). Nov 2026 is the 13th edition per IG. Organiser AND BUYER is a 一般社団法人 (type set to other). Audience skew from Fashionsnap snippet only."
+}

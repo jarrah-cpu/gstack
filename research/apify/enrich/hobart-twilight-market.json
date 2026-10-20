@@ -1,0 +1,170 @@
+{
+  "id": "hobart-twilight-market",
+  "set": {
+    "dates": {
+      "last_edition": {
+        "start": "2026-10-16",
+        "end": "2026-10-16",
+        "status": "held",
+        "label": "Brooke Street Pier Friday session (special replacement market)"
+      },
+      "next_edition": {
+        "start": "2026-10-23",
+        "end": "2026-10-23",
+        "status": "confirmed",
+        "label": "Brooke Street Pier Friday session, 4.30pm to 9pm"
+      },
+      "frequency": "weekly",
+      "duration_days": 1
+    },
+    "partnership_contact": {
+      "email": "hobarttwilightmarket@gmail.com",
+      "page_url": "https://hobarttwilightmarket.com.au/#contact",
+      "named_person": null,
+      "source": "https://hobarttwilightmarket.com.au/"
+    },
+    "audience": {
+      "age_range": null,
+      "gender_skew": null,
+      "psychographics": "Family and dog-friendly Friday night crowd of locals and visitors on Hobart's waterfront; Tasmanian food, small-batch drinks, design stalls and live local music.",
+      "source": "https://hobarttwilightmarket.com.au/"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Harcourts Hobart",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/DZJ1by3SkIf/"
+    },
+    {
+      "brand": "TasPorts",
+      "years": [
+        2023,
+        2026
+      ],
+      "role": "partner",
+      "source": "https://hobarttwilightmarket.com.au/"
+    },
+    {
+      "brand": "Hobart Airport",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://hobarttwilightmarket.com.au/"
+    },
+    {
+      "brand": "Triple M Hobart",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://hobarttwilightmarket.com.au/"
+    },
+    {
+      "brand": "Apple Isle Wine Tours",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://hobarttwilightmarket.com.au/"
+    },
+    {
+      "brand": "Tassal",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DYcEG2EyiX_/"
+    },
+    {
+      "brand": "Brooke Street Pier",
+      "years": [
+        2026
+      ],
+      "role": "venue",
+      "source": "https://www.instagram.com/p/DYcEG2EyiX_/"
+    }
+  ],
+  "add_activation_formats": [
+    "stage-or-program-takeover"
+  ],
+  "add_sources": [
+    {
+      "field": "dates.frequency",
+      "url": "https://hobarttwilightmarket.com.au/",
+      "note": "Season schedule: every Friday 4.30pm to 9pm, alternating Long Beach Sandy Bay (2, 9 Oct, 6, 13 Nov, 4 Dec 2026) and Brooke St Pier (16, 23, 30 Oct, 20, 27 Nov, 11, 18 Dec 2026); Sunday pop-up series at Long Beach (27 Sep 2026)"
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.instagram.com/hobarttwilightmarket/",
+      "note": "IG bio (scraped 20 Oct 2026): Brooke Street Pier Fri 23 Oct 4.30pm to 9pm; Sandy Bay Fri 6 Nov; Sandy Bay Sunday series back in 2027"
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.facebook.com/HobartTwilightMarket/posts/-replacement-market-were-back-with-a-special-replacement-market-on-friday-16-oct/1573329358168807/",
+      "note": "Google snippet: special replacement market Fri 16 Oct, major sponsor Harcourts Hobart, general sponsors include Triple M Hobart"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://hobarttwilightmarket.com.au/",
+      "note": "Homepage sponsor logos: TasPorts, Apple Isle Wine Tours, Triple M Hobart, Hobart Airport, Harcourts"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DZJ1by3SkIf/",
+      "note": "4 Jun 2026: confirms continued support of Harcourts Hobart as major sponsor; long-standing partnership"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DYcEG2EyiX_/",
+      "note": "17 May 2026: supported by Harcourts Hobart, Triple M Hobart, Hobart Airport, Tassal, TasPorts, Apple Isle Wine Tours, Brooke Street Pier"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DZkDS6BS8tQ/",
+      "note": "14 Jun 2026: major sponsor Harcourts Hobart, plus Hobart Airport, Triple M Hobart, Apple Isle Wine Tours"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://tasports.com.au/news/htm-partnership",
+      "note": "11 Jan 2023: TasPorts partnership with the market at Brooke Street Pier forecourt continues for another year"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://hobartairport.com.au/community/",
+      "note": "Google snippet: Hobart Airport proud to support Hobart Twilight Market and Tasmanian Produce Market"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DaCq0FcyyNI/",
+      "note": "26 Jun 2026: crew beanies provided by sponsor Hobart Airport"
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://southerntasmania.com.au/media-release/antarctica-comes-to-hobarts-popular-twilight-market/",
+      "note": "Google snippet: market turned Antarctic for one night (21 Aug 2026) with themed food, stalls and activities"
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://hobarttwilightmarket.com.au/",
+      "note": "General contact email on homepage; no sponsorship page"
+    },
+    {
+      "field": "audience",
+      "url": "https://hobarttwilightmarket.com.au/",
+      "note": "About text: family and dog friendly, local food, small-batch drinks, design stalls, live local music"
+    }
+  ],
+  "remove_gaps": [
+    "Frequency unclear: listings say both weekly-style Fridays and monthly",
+    "Long Beach day of week conflicts (Friday or Sunday)"
+  ],
+  "add_gaps": [
+    "Audience age and gender not published"
+  ],
+  "notes": "Sponsor stack confirmed from homepage logos and IG: Harcourts Hobart major, plus TasPorts, Hobart Airport, Triple M, Apple Isle Wine Tours, Tassal. Market runs every Friday alternating Brooke St Pier and Long Beach, plus a Sunday pop-up series; frequency changed to weekly. United Security (security) and stallholders excluded. A LinkedIn snippet names Justin Davies as business owner; organiser left unset."
+}

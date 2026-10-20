@@ -1,0 +1,65 @@
+{
+  "id": "defected-byron-bay",
+  "set": {
+    "website": "https://defected.com/events",
+    "organiser": {
+      "name": "Defected Records (event brand), promoted by One Hit Agency with The Beach Hotel",
+      "type": "brand-owned",
+      "website": "https://defected.com/"
+    },
+    "audience": {
+      "age_range": "18+ (event age restriction)",
+      "gender_skew": null,
+      "psychographics": "House music crowd drawn by a global label party (Sam Divine, Nick Curly, Murphy's Law) at Byron's biggest beachfront pub",
+      "source": "https://www.moshtix.com.au/v2/event/defected-byron-bay-2026/198282"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "The Beach Hotel Byron Bay",
+      "years": [
+        2026
+      ],
+      "role": "venue",
+      "source": "https://www.moshtix.com.au/v2/event/defected-byron-bay-2026/198282"
+    }
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://defected.com/events",
+      "note": "Defected's official events page lists 'Defected Byron Bay, Beach Hotel, AUS' with Sam Divine, Nick Curly and Murphy's Law (Google snippet)."
+    },
+    {
+      "field": "organiser",
+      "url": "https://www.moshtix.com.au/v2/event/defected-byron-bay-2026/198282",
+      "note": "Moshtix: 'One Hit Agency & The Beach Hotel present: Defected Byron Bay 2026', 6pm Sun 13 Dec 2026 (Google snippet)."
+    },
+    {
+      "field": "audience",
+      "url": "https://www.moshtix.com.au/v2/event/defected-byron-bay-2026/198282",
+      "note": "Moshtix: 'You need to be 18+ to attend this event' (Google snippet)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.moshtix.com.au/v2/event/defected-byron-bay-2026/198282",
+      "note": "The Beach Hotel co-presents and hosts the event."
+    },
+    {
+      "field": "dates",
+      "url": "https://www.facebook.com/beach.hotel.byron.bay/posts/defected-makes-its-byron-bay-debut-at-beach-hotel-on-sunday-december-13-featurin/1519963416829654/",
+      "note": "Beach Hotel post: 'Defected makes its Byron Bay debut at Beach Hotel on Sunday December 13' (Google snippet), so 2026 is billed as the first Byron edition."
+    }
+  ],
+  "add_gaps": [
+    "A Beach Hotel IG post tagged #defectedbyronbay ('Winter made better', https://www.instagram.com/p/DLJQ0PONI9z/) may point to an earlier winter Defected night, which conflicts with the 'debut' billing",
+    "No brand sponsors found beyond the venue; no Defected or Byron IG account scraped for this event",
+    "Ticket prices and capacity not found"
+  ],
+  "remove_gaps": [
+    "Only a ticketing listing confirms the date; no official Defected announcement found",
+    "Prices, capacity and partners not found"
+  ],
+  "notes": "Thin evidence: no IG or site crawl. One-night Defected label party (13 Dec 2026) promoted by One Hit Agency with The Beach Hotel; billed as Defected's Byron debut. Low partnership fit: label-owned club night with no third-party sponsors visible."
+}

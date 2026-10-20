@@ -1,0 +1,67 @@
+{
+  "id": "strawberry-fields-tocumwal",
+  "set": {
+    "attendance": {
+      "figure": 15000,
+      "figure_high": null,
+      "year": null,
+      "is_estimate": false,
+      "source": "https://www.strawberry-fields.com.au/about-us",
+      "note": "Organiser-reported: festival 'has now grown to attract 15,000 patrons' (About page, year not stated). Southern Riverina News reported 'about 15,000 people' at a record-breaking edition (Google snippet, year unknown). The FestivalMates 5,000 capacity figure looks outdated."
+    },
+    "dates": {
+      "last_edition": {"start": "2025-11", "end": null, "status": "held", "label": "SF25 (included Sat 22 Nov 2025)"},
+      "next_edition": {"start": "2026-11-20", "end": "2026-11-22", "status": "confirmed", "label": "2026"},
+      "frequency": "annual",
+      "duration_days": 3
+    },
+    "partnership_contact": {
+      "email": "Marketing@strawberry-fields.com.au",
+      "page_url": "https://www.strawberry-fields.com.au/contact",
+      "named_person": null,
+      "source": "https://www.strawberry-fields.com.au/contact"
+    },
+    "ticket_price": {
+      "min": null,
+      "max": null,
+      "currency": "AUD",
+      "free_entry": false,
+      "note": "SF26 tickets via Humanitix: ballot, then a limited public sale on 8 Jul 2026; festival tickets sold out in early July 2026; official resale on Humanitix. Glamping, vehicle and bus passes sold separately. Prices not captured."
+    }
+  },
+  "add_sponsors": [
+    {"brand": "PBS 106.7FM", "years": [2025, 2026], "role": "media", "source": "https://www.instagram.com/p/DbnKNOVktsc/"},
+    {"brand": "Treecreds", "years": [2025, 2026], "role": "partner", "source": "https://www.instagram.com/p/DQf8lAnkrFh/"},
+    {"brand": "Humanitix", "years": [2025, 2026], "role": "partner", "source": "https://www.instagram.com/p/DRjYWt-EhYs/"},
+    {"brand": "Setline", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DaoblroEpPy/"},
+    {"brand": "In The Moment (radio)", "years": [2026], "role": "media", "source": "https://www.instagram.com/p/Ddi5PoZyRwi/"}
+  ],
+  "add_activation_formats": ["competition-or-prize", "stage-or-program-takeover"],
+  "add_sources": [
+    {"field": "attendance", "url": "https://www.strawberry-fields.com.au/about-us", "note": "Crawled About page: founded 2009 with under 1,000 at the first event; 'has now grown to attract 15,000 patrons from across the globe'."},
+    {"field": "attendance", "url": "https://www.southernriverinanews.com.au/news/another-record-breaking-festival/", "note": "Google snippet: 'record-breaking attendance. Over three days, about 15,000 people'. Year not shown."},
+    {"field": "dates.last_edition", "url": "https://www.instagram.com/p/DPlMFvREosX/", "note": "Organiser post Oct 2025 (#SF25): PBS competition winner 'opening the Grove Stage on Saturday 22nd November'."},
+    {"field": "dates.frequency", "url": "https://ra.co/events/2192336", "note": "Google snippet: 'an annual celebration of art, sound and creative expression held for three days each November'."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DbnKNOVktsc/", "note": "Aug 2026: 'Our Live Music Competition in partnership with @pbsfm is back for 2026'; prize includes a PBS on-air campaign worth $550. 2025 winner announced on DPlMFvREosX."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DQf8lAnkrFh/", "note": "Nov 2025: 'proud sustainability partners with @treecreds since 2012', offsetting 100% of audience and artist travel emissions. 2026 ticket giveaway with a Treecreds offset package on DcLLgjySJwx."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DRjYWt-EhYs/", "note": "Collab post Nov 2025: 'By partnering with @humanitix since 2021', over $300,000 donated; official resale on Humanitix in 2026."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DaoblroEpPy/", "note": "Jul 2026: '@setlineapp is the official app for Strawberry Fields 2026'."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/Ddi5PoZyRwi/", "note": "Sep 2026: new Bazaar Stage 'Presented by @inthemoment_radio and powered by @tribe_soundsystem'."},
+    {"field": "activation_formats", "url": "https://www.instagram.com/p/DcLLgjySJwx/", "note": "Treecreds ticket giveaway and PBS live act competition (competition-or-prize); In The Moment presents the Bazaar Stage (stage-or-program-takeover)."},
+    {"field": "partnership_contact", "url": "https://www.strawberry-fields.com.au/contact", "note": "Contact page lists 'Media / Marketing - Marketing@strawberry-fields.com.au'; general info@strawberry-fields.com.au."},
+    {"field": "ticket_price", "url": "https://www.instagram.com/p/DagsuMeEu69/", "note": "Jul 2026: 'Strawberry Fields Festival Tickets are officially SOLD OUT'; Humanitix resale to follow."}
+  ],
+  "remove_gaps": [
+    "Sources disagree on scale: 15,000 attendees (NSW Government listing) against 5,000 capacity (FestivalMates)",
+    "Last edition dates and frequency not confirmed in this pass",
+    "No public partnerships contact found",
+    "Organiser, ticket prices and partners not found"
+  ],
+  "add_gaps": [
+    "Organiser entity and ticket prices not found (founded 2009 by three people, not named)",
+    "SF25 start and end dates not captured (Sat 22 Nov 2025 confirmed)",
+    "Year of the 15,000 attendance figure not stated",
+    "Audience demographics not published"
+  ],
+  "notes": "Media/marketing email found. Partners are mission-led rather than big-brand (PBS, Treecreds carbon offsets, Humanitix charity ticketing, Setline app). The site has a Bush Spa and workshop program, a natural fit for a wellness activation. Mixmag ANZ co-authored the 2026 lineup post (media tie not confirmed). Site is in NSW, near the Victorian border."
+}

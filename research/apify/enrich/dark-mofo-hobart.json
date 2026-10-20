@@ -1,0 +1,79 @@
+{
+  "id": "dark-mofo-hobart",
+  "set": {
+    "attendance": {
+      "figure": 119196,
+      "figure_high": null,
+      "year": 2025,
+      "is_estimate": false,
+      "source": "https://www.abc.net.au/news/2025-11-03/dark-mofo-announces-2026-dates-interstate-visitor-numbers-drop/105964376",
+      "note": "Unique attendance for 2025 from an ABC News table (3 Nov 2025), up from 116,643 in 2023; interstate attendance 49,298 (2025) vs 52,045 (2023). Table not directly attributed to Mona; the artistic director is quoted on interstate numbers."
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Spirit of Tasmania",
+      "years": [
+        2026
+      ],
+      "role": "venue",
+      "source": "https://www.instagram.com/p/DZeYG3mjXS9/"
+    },
+    {
+      "brand": "TasPorts",
+      "years": [
+        2026
+      ],
+      "role": "venue",
+      "source": "https://www.instagram.com/p/DZeYG3mjXS9/"
+    },
+    {
+      "brand": "City of Hobart",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.instagram.com/p/DZb73phB8hF/"
+    },
+    {
+      "brand": "Red Bull",
+      "years": [
+        2015
+      ],
+      "role": "partner",
+      "source": "https://www.scribd.com/document/919765649/Dark-Mofo-2015-Program"
+    }
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {
+      "field": "attendance",
+      "url": "https://www.abc.net.au/news/2025-11-03/dark-mofo-announces-2026-dates-interstate-visitor-numbers-drop/105964376",
+      "note": "'119,196 people attended the festival in 2025', up from 116,643 in 2023; state government investing $21.6m through to 2027"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DZeYG3mjXS9/",
+      "note": "Dark Park on the River Derwent: 'With thanks to our venue partners Spirit of Tasmania + TasPorts' (12 Jun 2026)"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DZb73phB8hF/",
+      "note": "Google snippet of a third-party (real estate agency) post: Hobart City Council 'has committed to a three-year partnership with Dark Mofo'. City of Hobart also tagged in Dark Mofo 2026 posts"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.scribd.com/document/919765649/Dark-Mofo-2015-Program",
+      "note": "Google snippet of the 2015 program: a work 'Presented by Dark Mofo and Red Bull'; City of Hobart listed as a program partner for Winter Feast"
+    }
+  ],
+  "add_gaps": [
+    "2026 attendance not captured",
+    "Commercial partner roster still not captured: darkmofo.net.au is script-rendered and showed no partner list"
+  ],
+  "remove_gaps": [
+    "Attendance not captured in search results",
+    "Commercial sponsor roster not captured; only government funding and an undated pitt&sherry sponsorship found"
+  ],
+  "notes": "2025 unique attendance 119,196 (ABC). Only venue partners (Spirit of Tasmania, TasPorts) confirmed for 2026; City of Hobart three-year deal rests on a third-party snippet. Red Bull co-presented a work in 2015. IG bio says 'June 2027'."
+}

@@ -1,0 +1,55 @@
+{
+  "id": "paredes-de-coura",
+  "set": {
+    "website": "https://www.vodafoneparedesdecoura.com/",
+    "attendance": {"figure": 115000, "figure_high": null, "year": 2026, "is_estimate": false, "source": "https://expresso.pt/blitz/noticias/2026-08-15-115-mil-pessoas-na-edicao-mais-politizada-de-sempre-com-o-amigo-seguro-e-sms-sentida-de-sobral-vodafone-paredes-de-coura-faz-o-balanco-b1a48111", "note": "Organiser closing balance at a press conference, reported by Expresso and SIC: 115,000 people across the 2026 edition (cumulative over the festival days; Google snippet)."},
+    "dates": {
+      "last_edition": {"start": "2026-08-12", "end": "2026-08-15", "status": "held", "label": "2026 (32nd edition)"},
+      "next_edition": {"start": "2027-08-18", "end": "2027-08-21", "status": "confirmed", "label": "2027"},
+      "frequency": "annual",
+      "duration_days": 4
+    }
+  },
+  "add_sponsors": [
+    {"brand": "Vodafone", "years": [2013, 2026], "role": "naming", "source": "https://www.vodafone.pt/en/press-releases/2012/11/vodafone-sponsors-and-lends-its-name-to-the-paredes-de-coura-festival.html"},
+    {"brand": "Pleno", "years": [2023, 2026], "role": "partner", "source": "https://www.instagram.com/p/DcEkg0IjXJA/"},
+    {"brand": "Cabriz", "years": [2023, 2026], "role": "partner", "source": "https://www.instagram.com/p/Db3CDKKDcmK/"},
+    {"brand": "Toyota Portugal", "years": [2023, 2026], "role": "partner", "source": "https://www.instagram.com/p/DcEcY_cjRas/"},
+    {"brand": "Canal180", "years": [2026], "role": "media", "source": "https://www.instagram.com/p/Db83TZbDe7J/"},
+    {"brand": "Super Bock", "years": [2023], "role": "partner", "source": "https://www.vodafoneparedesdecoura.com/sponsors/"},
+    {"brand": "Fidelidade", "years": [2023], "role": "partner", "source": "https://www.vodafoneparedesdecoura.com/sponsors/"},
+    {"brand": "Coca-Cola Europacific Partners", "years": [2023], "role": "partner", "source": "https://www.vodafoneparedesdecoura.com/sponsors/"},
+    {"brand": "Buondi (Nestlé)", "years": [2023], "role": "partner", "source": "https://www.vodafoneparedesdecoura.com/sponsors/"},
+    {"brand": "Somersby", "years": [2023], "role": "partner", "source": "https://www.vodafoneparedesdecoura.com/sponsors/"},
+    {"brand": "ERA Imobiliária", "years": [2023], "role": "partner", "source": "https://www.vodafoneparedesdecoura.com/sponsors/"},
+    {"brand": "Wook", "years": [2023], "role": "partner", "source": "https://www.vodafoneparedesdecoura.com/sponsors/"},
+    {"brand": "St. Petroni", "years": [2023], "role": "partner", "source": "https://www.vodafoneparedesdecoura.com/sponsors/"},
+    {"brand": "MB WAY", "years": [2023], "role": "partner", "source": "https://www.vodafoneparedesdecoura.com/sponsors/"},
+    {"brand": "Município de Paredes de Coura", "years": [2023], "role": "government", "source": "https://www.vodafoneparedesdecoura.com/sponsors/"}
+  ],
+  "add_activation_formats": ["stage-or-program-takeover", "content-series"],
+  "add_sources": [
+    {"field": "website", "url": "https://www.vodafoneparedesdecoura.com/", "note": "Official site with the 2026 line-up and sponsors page."},
+    {"field": "attendance", "url": "https://www.facebook.com/sicnoticias/videos/a-edi%C3%A7%C3%A3o-deste-ano-do-vodafone-paredes-de-coura-que-reuniu-115-mil-pessoas-ao-lo/1404483528250703/", "note": "Google snippet (SIC): this year's edition gathered 115,000 people."},
+    {"field": "dates.next_edition", "url": "https://expresso.pt/blitz/noticias/2026-08-15-115-mil-pessoas-na-edicao-mais-politizada-de-sempre-com-o-amigo-seguro-e-sms-sentida-de-sobral-vodafone-paredes-de-coura-faz-o-balanco-b1a48111", "note": "Google snippet: dates for 2027 already set, 18 to 21 August. IG bio also says '18 - 21 AGOSTO 2027'."},
+    {"field": "dates.last_edition", "url": "https://www.instagram.com/reel/Db-Qp4-sf99/", "note": "Google snippet: 'O 32.º Vodafone Paredes de Coura arrancou esta quarta-feira'."},
+    {"field": "sponsors", "url": "https://www.vodafone.pt/en/press-releases/2012/11/vodafone-sponsors-and-lends-its-name-to-the-paredes-de-coura-festival.html", "note": "Nov 2012 Vodafone press release: Vodafone sponsors and lends its name to the festival from the next edition."},
+    {"field": "sponsors", "url": "https://www.vodafoneparedesdecoura.com/sponsors/", "note": "Sponsors page titled '2023 - Sponsors'. Logos have no text; names inferred from link domains: official sponsors Super Bock, Fidelidade, Coca-Cola EP, Pleno, Buondi, Somersby, ERA, Cabriz, Toyota, Wook, St. Petroni; support MB WAY; institutional Município de Paredes de Coura. Years may be stale."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DcEkg0IjXJA/", "note": "15 Aug 2026: 'Jazz na Relva by Pleno' stage, co-authored with @pleno.pt."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/Db3CDKKDcmK/", "note": "10 Aug 2026: 'Quarto Mundo Sessions by Cabriz' daily at Praia Fluvial do Taboão, co-authored with @cabrizwines."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DcEcY_cjRas/", "note": "15 Aug 2026: Toyota presented 'Come Closer', seven films at the Centro Cultural curated by Porto/Post/Doc, co-authored with @toyotaportugal."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/Db83TZbDe7J/", "note": "'Sons de Coura' video series co-authored with @canal180."},
+    {"field": "activation_formats", "url": "https://www.instagram.com/p/DcEwWLJjUoE/", "note": "Vodafone Music Sessions programme during the festival."},
+    {"field": "activation_formats", "url": "https://www.facebook.com/imagensdemarca/posts/a-vodafone-vai-estrear-na-edi%C3%A7%C3%A3o-de-2026-do-vodafone-paredes-de-coura-o-v-cast-u/1501291768704297/", "note": "Google snippet: Vodafone debuted 'V. Cast, Um Género de Conversa', a live podcast series, at the 2026 edition."}
+  ],
+  "add_gaps": [
+    "Organiser and ticket prices not captured",
+    "Sponsors page is titled 2023 and logos carry no names; 2026 full roster unconfirmed"
+  ],
+  "remove_gaps": [
+    "Official website not surfaced",
+    "Attendance, organiser and prices not found",
+    "2027 dates not announced; August expected"
+  ],
+  "notes": "115,000 people in 2026 (organiser balance via press). Vodafone naming partner since 2013 with its own music sessions and live podcasts. 2026 brand programmes: Jazz na Relva by Pleno, Quarto Mundo Sessions by Cabriz, Toyota film cycle, Canal180 content. Sponsors page (2023 title) adds Super Bock, Fidelidade, Coca-Cola EP and others. Fidelidade (insurer, 2023 page) is a possible health-adjacent precedent. No partnership contact found."
+}

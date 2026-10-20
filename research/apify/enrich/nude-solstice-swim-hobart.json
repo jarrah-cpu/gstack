@@ -1,0 +1,32 @@
+{
+  "id": "nude-solstice-swim-hobart",
+  "set": {
+    "partnership_contact": {
+      "email": "darkmofo@mona.net.au",
+      "page_url": "https://darkmofo.net.au/",
+      "named_person": null,
+      "source": "https://www.discovertasmania.com.au/things-to-do/festivals-and-events/darkmofo2026/"
+    }
+  },
+  "add_sources": [
+    {
+      "field": "partnership_contact",
+      "url": "https://www.discovertasmania.com.au/things-to-do/festivals-and-events/darkmofo2026/",
+      "note": "Google snippet: Dark Mofo listing gives darkmofo@mona.net.au and 03 6277 9978 (general Dark Mofo contact, not swim-specific)"
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.instagram.com/dark_mofo/",
+      "note": "Dark Mofo IG bio: June 2027"
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://hobartandbeyond.com.au/event/dark-mofo/",
+      "note": "Google snippet: Dark Mofo returns to Hobart in 2027 with Winter Feast, Night Mass, the Ogoh-Ogoh and Nude Solstice Swim"
+    }
+  ],
+  "add_gaps": [
+    "No swim-specific partnership contact; only the general Dark Mofo email"
+  ],
+  "notes": "No swim-specific sponsors in 69 Dark Mofo posts or search results. Dark Park venue partners (Spirit of Tasmania, TasPorts) relate to Dark Mofo generally; see dark-mofo-hobart. Contact is the general Dark Mofo email from a Discover Tasmania listing (Google snippet). IG account is the Dark Mofo organiser account, correct."
+}

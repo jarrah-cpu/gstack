@@ -1,0 +1,102 @@
+{
+  "id": "let-them-eat-cake-werribee",
+  "set": {
+    "location": {
+      "city": "Melbourne",
+      "state_or_region": "VIC",
+      "country": "Australia",
+      "venue_or_area": "The Nursery, Flemington Racecourse (NYD 2027); Coburg Velodrome (NYD 2026); Werribee Mansion grounds, Werribee South, up to NYD 2025"
+    },
+    "dates": {
+      "last_edition": {
+        "start": "2026-01-01",
+        "end": "2026-01-01",
+        "status": "held",
+        "label": "NYD 2026 (Coburg Velodrome, sold out)"
+      },
+      "next_edition": {
+        "start": "2027-01-01",
+        "end": "2027-01-01",
+        "status": "confirmed",
+        "label": "NYD 2027 (The Nursery, Flemington)"
+      },
+      "frequency": "annual",
+      "duration_days": 1
+    },
+    "organiser": {
+      "name": "Let Them Eat Cake",
+      "type": "promoter",
+      "website": null
+    },
+    "attendance": {
+      "figure": 9000,
+      "figure_high": null,
+      "year": 2016,
+      "is_estimate": true,
+      "source": "https://beat.com.au/let-them-eat-cake-werribee-park-2/",
+      "note": "Press figure, Beat (Jan 2016): in its fourth year the festival grew 'from 6000 to 9000 punters' at Werribee Park. No recent figure; NYD 2026 sold out."
+    }
+  },
+  "add_sources": [
+    {
+      "field": "location",
+      "url": "https://www.instagram.com/p/DdI3om6xGbF/",
+      "note": "Organiser post, 11 Sep 2026: 'Say hello to The Nursery at Flemington'; IG bio: 'The Nursery, Flemington. 01.01.2027'."
+    },
+    {
+      "field": "location",
+      "url": "https://www.instagram.com/p/DRgdU_MjNDr/",
+      "note": "Organiser post, Nov 2025: 'we do miss the Mansion. So, we're bringing the Mansion to Coburg'."
+    },
+    {
+      "field": "location",
+      "url": "https://www.moshtix.com.au/v2/news/let-them-eat-cake-nyd-returns-in-2026-with-a-decadent-lineup/11385",
+      "note": "Google snippet: NYD 2026 at Coburg Velodrome on Thu 1 Jan 2026."
+    },
+    {
+      "field": "location",
+      "url": "https://ra.co/events/2000002",
+      "note": "Google snippet: Let Them Eat Cake NYD 2025 at Werribee Park, Wed 1 Jan 2025."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.instagram.com/p/DSy6ga8ESTH/",
+      "note": "Organiser post, 28 Dec 2025: 'LTEC26 is officially SOLD OUT'."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.instagram.com/p/DS9KDbUE6EB/",
+      "note": "Organiser post, 1 Jan 2026: 'Turning the Velodrome into Cake'."
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.instagram.com/p/DdQAzjFRnfD/",
+      "note": "Organiser post, 14 Sep 2026: 'LTEC NYD 2027 lands at The Nursery'; IG bio gives 01.01.2027."
+    },
+    {
+      "field": "organiser",
+      "url": "https://ra.co/promoters/31832",
+      "note": "Google result: RA promoter page 'Let Them Eat Cake'."
+    },
+    {
+      "field": "attendance",
+      "url": "https://beat.com.au/let-them-eat-cake-werribee-park-2/",
+      "note": "Google snippet dated 4 Jan 2016: 'Now in its fourth year, Let Them Eat Cake has swollen from 6000 to 9000 punters.'"
+    },
+    {
+      "field": "attendance.note",
+      "url": "https://www.instagram.com/p/DdaUFIHFJS_/",
+      "note": "Organiser post, Sep 2026: 'The last two editions of Cake sold out'."
+    }
+  ],
+  "remove_gaps": [
+    "Only one source for 2027 date",
+    "Organiser, website, Instagram, attendance, pricing and sponsors not captured"
+  ],
+  "add_gaps": [
+    "No official website (Linktree only); ticket pricing and sponsors not captured",
+    "Only attendance figure is from 2016",
+    "Event no longer in Werribee: record id and name still reference Werribee"
+  ],
+  "notes": "Moved: NYD 2026 at Coburg Velodrome, NYD 2027 at The Nursery, Flemington (dedicated cocktail area, bigger production). Werribee era ended after NYD 2025 (Wyndham TV reports a $9,880 noise fine, date not established). The id let-them-eat-cake-werribee is now misleading. Collabs with Revolver, Brown Alley and Simma are side-event venue partners, not sponsors. Creative direction by Studio Hi Ho and Peter Deering, the same credit as A3's site."
+}

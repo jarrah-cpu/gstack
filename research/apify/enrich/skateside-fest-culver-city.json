@@ -1,0 +1,222 @@
+{
+  "id": "skateside-fest-culver-city",
+  "set": {
+    "organiser": {
+      "name": "The Skateside (with City of Culver City Parks, Recreation and Community Services)",
+      "type": "independent",
+      "website": "https://theskateside.com/"
+    },
+    "attendance": {
+      "figure": 2000,
+      "figure_high": null,
+      "year": 2024,
+      "is_estimate": false,
+      "source": "https://theskateside.com/blogs/press-release/3rd-annual-skateside-fest",
+      "note": "Organiser-reported 'record-breaking attendance of more than 2,000 people' at the 2024 fest. 2026 page said '2,500+ attendees expected' (not an actual)."
+    },
+    "partnership_contact": {
+      "email": "info@theskateside.com",
+      "page_url": "https://theskateside.com/pages/skateside-fest-2026",
+      "named_person": null,
+      "source": "https://theskateside.com/pages/skateside-fest-2026"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Converse CONS",
+      "years": [
+        2024,
+        2025
+      ],
+      "role": "presenting",
+      "source": "https://theskateside.com/blogs/press-release/3rd-annual-skateside-fest"
+    },
+    {
+      "brand": "Zumiez",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "partner",
+      "source": "https://theskateside.com/blogs/press-release/3rd-annual-skateside-fest"
+    },
+    {
+      "brand": "Bones Love Milk",
+      "years": [
+        2024,
+        2025
+      ],
+      "role": "partner",
+      "source": "https://theskateside.com/blogs/press-release/3rd-annual-skateside-fest"
+    },
+    {
+      "brand": "Randy's Donuts",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://theskateside.com/blogs/press-release/3rd-annual-skateside-fest"
+    },
+    {
+      "brand": "Triple Eight",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DRyW7QvFGai/"
+    },
+    {
+      "brand": "Gromlin Universe",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DYqXS3hikxR/"
+    },
+    {
+      "brand": "Waltz Skateboarding",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DYqXS3hikxR/"
+    },
+    {
+      "brand": "SK8BRD BUS",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DYqXS3hikxR/"
+    },
+    {
+      "brand": "True Skate",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DYqXS3hikxR/"
+    },
+    {
+      "brand": "LA County Supervisor Holly J. Mitchell",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.instagram.com/p/DYqXS3hikxR/"
+    },
+    {
+      "brand": "City of Culver City",
+      "years": [
+        2024,
+        2025,
+        2026
+      ],
+      "role": "government",
+      "source": "https://culvercitycrossroads.com/2024/04/26/skateside-fest-to-return-to-bill-botts-park-may-18/"
+    },
+    {
+      "brand": "Saguaro Counseling",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DYbDs_eiZMO/"
+    },
+    {
+      "brand": "Super King Markets",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DZNqRZlPiKc/"
+    },
+    {
+      "brand": "Open Late (@thisisopenlate)",
+      "years": [
+        2026
+      ],
+      "role": "collab",
+      "source": "https://www.instagram.com/p/DXaz_mJAgZc/"
+    }
+  ],
+  "add_activation_formats": [
+    "product-drop",
+    "collab-product",
+    "stage-or-program-takeover"
+  ],
+  "add_sources": [
+    {
+      "field": "organiser",
+      "url": "https://culvercitycrossroads.com/2024/04/26/skateside-fest-to-return-to-bill-botts-park-may-18/",
+      "note": "Google snippet: 'Skateside Fest 2024 is being presented by The Skatside in conjunction with the Culver City Parks, Recreation and Community Services'."
+    },
+    {
+      "field": "organiser",
+      "url": "https://www.instagram.com/p/DYqXS3hikxR/",
+      "note": "2026 post: 'Presented by @the_skateside'; RSVP at theskateside.com/skatesidefest. Co-founder Lemar Betts is the media contact."
+    },
+    {
+      "field": "attendance",
+      "url": "https://theskateside.com/blogs/press-release/3rd-annual-skateside-fest",
+      "note": "3rd annual release (4 Apr 2025, fest 17 May 2025): 'record-breaking attendance of more than 2,000 people' last year."
+    },
+    {
+      "field": "attendance",
+      "url": "https://theskateside.com/pages/skateside-fest-2026",
+      "note": "2026 page: '2,500+ attendees expected'."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://theskateside.com/pages/skateside-fest-2026",
+      "note": "'BECOME A SPONSOR' button to a Google sponsor application form; general contact info@theskateside.com."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://theskateside.com/blogs/press-release/3rd-annual-skateside-fest",
+      "note": "2025: 'Converse CONS returns as the presenting sponsor' (Skatepark Zone); Zumiez key partner launching Louie Lopez LL2 colourway; Bones Love Milk presenting sponsor of the Family Fun Zone; Randy's Donuts complimentary treat. Google snippet: 'Bones Love Milk returns as the presenting sponsor', so 2024 too."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DYqXS3hikxR/",
+      "note": "May 2026: 'Sponsored by @zumiez, @gromlinuniverse, @waltz_skateboarding, @sk8_brd_bus, @trueskatemerch @trueskateofficial & Supervisor @hollyjmitchell'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DYbDs_eiZMO/",
+      "note": "17 May 2026: 'we're proud to have @saguarocounseling as our official Mental Health Partner this year'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DZNqRZlPiKc/",
+      "note": "5 Jun 2026: thanks to Super King Markets 'for supporting SKATESIDE FEST'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DRyW7QvFGai/",
+      "note": "3 Dec 2025: 'thank you to @triple8nyc for sponsoring SKATESIDE FEST' (helmets for staff and participants)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DXaz_mJAgZc/",
+      "note": "'OFFICIAL SKATESIDE FEST TEE COLLAB with @thisisopenlate', presale on Eventbrite."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/skatesidefest/",
+      "note": "Google snippet of profile: 'Culver City is an event sponsor of SKATESIDE FEST'."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/DRSIGj2FPDq/",
+      "note": "2025: Converse and Zumiez launched Louie Lopez's LL2 colourway at the fest."
+    }
+  ],
+  "remove_gaps": [
+    "Attendance and sponsors not captured"
+  ],
+  "add_gaps": [
+    "2026 actual attendance not published"
+  ],
+  "notes": "Organiser corrected: The Skateside (youth skate school) presents it with Culver City PRCS; the city is a sponsor, not the sole organiser. Family and kids audience; a mental health partner (Saguaro Counseling) already holds a health-adjacent slot in 2026. Consider website https://theskateside.com/pages/skateside-fest-2026 over the city page."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "offf-barcelona",
+  "set": {
+    "website": "https://www.offf.barcelona/",
+    "organiser": {"name": "OFFF (festival company behind offf.barcelona)", "type": "independent", "website": "https://www.offf.barcelona/"},
+    "dates": {"last_edition": {"start": "2026-04-16", "end": "2026-04-18", "status": "held", "label": "26th edition (2026)"}, "next_edition": {"start": "2027-05-06", "end": "2027-05-08", "status": "confirmed", "label": "27th edition (2027)"}, "frequency": "annual", "duration_days": 3},
+    "attendance": {"figure": null, "figure_high": null, "year": 2026, "is_estimate": null, "source": "https://www.instagram.com/p/DXezUFHERla/", "note": "2026 festival sold out ('officially full'); ticketed attendance not published. The free 'The Screen' façade mapping outside Disseny Hub drew 10,000 people over three nights (organiser-reported)."},
+    "partnership_contact": {"email": "hello@offf.barcelona", "page_url": "https://www.offf.barcelona/sponsors", "named_person": null, "source": "https://www.offf.barcelona/sponsors"}
+  },
+  "add_sponsors": [
+    {"brand": "Adobe", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DXJ_81MDUKW/"},
+    {"brand": "Maxon", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DXJ_81MDUKW/"},
+    {"brand": "SideFX (Houdini)", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DXJ_81MDUKW/"},
+    {"brand": "Framer", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DXJ_81MDUKW/"},
+    {"brand": "Barco", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DXJ_81MDUKW/"},
+    {"brand": "Moritz", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DXJ_81MDUKW/"},
+    {"brand": "Frameboy", "years": [2026], "role": "collab", "source": "https://www.instagram.com/p/DXezUFHERla/"},
+    {"brand": "Merchery", "years": [2026], "role": "partner", "source": "https://www.offf.barcelona/"},
+    {"brand": "PRINT Magazine", "years": [2026], "role": "media", "source": "https://www.instagram.com/p/DXouWAZjZ3N/"},
+    {"brand": "Disseny Hub Barcelona", "years": [2026, 2027], "role": "venue", "source": "https://www.instagram.com/offfest/"}
+  ],
+  "add_activation_formats": ["content-series"],
+  "add_sources": [
+    {"field": "website", "url": "https://www.offf.barcelona/", "note": "Official site (LinkedIn also lists offf.barcelona)."},
+    {"field": "organiser", "url": "https://es.linkedin.com/company/offfbarcelona", "note": "Google snippet: company OFFF, 11 to 50 employees, site offf.barcelona."},
+    {"field": "organiser", "url": "https://www.instagram.com/p/DcbRfcxNjeO/", "note": "Aug 2026 post: @pepsalazar on 'running a festival' (festival leadership)."},
+    {"field": "dates.next_edition", "url": "https://www.instagram.com/offfest/", "note": "IG bio: 'May 6-8, 2027 at @dissenyhub | Tickets on sale'; repeated in many 2026 posts. Replaces the German aggregator source."},
+    {"field": "attendance", "url": "https://www.instagram.com/p/DXezUFHERla/", "note": "'This was The Screen: 10,000 people, three nights, one façade'; co-produced with Frameboy, powered by Barco."},
+    {"field": "attendance", "url": "https://www.instagram.com/p/DXJ_81MDUKW/", "note": "15 Apr 2026: 'OFFF Barcelona 2026 is officially full'."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DXJ_81MDUKW/", "note": "'Proudly supported by leading industry partners: @adobe / @maxonvfx / @sidefxhoudini / @framer / @barco_nv / @moritzbarcelona'."},
+    {"field": "sponsors", "url": "https://www.offf.barcelona/sponsors", "note": "Sponsors page lists Adobe, Moritz, Houdini, Maxon, Barco and Framer with no tiers; homepage snippet also shows Merchery and Frameboy under Sponsors."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DXouWAZjZ3N/", "note": "'Thank you to our media partner @print_mag'. Stash Media, Creative Review and Creative Bloq ran content but are not called partners for Barcelona."},
+    {"field": "partnership_contact", "url": "https://www.offf.barcelona/sponsors", "note": "'Contact us' hello@offf.barcelona; no named sponsorship contact."},
+    {"field": "activation_formats", "url": "https://www.instagram.com/p/DecZVMNR8nZ/", "note": "Adobe-hosted speaker session at OFFF 2026; partners and media run follow-up interviews and articles through the year."}
+  ],
+  "add_gaps": ["Ticketed attendance and audience demographics not published (2026 sold out)", "Sponsor tiers and packages not published"],
+  "remove_gaps": ["2027 dates only from a German event aggregator; festival has moved between April and May", "Attendance, organiser and sponsors not captured", "Official website not captured", "No public partnerships contact found"],
+  "notes": "Creative-industry festival with a tight tech-tool sponsor set (Adobe, Maxon, SideFX, Framer, Barco) plus Moritz beer; 2027 dates confirmed by the organiser (6 to 8 May, Disseny Hub). Montreal partners in the IG signals (SAT, Forum, Stash) belong to OFFF Montreal and were excluded. IG @offfest is correct."
+}

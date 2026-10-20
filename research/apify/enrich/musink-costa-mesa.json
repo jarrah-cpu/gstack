@@ -1,0 +1,110 @@
+{
+  "id": "musink-costa-mesa",
+  "set": {
+    "dates": {
+      "last_edition": {
+        "start": "2019-03-08",
+        "end": "2019-03-10",
+        "status": "held",
+        "label": "12th annual (2019), latest edition found"
+      },
+      "next_edition": {
+        "start": null,
+        "end": null,
+        "status": "unknown",
+        "label": "No edition found after 2019; organiser site is a password-gated store headed '13th Annual Musink'"
+      },
+      "frequency": "annual",
+      "duration_days": 3
+    },
+    "attendance": {
+      "figure": 23000,
+      "figure_high": null,
+      "year": 2018,
+      "is_estimate": false,
+      "source": "https://inkppl.com/en/tattooevents/2019/march-2019/12th-musink-tattoo-convention-and-music-festival",
+      "note": "'over 23,000 in attendance during the 3-day event' in 2018, quoted on the 2019 event listing (organiser copy). No later figure."
+    },
+    "ticket_price": {
+      "min": 29.5,
+      "max": null,
+      "currency": "USD",
+      "free_entry": false,
+      "note": "2019: general admission from USD 29.50 per day plus fees; kids 10 and under free with a paid adult; VIP (21+) price not listed."
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "KROQ",
+      "years": [
+        2019
+      ],
+      "role": "presenting",
+      "source": "https://inkppl.com/en/tattooevents/2019/march-2019/12th-musink-tattoo-convention-and-music-festival"
+    },
+    {
+      "brand": "Famous Stars and Straps",
+      "years": [
+        2019
+      ],
+      "role": "partner",
+      "source": "https://inkppl.com/en/tattooevents/2019/march-2019/12th-musink-tattoo-convention-and-music-festival"
+    },
+    {
+      "brand": "Sullen",
+      "years": [
+        2019
+      ],
+      "role": "partner",
+      "source": "https://inkppl.com/en/tattooevents/2019/march-2019/12th-musink-tattoo-convention-and-music-festival"
+    }
+  ],
+  "add_activation_formats": [
+    "competition-or-prize"
+  ],
+  "add_sources": [
+    {
+      "field": "dates.last_edition",
+      "url": "https://inkppl.com/en/tattooevents/2019/march-2019/12th-musink-tattoo-convention-and-music-festival",
+      "note": "'TRAVIS BARKER PRESENTS: THE 12TH ANNUAL MUSINK', 'March 8-10, 2019', OC Fair & Event Center."
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://musinkfest.com/",
+      "note": "Homepage is a password-protected store ('Enter store using password') headed 'Home of the 13th Annual Musink'; no dates."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.setlist.fm/festivals/musink-festival-23d68cf7.html",
+      "note": "Google snippet: festival 'took place 12 times'."
+    },
+    {
+      "field": "attendance",
+      "url": "https://inkppl.com/en/tattooevents/2019/march-2019/12th-musink-tattoo-convention-and-music-festival",
+      "note": "Listing states 2018 was the biggest year with 'over 23,000 in attendance'."
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://inkppl.com/en/tattooevents/2019/march-2019/12th-musink-tattoo-convention-and-music-festival",
+      "note": "'$29.50 per day (plus fees)'; children 10 and under free with paid adult."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://inkppl.com/en/tattooevents/2019/march-2019/12th-musink-tattoo-convention-and-music-festival",
+      "note": "Festival 'presented by KROQ'; car show 'presented by Famous Stars and Straps'; Miss MUSINK 'presented by Sullen'."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://inkppl.com/en/tattooevents/2019/march-2019/12th-musink-tattoo-convention-and-music-festival",
+      "note": "Miss MUSINK competition presented by Sullen."
+    }
+  ],
+  "remove_gaps": [
+    "2027 timing from an aggregator only",
+    "Attendance, prices and sponsors not captured"
+  ],
+  "add_gaps": [
+    "No evidence of any edition after March 2019; attendance, prices and sponsors are 2018 and 2019 figures only"
+  ],
+  "notes": "Likely dormant since 2019 (12 editions 2008 to 2019; site shows a locked store for the never-dated 13th). Recommend status on-hiatus or discontinued and archive unless a 2027 announcement appears. Removed the aggregator-only March 2027 expectation. No Instagram account found."
+}

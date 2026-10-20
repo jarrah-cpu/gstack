@@ -1,0 +1,111 @@
+{
+  "id": "single-fin-classic-donostia",
+  "set": {
+    "organiser": {
+      "name": "Hawaii Donostia",
+      "type": "retailer",
+      "website": "https://www.hawaiidonostia.com/"
+    },
+    "dates": {
+      "last_edition": {
+        "start": "2026-06-19",
+        "end": "2026-06-20",
+        "status": "held",
+        "label": "9th edition (2026), returned after a year off"
+      },
+      "next_edition": {
+        "start": "2027",
+        "end": null,
+        "status": "expected",
+        "label": "2027"
+      },
+      "frequency": "irregular",
+      "duration_days": 2
+    },
+    "attendance": {
+      "figure": null,
+      "figure_high": null,
+      "year": 2026,
+      "is_estimate": null,
+      "source": "https://au.linkedin.com/company/donostia-san-sebastian-turismo?trk=ppro_cprof",
+      "note": "80 surfers competed in the 9th edition in 2026 (Donostia San Sebastian Turismoa, Google snippet); the 2018 5th edition drew close to 100 competitors. Spectator numbers not published."
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Oxbow",
+      "years": [
+        2026
+      ],
+      "role": "naming",
+      "source": "https://www.instagram.com/p/DZvDy4SjTDn/"
+    },
+    {
+      "brand": "RVCA",
+      "years": [
+        2017,
+        2018
+      ],
+      "role": "naming",
+      "source": "https://3sesenta.com/san-sebastian-single-fin-classic/"
+    },
+    {
+      "brand": "Donostia San Sebastian Turismoa",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.threads.com/@sansebastiantourism/post/DZ4bxfbiPDs/donostia-san-sebasti%C3%A1n-turismoa-refuerza-su-colaboraci%C3%B3n-con-eventos-destacados-/"
+    }
+  ],
+  "add_activation_formats": [
+    "naming-rights"
+  ],
+  "add_sources": [
+    {
+      "field": "organiser",
+      "url": "https://3sesenta.com/san-sebastian-single-fin-classic/",
+      "note": "'Las tiendas Hawaii de San Sebastian celebran la 4a edicion del Single Fin Classic de Hawaii & RVCA' (Hawaii surf shops); Google snippet."
+    },
+    {
+      "field": "organiser",
+      "url": "https://www.hawaiidonostia.com/blog/hawaii-viii-single-fin-classic--b206.html",
+      "note": "Organiser's own site carries the event blog (8th edition, 84 surfers)."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://au.linkedin.com/company/donostia-san-sebastian-turismo?trk=ppro_cprof",
+      "note": "Tourism board: sponsorship of the Single Fin Classic 2026, which held its 9th edition at Zurriola with 80 surfers; Google snippet."
+    },
+    {
+      "field": "attendance",
+      "url": "https://au.linkedin.com/company/donostia-san-sebastian-turismo?trk=ppro_cprof",
+      "note": "'La cita reunio a 80 surfistas'; Google snippet."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DZvDy4SjTDn/",
+      "note": "June 2026 post: 'la 9a edicion del Hawaii & Oxbow Single Fin Classic'; Google snippet."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://3sesenta.com/san-sebastian-single-fin-classic/",
+      "note": "4th edition (Saturday 24 Jun, 2017) billed 'Single Fin Classic de Hawaii & RVCA'; 5th (2018) 'organizado por Hawaii y RVCA' per margruesa.com."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.threads.com/@sansebastiantourism/post/DZ4bxfbiPDs/donostia-san-sebasti%C3%A1n-turismoa-refuerza-su-colaboraci%C3%B3n-con-eventos-destacados-/",
+      "note": "Donostia San Sebastian Turismoa 'refuerza su colaboracion ... mediante el patrocinio del Single Fin Classic 2026'; Google snippet."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/DZvDy4SjTDn/",
+      "note": "Co-naming: Hawaii & Oxbow Single Fin Classic."
+    }
+  ],
+  "add_gaps": [],
+  "remove_gaps": [
+    "Organiser type (shop, club or collective) not confirmed"
+  ],
+  "notes": "The organiser is the Hawaii surf shop in Donostia, with Oxbow as 2026 co-naming partner (RVCA in 2017 and 2018) and the city tourism board as a 2026 sponsor. The pack's @singlefinclassic account is empty and unrelated; the active account is the organiser's @hawaiidonostia."
+}

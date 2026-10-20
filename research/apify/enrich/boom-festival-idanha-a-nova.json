@@ -1,0 +1,35 @@
+{
+  "id": "boom-festival-idanha-a-nova",
+  "set": {
+    "dates": {
+      "last_edition": {"start": "2025-07-17", "end": "2025-07-24", "status": "held", "label": "15th edition (2025)"},
+      "next_edition": {"start": "2027-07-18", "end": "2027-07-25", "status": "confirmed", "label": "16th edition (2027), 30 years"},
+      "frequency": "biennial",
+      "duration_days": 8
+    },
+    "partnership_contact": {"email": "info@boomfestival.org", "page_url": "https://www.boomfestival.org/contact", "named_person": null, "source": "https://www.boomfestival.org/contact"}
+  },
+  "add_sponsors": [
+    {"brand": "Município de Idanha-a-Nova", "years": [2025], "role": "government", "source": "https://www.facebook.com/MunicipioIdanhaNova/posts/decorreu-esta-manh%C3%A3-uma-reuni%C3%A3o-preparat%C3%B3ria-do-boom-festival-official-2025-na-s/1078749227616413/"}
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {"field": "dates.last_edition", "url": "https://turismodocentro.pt/evento/boom-festival/", "note": "Google snippet: Boom Festival 17 to 24 July 2025."},
+    {"field": "dates.last_edition", "url": "https://www.rtp.pt/noticias/cultura/boom-festival-arracou-na-quinta-feira-e-termina-dia-24-em-idanha-a-nova_v1670267", "note": "Google snippet: started on Thursday and ends on the 24th; 40,000 expected."},
+    {"field": "attendance", "url": "https://www.facebook.com/beirabaixatv/posts/boom-festival-2025-re%C3%BAne-41-mil-pessoas-de-169-pa%C3%ADses-em-idanha-a-novaa-15%C2%AA-edi%C3%A7/1209742877846977/", "note": "Google snippet (Beira Baixa TV): 15th edition ended with about 41,000 people from 169 nationalities. Not applied; record keeps the 40,000 tickets figure."},
+    {"field": "partnership_contact", "url": "https://www.boomfestival.org/contact", "note": "Contact page: general email info@boomfestival.org for feedback and dialogue; no partnerships contact."},
+    {"field": "sponsors", "url": "https://pt.wikipedia.org/wiki/Boom_Festival", "note": "Google snippet: the festival does not accept any sponsorship ('não aceita qualquer patrocínio')."},
+    {"field": "sponsors", "url": "http://www.e-cultura.pt/evento/33338", "note": "Google snippet: 'O Boom é um festival independente, sem patrocinadores'."},
+    {"field": "sponsors", "url": "https://www.facebook.com/MunicipioIdanhaNova/posts/decorreu-esta-manh%C3%A3-uma-reuni%C3%A3o-preparat%C3%B3ria-do-boom-festival-official-2025-na-s/1078749227616413/", "note": "Google snippet: municipality hosted a 2025 preparatory meeting; preparation involves a set of partners collaborating on organisation (logistics, not commercial)."},
+    {"field": "gaps", "url": "https://www.instagram.com/p/DRdAMFHDLfr/", "note": "Boom IG (24 Nov 2025): Being Gathering at Boomland from 1 to 5 July 2026."}
+  ],
+  "add_gaps": [
+    "No commercial sponsors by festival policy; only a general info@ contact, no partnerships contact"
+  ],
+  "remove_gaps": [
+    "No public partnerships contact found",
+    "Exact 2025 dates not pinned in search results",
+    "A smaller Being Gathering at Boomland in July 2026 was mentioned in a listing but not verified"
+  ],
+  "notes": "Boom runs without sponsors by policy (Wikipedia and e-cultura snippets); IG shows zero brand partners, only its own Boomland and Being Gathering accounts, labels and artists. 2025 dates 17 to 24 Jul; press put 2025 at about 41,000 people from 169 nationalities. Being Gathering at Boomland 1 to 5 Jul 2026 confirmed on Boom IG. Low accessibility for brand partnerships."
+}

@@ -1,0 +1,52 @@
+{
+  "id": "deus-slidetoberfest-canggu",
+  "set": {
+    "dates": {
+      "last_edition": {
+        "start": "2025-10-17",
+        "end": "2025-10-19",
+        "status": "held",
+        "label": "2025 (surf contest, Dress Up Drags and Swank Rally); photos captioned 'Slidetober 2025 Surf Comp' on Deus Indonesia's 2026 event page"
+      },
+      "next_edition": {
+        "start": "2026-10-23",
+        "end": "2026-10-25",
+        "status": "confirmed",
+        "label": "2026: three days, Deus Temple of Enthusiasm (Canggu) plus beach venues incl. Pasut Beach; Swank Rally 25 Oct"
+      },
+      "frequency": "annual",
+      "duration_days": 3
+    },
+    "ticket_price": {
+      "min": null,
+      "max": null,
+      "currency": "IDR",
+      "free_entry": null,
+      "note": "2026 rider registration via a Google Form on the Deus Indonesia event page; no fee or spectator price stated. Moto classes: vintage 2-stroke (max 150cc), vintage 4-stroke (max 250cc), custom bike (max 400cc), pro and beginner."
+    }
+  },
+  "add_sponsors": [
+    {"brand": "Motul", "years": [2024], "role": "partner", "source": "https://www.gridoto.com/read/224166704/kolaborasi-deus-dan-motul-gelar-slidetoberfest-2024-skena-motor-dan-surfing-menyatu"},
+    {"brand": "Bali Channel", "years": [2026], "role": "media", "source": "https://www.facebook.com/konsermusikbali/posts/three-days-three-beaches-one-deus-spiritdeus-slidetoberfest-kembali-ke-bali-2325/1129182116726404/"},
+    {"brand": "Lensa Berita", "years": [2026], "role": "media", "source": "https://www.facebook.com/konsermusikbali/posts/three-days-three-beaches-one-deus-spiritdeus-slidetoberfest-kembali-ke-bali-2325/1129182116726404/"}
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {"field": "dates.last_edition", "url": "https://deuscustoms.co.id/pages/deus-slidetober-fest-2026", "note": "Deus Indonesia 2026 event page shows last year's photos captioned 'Slidetober 2025 Surf Comp', 'DressUPdrag' and 'SwankRally', confirming the 2025 edition ran."},
+    {"field": "dates.next_edition", "url": "https://www.facebook.com/mavemagazine/posts/deus-slidetoberfest-2026-tiga-hari-tiga-pantai-dan-rangkaian-kekacauan-seru-di-b/1797141405262412/", "note": "Google snippet (Mave Magazine): 'Deus Slidetoberfest 2026 siap mengguncang Bali pada 23 hingga 25 Oktober 2026' ('three days, three beaches')."},
+    {"field": "dates.next_edition", "url": "https://www.instagram.com/reel/DelwZQsSNVO/", "note": "Google snippet: invitation for Deus Slidetoberfest 2026, 23 to 25 Oct 2026, locations Canggu, Pantai Pasut and Pantai Pangkung (text cut short)."},
+    {"field": "dates.next_edition", "url": "https://www.instagram.com/reel/DeT0h8alAPn/", "note": "Google snippet: '25th October. The Deus Slidetoberfest Swank Rally is back.'"},
+    {"field": "ticket_price", "url": "https://deuscustoms.co.id/pages/deus-slidetober-fest-2026", "note": "Page: 'Three days', takes over the Temple of Enthusiasm; moto classes listed; 'Register Now' Google Form; no fees; merch only (jersey IDR 725,000, tee IDR 525,000); no sponsors or contact named."},
+    {"field": "sponsors", "url": "https://www.gridoto.com/read/224166704/kolaborasi-deus-dan-motul-gelar-slidetoberfest-2024-skena-motor-dan-surfing-menyatu", "note": "Gridoto: 'Kolaborasi Deus dan Motul Gelar Slidetoberfest 2024'; Motul took part in Deus Slidetoberfest 2024."},
+    {"field": "sponsors", "url": "https://www.facebook.com/konsermusikbali/posts/three-days-three-beaches-one-deus-spiritdeus-slidetoberfest-kembali-ke-bali-2325/1129182116726404/", "note": "Google snippet of a promoter post: 'Deus Slidetoberfest kembali ke Bali, 23 to 25 Oktober 2026 ... Media Partner: Bali Channel, Lensa Berita ...'"}
+  ],
+  "add_gaps": [
+    "2026 sponsor roster not published on the Deus event page; only 2026 media partners seen in a promoter post",
+    "Exact 2026 beach venues only partly visible in snippets (Canggu, Pasut Beach, one more)"
+  ],
+  "remove_gaps": [
+    "2026 dates still not found after a targeted search on 20 Oct 2026; the 2026 edition may already have run or be imminent",
+    "2025 edition comes from one listing; not confirmed as held. Swank Rally (formerly a separate lead) is part of the Slidetober program"
+  ],
+  "notes": "2026 edition confirmed for 23 to 25 Oct 2026 (two days after this scan), across Canggu and beaches; 2025 confirmed as held. Swank Rally is part of the program (25 Oct 2026). Brand-owned by Deus, so sponsors are few: Motul (2024) and 2026 media partners. No IG posts were scraped for @deusexmachina.id."
+}

@@ -1,0 +1,87 @@
+{
+  "id": "art-jakarta",
+  "set": {
+    "website": "https://artjakarta.com/",
+    "organiser": {
+      "name": "PT Artindo Jakarta Seni Kini (Art Jakarta; conceived by MRA Media; Fair Director Tom Tandio)",
+      "type": "media",
+      "website": "https://artjakarta.com/"
+    },
+    "partnership_contact": {
+      "email": "info@artjakarta.com",
+      "page_url": "https://artjakarta.com/contact/",
+      "named_person": "Vicky Rosalina (Partnership Manager); Partnership Officers Shafa Salsabila and Ryan Theo Jonathan",
+      "source": "https://artjakarta.com/about/"
+    },
+    "attendance": {
+      "figure": 38000,
+      "figure_high": null,
+      "year": 2025,
+      "is_estimate": false,
+      "source": "https://www.instagram.com/p/DP24xbtj11u/",
+      "note": "'Tembus 38.000 Pengunjung' (over 38,000 visitors) for the 15th edition in 2025, from an Instagram post headline seen only as a Google snippet; posting account not identified. The 2023 edition reported 35,578 visitors (senirupa.id). No 2026 figure found."
+    },
+    "dates": {
+      "last_edition": {
+        "start": "2026-10-02",
+        "end": "2026-10-04",
+        "status": "held",
+        "label": "16th edition (2026); VIP preview 2 Oct, public days 3 to 4 Oct"
+      },
+      "next_edition": {
+        "start": "2027-10-01",
+        "end": "2027-10-03",
+        "status": "confirmed",
+        "label": "17th edition (2027), JIExpo Kemayoran expected; dates announced by the organiser on Instagram"
+      },
+      "frequency": "annual",
+      "duration_days": 3
+    },
+    "ticket_price": {
+      "min": null,
+      "max": null,
+      "currency": "IDR",
+      "free_entry": false,
+      "note": "Paid tickets sold via artjakarta.com (organiser Instagram, Sep and Oct 2026); prices not captured."
+    }
+  },
+  "add_sponsors": [
+    {"brand": "AIA Indonesia", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/Dd1IrqAmNvt/"},
+    {"brand": "iForte and Protelindo Group", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/Dd5o_qbmKk_/"},
+    {"brand": "DJOURNAL Coffee", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/Dd8jAJOmDfy/"},
+    {"brand": "Kementerian Kebudayaan (Ministry of Culture)", "years": [2026], "role": "government", "source": "https://www.instagram.com/p/DdyIcX3GPQc/"},
+    {"brand": "ArtReview", "years": [2026], "role": "media", "source": "https://www.instagram.com/p/Dd52u9wGIm0/"},
+    {"brand": "Apollo", "years": [2026], "role": "media", "source": "https://www.instagram.com/p/Dds_WcZmORY/"},
+    {"brand": "ArtAsiaPacific", "years": [2026], "role": "media", "source": "https://www.instagram.com/p/Ddlr1GbmN_J/"},
+    {"brand": "Art+ Magazine", "years": [2026], "role": "media", "source": "https://www.instagram.com/p/Ddf5HMHhPKE/"},
+    {"brand": "Art & Market", "years": [2026], "role": "media", "source": "https://www.instagram.com/p/DdavQy9RVqK/"}
+  ],
+  "add_activation_formats": ["lounge", "hospitality-bar"],
+  "add_sources": [
+    {"field": "website", "url": "https://www.instagram.com/artjakarta/", "note": "Official Instagram profile links to artjakarta.com; site crawled (about, contact pages)."},
+    {"field": "organiser", "url": "https://artjakarta.com/about/", "note": "About page: Art Jakarta is 'the brainchild of MRA Media'; footer 'PT Artindo Jakarta Seni Kini'; team lists Tom Tandio, Fair Director."},
+    {"field": "partnership_contact", "url": "https://artjakarta.com/about/", "note": "Team section lists Vicky Rosalina (Partnership Manager) and Partnership Officers Shafa Salsabila and Ryan Theo Jonathan; general contact info@artjakarta.com, VIP vip@artjakarta.com."},
+    {"field": "partnership_contact", "url": "https://artjakarta.com/contact/", "note": "Contact page: vip@artjakarta.com and info@artjakarta.com (general info)."},
+    {"field": "attendance", "url": "https://www.instagram.com/p/DP24xbtj11u/", "note": "Google snippet: 'Tembus 38.000 Pengunjung! Art Jakarta 2025 Sukses...' (15th edition)."},
+    {"field": "attendance", "url": "https://senirupa.id/pasar/art-jakarta-effect-pasar-seni-medan-magnet-dealer-dan-parasitismenya/", "note": "Google snippet: Art Jakarta 2023 drew 35,578 visitors."},
+    {"field": "dates.next_edition", "url": "https://www.instagram.com/p/DeGoiTQGBAA/", "note": "@artjakarta post (5 Oct 2026): 'Art Jakarta | 1 to 3 Oct 2027'; also Art Jakarta Papers 18 to 21 Feb 2027 and Art Jakarta Gardens 5 to 9 May 2027."},
+    {"field": "ticket_price", "url": "https://www.instagram.com/p/Dd8wL_fmM6O/", "note": "@artjakarta (1 Oct 2026): 'Get your tickets now at artjakarta.com.'"},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/Dd1IrqAmNvt/", "note": "@artjakarta (28 Sep 2026): 'The Living Legacy', AIA's special presentation in collaboration with Iwan Tirta, at Art Jakarta 2 to 4 Oct 2026. A Google result also shows an AIA Facebook post calling AIA 'this year's Main Partner' (year not pinned)."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/Dd5o_qbmKk_/", "note": "Special presentation by iForte and Protelindo Group, 'Hutan Kabel', installation by Agnes Hansella using iForte telecom waste (2026 fair)."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/Dd8jAJOmDfy/", "note": "Special presentation and coffee bar by DJOURNAL x Darbotz at Art Jakarta 2026."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DdyIcX3GPQc/", "note": "AJScope 'MTN Market, presented by the Ministry of Culture of the Republic of Indonesia' (2026 fair)."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DdlQZkahiBs/", "note": "Julius Baer is 'Lead Partner of Art Jakarta for the fifth year' (2026); Julius Baer VIP Lounge with artist Handiwirman Saputra."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/Dd52u9wGIm0/", "note": "Official International Media Partners 2026: ArtReview (this post), Apollo, ArtAsiaPacific, Art+ Magazine, Art & Market (separate posts Sep 2026)."},
+    {"field": "activation_formats", "url": "https://www.instagram.com/p/DdlQZkahiBs/", "note": "Julius Baer VIP Lounge (lounge); DJOURNAL Coffee Bar (hospitality-bar, https://www.instagram.com/p/Dd8pQTlhA3N/); brand special presentations (installation)."}
+  ],
+  "add_gaps": [
+    "No 2026 attendance figure found; latest is 2025 (over 38,000) from an unattributed Instagram headline",
+    "AIA's 'Main Partner' Facebook post is not dated in results; IG confirms AIA as a 2026 special-presentation partner only"
+  ],
+  "remove_gaps": [
+    "Organiser entity and official website not shown in results",
+    "Attendance not in results",
+    "2027 dates not announced"
+  ],
+  "notes": "Organiser, partnership team (Partnership Manager Vicky Rosalina) and 2027 dates (1 to 3 Oct) now sourced. AIA (health and life insurer) ran a 2026 special presentation: the strongest health-category precedent in this batch. Sister events Art Jakarta Gardens (May, Hutan Kota by Plataran; Bakti Budaya Djarum Foundation music stage, Bibit, BCA myBCA Space) and Art Jakarta Papers (Feb) have separate partner sets; the IG bio currently advertises Papers, not the fair."
+}

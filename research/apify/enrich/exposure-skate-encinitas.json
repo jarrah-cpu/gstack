@@ -1,0 +1,38 @@
+{
+  "id": "exposure-skate-encinitas",
+  "set": {
+    "dates": {
+      "last_edition": {"start": "2025-11-01", "end": "2025-11-02", "status": "held", "label": "14th (2025); contest days per the organiser's livestream links"},
+      "next_edition": {"start": "2026-11-06", "end": "2026-11-08", "status": "confirmed", "label": "15th annual (2026); contests on 7 and 8 Nov"},
+      "frequency": "annual",
+      "duration_days": 3
+    },
+    "organiser": {"name": "Exposure Skate", "type": "non-profit", "website": "https://exposureskate.org/"},
+    "audience": {"age_range": null, "gender_skew": "Women, girls and non-binary skaters compete (organiser mission)", "psychographics": "Women's skateboarding community from grassroots to Olympians; 2025 drew 200 competition registrations from 22 countries. Listing claims 28M Instagram reach and 386,000 YouTube views for 2025. Free to watch.", "source": "https://www.anvara.com/listings/exposure-skate"},
+    "partnership_contact": {"email": "amelia.brodka@exposureskate.org", "page_url": "https://exposureskate.org/contact/", "named_person": "Amelia Brodka", "source": "https://exposureskate.org/faqs/"}
+  },
+  "add_sponsors": [
+    {"brand": "Camp Woodward", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DesBNTSBzJE/"},
+    {"brand": "Arctic Fox Hair Color", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/Ddu0RLtMABq/"},
+    {"brand": "Smithsonian Center for Folklife and Cultural Heritage", "years": [2026], "role": "partner", "source": "https://www.anvara.com/listings/exposure-skate"},
+    {"brand": "Vans", "years": [], "role": "partner", "source": "https://www.anvara.com/listings/exposure-skate"},
+    {"brand": "Rockstar Energy", "years": [], "role": "partner", "source": "https://www.anvara.com/listings/exposure-skate"},
+    {"brand": "LA84 Foundation", "years": [], "role": "partner", "source": "https://www.anvara.com/listings/exposure-skate"},
+    {"brand": "City of Encinitas", "years": [], "role": "government", "source": "https://www.anvara.com/listings/exposure-skate"}
+  ],
+  "add_activation_formats": ["workshop", "stage-or-program-takeover", "stall"],
+  "add_sources": [
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DesBNTSBzJE/", "note": "@exposureskate 19 Oct 2026: '@woodwardcamp returns to Exposure 2026 as the Longest Grind/Slide and Learn-to-Skate sponsor!' with a USD 300 camp discount code."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/Ddu0RLtMABq/", "note": "@exposureskate 26 Sep 2026, co-authored with @arcticfoxhaircolor: 'Vert Best Trick at Exposure 2026 will be brought to you by @arcticfoxhaircolor'."},
+    {"field": "sponsors", "url": "https://www.anvara.com/listings/exposure-skate", "note": "Anvara sponsorship listing (Oct 2026): 2026 edition in partnership with the Smithsonian's Center for Folklife and Cultural Heritage (Of the People festival). Past and current partners: Vans, Arctic Fox, Rockstar Energy, Smithsonian, LA84, Woodward, City of Encinitas (years not given)."},
+    {"field": "activation_formats", "url": "https://exposureskate.org/faqs/", "note": "FAQ: setup for 'all vendors and sponsors at Exposure 2026' on site with booths left overnight. Learn-to-Skate clinic sponsored by Woodward; Vert Best Trick brought to you by Arctic Fox. Anvara also lists an athlete lounge and branded game zone as offered activations."},
+    {"field": "organiser", "url": "https://www.instagram.com/exposureskate/", "note": "IG bio: 'A 501(c)(3) nonprofit empowering women, girls and non-binary individuals through skateboarding.'"},
+    {"field": "audience", "url": "https://www.anvara.com/listings/exposure-skate", "note": "2025 track record on the listing: 200 competition registrations, 22 countries, 28M Instagram reach, 386,000 YouTube views, USD 860,000 prize money to date. Figures not labelled as organiser-provided."},
+    {"field": "partnership_contact", "url": "https://exposureskate.org/faqs/", "note": "FAQ: 'How can I sponsor an event? Contact amelia.brodka@exposureskate.org'; media passes via info@exposureskate.org. Facebook (Google snippet) also gives support@exposureskate.org for booth prices and sponsorship inquiries."},
+    {"field": "dates.last_edition", "url": "https://exposureskate.org/", "note": "Homepage links 'Livestream Nov 1, 2025' and 'Livestream Nov 2, 2025' plus a 2025 recap video."},
+    {"field": "dates.next_edition", "url": "https://www.instagram.com/p/DesBNTSBzJE/", "note": "Contest days 'November 7 & 8' at Encinitas Community Park; site says the event is held 6 to 8 Nov 2026."}
+  ],
+  "add_gaps": ["Spectator attendance not published; Anvara figures (200 registrations, 22 countries, 28M IG reach) are not labelled organiser-provided", "Years for Vans, Rockstar Energy, LA84 and City of Encinitas not given on the listing", "Sponsorship pricing on request only"],
+  "remove_gaps": ["Sponsors, attendance and organiser legal type not captured", "No partnership contact captured"],
+  "notes": "Strong fit signal: non-profit women's skate event that sells naming of contest segments (Arctic Fox Hair Color on Vert Best Trick, Woodward on Learn-to-Skate) and lists on Anvara with presenting and per-discipline packages. Organiser's year-round clinics in 2026 also thanked Sun Bum (sunscreen), Tidewell Coffee, 187 Killer Pads, Triple Eight, Arbor and Pro-Tec; not added because those were separate clinic events, not the November contest. IG @exposureskate is correct."
+}

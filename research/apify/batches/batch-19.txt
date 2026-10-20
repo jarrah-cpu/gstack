@@ -1,0 +1,15 @@
+b-us-west-coast	adventure-van-expo-west-coast
+b-us-west-coast	belgian-waffle-ride-california
+b-us-west-coast	bike-summer-pedalpalooza-portland
+b-us-west-coast	boardroom-show-del-mar
+b-us-west-coast	born-free-motorcycle-show
+b-us-west-coast	burning-man-black-rock-city
+b-us-west-coast	climb-smart-joshua-tree
+b-us-west-coast	descend-on-bend
+b-us-west-coast	dirtybird-campout-northern-nights
+b-us-west-coast	exposure-skate-encinitas
+b-us-west-coast	flash-foxy-climbing-festival-bishop
+b-us-west-coast	grinduro-california-quincy
+b-us-west-coast	la-art-book-fair
+b-us-west-coast	lake-tahoe-wellness-festival
+b-us-west-coast	lightning-in-a-bottle

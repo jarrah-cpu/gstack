@@ -1,0 +1,26 @@
+{
+  "id": "makers-market-auckland",
+  "set": {
+    "organiser": {"name": "Good Form (design gallery, Eden Terrace)", "type": null, "website": "https://www.goodform.co.nz/"},
+    "dates": {
+      "last_edition": {"start": "2026-10-10", "end": "2026-10-11", "status": "held", "label": "Makers Market 3.0"},
+      "next_edition": {"start": "2027-03", "end": null, "status": "expected", "label": "Makers Market 4.0 (March expected from the October and March pattern)"},
+      "frequency": "biannual",
+      "duration_days": 2
+    },
+    "audience": {"age_range": null, "gender_skew": null, "psychographics": "Design lovers who value originality, independent practice and small-batch contemporary making: jewellery, ceramics, textiles, object-making, art and design-led homewares.", "source": "https://www.makers-market.co.nz/about"},
+    "partnership_contact": {"email": "emma@goodform.co.nz", "page_url": "https://www.makers-market.co.nz/#Contact", "named_person": null, "source": "https://www.makers-market.co.nz/"}
+  },
+  "add_sponsors": [],
+  "add_activation_formats": [],
+  "add_sources": [
+    {"field": "organiser", "url": "https://www.instagram.com/makersmarketevent/", "note": "IG bio: 'A weekend market style design event held at the @goodform_design gallery'. Eventfinda calls it 'the next evolution of Good Form's bi-annual platform' (https://www.eventfinda.co.nz/2026/makers-market/auckland/eden-terrace, Google snippet)."},
+    {"field": "dates.next_edition", "url": "https://malcolmtaylor.nz/project/markers-market-design-pop-up-at-good-form-gallery", "note": "Google snippet: inaugural Makers Market 11 to 12 Oct 2025. Edition 2.0 was 28 to 29 Mar 2026 (https://www.goodform.co.nz/our-journal/makers-market-edition-2-0-march-28-29, Google snippet); 3.0 was 10 to 11 Oct 2026. March 2027 inferred from that pattern, not announced."},
+    {"field": "dates.frequency", "url": "https://www.makers-market.co.nz/about", "note": "'As a bi-annual event, each edition is carefully composed ...' (editions run in March and October)."},
+    {"field": "audience", "url": "https://www.makers-market.co.nz/about", "note": "About page: 'For those who value originality, independent practice and meaningful making'; disciplines listed."},
+    {"field": "partnership_contact", "url": "https://www.makers-market.co.nz/", "note": "'Enquiries to emma@goodform.co.nz' (general enquiries)."}
+  ],
+  "add_gaps": ["Attendance not published", "No sponsors found; event is run by Good Form gallery", "Ticket price not captured", "Audience age and gender not published"],
+  "remove_gaps": ["Organiser, attendance and sponsors not captured", "No public partnerships contact found"],
+  "notes": "Small, gallery-run curated design market (about 20 creatives at Edition 2.0 per https://www.instagram.com/p/DWa7FnSEulS/) held twice a year at Good Form, Eden Terrace. No sponsors; IG mentions are makers and photographers. Next edition date is an inference from the March and October pattern."
+}

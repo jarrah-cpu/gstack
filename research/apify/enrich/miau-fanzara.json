@@ -1,0 +1,27 @@
+{
+  "id": "miau-fanzara",
+  "set": {
+    "website": "http://www.miaufanzara.org/",
+    "organiser": {"name": "MIAU Fanzara (Museo Inacabado de Arte Urbano), non-profit association", "type": "non-profit", "website": "http://www.miaufanzara.org/"},
+    "dates": {"last_edition": {"start": "2026-07-02", "end": "2026-07-05", "status": "held", "label": "10th edition (2026)"}, "next_edition": {"start": "2027-07", "end": null, "status": "expected", "label": "11th edition (2027)"}, "frequency": "annual", "duration_days": 4},
+    "partnership_contact": {"email": "info@miaufanzara.org", "page_url": "https://miau32.wixsite.com/miaufanzara-2016/contact", "named_person": null, "source": "https://miau32.wixsite.com/miaufanzara-2016/contact"}
+  },
+  "add_sponsors": [
+    {"brand": "Grupo Teimper", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DTM6HdJDIjV/"},
+    {"brand": "Estrella Galicia", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DTM6HdJDIjV/"},
+    {"brand": "UNRWA España", "years": [2025, 2026], "role": "collab", "source": "https://www.instagram.com/p/DaM_bd3sFnZ/"}
+  ],
+  "add_activation_formats": ["workshop", "stall"],
+  "add_sources": [
+    {"field": "website", "url": "https://www.instagram.com/miaufanzara/", "note": "IG profile links http://www.miaufanzara.org/ (crawled as the miau32.wixsite.com site)."},
+    {"field": "organiser", "url": "https://www.instagram.com/miaufanzara/", "note": "IG bio: 'Museo Inacabado de Arte Urbano de Fanzara (MIAU)... proyecto social de convivencia a través del arte. Asociación sin ánimo de lucro'."},
+    {"field": "dates.last_edition", "url": "https://www.facebook.com/groups/768974877292769/posts/2187226148800961/", "note": "Google snippet: 'Hoy, jueves, empieza la décima edición de MIAU Fanzara (2-5 de julio)'. IG posts present the 'X edición' programme."},
+    {"field": "partnership_contact", "url": "https://miau32.wixsite.com/miaufanzara-2016/contact", "note": "Contact page: info@miaufanzara.org, 12230 Castellón. Workshop sign-ups go to a separate address."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DTM6HdJDIjV/", "note": "Google snippet of the 2026 festival call post: 'patrocinadores / colaboradores destacados @grupoteimper @estrellagalicia ...' (truncated)."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DaM_bd3sFnZ/", "note": "30 Jun 2026: renewed alliance with UNRWA España, begun the previous year; UNRWA information stand on 4 Jul and a talk on art and peace."},
+    {"field": "activation_formats", "url": "https://www.instagram.com/p/DaIMdfnDM47/", "note": "Two free workshops in 2026 (graffiti; children's robot keyrings); UNRWA information stand in the church square."}
+  ],
+  "add_gaps": ["Sponsor list comes from a truncated Google snippet; full 2026 sponsor list not captured", "Edition history uneven (started 2014, 10th edition in 2026), so annual frequency is not certain"],
+  "remove_gaps": ["2026 dates are from the artist call; public program not captured", "Organiser not identified", "Website not captured", "No public partnerships contact found"],
+  "notes": "Small village muralism festival run by a non-profit association with a strong social and solidarity angle (UNRWA alliance, Palestine-focused programme in 2026), which may matter for brand-safety review. Sponsors seen: Grupo Teimper and Estrella Galicia (snippet only). IG @miaufanzara is correct."
+}

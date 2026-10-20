@@ -1,0 +1,140 @@
+{
+ "id": "tinta-arte-impreso-santiago",
+ "set": {
+  "dates": {
+   "last_edition": {
+    "start": "2025-11-07",
+    "end": "2025-11-09",
+    "status": "held",
+    "label": "5th edition (2025)"
+   },
+   "next_edition": {
+    "start": "2026-11-06",
+    "end": "2026-11-08",
+    "status": "confirmed",
+    "label": "6th edition (2026)"
+   },
+   "frequency": "annual",
+   "duration_days": 3
+  },
+  "organiser": {
+   "name": "Escuela de Arte UC (Pontificia Universidad Católica de Chile)",
+   "type": "other",
+   "website": "https://escuelaarte.uc.cl/"
+  },
+  "ticket_price": {
+   "min": 0,
+   "max": null,
+   "currency": "CLP",
+   "free_entry": true,
+   "note": "Free entry ('entrada liberada'). Exhibitor tables from CLP 150,000 (2026 call)."
+  }
+ },
+ "add_sponsors": [
+  {
+   "brand": "Facultad de Artes UC",
+   "years": [
+    2025,
+    2026
+   ],
+   "role": "partner",
+   "source": "https://www.instagram.com/p/DehjmK6HG_P/"
+  },
+  {
+   "brand": "Arte Nostro",
+   "years": [
+    2025
+   ],
+   "role": "partner",
+   "source": "https://www.instagram.com/p/DQ5PBDmCaPI/"
+  },
+  {
+   "brand": "Epson Latinoamérica",
+   "years": [
+    2025
+   ],
+   "role": "unknown",
+   "source": "https://www.instagram.com/p/DQ4zp_7iZjy/"
+  },
+  {
+   "brand": "TYM Gráfica",
+   "years": [
+    2025
+   ],
+   "role": "unknown",
+   "source": "https://www.instagram.com/p/DQ4zp_7iZjy/"
+  },
+  {
+   "brand": "Woff",
+   "years": [
+    2025
+   ],
+   "role": "unknown",
+   "source": "https://www.instagram.com/p/DQ4zp_7iZjy/"
+  },
+  {
+   "brand": "Artishock Revista",
+   "years": [
+    2025
+   ],
+   "role": "media",
+   "source": "https://www.instagram.com/p/DQ4zp_7iZjy/"
+  },
+  {
+   "brand": "BioBio TV",
+   "years": [
+    2025
+   ],
+   "role": "media",
+   "source": "https://www.instagram.com/p/DQ4zp_7iZjy/"
+  }
+ ],
+ "add_sources": [
+  {
+   "field": "dates.last_edition",
+   "url": "https://www.instagram.com/p/DQmcLloiblL/",
+   "note": "'Tinta 5 | Feria de Arte Impreso, 7, 8 y 9 de noviembre de 2025, Campus Oriente UC, entrada liberada'."
+  },
+  {
+   "field": "dates.next_edition",
+   "url": "https://www.instagram.com/tintaarteimpreso/",
+   "note": "IG bio: 6, 7 y 8 nov. 2026, 1pm to 8pm, Campus Oriente UC; organised by @escuelaarteuc; posts call it TINTA 6."
+  },
+  {
+   "field": "organiser",
+   "url": "https://www.instagram.com/tintaarteimpreso/",
+   "note": "IG bio: 'Organiza @escuelaarteuc'."
+  },
+  {
+   "field": "ticket_price",
+   "url": "https://escuelaarte.uc.cl/tinta/convocatoria-abierta-feria-tinta-arte-impreso-2026/",
+   "note": "Google snippet: 2026 exhibitor 'TRAMO 1 > $150.000 CLP', one 200 x 80 cm table and two chairs; IG posts confirm free entry."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://www.instagram.com/p/DQ4zp_7iZjy/",
+   "note": "2025 posts end with a credit run of tags: @escuelaarteuc @facultadartesuc @ucatolicaoficial @extensionculturaluc @artishock_revista @biobiotv @epsonlatinoamerica @tymgrafica @woff.oficial @artenostro_chile @mdd_cl; roles not labelled."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://www.instagram.com/p/DQ5PBDmCaPI/",
+   "note": "'agradecimiento especial por el valioso aporte de nuestro colaborador @artenostro_chile'."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://www.instagram.com/p/DehjmK6HG_P/",
+   "note": "2026: 'Colaboran @facultadartesuc'."
+  }
+ ],
+ "add_gaps": [
+  "Event website not confirmed (escuelaarte.uc.cl hosts Tinta pages)",
+  "Attendance not published; 2023 had 90+ exhibitors",
+  "Roles of Epson, TYM Gráfica and Woff in the 2025 credit run not labelled"
+ ],
+ "remove_gaps": [
+  "Frequency assumed annual; edition number not captured",
+  "Organiser, website and Instagram not captured",
+  "Entry price, attendance and sponsors not captured"
+ ],
+ "notes": "University-run (Escuela de Arte UC) free print-art fair, 6th edition 6 to 8 Nov 2026 at Campus Oriente UC; annual since 2021. Brand presence is light (Epson, print and art-supply shops, media partners). Small, academic crowd; limited activation scope."
+}

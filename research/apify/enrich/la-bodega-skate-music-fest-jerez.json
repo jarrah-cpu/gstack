@@ -1,0 +1,44 @@
+{
+  "id": "la-bodega-skate-music-fest-jerez",
+  "set": {
+    "organiser": {"name": "La Bodega Skate Center", "type": "independent", "website": null},
+    "location": {"city": "Jerez de la Frontera", "state_or_region": "Andalusia (Cádiz)", "country": "Spain", "venue_or_area": "La Bodega Skate Center, Calle Cañada Miraflores 47"},
+    "dates": {"last_edition": {"start": "2025-10-11", "end": "2025-10-12", "status": "held", "label": "1st edition (2025)"}, "next_edition": {"start": "2026-10-23", "end": "2026-10-25", "status": "confirmed", "label": "2nd edition (2026)"}, "frequency": "annual", "duration_days": 3},
+    "ticket_price": {"min": 0, "max": 0, "currency": "EUR", "free_entry": true, "note": "Free entry ('ENTRADA GRATUITA') per organiser posts; skaters register for the contest via the link in bio. EUR 7,000 prize pool."}
+  },
+  "add_sponsors": [
+    {"brand": "Ayuntamiento de Jerez", "years": [2025, 2026], "role": "government", "source": "https://www.instagram.com/p/Dedqr2DoFPm/"},
+    {"brand": "Diputación de Cádiz", "years": [2026], "role": "government", "source": "https://www.instagram.com/p/Dedqr2DoFPm/"},
+    {"brand": "Volcom", "years": [2025, 2026], "role": "partner", "source": "https://www.instagram.com/p/Dedqr2DoFPm/"},
+    {"brand": "Red Bull", "years": [2025, 2026], "role": "partner", "source": "https://www.instagram.com/p/Dedqr2DoFPm/"},
+    {"brand": "Caja Rural del Sur (Fundación Caja Rural)", "years": [2025, 2026], "role": "partner", "source": "https://www.instagram.com/p/Dedqr2DoFPm/"},
+    {"brand": "Fundación La Caixa", "years": [2025], "role": "partner", "source": "https://www.instagram.com/p/DP3eguqCF65/"},
+    {"brand": "Estrella Galicia", "years": [2025], "role": "partner", "source": "https://www.instagram.com/p/DP3eguqCF65/"},
+    {"brand": "Somos Lupia", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/Dedqr2DoFPm/"},
+    {"brand": "Vertigo Surf & Skate", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/Dedqr2DoFPm/"},
+    {"brand": "Axpo", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/Dedqr2DoFPm/"},
+    {"brand": "Rótulos Jerez", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/Dedqr2DoFPm/"},
+    {"brand": "JART Skateboards", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/Dedqr2DoFPm/"},
+    {"brand": "Sport 2002 Dist", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/Dedqr2DoFPm/"},
+    {"brand": "Collective Dist", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/Dedqr2DoFPm/"},
+    {"brand": "187 Killer Pads", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/Dedqr2DoFPm/"},
+    {"brand": "SB Ramps", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/Dedqr2DoFPm/"},
+    {"brand": "Blackflys", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DefBOfRxSU6/"},
+    {"brand": "Comité Nacional de Skate (Real Federación Española de Patinaje)", "years": [2026], "role": "collab", "source": "https://www.instagram.com/p/DbLeLQFIF9Y/"}
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {"field": "sponsors", "url": "https://www.instagram.com/p/Dedqr2DoFPm/", "note": "2026 programme post, 'PATROCINA Y COLABORA': Ayuntamiento de Jerez, Diputación de Cádiz, Somos Lupia, Caja Rural del Sur, Vertigo Surf & Skate, Volcom, Red Bull, Comité Nacional Skate, Federación de Patinaje, Rótulos Jerez, Cultura Jerez, JART Skateboards, Sport 2002 Dist, Collective Dist, 187 Killer Pads, SB Ramps, Axpo. Red Bull runs 'Cash for Tricks' (EUR 300)."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DP3eguqCF65/", "note": "1st edition (Oct 2025) thanks 'a los patrocinadores': Ayuntamiento de Jerez, Volcom, Fundación Caja Rural, Fundación La Caixa, Estrella Galicia and Red Bull."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DefBOfRxSU6/", "note": "Best trick of the festival prize: EUR 250 from Blackflys eyewear, chosen by public vote."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DbLeLQFIF9Y/", "note": "July 2026 announcement: 'COLABORA @comitenacionalskate @fedpatinaje'."},
+    {"field": "organiser", "url": "https://www.jerez.es/noticia-simple-portada/el-ayuntamiento-anima-a-la-ciudadania-a-disfrutar-este-fin-de-semana-de-un-evento-pionero-en-la-provincia-como-es-el-primer-la-bodega-skate-music-fest", "note": "Google snippet: 'El Ayuntamiento de Jerez colabora con el centro multicultural La Bodega Skate Center en la celebración de La Bodega Skate & Music Fest'."},
+    {"field": "location", "url": "https://www.planomato.com/es/jerez-de-la-frontera/p/la-bodega-skate-music-fest", "note": "Google snippet: La Bodega Skate Center, calle Cañada Miraflores, 47."},
+    {"field": "dates.last_edition", "url": "https://www.europapress.es/andalucia/jerez-al-dia-01408/noticia-bodega-skate-music-fest-auna-jerez-cadiz-campeones-skate-conciertos-dias-11-12-octubre-20251006182154.html", "note": "Europa Press, 6 Oct 2025: first edition on 11 and 12 October 2025."},
+    {"field": "dates.next_edition", "url": "https://www.instagram.com/p/Dedqr2DoFPm/", "note": "'LA BODEGA SKATE & MUSIC FEST II, 23, 24 y 25 de OCTUBRE, entrada GRATUITA'."},
+    {"field": "ticket_price", "url": "https://www.instagram.com/p/Dedqr2DoFPm/", "note": "Free entry; EUR 7,000 in prizes plus gear for under-16 and under-10."}
+  ],
+  "add_gaps": ["Attendance not published for 2025 or 2026", "No email or partnership page published (phone in IG bio only)"],
+  "remove_gaps": ["Organiser and venue not captured", "Previous editions not dated", "Entry price not captured", "Sponsors not identified"],
+  "notes": "Young event (2nd edition runs 23 to 25 Oct 2026, two days after this check) with an adaptive skate category and a disability-inclusion documentary, which suits a health brand. Sponsors are mostly skate trade plus Red Bull, Volcom, Caja Rural and Axpo. IG @labodegaskate is the skate centre's account, which runs the fest."
+}

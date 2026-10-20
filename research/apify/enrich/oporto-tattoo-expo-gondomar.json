@@ -1,0 +1,53 @@
+{
+  "id": "oporto-tattoo-expo-gondomar",
+  "set": {
+    "website": "https://www.oportotattoo.com/",
+    "organiser": {"name": "FLY Produções", "type": "promoter", "website": null},
+    "dates": {
+      "last_edition": {"start": "2026-03-06", "end": "2026-03-08", "status": "held", "label": "11th edition (2026)"},
+      "next_edition": {"start": "2027-04-02", "end": "2027-04-04", "status": "confirmed", "label": "2027 edition (site bio calls it the 11th)"},
+      "frequency": "annual",
+      "duration_days": 3
+    },
+    "attendance": {"figure": 6000, "figure_high": null, "year": 2026, "is_estimate": false, "source": "https://www.oportotattoo.com/", "note": "Organiser-reported '+6,000 annual visitors' on the official site (generic, not tied to one edition). Before 2026 the organiser also expected about 6,000 visitors and 400 artists."},
+    "partnership_contact": {"email": "comercial@flyproducoes.com", "page_url": "https://www.oportotattoo.com/contact", "named_person": null, "source": "https://www.oportotattoo.com/contact"}
+  },
+  "add_sponsors": [
+    {"brand": "Bigwasp", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DVMB_sLiPKH/"},
+    {"brand": "Bronc Tattoo Supply", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DVMB_sLiPKH/"},
+    {"brand": "Onzs Iberia", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DVOvhnNiCVh/"},
+    {"brand": "Cartuxo tattoo needles", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DVd0RVziI4g/"},
+    {"brand": "Tattoo Spray", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DVL7gX-iBnv/"},
+    {"brand": "Hype Ink Co", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DUYn6iGiHWH/"},
+    {"brand": "Aloetattoo", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DUYnYgMCKzH/"},
+    {"brand": "JCONLY", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DVnt2d8iLQw/"},
+    {"brand": "Emalla", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DVnt2d8iLQw/"},
+    {"brand": "Pepax", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DVnt2d8iLQw/"},
+    {"brand": "Edge Pro Needles", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DVlXBKvCH3c/"},
+    {"brand": "Crazy Tattoo Supplies Valongo", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DTis2fBCP0B/"}
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {"field": "website", "url": "https://www.oportotattoo.com/", "note": "Official site (IG profile link): Oporto Tattoo, 2, 3 and 4 April 2027, Pavilhão Multiusos de Gondomar; '+6,000 annual visitors'."},
+    {"field": "organiser", "url": "https://inkppl.com/pt/tattooevents/2022/junho-2022/oporto-tattoo-expo-2022", "note": "Google snippet: 'A convenção Oporto Tattoo Expo é uma organização da FLY Produções'. Contact page also lists comercial@flyproducoes.com."},
+    {"field": "dates.last_edition", "url": "https://vivacidade.org/noticias/oporto-tattoo-tatuagens-para-todos-os-gostos-em-gondomar", "note": "Google snippet: held in Gondomar from 6 to 8 March (2026) with more than 200 tattoo artists."},
+    {"field": "dates.next_edition", "url": "https://www.instagram.com/oporto_tattoo/", "note": "IG bio: '11th edition, 2nd, 3rd, 4th of April 2027, Pavilhão Multiusos de Gondomar'."},
+    {"field": "attendance", "url": "https://www.oportotattoo.com/", "note": "Homepage stat '+6,000 ANNUAL VISITORS'."},
+    {"field": "partnership_contact", "url": "https://www.oportotattoo.com/contact", "note": "Contact page 'For general enquiries, press or partnerships': comercial@flyproducoes.com, ilidiomoreira@oportotattoo.com and sergiovilares@oportotattoo.com, each with a phone number; info@oportotattoo.com in footer."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DVnt2d8iLQw/", "note": "8 Mar 2026 competition results: 'Sponsors: Cartuxo, Onzs Iberia, Tattoo Spray, Aloetattoo, JCONLY, Emalla, Bigwasp, Bronc Tattoo Supply, Pepax'."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DVlXBKvCH3c/", "note": "7 Mar 2026 results also list Edge Pro Needles among category sponsors."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DTis2fBCP0B/", "note": "15 Jan 2026: Crazy Tattoo Supplies Valongo announced as official tattoo supplier of Oporto Tattoo 2026."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DUYn6iGiHWH/", "note": "Series of 'Obrigado ... por patrocinar a Oporto Tattoo 2026' posts (Hype Ink Co, Aloetattoo, Tattoo Spray, Bigwasp, Bronc, Onzs Iberia, Cartuxo)."}
+  ],
+  "add_gaps": [
+    "Edition numbering conflicts: record calls 2026 the 11th edition, the IG bio calls 2027 the 11th",
+    "Ticket prices not captured (Ticketline)"
+  ],
+  "remove_gaps": [
+    "No public partnerships contact found",
+    "Sources disagree on 2026 dates (5 to 7 Mar vs 6 to 8 Mar)",
+    "2027 dates not announced; March expected from pattern",
+    "Organiser and official website not pinned"
+  ],
+  "notes": "Organiser FLY Produções; contact page explicitly covers partnerships (commercial email). 2027 moves from March to 2 to 4 April. All 2026 sponsors are endemic tattoo supply brands sponsoring competition categories; no non-endemic brands seen. Visitor figure is a generic organiser claim of 6,000+."
+}

@@ -1,0 +1,174 @@
+{
+  "id": "laneway-festival-auckland",
+  "set": {
+    "website": "https://www.lanewayfestival.com/auckland/home",
+    "dates": {
+      "last_edition": {
+        "start": "2026-02-05",
+        "end": "2026-02-05",
+        "status": "held",
+        "label": "2026 (first stop of the tour)"
+      },
+      "next_edition": {
+        "start": "2027-02-21",
+        "end": "2027-02-21",
+        "status": "confirmed",
+        "label": "2027, first NZ finale of the trans-Tasman tour"
+      },
+      "frequency": "annual",
+      "duration_days": 1
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Westpac",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DURa50fE0FG/"
+    },
+    {
+      "brand": "Pandora",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DUHuHGcD8eS/"
+    },
+    {
+      "brand": "YSL Beauty",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DST2VB2jXvm/"
+    },
+    {
+      "brand": "-196 (Suntory)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DTrld8yk4fh/"
+    },
+    {
+      "brand": "Crimson Badger Ginger Bear",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DTJK-FGjLgG/"
+    },
+    {
+      "brand": "NEON",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DT1_OmhlIEB/"
+    },
+    {
+      "brand": "Anew",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DTwNW7gE-uB/"
+    },
+    {
+      "brand": "Real Groovy Records",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DSQtZblDRee/"
+    },
+    {
+      "brand": "Afterpay",
+      "years": [],
+      "role": "partner",
+      "source": "https://www.facebook.com/lanewayfestNZ/posts/its-here-your-laneway2027-lineup-has-landed-tickets-on-sale-now-shrhgbsdrp27/1559338942899861/"
+    }
+  ],
+  "add_activation_formats": [
+    "lounge",
+    "hospitality-bar",
+    "collab-product",
+    "content-series",
+    "competition-or-prize"
+  ],
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://www.lanewayfestival.com/auckland/home",
+      "note": "Read via WebFetch: official Auckland page for Sun 21 Feb 2027 at Western Springs; shows a 'SPONSORED BY' block of unlabelled logos."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.instagram.com/p/DUWtt8JE9YV/",
+      "note": "'Gates for #Laneway2026 in Auckland are now open' posted 4 Feb 2026 23:45 UTC (5 Feb NZDT); earlier post: 'can't wait to be the first stop of #Laneway2026 tomorrow' (https://www.instagram.com/p/DUUmjP2E9Jy/)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DURa50fE0FG/",
+      "note": "Feb 2026: 'Westpac customers can enjoy priority entry, fast-lane bars & exclusive access to Westpac House'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DUHuHGcD8eS/",
+      "note": "'Our exclusive jewellery partner @theofficialpandora' at Laneway NZ 2026."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DST2VB2jXvm/",
+      "note": "Dec 2025 giveaway with 'our beauty & fragrance partner @yslbeauty' for Laneway 2026."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DTrld8yk4fh/",
+      "note": "'Stop by the @Minus196NZ Konbini Bar' at Laneway Auckland 2026."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DTJK-FGjLgG/",
+      "note": "Crimson Badger Ginger Bear 'heading to Laneway Festival Auckland as the official alcoholic ginger beer partner'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DT1_OmhlIEB/",
+      "note": "NEON onsite with the 'NEON Laneway Live Stream' crowd feed and free subscription offer."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DTwNW7gE-uB/",
+      "note": "'@choose_anew is back with Laneway 2026 limited edition bottles' plus Anew water refill stations on site; 'back' implies an earlier edition too."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DSQtZblDRee/",
+      "note": "Vinyl prizes 'courtesy of our pals at @realgroovyrecords'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.facebook.com/lanewayfestNZ/posts/its-here-your-laneway2027-lineup-has-landed-tickets-on-sale-now-shrhgbsdrp27/1559338942899861/",
+      "note": "Google snippet: 'Laneway Festival pre-sale presented by Afterpay'; edition year not clear from the snippet."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/DURa50fE0FG/",
+      "note": "Westpac House lounge and fast-lane bars; -196 Konbini Bar; Anew limited-edition bottles; NEON live stream; YSL giveaway."
+    }
+  ],
+  "add_gaps": [
+    "Organiser or promoter entity not captured",
+    "Sponsor names come from IG posts; the official site shows only unlabelled sponsor logos",
+    "No partnerships contact captured"
+  ],
+  "remove_gaps": [
+    "Organiser entity and official website not captured",
+    "2026 Auckland edition dates not captured",
+    "Sponsor roster not found"
+  ],
+  "notes": "Laneway Auckland 2026 ran Thu 5 Feb 2026 at Western Springs. Brand-heavy 2026 activations (Westpac House lounge, Pandora, YSL Beauty, -196 bar, Anew water refills). Anew hydration stations and the festival naming @skinnies_co sunscreen as 'our go-to' (https://www.instagram.com/p/DUUjLYmk-qo/, not added as no partner wording) show health-adjacent space. $1 per ticket goes to a Solar Slice fund; 2026 charity partners Rainbow Youth and InsideOUT (beneficiaries, not sponsors). IG @lanewayfestnz is correct."
+}

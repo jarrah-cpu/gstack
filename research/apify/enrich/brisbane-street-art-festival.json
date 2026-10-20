@@ -1,0 +1,225 @@
+{
+  "id": "brisbane-street-art-festival",
+  "set": {
+    "status": "on-hiatus",
+    "website": "https://bsafest.com.au/",
+    "dates": {
+      "last_edition": {
+        "start": "2025",
+        "end": null,
+        "status": "held",
+        "label": "10th edition (2025)"
+      },
+      "next_edition": {
+        "start": null,
+        "end": null,
+        "status": "unknown",
+        "label": "On hold; 2026 edition cancelled and no date set for the next"
+      },
+      "frequency": "annual",
+      "duration_days": null
+    },
+    "organiser": {
+      "name": "Vast Yonder (Lincoln Savage and Joelle Wong)",
+      "type": "independent",
+      "website": "https://vastyonder.com/"
+    },
+    "partnership_contact": {
+      "email": "hello@bsafest.com.au",
+      "page_url": "https://bsafest.com.au/return",
+      "named_person": null,
+      "source": "https://bsafest.com.au/partners"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Brisbane City Council",
+      "years": [],
+      "role": "government",
+      "source": "https://bsafest.com.au/partners"
+    },
+    {
+      "brand": "Arts Queensland",
+      "years": [],
+      "role": "government",
+      "source": "https://bsafest.com.au/partners"
+    },
+    {
+      "brand": "Economic Development Queensland",
+      "years": [],
+      "role": "government",
+      "source": "https://bsafest.com.au/impact"
+    },
+    {
+      "brand": "Queensland University of Technology (QUT)",
+      "years": [],
+      "role": "partner",
+      "source": "https://bsafest.com.au/partners"
+    },
+    {
+      "brand": "Brisbane Airport",
+      "years": [],
+      "role": "partner",
+      "source": "https://bsafest.com.au/partners"
+    },
+    {
+      "brand": "Telstra",
+      "years": [],
+      "role": "partner",
+      "source": "https://bsafest.com.au/partners"
+    },
+    {
+      "brand": "Energex",
+      "years": [],
+      "role": "partner",
+      "source": "https://bsafest.com.au/partners"
+    },
+    {
+      "brand": "Ironlak",
+      "years": [],
+      "role": "partner",
+      "source": "https://bsafest.com.au/partners"
+    },
+    {
+      "brand": "Montana Colours",
+      "years": [],
+      "role": "partner",
+      "source": "https://bsafest.com.au/partners"
+    },
+    {
+      "brand": "Resene",
+      "years": [],
+      "role": "partner",
+      "source": "https://bsafest.com.au/partners"
+    },
+    {
+      "brand": "Taubmans",
+      "years": [],
+      "role": "partner",
+      "source": "https://bsafest.com.au/partners"
+    },
+    {
+      "brand": "Felons Brewing Co",
+      "years": [],
+      "role": "partner",
+      "source": "https://bsafest.com.au/partners"
+    },
+    {
+      "brand": "Young Henrys",
+      "years": [],
+      "role": "partner",
+      "source": "https://bsafest.com.au/partners"
+    },
+    {
+      "brand": "Stone & Wood",
+      "years": [],
+      "role": "partner",
+      "source": "https://bsafest.com.au/partners"
+    },
+    {
+      "brand": "Mountain Goat",
+      "years": [],
+      "role": "partner",
+      "source": "https://bsafest.com.au/partners"
+    },
+    {
+      "brand": "Howard Smith Wharves",
+      "years": [],
+      "role": "venue",
+      "source": "https://bsafest.com.au/partners"
+    },
+    {
+      "brand": "Northshore Brisbane",
+      "years": [],
+      "role": "venue",
+      "source": "https://bsafest.com.au/partners"
+    },
+    {
+      "brand": "Mirvac",
+      "years": [],
+      "role": "partner",
+      "source": "https://bsafest.com.au/partners"
+    },
+    {
+      "brand": "Brisbane BMW",
+      "years": [],
+      "role": "partner",
+      "source": "https://bsafest.com.au/partners"
+    }
+  ],
+  "add_sources": [
+    {
+      "field": "status",
+      "url": "https://www.brisbanetimes.com.au/national/queensland/this-is-a-pause-not-a-full-stop-brisbane-street-art-festival-cancelled-20260303-p5o777.html",
+      "note": "Brisbane Times (3 Mar 2026): festival cancelled its 2026 event; 'This is a pause, not a full stop' (Google snippet)."
+    },
+    {
+      "field": "status",
+      "url": "https://bsafest.com.au/return",
+      "note": "Official site: ran every year from 2016 to 2025; 'No festival ran in 2026, and no date has been set for the next one' (Google snippet)."
+    },
+    {
+      "field": "status",
+      "url": "https://bsafest.com.au/impact",
+      "note": "Impact page: 'BSAF is on hold. There is no date for the next edition.'"
+    },
+    {
+      "field": "dates",
+      "url": "https://bsafest.com.au/return",
+      "note": "Ten editions 2016 to 2025; none in 2026."
+    },
+    {
+      "field": "website",
+      "url": "https://bsafest.com.au/",
+      "note": "Official site: Australia's largest street art festival by documented murals, 320 murals over ten editions."
+    },
+    {
+      "field": "organiser",
+      "url": "https://bsafest.com.au/brisbane-street-art",
+      "note": "Google snippet: walls 'produced by Vast Yonder'."
+    },
+    {
+      "field": "organiser",
+      "url": "https://vastyonder.com/ventures/brisbane-street-art-festival",
+      "note": "Vast Yonder ventures page for BSAF (Google snippet)."
+    },
+    {
+      "field": "organiser",
+      "url": "https://www.facebook.com/BrisbaneStreetArt/",
+      "note": "Google snippet: official statement signed 'Lincoln Savage & Joelle Wong, Brisbane Street Art Festival'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://bsafest.com.au/partners",
+      "note": "Partners page: 'More than 175 partners and supporters backed the festival'; names listed by category without tiers or years (government, paint, drinks, venues, arts, automotive, services)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://bsafest.com.au/impact",
+      "note": "Impact page names Howard Smith Wharves, Economic Development Queensland, Mirvac, RNA (Brisbane Showgrounds) and QUT."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://vastyonder.com/ventures/brisbane-street-art-festival",
+      "note": "Google snippet: 'Partners included Brisbane City Council, QUT, Brisbane Airport and Arts Queensland.'"
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://bsafest.com.au/return",
+      "note": "'Back the festival' page invites support for a return; contact email hello@bsafest.com.au on impact and partners pages."
+    }
+  ],
+  "remove_gaps": [
+    "Organiser and website not found",
+    "Sponsors not found",
+    "No public partnerships contact found",
+    "End date conflicts: Visit Brisbane says 17 May 2026, a hotel listing says 9 May",
+    "Organiser still not named; confirm with an official festival source"
+  ],
+  "add_gaps": [
+    "Only published reach figure is a 2021 IER evaluation for TEQ: 1,094,004 public mural viewings, 1 to 16 May 2021, from festival-supplied estimates (a viewing is not a unique person); attendance left null",
+    "2025 edition dates not captured",
+    "Partner years and tiers not published; sponsors recorded without years (2016 to 2025 editions)"
+  ],
+  "notes": "Key correction: the 2026 edition was cancelled (Brisbane Times, 3 Mar 2026) and the site says BSAF is on hold with no next date, so the record's 2026 'held' dates were wrong. Status set to on-hiatus and dates reset. Produced by Vast Yonder; 175+ past partners incl. Young Henrys, Stone & Wood, Ironlak, Telstra, Brisbane Airport. Site actively seeks backers to return (hello@bsafest.com.au), which may be an opening. Candidate for archive review."
+}

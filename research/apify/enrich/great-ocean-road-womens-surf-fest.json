@@ -1,0 +1,244 @@
+{
+  "id": "great-ocean-road-womens-surf-fest",
+  "set": {
+    "dates": {
+      "last_edition": {
+        "start": "2025-11-15",
+        "end": "2025-11-16",
+        "status": "held",
+        "label": "2nd edition (2025)"
+      },
+      "next_edition": {
+        "start": "2026-11-07",
+        "end": "2026-11-08",
+        "status": "confirmed",
+        "label": "3rd edition (2026)"
+      },
+      "frequency": "annual",
+      "duration_days": 2
+    },
+    "attendance": {
+      "figure": 15000,
+      "figure_high": null,
+      "year": 2024,
+      "is_estimate": false,
+      "source": "https://www.facebook.com/surfingvictoria/posts/save-the-date-the-great-ocean-road-womens-surf-fest-is-back-in-2025-for-another-/1185398443626525/",
+      "note": "Organiser-reported (Surfing Victoria): 'crowd of over 15,000 attendees across the two-day celebration', from its 2025 save-the-date post, so it refers to the 2024 first edition. Google snippet only. 2025 wrap reported 500+ entries across lessons, comp and workshops."
+    },
+    "audience": {
+      "age_range": null,
+      "gender_skew": "Women and girls",
+      "psychographics": "Women and girls of all surfing levels, from first lessons to competition; program blends surfing with wellness (beach yoga, women's health talks, cycle-aware surf workshops) and a local makers market.",
+      "source": "https://www.instagram.com/p/DRBc9u3k-qY/"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Surf Coast Events",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/Dd6EeJAlwvu/"
+    },
+    {
+      "brand": "Victorian Government",
+      "years": [
+        2025
+      ],
+      "role": "government",
+      "source": "https://www.instagram.com/p/DQvj65gDlBH/"
+    },
+    {
+      "brand": "Torquay Dental",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/Dd6EeJAlwvu/"
+    },
+    {
+      "brand": "South Coast Surfboards by Chiz",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/Dd6EeJAlwvu/"
+    },
+    {
+      "brand": "Honu Honi Surf Camps",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/Dd6EeJAlwvu/"
+    },
+    {
+      "brand": "Atmosea",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DQvj65gDlBH/"
+    },
+    {
+      "brand": "Great Ocean Road Holidays",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/Dd6EeJAlwvu/"
+    },
+    {
+      "brand": "Surf Her Way",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/Dd6EeJAlwvu/"
+    },
+    {
+      "brand": "Surf Coast Womens Boardriders",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/Dd6EeJAlwvu/"
+    },
+    {
+      "brand": "YETI Australia",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DREmxDAE3IS/"
+    },
+    {
+      "brand": "About Time Bathhouse",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DRBeZ7LEhEf/"
+    },
+    {
+      "brand": "RED Equipment",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/Dd6EeJAlwvu/"
+    },
+    {
+      "brand": "Ocean Grind",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/Dd6EeJAlwvu/"
+    },
+    {
+      "brand": "Love Lorne",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DZCLsi5gBjD/"
+    },
+    {
+      "brand": "HAH Lorne Beach",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DZCLsi5gBjD/"
+    }
+  ],
+  "add_activation_formats": [
+    "stage-or-program-takeover"
+  ],
+  "add_sources": [
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.instagram.com/p/DQvj65gDlBH/",
+      "note": "Organiser post: 'November 15 & 16, 2025' (repeated across Nov 2025 posts; a Surfing Victoria article had said 14 and 15 Nov)."
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.instagram.com/p/DZCLsi5gBjD/",
+      "note": "Organiser post, 1 Jun 2026: '2026 Great Ocean Road Women's Surf Fest is officially locked in! November 7 & 8, 2026'. IG bio says the same."
+    },
+    {
+      "field": "attendance",
+      "url": "https://www.facebook.com/surfingvictoria/posts/save-the-date-the-great-ocean-road-womens-surf-fest-is-back-in-2025-for-another-/1185398443626525/",
+      "note": "Google snippet of Surfing Victoria's 2025 save-the-date post: 'crowd of over 15,000 attendees across the two-day celebration!'"
+    },
+    {
+      "field": "audience",
+      "url": "https://www.instagram.com/p/DRBc9u3k-qY/",
+      "note": "Organiser post: beach yoga and Honu Honi workshops incl. 'Ride the Wave: Understanding Your Cycle in Surfing'."
+    },
+    {
+      "field": "audience",
+      "url": "https://www.instagram.com/p/DQ3gnaQj57C/",
+      "note": "Organiser post: Women's Health Group Surf Coast talk on physical health and surfing."
+    },
+    {
+      "field": "audience",
+      "url": "https://www.instagram.com/p/DZJ09dpkhhp/",
+      "note": "Organiser post: stall EOI invites wellness brands; festival 'celebrating surfing, wellness and community'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DQvj65gDlBH/",
+      "note": "2025 posts: 'Supported by @surfcoast_events, Victorian Government, @torquaydental, @southcoast_surfboardsbychiz, @honuhonisurfcamps, @atmosea_, @greatoceanroadholidays @surfherway and @surfcoastwomensboardriders'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/Dd6EeJAlwvu/",
+      "note": "2026 posts: supported by Surf Coast Events, Torquay Dental, RED Equipment, South Coast Surfboards by Chiz, Ocean Grind, Honu Honi Surf Camps, Great Ocean Road Holidays, Surf Her Way, Surf Coast Womens Boardriders; GOR Holidays 'proud to sponsor'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DZCLsi5gBjD/",
+      "note": "Jun 2026 posts: 'Supported by @surfcoast_events, @lovelorne, @hahlornebeach and @surfcoastwomensboardriders'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DREmxDAE3IS/",
+      "note": "2025 post: Isabella Nichols presented prizes from @atmosea_ and @yeti_au."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DRBeZ7LEhEf/",
+      "note": "2025 post: About Time Bathhouse double passes drawn in the Torquay Dental Surfers Hub."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://surfingvic.com/great-ocean-road-womens-surf-fest-dates-confirmed-for-2025/",
+      "note": "Page read: 2025 'supported by Surf Coast Events, Victorian Government, Surf Her Way and Surf Coast Womens Boardriders Club'."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/DdTP_wjl3qB/",
+      "note": "2026 lineup post: 'The @torquaydental Surfers Hub' (named talks and workshop stage) and 'The @redequipment Surf Comp'."
+    }
+  ],
+  "remove_gaps": [
+    "Sources conflict on 2026 dates (7 and 8 Nov per EOI form vs 15 and 16 Nov in older Surfing Victoria copy)",
+    "2025 exact dates not captured",
+    "Instagram and full sponsor list not captured"
+  ],
+  "add_gaps": [
+    "15,000 attendance figure rests on a Google snippet of a Surfing Victoria Facebook post, not a page read",
+    "Sponsorship tiers and a partnerships contact not published"
+  ],
+  "notes": "Strong HG fit: women's surf plus wellness program, and a dental practice (Torquay Dental) names the Surfers Hub talks stage, a direct health-brand precedent. 15 partners added from organiser posts (2025 and 2026). 2025 ran 15 and 16 Nov per organiser posts; 2026 confirmed 7 and 8 Nov. Ghanda (2024 presenting) does not appear in 2025 or 2026 posts."
+}

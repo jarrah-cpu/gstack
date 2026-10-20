@@ -1,0 +1,111 @@
+{
+  "id": "mindil-beach-sunset-market-darwin",
+  "set": {
+    "organiser": {
+      "name": "Mindil Beach Sunset Market Association",
+      "type": "non-profit",
+      "website": "https://mindil.com.au/"
+    },
+    "partnership_contact": {
+      "email": "admin@mindil.com.au",
+      "page_url": "https://mindil.com.au/contact/",
+      "named_person": null,
+      "source": "https://mindil.com.au/contact/"
+    },
+    "dates": {
+      "last_edition": {
+        "start": "2026-04-30",
+        "end": "2026-10-29",
+        "status": "confirmed",
+        "label": "2026 dry season, Thursdays and Sundays 4pm to 9pm; final night 29 Oct"
+      },
+      "next_edition": {
+        "start": "2027-04",
+        "end": null,
+        "status": "expected",
+        "label": "2027 season (Mindil turns 40)"
+      },
+      "frequency": "seasonal",
+      "duration_days": null
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "City of Darwin",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://mindil.com.au/about/"
+    },
+    {
+      "brand": "Northern Territory Government",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://mindil.com.au/about/"
+    },
+    {
+      "brand": "Santos",
+      "years": [
+        2026
+      ],
+      "role": "collab",
+      "source": "https://www.instagram.com/p/DYDtyHejzdr/"
+    }
+  ],
+  "add_activation_formats": [
+    "stage-or-program-takeover",
+    "competition-or-prize"
+  ],
+  "add_sources": [
+    {
+      "field": "organiser",
+      "url": "https://mindil.com.au/about/",
+      "note": "About page: founded 1987, managed by the not-for-profit Mindil Beach Sunset Market Association; last Thursday in April to last Thursday in October"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://mindil.com.au/about/",
+      "note": "'Thank you to our sponsors': City of Darwin, Northern Territory Government"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://mindil.com.au/community-and-sponsors/",
+      "note": "City of Darwin and St John Ambulance named as major supporters and stakeholders; sponsors City of Darwin and NT Government"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DYDtyHejzdr/",
+      "note": "Bass in the Grass post co-authored with @mindilmarket: Santos BASS x Footy Night at Mindil, Thu 14 May 2026, free, with BASSment stage, AFL player appearances, ticket and merch giveaways, Santos lounging zone"
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/DYDtyHejzdr/",
+      "note": "Santos BASS x Footy Night: stage takeover, Santos lounge zone, AFL ticket and merch giveaways"
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://mindil.com.au/contact/",
+      "note": "Contact form has a 'Sponsorship opportunities' enquiry type; phone (08) 8981 3454"
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://mindil.com.au/",
+      "note": "admin@mindil.com.au on homepage; 'Want to support us? We're always looking for businesses and organisations to get involved'"
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://mindil.com.au/",
+      "note": "Homepage: 'Mindil turns 40 in 2027'"
+    }
+  ],
+  "remove_gaps": [
+    "Organiser entity not named in results"
+  ],
+  "add_gaps": [
+    "Only government sponsors listed on the site; no commercial sponsors named"
+  ],
+  "notes": "Organiser is the not-for-profit Mindil Beach Sunset Market Association. Sponsors on site are City of Darwin and NT Government only; Santos activated a lounge zone at Mindil via Bass in the Grass (14 May 2026), a precedent for brand activations. Contact form has a sponsorship enquiry option. Mindil's 40th year is 2027. St John Ambulance (first aid) not added as a sponsor."
+}

@@ -1,0 +1,202 @@
+{
+  "id": "the-traka-girona",
+  "set": {
+    "website": "https://www.thetraka.com/",
+    "organiser": {
+      "name": "Klassmark No Nature No Future, S.L.",
+      "type": "promoter",
+      "website": "https://www.thetraka.com/"
+    },
+    "dates": {
+      "last_edition": {
+        "start": "2026-04-30",
+        "end": "2026-05-03",
+        "status": "held",
+        "label": "2026: four days of racing, Traka 360 on 1 May, Traka 200 on 2 May"
+      },
+      "next_edition": {
+        "start": "2027-04-30",
+        "end": "2027-05-02",
+        "status": "confirmed",
+        "label": "2027 (Traka 200, 300, 100)"
+      },
+      "frequency": "annual",
+      "duration_days": 3
+    },
+    "attendance": {
+      "figure": 4500,
+      "figure_high": null,
+      "year": 2026,
+      "is_estimate": false,
+      "source": "https://www.instagram.com/p/DXckHiSIlMD/",
+      "note": "Organiser-reported: 'Thank you to the 4,500 participants' (riders across all distances, posted on 22 Apr 2026, just before the 2026 edition). Spectator numbers not published."
+    },
+    "ticket_price": {
+      "min": null,
+      "max": null,
+      "currency": "EUR",
+      "free_entry": null,
+      "note": "2026 race entry: Traka 360 EUR 250 (Open and Pro), Traka 200 Pro EUR 200 (Rockthesport, Google snippet). Other distances not captured. Spectating is on public roads."
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Northwave",
+      "years": [
+        2026,
+        2027
+      ],
+      "role": "partner",
+      "source": "https://www.tradebike.es/Articulos/619767-Northwave-sera-patrocinador-oficial-de-The-Traka-en-las-ediciones-2026-y-2027.html"
+    },
+    {
+      "brand": "Pas Normal Studios",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DX6c9whiDKM/"
+    },
+    {
+      "brand": "Canyon",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DX6c9whiDKM/"
+    },
+    {
+      "brand": "SRAM",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DX6c9whiDKM/"
+    },
+    {
+      "brand": "Zipp",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DX6c9whiDKM/"
+    },
+    {
+      "brand": "226ERS",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DX6c9whiDKM/"
+    },
+    {
+      "brand": "Garmin",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DX6c9whiDKM/"
+    },
+    {
+      "brand": "Smith",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DX6c9whiDKM/"
+    },
+    {
+      "brand": "Hutchinson",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DX6c9whiDKM/"
+    },
+    {
+      "brand": "Muc-Off",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DX6c9whiDKM/"
+    },
+    {
+      "brand": "Ride with GPS",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DX6c9whiDKM/"
+    },
+    {
+      "brand": "Yamaha",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DX6c9whiDKM/"
+    }
+  ],
+  "add_activation_formats": [
+    "stall"
+  ],
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://www.thetraka.com/es/aviso-legal/",
+      "note": "Official site thetraka.com; legal notice names the operating company."
+    },
+    {
+      "field": "organiser",
+      "url": "https://www.thetraka.com/es/aviso-legal/",
+      "note": "'Empresa: KLASSMARK NO NATURE NO FUTURE, S.L.; Nombre comercial: THE TRAKA'; registered in Girona; Google snippet."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://web.rockthesport.com/es/event/the-traka-2026",
+      "note": "Registration page: The Traka 2026 from 30 Apr 2026; Traka 360 on 01/05/26, Traka 200 on 02/05/26; Google snippet."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.idlprocycling.com/cycling/the-traka-festival-review-how-did-the-pros-and-ex-pros-fare-on-the-girona-gravel",
+      "note": "'The Traka festival wrapped up in Girona on Sunday. Over four days of racing' (5 May 2026); Google snippet."
+    },
+    {
+      "field": "attendance",
+      "url": "https://www.instagram.com/p/DXckHiSIlMD/",
+      "note": "Event IG, 22 Apr 2026: 'Thank you to the 4,500 participants'."
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://web.rockthesport.com/es/event/the-traka-2026",
+      "note": "'THE TRAKA 360 - OPEN EUR 250.00; THE TRAKA 360 - PRO EUR 250.00; THE TRAKA 200 - PRO EUR 200.00'; Google snippet."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DX6c9whiDKM/",
+      "note": "4 May 2026: 'Thanks to our partners Pas Normal Studios, Canyon, SRAM, Zipp, 226ERS, Garmin, Smith, Hutchinson, Northwave, Muc-Off, Ride with GPS and Yamaha'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.tradebike.es/Articulos/619767-Northwave-sera-patrocinador-oficial-de-The-Traka-en-las-ediciones-2026-y-2027.html",
+      "note": "Northwave official sponsor of The Traka for 2026 and 2027 (21 Jan 2026); Google snippet."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/DW7_QeGiGTk/",
+      "note": "Northwave announcement: 'an incredible activation at their stand'."
+    }
+  ],
+  "add_gaps": [
+    "Spectator numbers not published",
+    "Sponsor tiers not published (IG thanks lists partners without tiers)"
+  ],
+  "remove_gaps": [
+    "Participant and spectator numbers not captured",
+    "Sponsors not captured",
+    "Official website not captured",
+    "Exact 2026 dates not captured"
+  ],
+  "notes": "There is a strong endemic partner roster: 12 cycling and outdoor brands thanked as 2026 partners, and Northwave has a 2026 and 2027 deal with a stand activation. 4,500 riders is organiser-reported. The Traka is part of Gravel Earth Series and runs spin-off events 'by The Traka' (Santa Vall, Ranxo Gravel, Gravel Desert, The River)."
+}

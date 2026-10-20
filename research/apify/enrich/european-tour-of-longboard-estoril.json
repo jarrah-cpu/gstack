@@ -1,0 +1,18 @@
+{
+  "id": "european-tour-of-longboard-estoril",
+  "set": {
+    "partnership_contact": {"email": "contact@eurosurfing.org", "page_url": "https://www.eurosurfing.org/contact", "named_person": null, "source": "https://www.eurosurfing.org/contact"}
+  },
+  "add_sponsors": [],
+  "add_activation_formats": [],
+  "add_sources": [
+    {"field": "partnership_contact", "url": "https://www.eurosurfing.org/contact", "note": "European Surfing Federation contact page (Lacanau, France): contact@eurosurfing.org. Federation-level general contact, not event-specific."}
+  ],
+  "add_gaps": [
+    "Only the European Surfing Federation's general contact found; no local organiser or event contact for the Estoril stop"
+  ],
+  "remove_gaps": [
+    "No public partnerships contact found"
+  ],
+  "notes": "Very thin evidence. No Instagram account found; ESF site crawl and Google results do not mention an ETL Estoril 2026 stop, sponsors or attendance. Local longboard activity in Estoril runs through Surfing Clube de Portugal and the Estoril Surf Festival (national longboard finals at São Pedro do Estoril), which may be the local host. Orchestrator should check the 30 Oct to 1 Nov 2026 stop is real."
+}

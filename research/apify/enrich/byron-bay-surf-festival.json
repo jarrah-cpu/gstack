@@ -1,0 +1,140 @@
+{
+  "id": "byron-bay-surf-festival",
+  "set": {
+    "website": null,
+    "organiser": {
+      "name": "Byron Bay Surf Festival (founder and organiser James McMillan)",
+      "type": "independent",
+      "website": null
+    },
+    "dates": {
+      "last_edition": {
+        "start": "2026-08-28",
+        "end": "2026-08-30",
+        "status": "unknown",
+        "label": "2026 (listed by VisitNSW; organiser has not confirmed it ran)"
+      },
+      "next_edition": {
+        "start": "2027-08",
+        "end": null,
+        "status": "expected",
+        "label": "2027"
+      },
+      "frequency": "annual",
+      "duration_days": 3
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Hydro Flask",
+      "years": [
+        2024
+      ],
+      "role": "presenting",
+      "source": "https://events.humanitix.com/2024-byron-bay-surf-festival"
+    },
+    {
+      "brand": "Golden Breed",
+      "years": [
+        2020
+      ],
+      "role": "partner",
+      "source": "https://www.facebook.com/goldenbreedsurf/posts/the-byronbaysurffestival-is-celebrating-its-45th-year-and-were-proud-to-be-on-bo/1483337156493384/"
+    },
+    {
+      "brand": "Merlo Coffee",
+      "years": [],
+      "role": "partner",
+      "source": "https://www.facebook.com/groups/99148475798/posts/10161053797540799/"
+    },
+    {
+      "brand": "MINI",
+      "years": [],
+      "role": "partner",
+      "source": "https://www.byronbayfn.com.au/events/whats-on-byron-bay-surf-festival/"
+    },
+    {
+      "brand": "The Sunseeker Byron Bay",
+      "years": [],
+      "role": "venue",
+      "source": "https://thesunseeker.com.au/pages/good-trouble-flowhive-surffest"
+    }
+  ],
+  "add_activation_formats": [
+    "naming-rights",
+    "stage-or-program-takeover"
+  ],
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://ww17.byronbaysurffestival.com.au/",
+      "note": "Oct 2026 crawl: byronbaysurffestival.com.au is a parked page saying the domain is for sale. The IG profile now links to a Climate Active listing instead."
+    },
+    {
+      "field": "organiser",
+      "url": "https://ww17.byronbaysurffestival.com.au/",
+      "note": "Organiser website set to null because the domain has lapsed and is for sale."
+    },
+    {
+      "field": "dates",
+      "url": "https://www.instagram.com/byronbaysurffestival/",
+      "note": "Google snippet of the IG profile: 'unfortunately we won't be holding the Byron Bay Surf Festival in 2025'. Current IG bio (Oct 2026 scrape) still reads 'Dates coming soon'."
+    },
+    {
+      "field": "dates",
+      "url": "https://www.instagram.com/p/DcclOaWs7R3/",
+      "note": "Only post since Oct 2025 (25 Aug 2026), captioned 'BBSF 2026 and 2027', three days before the listed 2026 dates; content of the video not read."
+    },
+    {
+      "field": "dates",
+      "url": "https://byronbay.com/byron-bay-annual-festivals-and-events/",
+      "note": "Google snippet: 'The Byron Bay Surf Festival will not be held in 2025 but will ...'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://events.humanitix.com/2024-byron-bay-surf-festival",
+      "note": "Google snippet: '2024 Byron Bay Surf Festival presented by Hydro Flask hosted by World Surfaris Events'."
+    },
+    {
+      "field": "sponsors",
+      "url": "http://weareflip.com/case-study/byron-bay-surf-festival/",
+      "note": "Agency case study shows a cap branded 'Byron Bay Surf Festival presented by Hydro Flask' (Google snippet)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.facebook.com/goldenbreedsurf/posts/the-byronbaysurffestival-is-celebrating-its-45th-year-and-were-proud-to-be-on-bo/1483337156493384/",
+      "note": "Golden Breed post 'proud to be on board' with the festival, dated Feb 14 to 16 2020 (Google snippet)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.facebook.com/groups/99148475798/posts/10161053797540799/",
+      "note": "Group post: 'Wategos Wizards Blokes Logger & Mixed Old Mal presented by @merlocoffee' during an 8 to 11 September edition; year not shown (Google snippet)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.byronbayfn.com.au/events/whats-on-byron-bay-surf-festival/",
+      "note": "What's On listing: an evening session 'Presented by MINI and Stone & Wood' at Denning Park; year not shown (Google snippet)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://thesunseeker.com.au/pages/good-trouble-flowhive-surffest",
+      "note": "The Sunseeker hotel 'was honoured to host some electrifying events as part of The Byron Bay Surf Festival' (Good Trouble Surffest); year not shown (Google snippet)."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://events.humanitix.com/2024-byron-bay-surf-festival",
+      "note": "Presenting naming rights (Hydro Flask 2024) and brand-presented divisions and sessions (Merlo Coffee, MINI with Stone & Wood)."
+    }
+  ],
+  "add_gaps": [
+    "Whether the 2026 edition ran is unconfirmed: 2025 was cancelled, the IG bio still says 'Dates coming soon' and the account posted once in the past year",
+    "Official website lapsed (domain parked for sale in Oct 2026); no replacement site found",
+    "Years not shown for the Merlo Coffee, MINI and Sunseeker partnerships",
+    "World Surfaris Events hosted 2024 registrations on Humanitix; its organising role is unclear"
+  ],
+  "remove_gaps": [
+    "Website domain was named in search results, not opened",
+    "Official website not identified in search results"
+  ],
+  "notes": "Organiser cancelled 2025 (IG snippet) and the 2026 edition is unconfirmed; official domain is now parked for sale, so website set to null. Consider on-hiatus. Hydro Flask was 2024 presenting partner. Stone & Wood also co-presented a session (year unknown); it is already on the record as a 2011 venue, so not re-added."
+}

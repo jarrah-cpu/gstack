@@ -1,0 +1,134 @@
+{
+  "id": "bleach-festival-gold-coast",
+  "set": {
+    "ticket_price": {
+      "min": 0,
+      "max": 89,
+      "currency": "AUD",
+      "free_entry": true,
+      "note": "2026 program page shows many FREE events and ticketed items listed at '$0 - $89 pp'."
+    },
+    "partnership_contact": {
+      "email": null,
+      "page_url": "https://hota.com.au/connect/contact/partnerships-sponsorship",
+      "named_person": null,
+      "source": "https://hota.com.au/sponsorship"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Tourism and Events Queensland",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://hota.com.au/bleach-festival"
+    },
+    {
+      "brand": "Gold Coast Airport",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://hota.com.au/bleach-festival"
+    },
+    {
+      "brand": "RedeMont",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://hota.com.au/bleach-festival"
+    },
+    {
+      "brand": "Griffith University",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://hota.com.au/bleach-festival"
+    },
+    {
+      "brand": "Playking Foundation",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://hota.com.au/bleach-festival"
+    },
+    {
+      "brand": "City of Gold Coast",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.instagram.com/p/Dd_QFcCiSZS/"
+    },
+    {
+      "brand": "Arts Queensland",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.instagram.com/p/Dd_QFcCiSZS/"
+    },
+    {
+      "brand": "Creative Australia",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.instagram.com/p/Dd_QFcCiSZS/"
+    }
+  ],
+  "add_sources": [
+    {
+      "field": "sponsors",
+      "url": "https://hota.com.au/bleach-festival",
+      "note": "Footer image alt text (2026): 'Logos of BLEACH* Festival producers and partners including Experience Gold Coast, HOTA, Tourism & Events Queensland, Gold Coast Airport, RedeMont, Griffith University, and Playking Foundation'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/Dear77LGp2J/",
+      "note": "@bleachfestival post (13 Oct 2026) thanks Gold Coast Airport, RedeMont, Griffith University and Playking Foundation 'for their support'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/Dd_QFcCiSZS/",
+      "note": "Everybody NOW post on the BEACON commission (2 Oct 2026) thanks EGC Arts Fund, City of Gold Coast, Queensland Government through Arts Queensland, Australian Government through Creative Australia, plus project supporters (Resene, Bunnings, The Star Gold Coast Community Fund, TAFE Qld)."
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://hota.com.au/bleach-festival",
+      "note": "BLEACH 2026 page: events tagged FREE and price range '$0 - $89 pp'."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://hota.com.au/sponsorship",
+      "note": "HOTA (EGC) sponsorship page with 'Contact us' link to partnerships-sponsorship form; covers the HOTA precinct where BLEACH is held, not a BLEACH-specific contact."
+    },
+    {
+      "field": "organiser",
+      "url": "https://hota.com.au/bleach-history",
+      "note": "BLEACH history: 2024 edition 'marked the formal transition of the festival's presenting organisation to Experience Gold Coast (EGC)'."
+    },
+    {
+      "field": "organiser",
+      "url": "https://hota.com.au/bleach-festival",
+      "note": "BLEACH 2026 page names Felix Preval as the new Artistic Director (former Darwin Festival AD)."
+    }
+  ],
+  "remove_gaps": [
+    "Organiser inferred from the announcement on Experience Gold Coast's corporate site; confirm the presenting entity",
+    "Sponsors beyond HOTA not found",
+    "No public partnerships contact found",
+    "Ticket prices not found",
+    "New artistic director not named in results"
+  ],
+  "add_gaps": [
+    "No recent attendance figure; HOTA's BLEACH history gives approx. 30,000 (2012) and over 63,000 (2014) for the earlier beach-based format, so not used for the HOTA-based October edition",
+    "Only audience profile found is a 2014 Griffith study of an early edition (52% aged 18 to 39, Google snippet); not current",
+    "Partnership contact is HOTA's precinct sponsorship form; no BLEACH-specific partnerships contact published"
+  ],
+  "notes": "EGC confirmed as presenting organisation since 2024; Felix Preval is AD. 2026 partners from HOTA page footer: TEQ, Gold Coast Airport, RedeMont, Griffith, Playking Foundation. City of Gold Coast, Arts Qld and Creative Australia evidenced via the BEACON commission thanks post. Historic attendance kept in gaps only."
+}

@@ -1,0 +1,66 @@
+{
+  "id": "kustomfest-yogyakarta",
+  "set": {
+    "dates": {
+      "last_edition": {
+        "start": "2026-10-10",
+        "end": "2026-10-11",
+        "status": "held",
+        "label": "15th annual (2026), 'High Octane', Jogja Expo Center indoor and outdoor"
+      },
+      "next_edition": {
+        "start": "2027-10",
+        "end": null,
+        "status": "expected",
+        "label": "2027 (October pattern)"
+      },
+      "frequency": "annual",
+      "duration_days": 2
+    },
+    "attendance": {
+      "figure": 26787,
+      "figure_high": null,
+      "year": 2026,
+      "is_estimate": false,
+      "source": "https://www.impessa.id/read/4526/feature/kustomfest-2026-high-octane-berlangsung-sukses-berhasil-nyedot-26.787-pengunjung.html",
+      "note": "26,787 visitors over two days (10 to 11 Oct 2026), reported by Impessa and Mata Maluku and an Instagram post headline (Google snippets); likely organiser-reported. 2024: 25,647."
+    },
+    "ticket_price": {
+      "min": 70000,
+      "max": null,
+      "currency": "IDR",
+      "free_entry": false,
+      "note": "Artatix lists tickets 'from Rp70,000'; under-5s (110 cm or shorter) free; on-the-spot sales also offered. Overland ride package IDR 500,000 incl. 2-day pass. Replaces the aggregator's free-entry listing."
+    }
+  },
+  "add_sponsors": [
+    {"brand": "Repsol Lubricants", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DebHLnyCagU/"},
+    {"brand": "Honda (Astra Honda; Honda Istimewa DIY)", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/Degx9PRJDRy/"},
+    {"brand": "Wonderful Indonesia (Ministry of Tourism)", "years": [2026], "role": "government", "source": "https://www.instagram.com/p/DeRT6b7yKbG/"},
+    {"brand": "Unionwell", "years": [2026], "role": "collab", "source": "https://www.instagram.com/p/DeRT6b7yKbG/"}
+  ],
+  "add_activation_formats": ["customisation-station"],
+  "add_sources": [
+    {"field": "dates.last_edition", "url": "https://rilisinfo.com/ratusan-kendaraan-kustom-tampil-di-kustomfest-2026-yogyakarta/", "note": "Google snippet (10 Oct 2026): opening of KUSTOMFEST 2026 attended by the Mayor of Yogyakarta; 200+ curated vehicles at JEC (Financial News)."},
+    {"field": "dates.last_edition", "url": "https://www.instagram.com/p/DeVhQjsysWS/", "note": "@kustomfest (11 Oct 2026): day one done, day two under way; 'KUSTOMFEST 2026 High Octane, 10-11 October 2026, Jogja Expo Center (Indoor + Outdoor)'."},
+    {"field": "attendance", "url": "https://matamaluku.com/kustomfest-2026-dikunjungi-26000-orang/", "note": "Google snippet: Kustomfest 2026 drew 26,787 visitors over two days, 10 to 11 Oct 2026."},
+    {"field": "attendance", "url": "https://otomotif.kompas.com/read/2024/10/09/103100115/selama-2-hari-sekian-jumlah-pengunjung-dan-omzet-kustomfest-2024", "note": "Google snippet: 2024 edition drew 25,647 visitors over two days."},
+    {"field": "ticket_price", "url": "https://artatix.co.id/event/kustomfest2026", "note": "Artatix ticket page: 'Harga mulai dari Rp70.000'; children under 5 and 110 cm or shorter free; child tickets (5 to 10) bought with an adult."},
+    {"field": "ticket_price", "url": "https://www.instagram.com/p/DeSwEaBEh2O/", "note": "@kustomfest (10 Oct 2026): tickets can be bought on the spot or online via Artatix."},
+    {"field": "website", "url": "https://kustomfest.com/", "note": "Crawled site (copyright 2026 Kustomfest) carries the same WhatsApp hotline as the @kustomfest 2026 posts, so kustomfest.com is the official site."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DebHLnyCagU/", "note": "@repsol.lubricants.id (13 Oct 2026): Flat Track at KUSTOMFEST 2026, thanking @kustomfest; follow-up post https://www.instagram.com/p/DeoldeYJXF-/."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/Degx9PRJDRy/", "note": "Post co-authored by @hondamodifikasi and @kustomfest (15 Oct 2026): Honda booth, live pinstriping 'Stylo x Kustomfest' with @freeflow.66, talkshow with @ultimate_custom; separate giveaway of a Honda Stylo (pack context 13 Oct 2026)."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DeRT6b7yKbG/", "note": "@kustomfest (9 Oct 2026): 'High-Octane Wonderful Indonesia Overland Ride' on Merapi slopes; riders wear vintage outfits by @unionwell; IDR 500K package incl. 2-day pass; tagged #RepsolLubricants."},
+    {"field": "activation_formats", "url": "https://www.instagram.com/p/Degx9PRJDRy/", "note": "Honda live pinstriping station (customisation-station) and booth; Repsol flat track competition."}
+  ],
+  "add_gaps": [
+    "Full 2026 sponsor roster not published; no partnership email (only a WhatsApp event hotline)",
+    "An Instagram post seen as a Google snippet reads 'Presented by: Retro Classic Cycles; Supported by: Wonderful Indonesia'; Retro Classic Cycles also exhibits (booth A8 and A9), so its role is unclear"
+  ],
+  "remove_gaps": [
+    "2026 dates (10 to 11 Oct) come from an aggregator; no post-event report found, so not confirmed as held",
+    "kustomfest.com listed by an aggregator, not verified",
+    "No sponsor list beyond a 2025 exhibitor; no partnership contact"
+  ],
+  "notes": "2026 (15th) edition held 10 to 11 Oct with 26,787 visitors; ticketed from IDR 70,000 via Artatix (the earlier free-entry listing was wrong). New 2026 partners: Repsol Lubricants (flat track), Honda (booth, pinstriping, giveaway), Wonderful Indonesia (overland ride). Retro Classic Cycles is Lulut Wahyudi's workshop (Pandangan Jogja) and @lulut_retro is heavily tagged by @kustomfest, so its 'presented by' credit may be organiser-linked: not added; please check."
+}

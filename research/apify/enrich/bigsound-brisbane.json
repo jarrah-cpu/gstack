@@ -1,0 +1,290 @@
+{
+  "id": "bigsound-brisbane",
+  "set": {
+    "partnership_contact": {
+      "email": "partnerships@qmusic.com.au",
+      "page_url": "https://www.bigsound.org.au/information/contact",
+      "named_person": "Sonia Andersen (Partnerships Manager); Michelle Connery (Director of Marketing & Partnerships)",
+      "source": "https://www.bigsound.org.au/information/contact"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Oztix",
+      "years": [
+        2026
+      ],
+      "role": "presenting",
+      "source": "https://www.bigsound.org.au/information/partners"
+    },
+    {
+      "brand": "Spotify",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.bigsound.org.au/information/partners"
+    },
+    {
+      "brand": "Amplify Music Education",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.bigsound.org.au/information/partners"
+    },
+    {
+      "brand": "Gyrostream",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.bigsound.org.au/information/partners"
+    },
+    {
+      "brand": "Invest Gold Coast",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.bigsound.org.au/information/partners"
+    },
+    {
+      "brand": "Amazon Music",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.bigsound.org.au/information/partners"
+    },
+    {
+      "brand": "APRA AMCOS",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.bigsound.org.au/information/partners"
+    },
+    {
+      "brand": "American Apparel",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.bigsound.org.au/information/partners"
+    },
+    {
+      "brand": "BrewDog",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.bigsound.org.au/information/partners"
+    },
+    {
+      "brand": "Sony Music Australia",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.bigsound.org.au/information/partners"
+    },
+    {
+      "brand": "Up (Up Bank)",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.bigsound.org.au/information/partners"
+    },
+    {
+      "brand": "SAE University College",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.bigsound.org.au/information/partners"
+    },
+    {
+      "brand": "Milk Lab",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.bigsound.org.au/information/partners"
+    },
+    {
+      "brand": "Marshall",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.bigsound.org.au/information/partners"
+    },
+    {
+      "brand": "Casio",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.bigsound.org.au/information/partners"
+    },
+    {
+      "brand": "Aon",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.bigsound.org.au/information/partners"
+    },
+    {
+      "brand": "Bettercup",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.bigsound.org.au/information/partners"
+    },
+    {
+      "brand": "Felons Brewing Co",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.bigsound.org.au/information/partners"
+    },
+    {
+      "brand": "Young Henrys",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.bigsound.org.au/information/partners"
+    },
+    {
+      "brand": "Monster Children",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.bigsound.org.au/information/partners"
+    },
+    {
+      "brand": "The Music",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.bigsound.org.au/information/partners"
+    },
+    {
+      "brand": "Happy Mag",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.bigsound.org.au/information/partners"
+    },
+    {
+      "brand": "Creative Australia",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.bigsound.org.au/information/partners"
+    },
+    {
+      "brand": "Arts Queensland",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.bigsound.org.au/information/partners"
+    },
+    {
+      "brand": "Tourism and Events Queensland",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.bigsound.org.au/information/partners"
+    },
+    {
+      "brand": "Brisbane City Council",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.bigsound.org.au/information/partners"
+    },
+    {
+      "brand": "Department of Foreign Affairs and Trade",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.bigsound.org.au/information/partners"
+    },
+    {
+      "brand": "The Centre for Arts, Sports and Technology (The CAST)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DdGY8S8i8ff/"
+    }
+  ],
+  "add_activation_formats": [
+    "content-series"
+  ],
+  "add_sources": [
+    {
+      "field": "sponsors",
+      "url": "https://www.bigsound.org.au/information/partners",
+      "note": "Partners page tiers (2026): Presenting Oztix; Strategic Arts Queensland, Visit Brisbane, Brisbane City Council, Creative Australia, Queensland.com (TEQ), DFAT; Platinum Amplify Music Education, Gyrostream, Invest Gold Coast, Spotify; Supported by triple j; Major Amazon Music, APRA AMCOS, American Apparel, BrewDog, Sony Music, Up; Education SAE; Industry partners incl. Milk Lab, Marshall, Casio, Aon; Supporting incl. Bettercup; Media incl. The Music, Happy Mag, Monster Children; Event partners incl. Felons, Young Henrys. Logos have no alt text, so brand names are read from logo link URLs."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.bigsound.org.au/",
+      "note": "Home page: Artist Hub 'Presented by Spotify'; Delegate Hub 'Presented by Oztix'; Oztix listed as Presenting Partner."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.bigsound.org.au/information/faq",
+      "note": "FAQ: festival showcases on 'the BIGSOUND Mall Stage presented by Amazon Music'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DdGY8S8i8ff/",
+      "note": "Attendee post (10 Sep 2026): 'Ideas and Innovation Hub presented by @amplifymusiceducation and @thecastorg'."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/DdDh_RFmhRv/",
+      "note": "@bigsound post (9 Sep 2026): 'BIGSOUND @lifewithoutandy x @americanapparelanz' shot BIGSOUND 100 artists in a media room at Content House; American Apparel tagged in a paid-partnership post."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.bigsound.org.au/program/UPxMonster-Children",
+      "note": "Program menu lists 'UP x Monster Children' and 'American Apparel x BIGSOUND' brand program events (2026)."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.bigsound.org.au/information/contact",
+      "note": "Contact page: 'SPONSORSHIP & PARTNERSHIPS ... B2B + B2C partnership opportunities', email partnerships@qmusic.com.au; media enquiries media@qmusic.com.au."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.bigsound.org.au/information/team",
+      "note": "Team page lists Michelle Connery, Director of Marketing & Partnerships, and Sonia Andersen, Partnerships Manager."
+    }
+  ],
+  "remove_gaps": [
+    "No public partnerships contact found",
+    "No 'presented by' or naming partner found; partner tiers not published in results"
+  ],
+  "add_gaps": [
+    "Delegate and festival attendance numbers not published on the crawled site pages"
+  ],
+  "notes": "Partners page gives a full tiered 2026 list (80+ logos; names read from link URLs). Oztix is the Presenting Partner: existing role 'partner' should be upgraded to 'presenting' (patch merge cannot change a set role). Brand programs (Up x Monster Children, American Apparel x BIGSOUND, Spotify Artist Hub, Amazon Music Mall Stage) show an open, multi-tier partnership model. Contact partnerships@qmusic.com.au."
+}

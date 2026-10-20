@@ -1,0 +1,41 @@
+{
+  "id": "sagres-sessions",
+  "set": {
+    "website": "https://sagressessions.pt",
+    "partnership_contact": {"email": "info@sagressessions.pt", "page_url": "https://sagressessions.pt/faq", "named_person": null, "source": "https://sagressessions.pt/faq"}
+  },
+  "add_sponsors": [
+    {"brand": "Memmo Baleeira Hotel", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DejyI04iMov/"},
+    {"brand": "Bossa Brew House", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DejyI04iMov/"},
+    {"brand": "O'Neill Portugal", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DejyI04iMov/"},
+    {"brand": "Volcom", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DejyI04iMov/"},
+    {"brand": "Ferox Surfboards", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DejyI04iMov/"},
+    {"brand": "Retro Sailor Sagres", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DejyI04iMov/"},
+    {"brand": "Núcleo de Parasurfing (Portimão Surf Clube)", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DejyI04iMov/"},
+    {"brand": "School of Rock Portimão", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DejyI04iMov/"},
+    {"brand": "Alma Vila do Bispo", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DejyI04iMov/"},
+    {"brand": "O Malhão", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DejyI04iMov/"},
+    {"brand": "Intermarché Sagres", "years": [2026], "role": "partner", "source": "https://sagressessions.pt/"},
+    {"brand": "Federação Portuguesa de Surf", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DejyI04iMov/"},
+    {"brand": "Município de Vila do Bispo (Visit Vila do Bispo)", "years": [2026], "role": "government", "source": "https://www.instagram.com/p/DejyI04iMov/"},
+    {"brand": "Visit Portugal (Turismo de Portugal)", "years": [2026], "role": "government", "source": "https://www.instagram.com/p/DejyI04iMov/"}
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {"field": "website", "url": "https://www.instagram.com/sagres.sessions/", "note": "IG profile link sagressessions.pt; site shows 30 Oct to 1 Nov 2026 programme."},
+    {"field": "partnership_contact", "url": "https://sagressessions.pt/faq", "note": "FAQ: questions to info@sagressessions.pt; market exhibitors email with subject 'Mercado Sagres Sessions, participar'. Organiser Algarve Surf Clube also lists algarvesurfclub@gmail.com (about page)."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DejyI04iMov/", "note": "16 Oct 2026 caption: 'Apoio institucional: Visit Vila do Bispo, Visit Portugal, Visit Algarve'; 'Apoio técnico: FPS'; 'Apoio: Memmo Baleeira, Bossa Brew House, O'Neill Portugal, Volcom, Ferox Surfboards, Retro Sailor Sagres'; 'Parceiros: Mandala Sagres, Filipe Costa (physio), Núcleo ParaSurfing Portimão, School of Rock Portimão, Alma Vila do Bispo, O Malhão'."},
+    {"field": "sponsors", "url": "https://sagressessions.pt/faq", "note": "Accommodation partner memmo Baleeira: 20% off with code 'mevent'."},
+    {"field": "sponsors", "url": "https://sagressessions.pt/", "note": "Programme: workshops powered by Mandala Life & Yoga; adaptive surf powered by Núcleo de Parasurfing; beach cleans powered by Intermarché Sagres."},
+    {"field": "sponsors", "url": "https://litoralgarve.pt/sagres-estreia-festival-que-junta-surf-musica-e-atividades-para-toda-a-familia/", "note": "Google snippet: support from Município de Vila do Bispo, Turismo de Portugal and Turismo do Algarve."}
+  ],
+  "add_gaps": [
+    "Attendance unknown until the first edition (30 Oct to 1 Nov 2026) has run"
+  ],
+  "remove_gaps": [
+    "No public partnerships contact found",
+    "Website and full partner list not found",
+    "First edition, so no attendance or track record"
+  ],
+  "notes": "First edition runs 30 Oct to 1 Nov 2026, free entry, organised by Algarve Surf Clube for its 30th anniversary. Full partner list now captured: surf brands O'Neill, Volcom and Ferox, hotel Memmo Baleeira, Intermarché beach cleans, tourism bodies. Filipe Costa (physio) left out as an individual. Tiny IG account (168 followers). Contact info@sagressessions.pt."
+}

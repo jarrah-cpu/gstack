@@ -1,0 +1,24 @@
+{
+  "id": "other-worlds-zine-fair",
+  "set": {
+    "website": "http://otherworldszinefair.cargo.site/",
+    "organiser": {"name": "Other Worlds Zine Fair collective (community-run)", "type": "community-collective", "website": "http://otherworldszinefair.cargo.site/"},
+    "partnership_contact": {"email": null, "page_url": "https://events.humanitix.com/other-worlds-zine-fair/contact", "named_person": null, "source": "https://events.humanitix.com/other-worlds-zine-fair/contact"},
+    "ticket_price": {"min": 0, "max": 0, "currency": "AUD", "free_entry": true, "note": "Admission free 'as always' (2026); RSVP via Humanitix and Eventbrite."}
+  },
+  "add_sponsors": [
+    {"brand": "Glom Press", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DZbwzVaCc_9/"}
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {"field": "website", "url": "https://www.instagram.com/otherworldszinefair/", "note": "IG profile link is otherworldszinefair.cargo.site; March 2026 post refers to 'our new website, link in bio'."},
+    {"field": "organiser", "url": "https://www.facebook.com/OtherWorldsZineFair/", "note": "'OW has been collectively organised in Sydney since 2014' (Google snippet). IG bio: 'continues to be community-run'."},
+    {"field": "partnership_contact", "url": "https://events.humanitix.com/other-worlds-zine-fair/contact", "note": "Humanitix 'Contact the host' form. IG says email is the best contact but writes it only as 'otherworldszinefair @ gmail' (https://www.instagram.com/p/DV48tfYCdeB/), so no address recorded."},
+    {"field": "ticket_price", "url": "https://www.instagram.com/p/DZbwzVaCc_9/", "note": "'Peter Forsyth Auditorium in Glebe, 11-4 on July 11th, admission free as always.'"},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DZbwzVaCc_9/", "note": "In-kind: 'thanks to our friends at @glompress for the printing' of the 2026 poster."},
+    {"field": "sponsors", "url": "https://thescreamingwall.com/2016/05/24/other-worlds-zine-fair/", "note": "The fair 'began as the protest zine fair against one of the sponsors of the MCA' (Transfield); see also https://www.artshub.com.au/news/news/zinesters-join-biennale-artists-in-boycott-198344-2316500/."}
+  ],
+  "add_gaps": ["Full contact email not published in usable form (written as 'otherworldszinefair @ gmail')", "No cash sponsors; the fair's origin is an anti-corporate-sponsor protest", "Audience age and gender not published"],
+  "remove_gaps": ["Organiser name and website not surfaced in search results", "No public partnerships contact found"],
+  "notes": "Community-run and free, with 100+ zine makers (City of Sydney listing); founded in 2014 as a protest against the MCA zine fair's sponsor Transfield, so brand sponsorship is likely unwelcome. Only in-kind support seen (Glom Press printing). Treat as a low-fit or community-only approach."
+}

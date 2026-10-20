@@ -1,0 +1,111 @@
+{
+  "id": "festival-of-the-photocopier-melbourne",
+  "set": {
+    "dates": {
+      "last_edition": {
+        "start": "2026-02-07",
+        "end": "2026-02-08",
+        "status": "held",
+        "label": "2026 (19th fair per Sticky Institute)"
+      },
+      "next_edition": {
+        "start": "2027-02",
+        "end": null,
+        "status": "expected",
+        "label": "2027"
+      },
+      "frequency": "annual",
+      "duration_days": 2
+    },
+    "location": {
+      "city": "Melbourne",
+      "state_or_region": "VIC",
+      "country": "Australia",
+      "venue_or_area": "Meat Market, North Melbourne (2026); Kensington Town Hall (2025); Melbourne Town Hall in earlier editions"
+    },
+    "attendance": {
+      "figure": 10000,
+      "figure_high": null,
+      "year": 2018,
+      "is_estimate": true,
+      "source": "https://thecityjournal.net/city-journal-video-news/search-on-for-cash-to-extend-zine-fest/",
+      "note": "Press estimate: 'an estimated 10,000 people attended' the Feb 2018 fair at Melbourne Town Hall (The City Journal, Sep 2018). No recent figure; over 200 stallholders in 2025 and 2026."
+    },
+    "partnership_contact": {
+      "email": null,
+      "page_url": "https://stickyinstitute.com/contact",
+      "named_person": null,
+      "source": "https://stickyinstitute.com/contact"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "City of Melbourne Arts Grants",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.instagram.com/p/DUek1RdF1B3/"
+    }
+  ],
+  "add_sources": [
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.instagram.com/p/DRs5_acF68s/",
+      "note": "Sticky Institute post, 1 Dec 2025: fair held at Meat Market over 7 and 8 Feb 2026, 12 to 5pm."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.instagram.com/p/DUPECCgktE9/",
+      "note": "Sticky Institute post, 2 Feb 2026: '2026 is the 19th year Sticky Institute has presented The Festival of the Photocopier Zine Fair'."
+    },
+    {
+      "field": "location",
+      "url": "https://www.instagram.com/p/DUZbOfTFyyS/",
+      "note": "Sticky Institute post, 6 Feb 2026: 'Come to Meat Market in North Melbourne from 12 - 5pm'."
+    },
+    {
+      "field": "location",
+      "url": "https://themelburnian.au/zine-festival-takes-over-kensington-town-hall/",
+      "note": "Google snippet: Kensington Town Hall hosted the 2025 fair on 8 and 9 Feb, more than 200 creatives."
+    },
+    {
+      "field": "attendance",
+      "url": "https://thecityjournal.net/city-journal-video-news/search-on-for-cash-to-extend-zine-fest/",
+      "note": "Page read (22 Sep 2018): 'an estimated 10,000 people attended the Melbourne Town Hall event in February'."
+    },
+    {
+      "field": "attendance.note",
+      "url": "https://www.instagram.com/p/DUK1ZPXjqkj/",
+      "note": "Sticky Institute post, 31 Jan 2026: 'over 200 zinesters will be sharing their creations at Meat Market'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DUek1RdF1B3/",
+      "note": "Sticky Institute FotP 2026 posts end with 'Supported by the City of Melbourne Arts Grants.'"
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://stickyinstitute.com/contact",
+      "note": "Organiser contact page: phone and contact form, no email or partnerships contact."
+    },
+    {
+      "field": "website",
+      "url": "https://www.fotp.online/",
+      "note": "Google result: dedicated fair site ('Get notified when applications for Festival of the Photocopier 2027 open'). Record website not changed."
+    }
+  ],
+  "remove_gaps": [
+    "No 2026 or 2027 edition dates found; February 2027 inferred from FAQ pattern",
+    "Current venue not confirmed",
+    "Venue conflict within the 2026 listing",
+    "Attendance and stallholder numbers not found",
+    "No public partnerships contact found"
+  ],
+  "add_gaps": [
+    "Only attendance figure is a 2018 press estimate",
+    "Partnership contact is a general contact page (phone and form) only",
+    "Founding year conflict: about page says since 2010, organiser posts call 2026 the 19th year"
+  ],
+  "notes": "2026 fair confirmed at Meat Market, North Melbourne, 7 and 8 Feb, funded by City of Melbourne Arts Grants; volunteer-run, free, no commercial sponsors seen. fotp.online is the fair's own site (record keeps stickyinstitute.com; orchestrator may prefer fotp.online)."
+}

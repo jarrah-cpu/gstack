@@ -1,0 +1,69 @@
+{
+  "id": "a3-festival-lardner-park",
+  "set": {
+    "dates": {
+      "last_edition": {
+        "start": "2025-11-28",
+        "end": "2025-12-01",
+        "status": "held",
+        "label": "2nd edition (2025)"
+      },
+      "next_edition": {
+        "start": "2026-11-27",
+        "end": "2026-11-30",
+        "status": "confirmed",
+        "label": "3rd edition (2026)"
+      },
+      "frequency": "annual",
+      "duration_days": 4
+    },
+    "audience": {
+      "age_range": null,
+      "gender_skew": null,
+      "psychographics": "Electronic and techno music community drawn to a curated three-day camping rave with a strong sound, design and art focus.",
+      "source": "https://novel.com.au/events/a3-festival"
+    },
+    "partnership_contact": {
+      "email": "hello@novel.com.au",
+      "page_url": "https://novel.com.au/about",
+      "named_person": null,
+      "source": "https://novel.com.au/events/a3-festival"
+    }
+  },
+  "add_sources": [
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.broadsheet.com.au/melbourne/event/a3-festival",
+      "note": "Google snippet: Fri 28 Nov 2025 to Mon 1 Dec 2025, Lardner Park."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://ra.co/events/2211347",
+      "note": "Google snippet: 28 Nov 2025, Fri 12:00 to Mon 17:00, promoters Novel and A3 Festival."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.instagram.com/p/DRyy2KJEn9B/",
+      "note": "Google snippet: 'Our second year has come to a close' (2025 was the 2nd edition)."
+    },
+    {
+      "field": "audience",
+      "url": "https://novel.com.au/events/a3-festival",
+      "note": "Organiser page describes A3 as an interdisciplinary gathering of electronic music and a community bound through techno."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://novel.com.au/events/a3-festival",
+      "note": "Novel 'Contact us' block lists hello@novel.com.au (general enquiries); same on /about."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://a3festival.com/",
+      "note": "Official site checked: no partners or sponsors named, no logo alt text."
+    }
+  ],
+  "add_gaps": [
+    "No sponsors or brand partners named on a3festival.com, Novel's event page or 2025 to 2026 Instagram posts"
+  ],
+  "notes": "Filled 2025 dates (28 Nov to 1 Dec), Novel's general contact and an organiser-described audience. No sponsors found anywhere; @reelize.studio is a production supplier, not a sponsor. a3festival.com is the official site (record keeps Novel's event page). A Concrete Playground snippet with 'presented by the Garden City Electronic Music Society' looks like a different event in the same post; not used."
+}

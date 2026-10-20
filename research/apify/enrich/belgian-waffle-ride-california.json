@@ -1,0 +1,41 @@
+{
+  "id": "belgian-waffle-ride-california",
+  "set": {
+    "website": "https://www.belgianwaffleride.bike/pages/belgian-waffle-ride-ca",
+    "dates": {
+      "last_edition": {"start": "2026-05-02", "end": "2026-05-03", "status": "held", "label": "15th anniversary (2026)"},
+      "next_edition": {"start": "2027-05-01", "end": "2027-05-02", "status": "confirmed", "label": "16th annual (2027), San Diego County; venue to be announced"},
+      "frequency": "annual",
+      "duration_days": 2
+    },
+    "attendance": {"figure": 2500, "figure_high": null, "year": 2026, "is_estimate": true, "source": "https://www.granfondoguide.com/Events/Index/3900/15th-annual-belgian-waffle-ride-california", "note": "Gran Fondo Guide listing for the 2026 edition states '2,500 Participants' (Google snippet; aggregator, not organiser-confirmed). Rider count only, not expo visitors."},
+    "partnership_contact": {"email": "mmx@monumentsofcycling.com", "page_url": "https://www.belgianwaffleride.bike/pages/belgian-waffle-ride-ca", "named_person": "Michael Marckx", "source": "https://www.belgianwaffleride.bike/pages/belgian-waffle-ride-ca"}
+  },
+  "add_sponsors": [
+    {"brand": "Neversecond", "years": [2026], "role": "partner", "source": "https://www.belgianwaffleride.bike/pages/belgian-waffle-ride-ca"},
+    {"brand": "Capriroso", "years": [2026], "role": "partner", "source": "https://www.belgianwaffleride.bike/pages/belgian-waffle-ride-ca"},
+    {"brand": "ALMSTHRE", "years": [2026], "role": "partner", "source": "https://www.belgianwaffleride.bike/pages/belgian-waffle-ride-ca"},
+    {"brand": "The Lost Abbey", "years": [2026], "role": "partner", "source": "https://www.belgianwaffleride.bike/pages/belgian-waffle-ride-ca"},
+    {"brand": "Athletic Brewing Co.", "years": [2026], "role": "partner", "source": "https://www.belgianwaffleride.bike/pages/belgian-waffle-ride-ca"},
+    {"brand": "Van Rysel Bikes", "years": [2026], "role": "partner", "source": "https://www.belgianwaffleride.bike/pages/belgian-waffle-ride-ca"},
+    {"brand": "Unwaffle", "years": [2026], "role": "partner", "source": "https://www.belgianwaffleride.bike/pages/belgian-waffle-ride-ca"},
+    {"brand": "UNDERBUDR", "years": [2026], "role": "partner", "source": "https://www.belgianwaffleride.bike/pages/belgian-waffle-ride-ca"},
+    {"brand": "FORMULA 100", "years": [2026], "role": "partner", "source": "https://www.belgianwaffleride.bike/pages/belgian-waffle-ride-ca"},
+    {"brand": "Bolt", "years": [2026], "role": "partner", "source": "https://www.belgianwaffleride.bike/pages/belgian-waffle-ride-ca"},
+    {"brand": "Birdworx", "years": [2026], "role": "partner", "source": "https://www.belgianwaffleride.bike/pages/belgian-waffle-ride-ca"},
+    {"brand": "Bike MS", "years": [2026], "role": "partner", "source": "https://www.sandiego.gov/event/belgian-waffle-ride-california-4"}
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {"field": "website", "url": "https://www.belgianwaffleride.bike/pages/belgian-waffle-ride-ca", "note": "Official BWR California page on the Belgian Waffle Ride site."},
+    {"field": "dates.next_edition", "url": "https://www.belgianwaffleride.bike/pages/belgian-waffle-ride-ca", "note": "Official page: sixteenth annual BWR California, 1 to 2 May 2027, San Diego County; 'Venue and weekend programming will be announced as they are finalized.'"},
+    {"field": "attendance", "url": "https://www.granfondoguide.com/Events/Index/3900/15th-annual-belgian-waffle-ride-california", "note": "Google snippet: '2,500 Participants. 15th Annual Belgian Waffle Ride California, Del Mar. May 2 to 3, 2026.'"},
+    {"field": "partnership_contact", "url": "https://www.belgianwaffleride.bike/pages/belgian-waffle-ride-ca", "note": "Official page: for sponsor/partner or expo exhibiting enquiries contact Michael Marckx, mmx@monumentsofcycling.com."},
+    {"field": "sponsors", "url": "https://www.belgianwaffleride.bike/pages/belgian-waffle-ride-ca", "note": "Official page (viewed Oct 2026, now showing the 2027 edition) thanks partners without tiers: Neversecond, Capriroso, ALMSTHRE, The Lost Abbey, Athletic Brewing Co., Van Rysel Bikes, Unwaffle, UNDERBUDR, FORMULA 100, Bolt and Birdworx. Taken as the 2026 roster; 2027 not confirmed. Neversecond supplies the rider musette bag and feed-zone products."},
+    {"field": "sponsors", "url": "https://www.sandiego.gov/event/belgian-waffle-ride-california-4", "note": "City of San Diego listing (Google snippet): 'In 2026, BWR CA partners with Bike MS for Multiple Sclerosis research.' Charity partner."},
+    {"field": "activation_formats", "url": "https://www.belgianwaffleride.bike/pages/unroad-expo-info", "note": "Weekend includes the Unroad Expo where riders 'Meet the brands' (linked from the official page)."}
+  ],
+  "add_gaps": ["2027 venue not yet announced; organiser says San Diego County", "Rider count only from an aggregator (2,500); expo visitor numbers not published", "Registration prices not captured", "Sponsor tiers not published", "Instagram account for BWR not identified in the pack"],
+  "remove_gaps": ["2027 dates from an aggregator only", "Official website, rider numbers, sponsors and prices not captured"],
+  "notes": "Official page confirms 1 to 2 May 2027 (venue TBA in San Diego County) and names 11 partners, including Athletic Brewing (non-alcoholic beer) and Neversecond (sports nutrition at feed zones). Sponsor contact is Michael Marckx at a monumentsofcycling.com address, which may be the operating company. No presenting sponsor listed."
+}

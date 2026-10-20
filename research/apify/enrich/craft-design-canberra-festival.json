@@ -1,0 +1,258 @@
+{
+  "id": "craft-design-canberra-festival",
+  "set": {
+    "attendance": {
+      "figure": 141772,
+      "figure_high": null,
+      "year": 2024,
+      "is_estimate": false,
+      "source": "https://craftanddesigncanberra.org/blogs/news/artists-and-arts-organisations-invited-to-shape-the-2026-craft-design-canberra-festival",
+      "note": "Organiser-reported: the 2024 program of 117 exhibitions and events 'attracted an audience of more than 141,772 people' with over $16m economic impact. Likely cumulative visits across venues. ACT Government separately cites 'more than 140,000 attendees'."
+    },
+    "partnership_contact": {
+      "email": "hello@craftanddesigncanberra.org",
+      "page_url": "https://craftanddesigncanberra.org/pages/sponsors",
+      "named_person": null,
+      "source": "https://craftanddesigncanberra.org/pages/sponsors"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Creative Australia",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.instagram.com/p/DdD6BnDlR__/"
+    },
+    {
+      "brand": "ACT Parks",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.instagram.com/p/DdD6BnDlR__/"
+    },
+    {
+      "brand": "Suburban Land Agency",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.instagram.com/p/DdD6BnDlR__/"
+    },
+    {
+      "brand": "Visual Arts and Craft Strategy (Australian, State and Territory Governments)",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://craftanddesigncanberra.org/blogs/news/artists-and-arts-organisations-invited-to-shape-the-2026-craft-design-canberra-festival"
+    },
+    {
+      "brand": "home.byholly",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DdD6BnDlR__/"
+    },
+    {
+      "brand": "Art Group",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DdD6BnDlR__/"
+    },
+    {
+      "brand": "Supercurious",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DdD6BnDlR__/"
+    },
+    {
+      "brand": "Lawyerbank",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DdD6BnDlR__/"
+    },
+    {
+      "brand": "Australian Institute of Architects ACT",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DdD6BnDlR__/"
+    },
+    {
+      "brand": "National Film and Sound Archive",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DdD6BnDlR__/"
+    },
+    {
+      "brand": "Canberra Airport",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DdD6BnDlR__/"
+    },
+    {
+      "brand": "Grainger Gallery",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DdD6BnDlR__/"
+    },
+    {
+      "brand": "Ainslie Arts",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DdD6BnDlR__/"
+    },
+    {
+      "brand": "Kwik Kopy Canberra",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DdD6BnDlR__/"
+    },
+    {
+      "brand": "Fink",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DdD6BnDlR__/"
+    },
+    {
+      "brand": "Canberra Theatre Centre",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DdD6BnDlR__/"
+    },
+    {
+      "brand": "Ale Mary Brewing Co",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DdD6BnDlR__/"
+    },
+    {
+      "brand": "Le Cheeserie",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DdD6BnDlR__/"
+    },
+    {
+      "brand": "Canberra Centre",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DdD6BnDlR__/"
+    },
+    {
+      "brand": "World Crafts Council Australia",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DdD6BnDlR__/"
+    },
+    {
+      "brand": "Tailored Accounts",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DdD6BnDlR__/"
+    },
+    {
+      "brand": "CIT Canberra",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DdD6BnDlR__/"
+    },
+    {
+      "brand": "ANU School of Art and Design",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DdD6BnDlR__/"
+    },
+    {
+      "brand": "HerCanberra",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.instagram.com/p/DdD6BnDlR__/"
+    },
+    {
+      "brand": "Amplify News",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.instagram.com/p/DdD6BnDlR__/"
+    }
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {
+      "field": "attendance",
+      "url": "https://craftanddesigncanberra.org/blogs/news/artists-and-arts-organisations-invited-to-shape-the-2026-craft-design-canberra-festival",
+      "note": "'In 2024 the program presented 117 exhibitions and events that attracted an audience of more than 141,772 people'"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DdD6BnDlR__/",
+      "note": "9 Sep 2026 festival post: 'supported by' ACT Government, Creative Australia, home.byholly, Art Group, Supercurious, Lawyerbank, AIA ACT, ACT Parks, HerCanberra, NFSA, Canberra Airport, Grainger Gallery, Ainslie Arts, Kwik Kopy Canberra, Suburban Land Agency, Fink, Canberra Theatre Centre, Ale Mary Brewing Co, Le Cheeserie, Canberra Centre, World Crafts Council Australia, Amplify News, Tailored Accounts, CIT and ANU School of Art and Design"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://craftanddesigncanberra.org/blogs/news/artists-and-arts-organisations-invited-to-shape-the-2026-craft-design-canberra-festival",
+      "note": "Supported by the ACT Government, the Visual Arts and Craft Strategy and the Australia Council; also 'generously supported by private sponsorship'"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DcstbJwIFHs/",
+      "note": "Organisation-level 'multi year partners' include home.byholly, Art Group, ACT Parks, AIA ACT, Lawyerbank, A by Adina, Ale Mary Brewing and Le Cheeserie"
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://craftanddesigncanberra.org/pages/sponsors",
+      "note": "Sponsors page lists hello@craftanddesigncanberra.org; Google snippet of the program post says private sponsorship enquiries via Contact us, (02) 6262 9333"
+    }
+  ],
+  "add_gaps": [
+    "Attendance counting method not stated (likely cumulative visits across venues)"
+  ],
+  "remove_gaps": [
+    "No private or corporate sponsors captured",
+    "No partnerships contact found",
+    "Attendance year and method not stated"
+  ],
+  "notes": "Festival IG post lists 25 supporters for 2026, a mix of government, real estate, legal, venue, hospitality and design brands (Fink, Canberra Centre). Organiser-reported 141,772 audience in 2024. Frequency still unclear (2024 then 2026). IG @craft_design_canberra is the organiser's gallery account; @craftdesigncanberrafestival is the festival account, so the two may be swapped in the record."
+}

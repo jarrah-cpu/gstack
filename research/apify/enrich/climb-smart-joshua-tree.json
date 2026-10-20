@@ -1,0 +1,43 @@
+{
+  "id": "climb-smart-joshua-tree",
+  "set": {
+    "website": "https://friendsofjosh.org/about-climb-smart/",
+    "location": {"city": "Twentynine Palms", "state_or_region": "California", "country": "USA", "venue_or_area": "Indian Cove group campgrounds and amphitheatre, Joshua Tree National Park"},
+    "dates": {
+      "last_edition": {"start": "2025-11-21", "end": "2025-11-23", "status": "held", "label": "2025 (organiser Facebook post; one local report gives 5 to 7 Dec 2025)"},
+      "next_edition": {"start": "2026-11-20", "end": "2026-11-22", "status": "confirmed", "label": "2026 ('now in its 29th year' per organiser)"},
+      "frequency": "annual",
+      "duration_days": 3
+    },
+    "organiser": {"name": "Friends of Joshua Tree", "type": "non-profit", "website": "https://friendsofjosh.org/"},
+    "attendance": {"figure": 300, "figure_high": null, "year": 2026, "is_estimate": true, "source": "https://friendsofjosh.org/about-climb-smart/", "note": "Organiser expects 'over 300 attendees' for 2026: a pre-event expectation, not a count. About 65% come from Southern California and 8 to 10% are local to the high desert."},
+    "audience": {"age_range": "14 and over (under 14 not permitted; 14 to 18 with a registered guardian)", "gender_skew": null, "psychographics": "Climbers from beginners to big-wall climbers and mountaineers; about 65% from Southern California; stewardship, Leave No Trace and guide-led learning focus.", "source": "https://friendsofjosh.org/about-climb-smart/"},
+    "partnership_contact": {"email": "info@friendsofjosh.org", "page_url": "https://friendsofjosh.org/about-climb-smart/", "named_person": null, "source": "https://friendsofjosh.org/about-climb-smart/"},
+    "ticket_price": {"min": 229, "max": null, "currency": "USD", "free_entry": false, "note": "2024 registration advertised at USD 229 (Facebook group post, Google snippet). 2026 prices are on Zeffy and were not captured; beverage tickets extra."}
+  },
+  "add_sponsors": [
+    {"brand": "Visit 29 Palms (Twentynine Palms Tourism Business Improvement District)", "years": [2025, 2026], "role": "government", "source": "https://friendsofjosh.org/about-climb-smart/"},
+    {"brand": "Black Diamond", "years": [2024], "role": "partner", "source": "https://www.zeffy.com/en-US/ticketing/0ca5abe9-b4e1-43de-bb30-3ded31222d29"},
+    {"brand": "Fixe Climbing (Roca)", "years": [2024], "role": "partner", "source": "https://www.zeffy.com/en-US/ticketing/0ca5abe9-b4e1-43de-bb30-3ded31222d29"}
+  ],
+  "add_activation_formats": ["stall", "workshop", "competition-or-prize"],
+  "add_sources": [
+    {"field": "website", "url": "https://friendsofjosh.org/about-climb-smart/", "note": "Organiser event page for Climb Smart 2026."},
+    {"field": "location", "url": "https://friendsofjosh.org/about-climb-smart/", "note": "Held at the Indian Cove group campgrounds and amphitheatre area inside Joshua Tree National Park under a special arrangement with the Park."},
+    {"field": "dates.next_edition", "url": "https://friendsofjosh.org/about-climb-smart/", "note": "'November 20-22, 2026 @ Joshua Tree National Park'; 'Now in its 29th year'."},
+    {"field": "dates.last_edition", "url": "https://www.facebook.com/joshuatreefriends/posts/join-us-november-21-23-for-climb-smart-2025-a-gathering-of-community-conservatio/1149876183845548/", "note": "Organiser Facebook (Google snippet): 'Join us November 21-23 for Climb Smart 2025'. Visit 29 Palms TBID marketing update of 13 Nov 2025 also lists Nov 21 to 23."},
+    {"field": "dates.last_edition", "url": "https://www.deserttrumpet.org/p/recap-twentynine-palms-tourism-business-7bb", "note": "Desert Trumpet TBID recap (Google snippet) lists 'Climb Smart (December 5-7, 2025)', which conflicts; possibly a postponement."},
+    {"field": "organiser", "url": "https://friendsofjosh.org/about-climb-smart/", "note": "Google snippet of the same page: 'Friends Of Joshua Tree, a 501 c(3) non-profit organization, owns and operates the annual Climb Smart event, and has since before 2000.'"},
+    {"field": "attendance", "url": "https://friendsofjosh.org/about-climb-smart/", "note": "'Over 300 attendees are anticipated this year.'"},
+    {"field": "audience", "url": "https://friendsofjosh.org/about-climb-smart/", "note": "Open to all skill levels; registrants under 14 not permitted; about 65% from Southern California, 8 to 10% local."},
+    {"field": "partnership_contact", "url": "https://friendsofjosh.org/about-climb-smart/", "note": "Page links a sponsorship information document but names no sponsorship contact; info@friendsofjosh.org (Kenji or Janet) is given for volunteer enquiries and kenji@friendsofjosh.org for guides."},
+    {"field": "ticket_price", "url": "https://www.facebook.com/groups/36991792547/posts/10160409722362548/", "note": "Google snippet: 'BUY NOW $229 won't last forever... Climb Smart 2024 is now open for registration'."},
+    {"field": "sponsors", "url": "https://friendsofjosh.org/about-climb-smart/", "note": "Event 'proudly sponsored by' Visit 29 Palms; page says it has 'great brand sponsors' but names none."},
+    {"field": "sponsors", "url": "https://z1077fm.com/twentynine-palms-business-improvement-district-awards-2nd-round-of-grants/", "note": "TBID Sponsorship and Event Grant round funded Friends of Joshua Tree, Climb Smart November 21 to 23, 2025 (Google snippet)."},
+    {"field": "sponsors", "url": "https://www.zeffy.com/en-US/ticketing/0ca5abe9-b4e1-43de-bb30-3ded31222d29", "note": "2024 ticket page (Google snippet): 'We always have great brand sponsors (Black Diamond, Fixe/Roca, Nomad ...'; list cut off."},
+    {"field": "activation_formats", "url": "https://friendsofjosh.org/about-climb-smart/", "note": "Vendors and local and regional retailers on site, guide-run mini-clinics, gear giveaways, loaner gear library, evening stage shows."}
+  ],
+  "add_gaps": ["Edition number conflicts: organiser page says 29th year, an organiser tag page says 30th annual, a guide company says 26th", "2025 dates conflict: 21 to 23 Nov (organiser Facebook, TBID) vs 5 to 7 Dec (Desert Trumpet recap)", "2026 ticket prices not captured", "2026 brand sponsors not named on the organiser page; sponsorship document not read"],
+  "remove_gaps": ["Source is a directory result; confirm dates with Friends of Joshua Tree", "Format, previous editions, attendance, prices and sponsors not captured"],
+  "notes": "Small (300+) guide-led climbing and stewardship weekend run by the non-profit Friends of Joshua Tree, sponsored by the local tourism district plus outdoor brands (Black Diamond, Fixe in 2024). Has a sponsorship document linked from the event page. 'REI Climb Smart' in Los Angeles is an unrelated REI activation. No IG account identified."
+}

@@ -1,0 +1,471 @@
+{
+  "id": "lost-and-found-gravel-portola",
+  "set": {
+    "organiser": {
+      "name": "Sierra Buttes Trail Stewardship (SBTS)",
+      "type": "non-profit",
+      "website": "https://sierratrails.org/"
+    },
+    "attendance": {
+      "figure": 920,
+      "figure_high": null,
+      "year": 2026,
+      "is_estimate": false,
+      "source": "https://www.instagram.com/p/DZkgBMdy917/",
+      "note": "Organiser-reported: 'Thank you to all 920 racers' (2026). Racers only; spectators and festival guests not counted."
+    },
+    "partnership_contact": {
+      "email": "Marty@SierraTrails.org",
+      "page_url": "https://lostandfoundbikeride.com/lost-and-found/contact.php",
+      "named_person": "Marty Scheel (event sponsorship and aid station)",
+      "source": "https://lostandfoundbikeride.com/lost-and-found/contact.php"
+    },
+    "location": {
+      "city": "Portola",
+      "state_or_region": "California",
+      "country": "USA",
+      "venue_or_area": "Portola City Park (race start, festival venue and camping)"
+    },
+    "dates": {
+      "last_edition": {
+        "start": "2026-06-12",
+        "end": "2026-06-14",
+        "status": "held",
+        "label": "2026 festival weekend; race on 13 Jun"
+      },
+      "next_edition": {
+        "start": "2027-06-19",
+        "end": null,
+        "status": "confirmed",
+        "label": "2027 race day 19 Jun (organiser site)"
+      },
+      "frequency": "annual",
+      "duration_days": 3
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Evil Bikes",
+      "years": [
+        2026
+      ],
+      "role": "presenting",
+      "source": "https://www.instagram.com/p/DYm7vmQAYk7/"
+    },
+    {
+      "brand": "One Percent for the Planet",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://lostandfoundbikeride.com/lost-and-found/sponsors.php"
+    },
+    {
+      "brand": "Sierra Nevada Brewing",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://lostandfoundbikeride.com/lost-and-found/sponsors.php"
+    },
+    {
+      "brand": "City of Portola",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://lostandfoundbikeride.com/lost-and-found/sponsors.php"
+    },
+    {
+      "brand": "Breakaway Promotions",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://lostandfoundbikeride.com/lost-and-found/sponsors.php"
+    },
+    {
+      "brand": "WTB (Wilderness Trail Bikes)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://lostandfoundbikeride.com/lost-and-found/sponsors.php"
+    },
+    {
+      "brand": "Paul Component",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://lostandfoundbikeride.com/lost-and-found/sponsors.php"
+    },
+    {
+      "brand": "Patagonia",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://lostandfoundbikeride.com/lost-and-found/sponsors.php"
+    },
+    {
+      "brand": "Klean Kanteen",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://lostandfoundbikeride.com/lost-and-found/sponsors.php"
+    },
+    {
+      "brand": "Trail One Components",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://lostandfoundbikeride.com/lost-and-found/sponsors.php"
+    },
+    {
+      "brand": "SRAM",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://lostandfoundbikeride.com/lost-and-found/sponsors.php"
+    },
+    {
+      "brand": "Mike's Bikes",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://lostandfoundbikeride.com/lost-and-found/sponsors.php"
+    },
+    {
+      "brand": "Type II Studio",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://lostandfoundbikeride.com/lost-and-found/sponsors.php"
+    },
+    {
+      "brand": "Tahoe Trail Bar",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://lostandfoundbikeride.com/lost-and-found/sponsors.php"
+    },
+    {
+      "brand": "Voler",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://lostandfoundbikeride.com/lost-and-found/sponsors.php"
+    },
+    {
+      "brand": "Tailwind Nutrition",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://lostandfoundbikeride.com/lost-and-found/sponsors.php"
+    },
+    {
+      "brand": "GU Energy",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://lostandfoundbikeride.com/lost-and-found/sponsors.php"
+    },
+    {
+      "brand": "Nakoma Resort",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://lostandfoundbikeride.com/lost-and-found/sponsors.php"
+    },
+    {
+      "brand": "Ride with GPS",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://lostandfoundbikeride.com/lost-and-found/sponsors.php"
+    },
+    {
+      "brand": "Muc-Off",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://lostandfoundbikeride.com/lost-and-found/sponsors.php"
+    },
+    {
+      "brand": "Hydrapak",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://lostandfoundbikeride.com/lost-and-found/sponsors.php"
+    },
+    {
+      "brand": "Dumonde Tech",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://lostandfoundbikeride.com/lost-and-found/sponsors.php"
+    },
+    {
+      "brand": "Retro Cellars",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://lostandfoundbikeride.com/lost-and-found/sponsors.php"
+    },
+    {
+      "brand": "Dunn Vineyards",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://lostandfoundbikeride.com/lost-and-found/sponsors.php"
+    },
+    {
+      "brand": "Quintopia Brewing",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://lostandfoundbikeride.com/lost-and-found/sponsors.php"
+    },
+    {
+      "brand": "The Brewer's Cabinet",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://lostandfoundbikeride.com/lost-and-found/sponsors.php"
+    },
+    {
+      "brand": "Lost Sierra Wine Co.",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://lostandfoundbikeride.com/lost-and-found/sponsors.php"
+    },
+    {
+      "brand": "The Brewing Lair",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://lostandfoundbikeride.com/lost-and-found/sponsors.php"
+    },
+    {
+      "brand": "White Industries",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://lostandfoundbikeride.com/lost-and-found/sponsors.php"
+    },
+    {
+      "brand": "Kuat",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://lostandfoundbikeride.com/lost-and-found/sponsors.php"
+    },
+    {
+      "brand": "Smith",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://lostandfoundbikeride.com/lost-and-found/sponsors.php"
+    },
+    {
+      "brand": "Fox (Trail Trust)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://lostandfoundbikeride.com/lost-and-found/sponsors.php"
+    },
+    {
+      "brand": "Shimano",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://lostandfoundbikeride.com/lost-and-found/sponsors.php"
+    },
+    {
+      "brand": "Sock Guy",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://lostandfoundbikeride.com/lost-and-found/sponsors.php"
+    },
+    {
+      "brand": "Your Favorite Cyclist",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://lostandfoundbikeride.com/lost-and-found/sponsors.php"
+    },
+    {
+      "brand": "Truckee Flannel Co",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://lostandfoundbikeride.com/lost-and-found/sponsors.php"
+    },
+    {
+      "brand": "Bike Warrior Kit",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://lostandfoundbikeride.com/lost-and-found/sponsors.php"
+    },
+    {
+      "brand": "Easy Wind Gear",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://lostandfoundbikeride.com/lost-and-found/sponsors.php"
+    },
+    {
+      "brand": "Scout Retail Group",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://lostandfoundbikeride.com/lost-and-found/sponsors.php"
+    },
+    {
+      "brand": "Sklar Bikes",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://lostandfoundbikeride.com/lost-and-found/sponsors.php"
+    },
+    {
+      "brand": "Gradient Projects",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://lostandfoundbikeride.com/lost-and-found/sponsors.php"
+    },
+    {
+      "brand": "Squeaky Wheel",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://lostandfoundbikeride.com/lost-and-found/sponsors.php"
+    },
+    {
+      "brand": "Nourishing Broths",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://lostandfoundbikeride.com/lost-and-found/sponsors.php"
+    },
+    {
+      "brand": "Lactigo",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://lostandfoundbikeride.com/lost-and-found/sponsors.php"
+    }
+  ],
+  "add_activation_formats": [
+    "competition-or-prize",
+    "collab-product"
+  ],
+  "add_sources": [
+    {
+      "field": "organiser",
+      "url": "https://www.instagram.com/p/DXMg5lwJJvU/",
+      "note": "'built by race organizer Sierra Buttes Trail Stewardship'; 'all proceeds from the race benefit the Stewardship'. SBTS Instagram category: Nonprofit organization."
+    },
+    {
+      "field": "attendance",
+      "url": "https://www.instagram.com/p/DZkgBMdy917/",
+      "note": "14 Jun 2026: 'Thank you to all 920 racers who came out'."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://lostandfoundbikeride.com/lost-and-found/contact.php",
+      "note": "'Event sponsorship and aid station: Marty Scheel Marty@SierraTrails.org'; also Info@SierraTrails.org and Anne Codding anne@breakawaypro.com."
+    },
+    {
+      "field": "location",
+      "url": "https://www.instagram.com/p/DY7iaDVktQk/",
+      "note": "Volunteer roles at 'race start/festival venue at PortolaCity Park'; free camping."
+    },
+    {
+      "field": "dates",
+      "url": "https://lostandfoundbikeride.com/",
+      "note": "Organiser homepage: 'June 19th, 2027 - Portola, CA'."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.instagram.com/lostandfoundbikeride/",
+      "note": "IG bio: 'Lost and Found Gravel Festival June 12-14, 2026'; race 13 Jun."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DYm7vmQAYk7/",
+      "note": "21 May 2026: 'announce the presenting sponsor ... Evil Bikes'; Evil CEO calls it 'title sponsor'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://lostandfoundbikeride.com/lost-and-found/sponsors.php",
+      "note": "'2026 Lost and Found Sponsors' logo list (43 brands) including Tailwind Nutrition, GU, Lactigo, Nourishing Broths, Hydrapak, Patagonia, SRAM, Shimano; Ride with GPS 'Official Route Partner'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DZkgBMdy917/",
+      "note": "Post-race thanks to sponsors: Evil Bikes, City of Portola, Sierra Nevada, Breakaway Promo, Paul Component, WTB, White Industries, Klean Kanteen, Patagonia, Voler, Mike's Bikes."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://lostandfoundbikeride.com/lost-and-found/ride.php",
+      "note": "'$3,500 cash purse' for pro podium."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/DYAT91mmnjb/",
+      "note": "Partnership with Type II Studio: custom 3D-printed terrain models of each racer's route, discounted for racers."
+    }
+  ],
+  "remove_gaps": [
+    "Organiser and beneficiary not confirmed in search results",
+    "19 Jun 2027 date appeared on one page only",
+    "Attendance, sponsors and prices not captured"
+  ],
+  "add_gaps": [
+    "Registration prices not captured",
+    "Spectator and festival-only attendance not published"
+  ],
+  "notes": "Open, multi-tier sponsor program with a named sponsorship contact. Sports nutrition and recovery brands (Tailwind, GU, Lactigo, Nourishing Broths) already sponsor, so a health brand would sit alongside them. Part of the Gravel Earth Series in 2026."
+}

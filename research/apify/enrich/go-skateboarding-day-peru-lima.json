@@ -1,0 +1,83 @@
+{
+ "id": "go-skateboarding-day-peru-lima",
+ "set": {
+  "organiser": {
+   "name": "Go Skateboarding Day Perú organisers (promoter Abraham Montoya named in press)",
+   "type": null,
+   "website": null
+  }
+ },
+ "add_sponsors": [
+  {
+   "brand": "Vans",
+   "years": [
+    2026
+   ],
+   "role": "partner",
+   "source": "https://elcomercio.pe/deporte-total/polideportivo/go-skateboarding-day-peru-2026-miles-de-skaters-se-reuniran-en-lima-para-una-jornada-historica-ultimas-noticia/"
+  },
+  {
+   "brand": "Epidemick",
+   "years": [
+    2026
+   ],
+   "role": "partner",
+   "source": "https://elcomercio.pe/deporte-total/polideportivo/go-skateboarding-day-peru-2026-miles-de-skaters-se-reuniran-en-lima-para-una-jornada-historica-ultimas-noticia/"
+  },
+  {
+   "brand": "Ollie Skate",
+   "years": [
+    2026
+   ],
+   "role": "partner",
+   "source": "https://elcomercio.pe/deporte-total/polideportivo/go-skateboarding-day-peru-2026-miles-de-skaters-se-reuniran-en-lima-para-una-jornada-historica-ultimas-noticia/"
+  },
+  {
+   "brand": "Gravital",
+   "years": [
+    2026
+   ],
+   "role": "partner",
+   "source": "https://elcomercio.pe/deporte-total/polideportivo/go-skateboarding-day-peru-2026-miles-de-skaters-se-reuniran-en-lima-para-una-jornada-historica-ultimas-noticia/"
+  },
+  {
+   "brand": "Tribu Skate",
+   "years": [
+    2026
+   ],
+   "role": "partner",
+   "source": "https://elcomercio.pe/deporte-total/polideportivo/go-skateboarding-day-peru-2026-miles-de-skaters-se-reuniran-en-lima-para-una-jornada-historica-ultimas-noticia/"
+  }
+ ],
+ "add_activation_formats": [
+  "workshop"
+ ],
+ "add_sources": [
+  {
+   "field": "sponsors",
+   "url": "https://elcomercio.pe/deporte-total/polideportivo/go-skateboarding-day-peru-2026-miles-de-skaters-se-reuniran-en-lima-para-una-jornada-historica-ultimas-noticia/",
+   "note": "El Comercio: the 2026 edition 'cuenta con el apoyo de Vans, EPIDEMICK, OLLIE SKATE, GRAVITAL y TRIBU SKATE, entre otras organizaciones'."
+  },
+  {
+   "field": "organiser",
+   "url": "https://elcomercio.pe/deporte-total/polideportivo/go-skateboarding-day-peru-2026-miles-de-skaters-se-reuniran-en-lima-para-una-jornada-historica-ultimas-noticia/",
+   "note": "Abraham Montoya described as 'uno de los impulsores del evento'; no organising body named; event held in Peru for more than 13 years."
+  },
+  {
+   "field": "activation_formats",
+   "url": "https://elcomercio.pe/deporte-total/polideportivo/go-skateboarding-day-peru-2026-miles-de-skaters-se-reuniran-en-lima-para-una-jornada-historica-ultimas-noticia/",
+   "note": "Programme: urban skate ride from Plaza San Martín to Playa Redondo II (Miraflores), Best Trick contest, raffles and prizes, live art, yoga sessions, a masterclass, cultural fair, food areas and 12+ punk and rock bands."
+  }
+ ],
+ "add_gaps": [
+  "Organising body not named; press names promoter Abraham Montoya only",
+  "Attendance figure not published ('miles de skaters' only)",
+  "Official account appears to be @goskate.peru.oficial (embedded in El Comercio); record has no IG handle",
+  "A TikTok snippet from @goskate.peru.oficial thanks 'Etnies, Shiner' as sponsors; not verified, not added"
+ ],
+ "remove_gaps": [
+  "Organiser not named",
+  "Sponsors, attendance figure and Instagram not captured"
+ ],
+ "notes": "2026 edition (21 Jun) backed by Vans and local skate brands; programme included yoga sessions, a useful wellness hook. Free street event, community-run for 13+ years. A perspectivalima snippet gives 6 Sep for 2026, which conflicts with all other sources (likely an error)."
+}

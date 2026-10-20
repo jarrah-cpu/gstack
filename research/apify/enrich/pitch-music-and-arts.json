@@ -1,0 +1,54 @@
+{
+  "id": "pitch-music-and-arts",
+  "set": {
+    "dates": {
+      "last_edition": {"start": "2026-03-06", "end": "2026-03-10", "status": "held", "label": "2026"},
+      "next_edition": {"start": "2027-03-05", "end": "2027-03-09", "status": "confirmed", "label": "2027 (10th anniversary edition)"},
+      "frequency": "annual",
+      "duration_days": 5
+    },
+    "partnership_contact": {
+      "email": "hello@pitchfestival.com.au",
+      "page_url": null,
+      "named_person": null,
+      "source": "https://www.pitchfestival.com.au/information"
+    },
+    "ticket_price": {
+      "min": 599.99,
+      "max": null,
+      "currency": "AUD",
+      "free_entry": false,
+      "note": "2026 four-day entry listed at $599.99 (Visit Grampians). 2027: Pitch Collective presale Mon 26 Oct, official presale Tue 27 Oct, general sale Wed 28 Oct 2026 (not guaranteed); 2027 price not captured. Laybuy option with $200 deposit."
+    }
+  },
+  "add_sponsors": [
+    {"brand": "Resident Advisor (RA)", "years": [2019, 2026], "role": "media", "source": "https://www.instagram.com/p/DejBuvJGvvV/"},
+    {"brand": "Crumpler", "years": [2026], "role": "collab", "source": "https://www.instagram.com/p/DUo5yHrEw_O/"},
+    {"brand": "Tixel", "years": [2027], "role": "partner", "source": "https://www.pitchfestival.com.au/information"},
+    {"brand": "Wallaroo Camping", "years": [2027], "role": "partner", "source": "https://www.pitchfestival.com.au/information"}
+  ],
+  "add_activation_formats": ["stage-or-program-takeover", "collab-product", "competition-or-prize"],
+  "add_sources": [
+    {"field": "dates.next_edition", "url": "https://www.pitchfestival.com.au/", "note": "Home page (crawled Oct 2026): 'Pitch Music & Arts, March 05 to 09 2027'."},
+    {"field": "dates.next_edition", "url": "https://www.instagram.com/pitchmusicandarts/", "note": "IG bio: 'Join us for our 10th anniversary March 5-9, 2027'."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DejBuvJGvvV/", "note": "Organiser post 16 Oct 2026: Pitch 003 in 2019 saw 'the birth of the festival's first RA Stage, the inaugural stage for Resident Advisor in Australia'."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DXBYjqyp5_T/", "note": "Organiser post Apr 2026: artist returns 'to the Resident Advisor stage' at PMA26."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DUo5yHrEw_O/", "note": "Collab post with @crumpler, Feb 2026: 'Pitch Music & Arts x Crumpler', limited-edition festival bag, 10 bags given away, launch event."},
+    {"field": "sponsors", "url": "https://www.pitchfestival.com.au/information", "note": "Crawled info page (2027 ticketing): 'Tixel, our Official Resale Partner'; 'We are delighted to welcome back Wallaroo Camping; your trusted partner for all things camping equipment'."},
+    {"field": "activation_formats", "url": "https://www.instagram.com/p/DUreDziEx_O/", "note": "Crumpler collab bag sold via link in bio (collab-product); giveaway on DUo5yHrEw_O (competition-or-prize); RA named stage (stage-or-program-takeover)."},
+    {"field": "partnership_contact", "url": "https://www.pitchfestival.com.au/information", "note": "General contact hello@pitchfestival.com.au; no partnerships contact published."},
+    {"field": "ticket_price", "url": "https://www.instagram.com/p/Desmky6TnZG/", "note": "Organiser post 20 Oct 2026: presale and general sale dates; general sale not guaranteed."}
+  ],
+  "remove_gaps": [
+    "2027 dates from an aggregator only; not confirmed on the organiser site",
+    "2027 lineup and pricing not announced in search results",
+    "Instagram, attendance and sponsors not captured"
+  ],
+  "add_gaps": [
+    "2027 ticket price not captured (programme released 20 Oct 2026, presale from 26 Oct)",
+    "Attendance not published",
+    "Audience demographics not published",
+    "No dedicated partnerships contact; hello@ is general"
+  ],
+  "notes": "2027 dates now confirmed on organiser site (10th edition, 5 to 9 Mar 2027). Brand presence is light and curated: RA stage since 2019, Crumpler collab bag (2026), Tixel resale and Wallaroo camping hire. Club Elevate co-authors artist interview content (producer, not sponsor). Organiser Untitled Group also runs Beyond The Valley and Wildlands."
+}

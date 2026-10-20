@@ -1,0 +1,31 @@
+{
+  "id": "lake-tahoe-wellness-festival",
+  "set": {
+    "website": "https://www.wellnessplayground.com/",
+    "location": {"city": "Meeks Bay", "state_or_region": "California", "country": "USA", "venue_or_area": "Meeks Bay Resort & Campground, Lake Tahoe West Shore (breakfasts at the Kehlet Mansion)"},
+    "organiser": {"name": "Wellness Playground Retreats", "type": null, "website": "https://www.wellnessplayground.com/"},
+    "ticket_price": {"min": 125, "max": 350, "currency": "USD", "free_entry": false, "note": "2026: All-Access weekend USD 350; Supportive Sidekick weekend (no classes) USD 150; day pass about USD 125; youth pass (13 to 21) about USD 75; Thursday welcome dinner about USD 145; tent camping USD 65; under 5 free. Some price-to-tier mappings on the page are unclear."},
+    "partnership_contact": {"email": "wellnessplayground@gmail.com", "page_url": "https://www.wellnessplayground.com/contact-2", "named_person": null, "source": "https://www.wellnessplayground.com/"}
+  },
+  "add_sponsors": [
+    {"brand": "Goodwipes", "years": [2026], "role": "partner", "source": "https://www.instagram.com/wellnessplaygroundretreats/"},
+    {"brand": "Drink Coffee Do Stuff", "years": [2026], "role": "partner", "source": "https://www.facebook.com/Wellness.Playground.Retreats/"},
+    {"brand": "New Moon Foods", "years": [2026], "role": "partner", "source": "https://www.wellnessplayground.com/"},
+    {"brand": "Meeks Bay Resort & Campground", "years": [2026], "role": "venue", "source": "https://www.wellnessplayground.com/"}
+  ],
+  "add_activation_formats": ["sampling"],
+  "add_sources": [
+    {"field": "website", "url": "https://www.wellnessplayground.com/", "note": "Site title 'Lake Tahoe Wellness Festival | Wellness Playground'; 'August 6th - 9th, 2026. Meeks Bay Resort & Campground'."},
+    {"field": "location", "url": "https://www.wellnessplayground.com/", "note": "Venue Meeks Bay Resort & Campground; daily breakfast bar at the Kehlet Mansion included with ticket."},
+    {"field": "organiser", "url": "https://www.facebook.com/events/meeks-bay-resort/lake-tahoe-wellness-festival/1988666295074393/", "note": "Facebook event (Google snippet): 'Hosted by Wellness Playground Retreats, Denielle Basom and 6 others'. Site lists Wellness Playground Retreats; Denielle Basom is also a presenter."},
+    {"field": "ticket_price", "url": "https://www.wellnessplayground.com/", "note": "Pass list read from the homepage: All weekend All Access USD 350; Supportive Sidekick USD 150; Day Pass, youth, kid and welcome dinner prices partly ambiguous in page order; camping USD 65, RV site USD 325 (sold out)."},
+    {"field": "partnership_contact", "url": "https://www.wellnessplayground.com/", "note": "Homepage gives wellnessplayground@gmail.com (waitlist and general) and a contact page. No vendor or sponsor opportunities listed."},
+    {"field": "sponsors", "url": "https://www.instagram.com/wellnessplaygroundretreats/", "note": "Google snippet of organiser IG: 'Consider you butt CLEAN at the Lake Tahoe Wellness Festival! We got you covered! @goodwipes sponsor for the win! We are so grateful for this partnership.'"},
+    {"field": "sponsors", "url": "https://www.facebook.com/Wellness.Playground.Retreats/", "note": "Google snippet of organiser Facebook: 'We are so excited for our local sponsors Drink Coffee Do Stuff providing freshly roasted beans for our Lake Tahoe Wellness Festival Aug 6-9th!' Another post thanks 'our local natural food store located in Truckee and Tahoe City'."},
+    {"field": "sponsors", "url": "https://www.wellnessplayground.com/", "note": "Homepage: New Moon Foods provides the daily breakfast buffet (matches the Truckee and Tahoe City natural food store thanked on Facebook). A SPONSORS block shows logos with file-name alt text only."},
+    {"field": "activation_formats", "url": "https://www.facebook.com/Wellness.Playground.Retreats/", "note": "Sponsors supplied product on site: Goodwipes wipes, Drink Coffee Do Stuff coffee beans, New Moon Foods breakfast."}
+  ],
+  "add_gaps": ["Attendance not published", "Sponsor logos on the site are unnamed images; only Goodwipes, Drink Coffee Do Stuff and New Moon Foods identified", "Edition count unclear: press says 2nd annual; site lists a 2025 'Lake Tahoe Campout' among past retreats", "2027 dates not announced"],
+  "remove_gaps": ["Organiser, website, attendance, prices and sponsors not captured"],
+  "notes": "Small, new wellness festival (yoga, sound healing, live music, camping) run by Wellness Playground Retreats; sponsors are local in-kind product partners, so it is an easy, low-cost sampling fit. IG: @wellnessplaygroundretreats is the organiser's account (Google snippets show it promoting the festival and its sponsors), so it should be attached despite the pack note. Tahoe Psychedelic lists a partner session hosted by Breath of Fire."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "laneway-festival-sydney",
+  "set": {
+    "website": "https://www.lanewayfestival.com/sydney/home",
+    "organiser": {"name": "Laneway Festival (part of Ticketek Entertainment Group, TEG)", "type": "promoter", "website": "https://www.lanewayfestival.com/"},
+    "dates": {
+      "last_edition": {"start": "2026-02-08", "end": "2026-02-08", "status": "held", "label": "2026"},
+      "next_edition": {"start": "2027-02-12", "end": "2027-02-12", "status": "confirmed", "label": "22nd edition (2027)"},
+      "frequency": "annual",
+      "duration_days": 1
+    },
+    "partnership_contact": {"email": "lucy@aeroplaneagency.com", "page_url": "https://www.lanewayfestival.com/contact-us", "named_person": "Lucy, Aeroplane Agency (sponsorship enquiries)", "source": "https://www.lanewayfestival.com/contact-us"}
+  },
+  "add_sponsors": [
+    {"brand": "Afterpay", "years": [2026, 2027], "role": "partner", "source": "https://www.instagram.com/p/DUUdJuXib14/"},
+    {"brand": "End the Trend", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DUpPZDLE5uN/"},
+    {"brand": "FEAT. Artists", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DVz11MJEvQY/"}
+  ],
+  "add_activation_formats": ["lounge", "content-series"],
+  "add_sources": [
+    {"field": "website", "url": "https://www.lanewayfestival.com/sydney/home", "note": "Official Sydney page: Centennial Park, Fri 12 Feb 2027."},
+    {"field": "organiser", "url": "https://www.lanewayfestival.com/privacy-policy-australia", "note": "'Laneway Festival is part of the Ticketek Entertainment Group (TEG)' (Google snippet). Touring arm @lanewaypresents."},
+    {"field": "dates.last_edition", "url": "https://www.theaureview.com/music/live-review-laneway-festival-centennial-park-sydney-08-02-26/", "note": "Live review titled 'Laneway Festival, Centennial Park, Sydney (08.02.26)' (Google snippet). Sydney 2026 sold out per https://www.instagram.com/p/DThIc0OkQ1b/."},
+    {"field": "dates.next_edition", "url": "https://www.billboard.com/music/concerts/laneway-festival-2027-dates-1236323649/", "note": "Scaled-back 2027 tour opens in Sydney on 12 February (Google snippet)."},
+    {"field": "partnership_contact", "url": "https://www.lanewayfestival.com/contact-us", "note": "Sponsorship enquiries: lucy@aeroplaneagency.com. Media: media@lanewayfestival.com.au. General: info@lanewayfestival.com.au."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DUUdJuXib14/", "note": "2026 Afterpay Access Area near the main stages (elevated viewing for Afterpay app users). 2027 pre-sale 'presented by Afterpay' per https://www.timeout.com/sydney/news/how-to-get-tickets-to-laneway-in-sydney-2027-pre-sale-date-line-up-more-093026 (Google snippet)."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DUpPZDLE5uN/", "note": "Paid partnership: weekend weather forecasts 'brought to you by @endthetrendaus' with sun-safety messaging (SPF50+, hats, shade)."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DVz11MJEvQY/", "note": "'Solar Slice' across Laneway 2026 in partnership with FEAT. Artists: $1 from every ticket to nature restoration, emissions cuts and social impact."},
+    {"field": "audience", "url": "https://www.instagram.com/p/DeGMfGCjEnt/", "note": "2027 Sydney and Melbourne: 16 to 17 year olds must attend with an 18+ Responsible Adult under the Youth Policy."}
+  ],
+  "add_gaps": ["Sydney attendance not published; national 2023 total of about 100,000 (The Music Network) is not split by city", "2027 ticket prices not captured", "Sydney page shows seven 'Sponsored by' images with no names or alt text"],
+  "remove_gaps": ["Exact 2026 Sydney date not captured", "Official website not surfaced in search results", "No public partnerships contact found"],
+  "notes": "Partnership contact is an agency (Aeroplane Agency) handling sponsorship. End the Trend ran a paid sun-safety weather series in 2026: a health-message precedent worth noting for High Ground. Older partners not added for lack of current years: Visa (from 2013, Shorty Awards case study) and Green Music Australia (multi-year, start year unknown)."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "rainbow-spirit-festival",
+  "set": {
+    "dates": {
+      "last_edition": {"start": "2026-03-06", "end": "2026-03-09", "status": "held", "label": "Return edition, 'Gathering Light' (2026)"},
+      "next_edition": {"start": "2027-03-05", "end": "2027-03-08", "status": "confirmed", "label": "2027"},
+      "frequency": "annual",
+      "duration_days": 4
+    },
+    "ticket_price": {
+      "min": null,
+      "max": null,
+      "currency": "AUD",
+      "free_entry": false,
+      "note": "2027 tickets via Humanitix: presale registration 12 to 14 Oct 2026; the presale sold almost three quarters of tickets; remaining tickets on general sale from 16 Oct 2026 with payment plans. Prices not captured."
+    }
+  },
+  "add_sponsors": [
+    {"brand": "Live Music Festival Fund", "years": [], "role": "government", "source": "https://rainbowspirit.net/"}
+  ],
+  "add_sources": [
+    {"field": "dates.next_edition", "url": "https://rainbowspirit.net/", "note": "Official site (crawled Oct 2026): '5-8 March 2027, GLENAROUA VIC', tickets now available."},
+    {"field": "dates.next_edition", "url": "https://www.instagram.com/p/Dd8bks5CRcj/", "note": "Organiser post 1 Oct 2026: 'Rainbow Spirit Festival returns 5 - 8 March 2027'."},
+    {"field": "dates.last_edition", "url": "https://www.instagram.com/p/DV-dVTBCXeW/", "note": "Organiser post 17 Mar 2026: 'Our first full photo album from Rainbow 2026 is now live', confirming the 2026 edition was held."},
+    {"field": "sponsors", "url": "https://rainbowspirit.net/", "note": "Home and get-involved pages: 'Thank you to Live Music Festival Fund'. Funding body and edition year not stated."},
+    {"field": "ticket_price", "url": "https://www.instagram.com/p/Deid64xCV_o/", "note": "Organiser post 16 Oct 2026: presale snapped up 'almost three-quarters of all available tickets'; remainder on general sale via link in bio."},
+    {"field": "ticket_price", "url": "https://www.instagram.com/p/DeYBRqCCQ3h/", "note": "Organiser post 12 Oct 2026: presale registrations through Humanitix (Auto-Purchase or Notify Me)."}
+  ],
+  "remove_gaps": [
+    "2027 dates and the Glenaroua site come from one aggregator listing; not seen on the organiser site",
+    "2026 edition treated as held from announced dates; no post-event coverage seen",
+    "2027 dates from an aggregator only",
+    "Website from aggregator text, not opened",
+    "Organiser entity, attendance, ticket prices and partners not found"
+  ],
+  "add_gaps": [
+    "Organiser entity, attendance and ticket prices not found",
+    "Live Music Festival Fund named without funding body or year",
+    "No commercial sponsors seen"
+  ],
+  "notes": "2027 dates and Glenaroua site now confirmed on the organiser site; 2026 held. Only funding credit is the Live Music Festival Fund (probably a government grant; body not named). Whomp Music, Tribeadelic and The Operatives appear as promoter partners for side events (afterparty, a CloZee show), not sponsors. Strong demand: about 75% of 2027 tickets sold in presale."
+}

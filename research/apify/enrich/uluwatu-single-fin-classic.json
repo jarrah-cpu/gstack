@@ -1,0 +1,44 @@
+{
+  "id": "uluwatu-single-fin-classic",
+  "set": {
+    "dates": {
+      "last_edition": {
+        "start": "2026-08-14",
+        "end": "2026-08-16",
+        "status": "held",
+        "label": "7th annual (2026), 14 to 16 Aug; finals 16 Aug; results published on LiveHeats (Asian Surf Co.)"
+      },
+      "next_edition": {
+        "start": "2027",
+        "end": null,
+        "status": "expected",
+        "label": "8th annual (2027)"
+      },
+      "frequency": "annual",
+      "duration_days": 3
+    }
+  },
+  "add_sponsors": [
+    {"brand": "INDOxyz", "years": [2026], "role": "partner", "source": "https://www.facebook.com/uluwatu.boardriders.9/videos/uluwatu-single-fin-classic-2026-14-15-16-agustus/1970979486865410/"},
+    {"brand": "Discovery Kartika Plaza Hotel", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/Db7k6efEnm_/"},
+    {"brand": "Discovery Mall Bali", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/Db7k6efEnm_/"}
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {"field": "dates.last_edition", "url": "https://liveheats.com/asiansurfco/events", "note": "Google snippet: Asian Surf Co. LiveHeats events list shows 'Uluwatu Single Fin Classic 2026. Results published.'"},
+    {"field": "dates.last_edition", "url": "https://www.facebook.com/uluwatu.boardriders.9/videos/uluwatu-single-fin-classic-2026-14-15-16-agustus/1970979486865410/", "note": "Google snippet: 'Uluwatu Single Fin Classic 2026 14, 15, 16 Agustus' video with heat scores ('An 8.83 puts Agus ...')."},
+    {"field": "dates.last_edition", "url": "https://www.instagram.com/p/Dahxxn7E2W0/", "note": "Google snippet (Bali This Week): 'Uluwatu Single Fin Classic, Finals Day! Where: Single Fin, Uluwatu. When: 16 August'."},
+    {"field": "sponsors", "url": "https://www.facebook.com/uluwatu.boardriders.9/videos/uluwatu-single-fin-classic-2026-14-15-16-agustus/1970979486865410/", "note": "Google snippet of Uluwatu Boardriders video: 'Presented by INDOxyz'. Snippet only; role not confirmed."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/Db7k6efEnm_/", "note": "Google snippet of an Instagram post: 'The countdown is on! In just three days, the 7th Uluwatu Single Fin Classic will return! ... Presented by : @discoverykartikaplaza @teman.agi @discovery.mall'. Snippet may merge text; posting account not identified."},
+    {"field": "sponsors", "url": "https://www.facebook.com/Islandbrewing.beer/posts/this-weekend-the-single-fin-classic-will-be-happening-on-the-14-16th-we-cant-wai/1059912826557480/", "note": "Island Brewing posted about attending the 14 to 16 Aug event 'with a few cold beers in hand'; sponsorship not stated, so not added."}
+  ],
+  "add_gaps": [
+    "Sponsor evidence rests on Google snippets ('Presented by INDOxyz'; 'Presented by @discoverykartikaplaza @teman.agi @discovery.mall'); roles unconfirmed",
+    "Attendance and partnership contact not found"
+  ],
+  "remove_gaps": [
+    "2026 edition listed for 14 to 16 Aug 2026; no post-event report found",
+    "Sponsors, attendance and partnership contact not found"
+  ],
+  "notes": "2026 (7th) edition confirmed held 14 to 16 Aug (finals 16 Aug, results on LiveHeats). Possible sponsors INDOxyz and Discovery Kartika Plaza Hotel and Discovery Mall come only from 'Presented by' Google snippets: verify before use. Event Instagram not identified (@singlefinbali is the bar)."
+}

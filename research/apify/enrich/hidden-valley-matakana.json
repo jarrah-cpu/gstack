@@ -1,0 +1,48 @@
+{
+  "id": "hidden-valley-matakana",
+  "set": {
+    "website": "https://www.hiddenvalleyfestival.com/",
+    "organiser": {"name": "Hidden Valley Ltd", "type": null, "website": "https://www.hiddenvalleyfestival.com/"},
+    "dates": {
+      "last_edition": {"start": "2025-12-27", "end": "2025-12-27", "status": "held", "label": "2025 (10th, sold out)"},
+      "next_edition": {"start": "2026-12-27", "end": "2026-12-27", "status": "confirmed", "label": "2026 (11th)"},
+      "frequency": "annual",
+      "duration_days": 1
+    },
+    "attendance": {"figure": 10000, "figure_high": null, "year": null, "is_estimate": true, "source": "https://www.rova.nz/events/hidden-valley-festival-2026", "note": "Press listing (Rova, Google snippet): since launching in 2016 Hidden Valley is 'regularly drawing a crowd of 10,000 music fans'. No organiser figure; 2025 edition sold out."},
+    "audience": {"age_range": "18+ (R18 event)", "gender_skew": null, "psychographics": "Electronic, house and drum and bass fans; 2026 bill of 16 acts led by Dimension and Armand Van Helden with Flava D, Prozak and others.", "source": "https://ra.co/events/2509041"},
+    "partnership_contact": {"email": "info@hiddenvalleyfestival.com", "page_url": null, "named_person": null, "source": "https://www.hiddenvalleyfestival.com/"}
+  },
+  "add_sponsors": [
+    {"brand": "George FM", "years": [2025, 2026], "role": "media", "source": "https://www.hiddenvalleyfestival.com/hidden-valley-line-up"},
+    {"brand": "Heineken Silver", "years": [2026], "role": "partner", "source": "https://www.hiddenvalleyfestival.com/hidden-valley-line-up"},
+    {"brand": "Pioneer DJ (AlphaTheta)", "years": [2025, 2026], "role": "partner", "source": "https://www.instagram.com/p/DQBPYxLD2jg/"},
+    {"brand": "Pals", "years": [2026], "role": "partner", "source": "https://www.hiddenvalleyfestival.com/hidden-valley-line-up"},
+    {"brand": "Alba", "years": [2026], "role": "partner", "source": "https://www.hiddenvalleyfestival.com/hidden-valley-line-up"},
+    {"brand": "Jim Beam", "years": [2026], "role": "partner", "source": "https://www.hiddenvalleyfestival.com/hidden-valley-line-up"},
+    {"brand": "Canadian Club", "years": [2026], "role": "partner", "source": "https://www.hiddenvalleyfestival.com/hidden-valley-line-up"},
+    {"brand": "Red Bull", "years": [2025], "role": "partner", "source": "https://www.instagram.com/p/DR1Klf9E2Rq/"},
+    {"brand": "Wally", "years": [2025, 2026], "role": "collab", "source": "https://www.instagram.com/p/DdsH64yE_wu/"},
+    {"brand": "Gelous", "years": [2026], "role": "collab", "source": "https://www.instagram.com/p/Dc141mIk9LW/"},
+    {"brand": "Project 44", "years": [2026], "role": "collab", "source": "https://www.instagram.com/p/DeiFsKBE_Oz/"},
+    {"brand": "The Body Roll Studio", "years": [2025], "role": "collab", "source": "https://www.instagram.com/p/DRJZD3kk704/"}
+  ],
+  "add_activation_formats": ["competition-or-prize", "stage-or-program-takeover"],
+  "add_sources": [
+    {"field": "website", "url": "https://www.hiddenvalleyfestival.com/", "note": "Read via WebFetch: official site, footer '(c) 2026 HIDDEN VALLEY LTD.'"},
+    {"field": "organiser", "url": "https://www.hiddenvalleyfestival.com/", "note": "Footer names Hidden Valley Ltd."},
+    {"field": "dates.last_edition", "url": "https://www.instagram.com/p/DRq-lS3EbTt/", "note": "Nov 2025: 'Hidden Valley Festival has officially sold out ... our ten-year anniversary ... see you on the 27th of December'; wrap post 28 Dec 2025 (https://www.instagram.com/p/DS0lLFsEwYE/)."},
+    {"field": "dates.next_edition", "url": "https://ra.co/events/2509041", "note": "Google snippet: 'Sunday 27th of December 2026 3pm-11:30pm R18 ... Returns for Its 11th Year'."},
+    {"field": "attendance", "url": "https://www.rova.nz/events/hidden-valley-festival-2026", "note": "Google snippet only."},
+    {"field": "audience", "url": "https://ra.co/events/2509041", "note": "R18 per RA listing (Google snippet) and the festival's IG bio ('R18')."},
+    {"field": "audience", "url": "https://www.ticketfairy.com/word/2026/07/07/hidden-valley-2026-announces-line-up-featuring-dimension-armand-van-helden-and-more", "note": "Lineup basis for psychographics (existing source)."},
+    {"field": "partnership_contact", "url": "https://www.hiddenvalleyfestival.com/", "note": "Read via WebFetch: 'Contact the team' mailto info@hiddenvalleyfestival.com; no partnership address."},
+    {"field": "sponsors", "url": "https://www.hiddenvalleyfestival.com/hidden-valley-line-up", "note": "Google snippet: 'Partners. GEORGE FM. HEINEKEN SILVER. PIONEER DJ. PALS. ALBA. JIM BEAM. CANADIAN CLUB.' (2026 line-up page)."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DR1Klf9E2Rq/", "note": "Dec 2025 set times: four stages incl. 'Club Omaha powered by Red Bull' and 'the GeorgeFM Container Rave'."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DRJZD3kk704/", "note": "Nov 2025 collab giveaway with The Body Roll Studio (lymphatic drainage studio): Body Roll for 2, LED masks, Hydee electrolytes plus festival tickets."},
+    {"field": "activation_formats", "url": "https://www.instagram.com/p/DdsH64yE_wu/", "note": "Brand x festival ticket giveaways (Wally, Gelous, Project 44, Pioneer DJ); stage branding by Red Bull and George FM."}
+  ],
+  "add_gaps": ["Ticket prices not captured", "Attendance is a press figure without a year; no organiser count", "No partnerships contact; general info email only", "Gender split not published"],
+  "remove_gaps": ["R18 status from an aggregator only", "Organiser, website, attendance, ticket prices and sponsors not captured", "Past editions and frequency not captured", "No public partnerships contact found"],
+  "notes": "Ten-year-old R18 one-day dance festival (about 10,000) with alcohol, radio and DJ-gear partners plus a steady run of small-brand collab giveaways. A wellness studio (The Body Roll Studio, with Hydee electrolytes) already ran a giveaway, a low-cost entry precedent for High Ground. Sold out late Nov 2025; 2026 past fourth release by mid Oct."
+}

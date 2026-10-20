@@ -1,0 +1,157 @@
+{
+  "id": "distinguished-gentlemans-ride-australia",
+  "set": {
+    "dates": {
+      "last_edition": {
+        "start": "2026-05-17",
+        "end": "2026-05-17",
+        "status": "held",
+        "label": "2026"
+      },
+      "next_edition": {
+        "start": "2027-05-16",
+        "end": "2027-05-16",
+        "status": "confirmed",
+        "label": "2027"
+      },
+      "frequency": "annual",
+      "duration_days": 1
+    },
+    "partnership_contact": {
+      "email": null,
+      "page_url": "https://gentlemansride.com/sponsor",
+      "named_person": null,
+      "source": "https://gentlemansride.com/sponsor"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Triumph Motorcycles",
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "role": "major",
+      "source": "https://gentlemansride.com/about/partners"
+    },
+    {
+      "brand": "Hedon Helmets",
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "role": "partner",
+      "source": "https://gentlemansride.com/about/partners"
+    },
+    {
+      "brand": "ELF Lubricants (TotalEnergies)",
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "role": "partner",
+      "source": "https://gentlemansride.com/about/partners"
+    },
+    {
+      "brand": "Quad Lock",
+      "years": [
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "role": "partner",
+      "source": "https://gentlemansride.com/about/partners"
+    },
+    {
+      "brand": "Brett Eyewear",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "partner",
+      "source": "https://gentlemansride.com/about/partners"
+    },
+    {
+      "brand": "Movember",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://gentlemansride.com/"
+    }
+  ],
+  "add_activation_formats": [
+    "competition-or-prize",
+    "collab-product"
+  ],
+  "add_sources": [
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.instagram.com/gentlemansride/",
+      "note": "Instagram bio: 'Save the date: 16 May 2027'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://gentlemansride.com/about/partners",
+      "note": "Crawled page: Triumph global partner for a 13th consecutive year in 2026; Hedon helmet partner, 11 years in 2026; ELF lubricant partner since 2018; Quad Lock 5th consecutive year; Brett Eyewear 2nd consecutive year. Years derived from these counts."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://gentlemansride.com/",
+      "note": "Crawled homepage: 'Proudly Supporting Movember' and 'Sponsored By Triumph Motorcycles'. Movember is the charity beneficiary."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://gentlemansride.com/about/partners",
+      "note": "Crawled page: top fundraisers win Triumph modern classic motorcycles; Hedon makes an exclusive DGR helmet; Quad Lock and Brett offer fundraiser rewards."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://triumph-mediakits.com/en/distinguished-gentleman%E2%80%99s-ride/",
+      "note": "Google snippet: 'Triumph Motorcycles x The Distinguished Gentleman's Ride: 2026 collection'."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://gentlemansride.com/sponsor",
+      "note": "Google snippet: 'Sponsor a Ride. Partner with us ...' page."
+    }
+  ],
+  "remove_gaps": [
+    "2027 date still unconfirmed after a targeted search on 20 Oct 2026; Bikenrider (3 May 2026) says 2027 global registration is open but gives no date and hedges on a possible move to a Northern Hemisphere autumn date. May is the recent pattern",
+    "Sponsors and brand-partner policy not researched",
+    "No public partnerships contact found"
+  ],
+  "add_gaps": [
+    "Sponsors are global; Australian ride-level sponsors not checked (e.g. the Sydney ride page)"
+  ],
+  "notes": "2027 ride is 16 May. Global partners: Triumph (since 2014), Hedon, ELF, Quad Lock, Brett Eyewear; Movember (men's health) is the beneficiary, a strong health adjacency. 'Sponsor a Ride' page invites partners. IG account is correct."
+}

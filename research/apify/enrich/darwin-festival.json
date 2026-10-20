@@ -1,0 +1,536 @@
+{
+  "id": "darwin-festival",
+  "set": {
+    "attendance": {
+      "figure": 170008,
+      "figure_high": null,
+      "year": 2022,
+      "is_estimate": false,
+      "source": "https://www.tourismandeventsnt.com.au/news/darwin-festival-delivers-impressive-results-for-territory-economy",
+      "note": "Reported by Tourism and Events NT (funder), 7 Dec 2022: record 170,008 attendances (cumulative across the program) and 39,361 tickets sold for 2022. No later figure captured; the 2025 Annual Review is on Issuu and was not read."
+    },
+    "partnership_contact": {
+      "email": "kay.crozier@darwinfestival.org.au",
+      "page_url": "https://www.darwinfestival.org.au/partnerships",
+      "named_person": null,
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    "dates": {
+      "last_edition": {
+        "start": "2026-08-06",
+        "end": "2026-08-23",
+        "status": "held",
+        "label": "2026"
+      },
+      "next_edition": {
+        "start": "2027-08-04",
+        "end": "2027-08-22",
+        "status": "confirmed",
+        "label": "2027"
+      },
+      "frequency": "annual",
+      "duration_days": 18
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Tourism and Events NT (NT Government)",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "City of Darwin",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "City of Palmerston",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "INPEX",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "Airnorth",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "Airport Development Group",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "Alice Springs Brewing Co",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "Argus Accommodation",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "BMD",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "Darwin Port",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "HWL Ebsworth",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "Kolsen",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "Mindil Beach Casino Resort",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "Power and Water",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "Sitzler",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "Darwin Motor Group",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "KWP + partners",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "Dreamedia",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "Arnhem Gardens",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "Beetaloo Energy",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "Boltz",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "BW Offshore",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "Carpentaria",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "Casuarina Square",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "CGH Group",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "Hospitality NT",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "Hunt and Hunt",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "Jacob's Creek",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "McDonald's",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "NTIT",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "OneIT",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "PayStay",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "PRLX",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "Randazzo",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "The Mining",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "Select Events",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "Schweppes",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "South32",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "Thrifty",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "Tourism Top End",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "Bettercup",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "Tim Fairfax Family Foundation",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "Hot 100",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "Mix 104.9",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "Nine",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "NT News",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "ABC Radio Darwin",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "Imparja",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "Territory FM",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "AANT Centre",
+      "years": [
+        2026
+      ],
+      "role": "venue",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "Brown's Mart",
+      "years": [
+        2026
+      ],
+      "role": "venue",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "Bustard Town",
+      "years": [
+        2026
+      ],
+      "role": "venue",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "Darwin Railway Club",
+      "years": [
+        2026
+      ],
+      "role": "venue",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "Darwin Ski Club",
+      "years": [
+        2026
+      ],
+      "role": "venue",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "MAGNT",
+      "years": [
+        2026
+      ],
+      "role": "venue",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "SRO Events",
+      "years": [
+        2026
+      ],
+      "role": "venue",
+      "source": "https://www.darwinfestival.org.au/partnerships"
+    },
+    {
+      "brand": "Santos",
+      "years": [
+        2022
+      ],
+      "role": "major",
+      "source": "https://www.abc.net.au/news/2022-12-15/nt-darwin-festival-funding-falls-through-fossil-free-arts-nt/101775768"
+    }
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {
+      "field": "attendance",
+      "url": "https://www.tourismandeventsnt.com.au/news/darwin-festival-delivers-impressive-results-for-territory-economy",
+      "note": "'record-breaking 170,008 attendances' and 39,361 tickets; 65% of ticketed shows sold out (2022)"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.darwinfestival.org.au/partnerships",
+      "note": "2026 partners page: Principal Partner Tourism and Events NT; Local Government Partner City of Darwin; Major Partners INPEX and City of Palmerston; Distinguished, Vehicle, Brand, Production, Star, Sustainability, Foundation and Venue partner tiers"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.abc.net.au/news/2022-12-15/nt-darwin-festival-funding-falls-through-fossil-free-arts-nt/101775768",
+      "note": "Google snippet: major partners for 2022 included Santos and INPEX; Santos later ended its sponsorship of nearly three decades"
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.darwinfestival.org.au/partnerships",
+      "note": "Become a Partner: contact the Development team on 08 8943 4200 or email kay.crozier@darwinfestival.org.au; 2025 Annual Review linked on Issuu"
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.darwinfestival.org.au/about-us",
+      "note": "Organiser site: 'hot August nights 4-22 August 2027'; FAQ says 'Wednesday 5 to Sunday 22 August' (4 Aug 2027 is the Wednesday)"
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.instagram.com/darwinfestival/",
+      "note": "Organiser IG bio gives 5-23 August 2026, supporting the 5 Aug start"
+    }
+  ],
+  "add_gaps": [
+    "No attendance figure after 2022 captured",
+    "Organiser FAQ gives a 'Wednesday 5' Aug 2027 start, conflicting with 4 Aug elsewhere on the site"
+  ],
+  "remove_gaps": [
+    "Attendance not captured",
+    "Sponsor roster and partnerships contact not captured",
+    "2027 dates (4 to 22 Aug) from a single tourism listing, not the organiser"
+  ],
+  "notes": "Partners page gives a 2026 roster of about 65 partners across tiers, including consumer brands (McDonald's, Schweppes, Jacob's Creek, Alice Springs Brewing) and gas and mining (INPEX, Beetaloo, South32). Santos exited after a fossil-fuel campaign. 2027 dates now from the organiser."
+}

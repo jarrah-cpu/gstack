@@ -1,0 +1,107 @@
+{
+  "id": "boulderfest-brisbane",
+  "add_sponsors": [
+    {
+      "brand": "SCARPA",
+      "years": [
+        2024,
+        2025,
+        2026
+      ],
+      "role": "naming",
+      "source": "https://visit.brisbane.qld.au/whats-on/inner-city/eat-and-drink-events/scarpa-boulderfest-2025-45b2"
+    },
+    {
+      "brand": "Climbing Anchors",
+      "years": [
+        2024
+      ],
+      "role": "partner",
+      "source": "https://visit.brisbane.qld.au/whats-on/inner-city/sporting-events/scarpa-boulderfest-2024-e77c"
+    },
+    {
+      "brand": "Wild Earth",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.facebook.com/Brisbane/posts/event-australias-biggest-bouldering-festival-is-returning-to-brisbane-this-augu/1632425715552586/"
+    },
+    {
+      "brand": "Unparallel",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.facebook.com/Brisbane/posts/event-australias-biggest-bouldering-festival-is-returning-to-brisbane-this-augu/1632425715552586/"
+    },
+    {
+      "brand": "Black Diamond",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.facebook.com/Brisbane/posts/event-australias-biggest-bouldering-festival-is-returning-to-brisbane-this-augu/1632425715552586/"
+    },
+    {
+      "brand": "ICP (@climbicp)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.facebook.com/Brisbane/posts/event-australias-biggest-bouldering-festival-is-returning-to-brisbane-this-augu/1632425715552586/"
+    },
+    {
+      "brand": "Butora",
+      "years": [
+        2022
+      ],
+      "role": "partner",
+      "source": "https://www.facebook.com/urbanclimb/posts/and-thats-another-year-done-and-dusted-a-huge-congratulations-to-all-our-finalis/1448727297296287/"
+    }
+  ],
+  "add_activation_formats": [
+    "naming-rights",
+    "content-series"
+  ],
+  "add_sources": [
+    {
+      "field": "sponsors",
+      "url": "https://visit.brisbane.qld.au/whats-on/inner-city/eat-and-drink-events/scarpa-boulderfest-2025-45b2",
+      "note": "Visit Brisbane listing titled 'SCARPA Boulderfest 2025', 2 to 3 Aug 2025, Urban Climb West End (Google result)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://visit.brisbane.qld.au/whats-on/inner-city/sporting-events/scarpa-boulderfest-2024-e77c",
+      "note": "Google snippet (Aug 2024) of 'SCARPA Boulderfest 2024': 'Special shout outs to Scarpa, Climbing Anchors, Rock ...' (list cut off)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.facebook.com/urbanclimb/videos/scarpa-boulderfest-2026-finals-livestreamtune-in-via-our-youtube-link-in-bioaug-/928563803601172/",
+      "note": "Urban Climb video titled 'SCARPA BOULDERFEST 2026: FINALS LIVESTREAM' (Google result)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.facebook.com/Brisbane/posts/event-australias-biggest-bouldering-festival-is-returning-to-brisbane-this-augu/1632425715552586/",
+      "note": "Google snippet of a Brisbane page post (about Jul 2026, 'returning to Brisbane this August'): 'sponsors: @wildearthaustralia, @unparallelup, @blackdiamond and @climbicp'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.facebook.com/urbanclimb/posts/and-thats-another-year-done-and-dusted-a-huge-congratulations-to-all-our-finalis/1448727297296287/",
+      "note": "Google snippet: 'Boulderfest 2022 finals live stream presented by Butora Climbing'."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.facebook.com/urbanclimb/posts/and-thats-another-year-done-and-dusted-a-huge-congratulations-to-all-our-finalis/1448727297296287/",
+      "note": "Butora presented the 2022 finals livestream; SCARPA holds event naming 2024 to 2026."
+    }
+  ],
+  "remove_gaps": [
+    "Attendance, ticket prices and partners not found"
+  ],
+  "add_gaps": [
+    "Attendance and ticket prices not found (Urban Climb calls 2025 one of its highest-attended events, no figure)",
+    "2026 partner list comes from a Google snippet of a third-party Facebook post"
+  ],
+  "notes": "Urban Climb's annual comp, SCARPA naming since at least 2024, with climbing gear brands as partners and a YouTube finals livestream. No event IG account; organiser account is @urbanclimb. Bouldering Project's US 'Boulderfest 2026' is a different event."
+}

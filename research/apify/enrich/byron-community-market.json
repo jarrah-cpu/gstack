@@ -1,0 +1,74 @@
+{
+  "id": "byron-community-market",
+  "set": {
+    "website": "https://www.byroncentre.com.au/bcm/byron-community-market",
+    "partnership_contact": {
+      "email": "communitymarket@byroncentre.com.au",
+      "page_url": "https://www.byroncentre.com.au/bcm/partnership",
+      "named_person": null,
+      "source": "https://www.byroncentre.com.au/bcm/partnership"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Hertz",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.byroncentre.com.au/bcm/partnership"
+    },
+    {
+      "brand": "Spinifex Recruiting",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.byroncentre.com.au/bcm/partnership"
+    },
+    {
+      "brand": "Byron Inside Out (Adhere Marketing guide)",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.byroncentre.com.au/bcm/partnership"
+    }
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://www.instagram.com/byroncommunitycentre/",
+      "note": "Organiser IG links to byronmarkets.com.au; the Byron Community Market page sits on the Byron Community Centre site at /bcm/byron-community-market."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.byroncentre.com.au/bcm/partnership",
+      "note": "'Partner with Us' page for Byron Markets: music-tent sponsorship (branding on music tents and digital channels), activations and stage sponsorship offered; pricing behind a button. Organiser-published reach: 65+ Byron and Lennox markets a year, 100K visitors across all markets a year, 500+ local businesses, 50+ local musicians."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.byroncentre.com.au/bcm/faqs-bbm",
+      "note": "FAQ 'How can I contact market management?' lists communitymarket@byroncentre.com.au and 0499 755 500 for the Community Market."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.byroncentre.com.au/bcm/partnership",
+      "note": "'Proudly supported by our wonderful local community' block lists Byron Inside Out, Hertz and Spinifex as supporters of the Byron Markets (all three markets). Seen in the Oct 2026 crawl; the logo files date from 2023, so the list may be older."
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.instagram.com/byron_markets/",
+      "note": "IG bio (Oct 2026): 'Community Market - Sunday 1 Nov', 'Beachside Market - Tuesday 29 Dec', Twilight every Saturday."
+    }
+  ],
+  "add_gaps": [
+    "No per-market attendance: organiser publishes only 100K visitors a year across all its Byron and Lennox markets (65+ markets a year)",
+    "Partnership pricing not published (behind a 'Pricing' button)"
+  ],
+  "remove_gaps": [
+    "Stall count and visitor numbers not found"
+  ],
+  "notes": "Byron Markets has a live 'Partner with Us' page offering music-tent and stage sponsorship and activations: a clear entry point. Aggregate 100K visitors a year across all markets kept out of attendance because it is not specific to this market. Existing sponsor 'Local charities (rotating)' is a charity stall programme, not a sponsor; consider removing."
+}

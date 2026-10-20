@@ -1,0 +1,25 @@
+{
+  "id": "lightning-in-a-bottle",
+  "set": {
+    "website": "https://www.libfestival.org/",
+    "dates": {
+      "last_edition": {"start": "2026-05-20", "end": "2026-05-24", "status": "held", "label": "23rd edition (2026)"},
+      "next_edition": {"start": "2027-05-26", "end": "2027-05-30", "status": "confirmed", "label": "2027, Buena Vista Lake"},
+      "frequency": "annual",
+      "duration_days": 5
+    },
+    "ticket_price": {"min": 395, "max": null, "currency": "USD", "free_entry": false, "note": "2027 presale passes from USD 395 (Google snippet of the official site); presale no longer available by Oct 2026, waitlist open. Later tiers not captured."}
+  },
+  "add_sponsors": [],
+  "add_activation_formats": [],
+  "add_sources": [
+    {"field": "website", "url": "https://www.libfestival.org/", "note": "Official site: 'Lightning in a Bottle 2027 | May 26-30, Buena Vista Lake, CA'."},
+    {"field": "dates.next_edition", "url": "https://www.libfestival.org/", "note": "Header 'May 26-30, Buena Vista Lake, CA'; IG bio @libfestival: 'Presented by @thedolab, May 26-30, 2027, Southern California'."},
+    {"field": "ticket_price", "url": "https://www.libfestival.org/", "note": "Google snippet: 'Five days of music, art & camping by Do LaB. Presale passes from $395.' Page now says '2027 Presale Passes No Longer Available' with a waitlist."},
+    {"field": "organiser", "url": "https://www.instagram.com/libfestival/", "note": "IG bio: 'Presented by @thedolab'; site ticketing runs through a Tixr group called 'dolab' and links Do LaB social accounts."},
+    {"field": "sponsors", "url": "https://www.libfestival.org/", "note": "Homepage names no sponsors or brand partners; Apify found no paid-partnership or brand co-author posts on @libfestival since May 2026 (collabs are artists and Do LaB)."}
+  ],
+  "add_gaps": ["No sponsor or brand partner list found on the official homepage or IG", "No partnership or press contact on the homepage", "Ticket tiers beyond the 2027 presale floor not captured"],
+  "remove_gaps": ["2027 dates not announced; Memorial Day weekend expected from pattern", "Organiser (Do LaB) and official website not pinned to a search result"],
+  "notes": "Official site and IG bio confirm 26 to 30 May 2027 at Buena Vista Lake, presented by Do LaB; presale (from USD 395) already sold out. No visible brand sponsors, so the route in is probably via Do LaB directly. Attendance still only a third-party 24,000 estimate. IG @libfestival is correct."
+}

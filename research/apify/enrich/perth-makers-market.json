@@ -1,0 +1,27 @@
+{
+  "id": "perth-makers-market",
+  "set": {
+    "organiser": {"name": "Perth Makers Market", "type": null, "website": "https://perthmakersmarket.com.au/"},
+    "partnership_contact": {"email": "enquiries@perthmakersmarket.com", "page_url": "https://perthmakersmarket.com.au/partnerships/", "named_person": null, "source": "https://perthmakersmarket.com.au/partnerships/"},
+    "location": {"city": "Applecross", "state_or_region": "WA", "country": "Australia", "venue_or_area": "Goolugatup Heathcote, Applecross (day markets); Burswood Park, Burswood (Twilight Series)"}
+  },
+  "add_sponsors": [
+    {"brand": "Town of Victoria Park", "years": [2026], "role": "government", "source": "https://perthmakersmarket.com.au/partnerships/"},
+    {"brand": "City of Melville", "years": [2026], "role": "government", "source": "https://perthmakersmarket.com.au/about/"},
+    {"brand": "Parks and Wildlife Service WA", "years": [2026], "role": "government", "source": "https://www.instagram.com/p/DYlfDPRoO8F/"}
+  ],
+  "add_activation_formats": ["workshop"],
+  "add_sources": [
+    {"field": "sponsors", "url": "https://perthmakersmarket.com.au/partnerships/", "note": "'Our Sponsors': Twilight Series supported by the Town of Victoria Park through its Place Grant for the 2026 series, funding free activities, workshops and entertainment at the Fathers Day, Halloween and Christmas Twilight events."},
+    {"field": "sponsors", "url": "https://perthmakersmarket.com.au/about/", "note": "About page: 'proud to be partnered with the City of Melville' for the Heathcote location."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DYlfDPRoO8F/", "note": "May 2026: 'Our Clean Cup Initiative is back THIS SUNDAY at Perth Makers Market proudly supported by @waparkswildlife'."},
+    {"field": "partnership_contact", "url": "https://perthmakersmarket.com.au/partnerships/", "note": "'We are always looking for partners, collaborators and sponsors!'; page lists enquiries@perthmakersmarket.com (note .com, not .com.au). Stallholder pages also list erin@perthmakersmarket.com."},
+    {"field": "organiser", "url": "https://perthmakersmarket.com.au/", "note": "Self-organised: 'Supporting local handmade makers by organising popular markets'. Legal entity not stated."},
+    {"field": "location", "url": "https://perthmakersmarket.com.au/foodvendor_applications/", "note": "Date table: day markets at Goolugatup Heathcote, Applecross; Twilight markets at Burswood Park, Burswood (31 Oct, 12 Dec 2026, 30 Jan, 27 Mar, 1 May 2027)."},
+    {"field": "activation_formats", "url": "https://perthmakersmarket.com.au/partnerships/", "note": "Council grant funds free workshops and interactive experiences at Twilight events."},
+    {"field": "dates.last_edition", "url": "https://perthmakersmarket.com.au/visitor_faqs/", "note": "Official visitor FAQs list 'Perth Makers Market - October 2026, 18th October 2026, Goolugatup Heathcote' (Google snippet)."}
+  ],
+  "add_gaps": ["Visitor attendance not published (150+ stalls per market)", "Organiser legal entity not stated"],
+  "remove_gaps": ["A third-party listing gives 10 Oct, conflicting with the official 18 Oct", "Organiser, attendance, sponsors and IG handle not captured"],
+  "notes": "Frequent markets (roughly monthly, plus a Burswood Twilight Series). Sponsors are councils and Parks and Wildlife; a partnerships page actively invites sponsors. Stallholders in the IG data are makers and food vendors, not sponsors."
+}

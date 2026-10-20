@@ -1,0 +1,73 @@
+{
+  "id": "wellfest-queenstown",
+  "set": {
+    "dates": {
+      "last_edition": {
+        "start": "2026-02-27",
+        "end": "2026-03-01",
+        "status": "held",
+        "label": "WellFest 2026 (Jungle Temple theme)"
+      },
+      "next_edition": {
+        "start": "2027-02-19",
+        "end": "2027-02-21",
+        "status": "confirmed",
+        "label": "WellFest 2027"
+      },
+      "frequency": "annual",
+      "duration_days": 3
+    },
+    "location": {
+      "city": "Queenstown",
+      "state_or_region": "Otago",
+      "country": "New Zealand",
+      "venue_or_area": "Wellspace, 59 Boyd Road, Kawarau Falls, on the Kawarau River"
+    },
+    "organiser": {
+      "name": "Rick (founder) and Natalija Makarenko",
+      "type": "independent",
+      "website": "https://www.wellfest.co.nz/"
+    },
+    "attendance": {
+      "figure": 350,
+      "figure_high": null,
+      "year": 2026,
+      "is_estimate": true,
+      "source": "https://fancast.co.nz/work/wellfest-2026",
+      "note": "FanCast Productions (festival videographer) case study: 'Three days, 350+ attendees'. Vendor-reported, not organiser-confirmed."
+    },
+    "ticket_price": {
+      "min": 50,
+      "max": null,
+      "currency": "NZD",
+      "free_entry": false,
+      "note": "2026: evening pass from $50 to $65; day pass $99 (Fri, Sun) or $111 (Sat); two-day pass with one night camping $222; full weekend camping and family passes sold (prices not captured); children 12 and under free. 2027 prices not captured."
+    }
+  },
+  "add_sponsors": [
+    {"brand": "Wellspace", "years": [2026, 2027], "role": "venue", "source": "https://www.wellfest.co.nz/"}
+  ],
+  "add_activation_formats": ["stall"],
+  "add_sources": [
+    {"field": "dates.last_edition", "url": "https://events.humanitix.com/wellfest26", "note": "Google snippet: 'WellFest 2026, Queenstown's Wellness Camping Festival. February 27 to March 1, 2026. Wellspace, 59 Boyd Road, Kawarau Falls'."},
+    {"field": "dates.next_edition", "url": "https://www.wellfest.co.nz/", "note": "Official site (crawled): WellFest returns to the Wellspace grounds 19 to 21 February 2027; tickets on Humanitix."},
+    {"field": "dates.frequency", "url": "https://www.wellfest.co.nz/about-us", "note": "Crawled page: began 2022, now 'a highly anticipated annual event'."},
+    {"field": "location", "url": "https://events.humanitix.com/wellfest26", "note": "Google snippet: Wellspace, 59 Boyd Road, Kawarau Falls."},
+    {"field": "organiser", "url": "https://www.wellfest.co.nz/about-us", "note": "Crawled page: 'In 2024, Natalija Makarenko joined Rick ... Together, Rick and Natalija have shaped WellFest'; plans to become a charitable trust."},
+    {"field": "attendance", "url": "https://fancast.co.nz/work/wellfest-2026", "note": "Google snippet: 'Three days, 350+ attendees, four cameras, a crew of four'."},
+    {"field": "ticket_price", "url": "https://www.instagram.com/p/DVNUTr6EnSn/", "note": "Organiser posts (26 Feb 2026): Friday day pass $99, evening $55, two-day with camping $222, children 12 and under free; Saturday day $111, evening $65 (https://www.instagram.com/p/DVNVF0bkrNJ/); evening passes from $50 (https://www.instagram.com/p/DVNl2NyktAW/)."},
+    {"field": "sponsors", "url": "https://www.wellfest.co.nz/", "note": "Crawled page: festival held on 'the stunning Wellspace grounds'; @wellspacesauna co-authors 17 of 80 recent posts."},
+    {"field": "activation_formats", "url": "https://www.instagram.com/p/DVCEyZSEvym/", "note": "2026 Market Lane: curated local makers, healers and food creators (e.g. juju.222matcha, go.sane, Bitcoin Journey)."}
+  ],
+  "add_gaps": [
+    "No sponsors found beyond the host venue Wellspace",
+    "Attendance only from a vendor case study (350+, 2026)",
+    "Audience age and gender not published"
+  ],
+  "remove_gaps": [
+    "No 2026 edition found",
+    "2027 dates from a listing site only",
+    "Attendance, ticket prices and sponsors not captured"
+  ],
+  "notes": "Small (about 350) alcohol-free, family-friendly wellness camping festival; 2026 held 27 Feb to 1 Mar, 2027 confirmed 19 to 21 Feb at Wellspace. No brand sponsors yet, so the door is open but scale is tiny. IG @wellfestnz is correct; Google also returns namesakes (East Auckland WellFest, WellFest Ireland) to ignore."
+}

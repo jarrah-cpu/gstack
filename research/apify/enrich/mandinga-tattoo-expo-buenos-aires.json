@@ -1,0 +1,137 @@
+{
+ "id": "mandinga-tattoo-expo-buenos-aires",
+ "set": {
+  "dates": {
+   "last_edition": {
+    "start": "2026-03-20",
+    "end": "2026-03-22",
+    "status": "held",
+    "label": "2026"
+   },
+   "next_edition": {
+    "start": "2027-03-19",
+    "end": "2027-03-21",
+    "status": "confirmed",
+    "label": "2027, La Rural"
+   },
+   "frequency": "annual",
+   "duration_days": 3
+  },
+  "attendance": {
+   "figure": 14000,
+   "figure_high": null,
+   "year": 2026,
+   "is_estimate": false,
+   "source": "https://www.feriasycongresos.com/noticia/1393/el-tatuaje-como-arte-negocio-y-comunidad-una-edicion-que-supo-reinventarse/",
+   "note": "Organiser-reported 14,000 visitors at the March 2026 edition (Ferias & Congresos). An exhibitor said turnout was lower than 2025. 178 exhibitors, about 400 tattoo artists."
+  },
+  "organiser": {
+   "name": "Mandinga Producciones (organiser quoted: Gustavo Koroyan)",
+   "type": "promoter",
+   "website": null
+  },
+  "ticket_price": {
+   "min": 25000,
+   "max": null,
+   "currency": "ARS",
+   "free_entry": false,
+   "note": "General entry ARS 25,000 in 2026. Equipped 9 m2 stand ARS 1,500,000 incl. insurance."
+  }
+ },
+ "add_sponsors": [
+  {
+   "brand": "Dermaglos",
+   "years": [
+    2026
+   ],
+   "role": "major",
+   "source": "https://www.feriasycongresos.com/noticia/1393/el-tatuaje-como-arte-negocio-y-comunidad-una-edicion-que-supo-reinventarse/"
+  },
+  {
+   "brand": "NTL",
+   "years": [
+    2026
+   ],
+   "role": "major",
+   "source": "https://www.feriasycongresos.com/noticia/1393/el-tatuaje-como-arte-negocio-y-comunidad-una-edicion-que-supo-reinventarse/"
+  },
+  {
+   "brand": "Inkplay",
+   "years": [
+    2026
+   ],
+   "role": "partner",
+   "source": "https://www.instagram.com/p/DRuMlHhgMJU/"
+  },
+  {
+   "brand": "Zircon Joyería Corporal",
+   "years": [
+    2026
+   ],
+   "role": "partner",
+   "source": "https://www.instagram.com/p/DRCVNBwAFsZ/"
+  }
+ ],
+ "add_activation_formats": [
+  "workshop",
+  "stage-or-program-takeover"
+ ],
+ "add_sources": [
+  {
+   "field": "attendance",
+   "url": "https://www.feriasycongresos.com/noticia/1393/el-tatuaje-como-arte-negocio-y-comunidad-una-edicion-que-supo-reinventarse/",
+   "note": "Ferias & Congresos 2026 wrap: '14.000 visitantes, según los organizadores'; 178 exhibitors; Pabellón Ocre, La Rural."
+  },
+  {
+   "field": "organiser",
+   "url": "https://www.feriasycongresos.com/noticia/1393/el-tatuaje-como-arte-negocio-y-comunidad-una-edicion-que-supo-reinventarse/",
+   "note": "'Organiza: Mandinga Producciones'; Gustavo Koroyan quoted as organiser."
+  },
+  {
+   "field": "ticket_price",
+   "url": "https://www.feriasycongresos.com/noticia/1393/el-tatuaje-como-arte-negocio-y-comunidad-una-edicion-que-supo-reinventarse/",
+   "note": "Entry ARS 25,000; stands ARS 1,500,000."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://www.feriasycongresos.com/noticia/1393/el-tatuaje-como-arte-negocio-y-comunidad-una-edicion-que-supo-reinventarse/",
+   "note": "'Dermaglos y NTL fueron los principales sponsors del evento'."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://www.instagram.com/p/DURA580iUB1/",
+   "note": "Organiser post: '@dermaglos Sponsor Oficial de la Mandinga Tattoo Expo'."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://www.instagram.com/p/DRuMlHhgMJU/",
+   "note": "'@inkplayworld Sponsor Oficial de la Mandinga Tattoo Expo'."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://www.instagram.com/p/DRCVNBwAFsZ/",
+   "note": "'@zirconpiercingba Sponsor Oficial de Mandinga Tattoo Expo'."
+  },
+  {
+   "field": "dates.next_edition",
+   "url": "https://www.instagram.com/p/DXH8VDdCTV_/",
+   "note": "Organiser: 'Mandinga Tattoo Expo Buenos Aires 2027. Del 19 al 21 de marzo en La Rural'."
+  },
+  {
+   "field": "activation_formats",
+   "url": "https://www.feriasycongresos.com/noticia/1393/el-tatuaje-como-arte-negocio-y-comunidad-una-edicion-que-supo-reinventarse/",
+   "note": "Seminars, tattoo and cosplay contests, skate ramp, boxing and kickboxing ring, concerts (Pity Fernández, Animal), VIP area near the stage."
+  }
+ ],
+ "add_gaps": [
+  "Official website not confirmed (mandingatattoo.com hosts expo pages)",
+  "Edition number conflicts: Ferias & Congresos calls 2026 the 22nd, Página 12 the 23rd",
+  "Ferias & Congresos gives 18 to 21 Mar 2027; organiser posts say 19 to 21 Mar 2027",
+  "A Google snippet says Ladys will be official main sponsor of the PMU area in 2027; source post unclear, not added"
+ ],
+ "remove_gaps": [
+  "2027 dates not announced; March expected",
+  "Organiser, prices, attendance, sponsors, website and Instagram not captured"
+ ],
+ "notes": "Large commercial tattoo expo (14,000 visitors, ARS 25,000 entry). Lead sponsor Dermaglos is a dermocosmetic skincare brand (tattoo aftercare), a health-adjacent precedent. Organiser markets stands to brands for visibility and direct sales; 2027 confirmed 19 to 21 Mar at La Rural."
+}

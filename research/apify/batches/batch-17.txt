@@ -1,0 +1,16 @@
+b-spain	barcelona-tattoo-expo
+b-spain	bbk-mendi-film-bilbao
+b-spain	bilbao-bbk-live
+b-spain	cnd-campeonato-nacional-descenso
+b-spain	cullera-downhill-race
+b-spain	festival-asalto-zaragoza
+b-spain	fuerteventura-en-musica
+b-spain	furgofesta-les-planes-dhostoles
+b-spain	furgovolkswagen-sant-pere-pescador
+b-spain	la-bodega-skate-music-fest-jerez
+b-spain	madrid-urban-fest
+b-spain	mercado-de-motores-madrid
+b-spain	miau-fanzara
+b-spain	motorbeach-festival-vinuesa
+b-spain	mulafest-madrid
+b-spain	offf-barcelona

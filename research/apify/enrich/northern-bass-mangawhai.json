@@ -1,0 +1,69 @@
+{
+  "id": "northern-bass-mangawhai",
+  "set": {
+    "organiser": {
+      "name": "Fuzen Entertainment (director Gareth Popham)",
+      "type": "promoter",
+      "website": null
+    },
+    "dates": {
+      "last_edition": {
+        "start": "2025-12-30",
+        "end": "2025-12-31",
+        "status": "held",
+        "label": "NB JNGL25 (2025/26), scaled-back two-day single-stage edition"
+      },
+      "next_edition": {
+        "start": "2026-12-30",
+        "end": "2027-01-01",
+        "status": "confirmed",
+        "label": "15th anniversary (2026/27): music 30 and 31 Dec, camping to 1 Jan"
+      },
+      "frequency": "annual",
+      "duration_days": 3
+    },
+    "attendance": {
+      "figure": 6000,
+      "figure_high": null,
+      "year": 2025,
+      "is_estimate": true,
+      "source": "https://www.nzherald.co.nz/entertainment/northern-bass-tightens-format-amid-falling-attendances-and-splore-stages-strategic-return-after-pause/OZA4MQT25NELZAZL542DAIUANQ/",
+      "note": "NZ Herald (31 Jul 2025): capacity for the 2025/26 JNGL edition cut to about 6,000, roughly half of previous years; 2024/25 attendance 'didn't quite hit the mark'. Organiser press release says that edition sold out in early December with 3,500+ people missing out. Press capacity figure, not a gate count."
+    },
+    "ticket_price": {
+      "min": 170,
+      "max": 220,
+      "currency": "NZD",
+      "free_entry": false,
+      "note": "2025/26 first-release prices per NZ Herald: one-day pass $170, two-day pass $220. Camping, Fuzen Lounge VIP and bus passes extra. 2026/27 prices sold in rising tiers, not captured."
+    }
+  },
+  "add_sponsors": [
+    {"brand": "AlphaTheta (Pioneer DJ NZ)", "years": [2026], "role": "collab", "source": "https://www.instagram.com/p/Da35xISjxWi/"}
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {"field": "organiser", "url": "https://www.instagram.com/northernbassnz/", "note": "IG bio: 'NYE Music Festival ... by @fuzennz' (Fuzen Entertainment); 61 of 80 recent posts co-authored with @fuzennz."},
+    {"field": "organiser", "url": "https://www.nzherald.co.nz/entertainment/northern-bass-tightens-format-amid-falling-attendances-and-splore-stages-strategic-return-after-pause/OZA4MQT25NELZAZL542DAIUANQ/", "note": "Page read: director Gareth Popham announced the 2025/26 format change."},
+    {"field": "dates.last_edition", "url": "https://www.nzherald.co.nz/entertainment/northern-bass-tightens-format-amid-falling-attendances-and-splore-stages-strategic-return-after-pause/OZA4MQT25NELZAZL542DAIUANQ/", "note": "Page read: 2025/26 edition 'Northern Bass Jngl25' on 30 and 31 December in Mangawhai, two days, single jungle stage."},
+    {"field": "dates.last_edition", "url": "https://www.instagram.com/p/DaZg7tXiVWJ/", "note": "Organiser recap: 'NB JNGL Edition 25/26 ... Smaller capacity. Bigger energy.' after 'the cancelled year, the rain, the mud'."},
+    {"field": "dates.next_edition", "url": "https://northernbass.co.nz/press-release", "note": "Crawled page: 15th Anniversary 'December 30, 2026 - January 1, 2027'; homepage says two nights of music on 30 and 31 Dec 2026."},
+    {"field": "attendance", "url": "https://www.nzherald.co.nz/entertainment/northern-bass-tightens-format-amid-falling-attendances-and-splore-stages-strategic-return-after-pause/OZA4MQT25NELZAZL542DAIUANQ/", "note": "Page read: new format cuts capacity to about 6,000 people, roughly half previous years' numbers."},
+    {"field": "attendance", "url": "https://northernbass.co.nz/press-release", "note": "Crawled page: last year's event 'sold out in early December and saw more than 3,500 people miss out'."},
+    {"field": "ticket_price", "url": "https://www.nzherald.co.nz/entertainment/northern-bass-tightens-format-amid-falling-attendances-and-splore-stages-strategic-return-after-pause/OZA4MQT25NELZAZL542DAIUANQ/", "note": "Page read: first-release one-day pass $170, two-day pass $220 for 2025/26."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/Da35xISjxWi/", "note": "Lineup-announcement post (17 Jul 2026) co-authored by @alphathetanz (AlphaTheta/Pioneer DJ NZ) and @fuzennz, tied to a ticket giveaway. Role not stated beyond the collab."}
+  ],
+  "add_gaps": [
+    "No public sponsor roster; the only brand collab seen is AlphaTheta/Pioneer DJ NZ on one 2026 post",
+    "Get Involved page lists staff and volunteer roles only; no sponsorship or media contact",
+    "2026/27 ticket prices not captured"
+  ],
+  "remove_gaps": [
+    "Attendance not found",
+    "Ticket prices not captured",
+    "Sponsor roster not found",
+    "Organiser entity not named in search results",
+    "Last edition dates not captured"
+  ],
+  "notes": "Run by Fuzen Entertainment. After a weak 2024/25 and an earlier cancelled year, 2025/26 shrank to about 6,000 capacity (sold out); the 15th anniversary 2026/27 returns to a bigger format. @reloadnz on many posts is their social media agency, not a sponsor. Strictly R18, drum and bass crowd."
+}

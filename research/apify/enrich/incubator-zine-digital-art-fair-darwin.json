@@ -1,0 +1,110 @@
+{
+  "id": "incubator-zine-digital-art-fair-darwin",
+  "set": {
+    "dates": {
+      "last_edition": {
+        "start": "2026-07-25",
+        "end": "2026-07-25",
+        "status": "held",
+        "label": "2026, with Darwin Fringe"
+      },
+      "next_edition": {
+        "start": "2027-07",
+        "end": null,
+        "status": "expected",
+        "label": "With Darwin Fringe 2027 (festival 16 to 25 Jul 2027)"
+      },
+      "frequency": "annual",
+      "duration_days": 1
+    },
+    "partnership_contact": {
+      "email": "director@darwinfringe.org.au",
+      "page_url": "https://darwinfringe.org.au/become-a-sponsor/",
+      "named_person": "Hannah Illingworth (Darwin Fringe Director)",
+      "source": "https://darwinfringe.org.au/become-a-sponsor/"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Brown's Mart Theatre",
+      "years": [
+        2026
+      ],
+      "role": "venue",
+      "source": "https://darwinfringe.org.au/become-a-sponsor/"
+    },
+    {
+      "brand": "Airport Development Group",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://darwinfringe.org.au/become-a-sponsor/"
+    },
+    {
+      "brand": "NT Government",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://darwinfringe.org.au/become-a-sponsor/"
+    },
+    {
+      "brand": "Tourism and Events NT",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://darwinfringe.org.au/become-a-sponsor/"
+    },
+    {
+      "brand": "Regional Arts Australia (Regional Arts Fund)",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://darwinfringe.org.au/become-a-sponsor/"
+    }
+  ],
+  "add_sources": [
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.facebook.com/launchdarwin/posts/%EF%B8%8F-enjoy-the-final-weekend-of-darwins-fringe-festival-2026-with-a-few-of-these-ha/1354768183496175/",
+      "note": "Google snippet: LAUNCH Darwin post on the final weekend of Darwin Fringe 2026 lists Incubator, Saturday 25 July, 2pm to 6pm, Brown's Mart Courtyard, free"
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.instagram.com/p/DbaNce9DpO2/",
+      "note": "Google snippet: Incubator, Saturday 25 July, 2pm to 6pm, Brown's Mart Courtyard, free (2026 PLAY guide)"
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.instagram.com/darwinfringefestival/",
+      "note": "Darwin Fringe IG bio: July 16 to 25, 2027"
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://darwinfringe.org.au/become-a-sponsor/",
+      "note": "Sponsor page: reach out to the Fringe Director via director@darwinfringe.org.au; benefits include activations, naming rights, award categories"
+    },
+    {
+      "field": "partnership_contact.named_person",
+      "url": "https://darwinfringe.org.au/about/",
+      "note": "About page names Hannah Illingworth as current Director"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://darwinfringe.org.au/become-a-sponsor/",
+      "note": "Darwin Fringe 'Our Partners': Airport Development Group, NT Government, Tourism and Events NT, NT Regional Arts Fund, Regional Arts Aus, Australian Government Regional Arts Fund, Browns Mart Theatre. Festival-level partners, not Incubator-specific"
+    }
+  ],
+  "remove_gaps": [
+    "2026 edition not confirmed",
+    "Year of the 19 Jul listing inferred as 2025"
+  ],
+  "add_gaps": [
+    "No Incubator-specific sponsors found; listed sponsors are Darwin Fringe festival-level partners",
+    "Audience age and gender not published"
+  ],
+  "notes": "2026 edition held Sat 25 Jul 2026 at Brown's Mart Courtyard (replaces the undated 19 Jul listing). Sponsors added are Darwin Fringe festival partners; Brown's Mart is also the Incubator venue. Darwin Fringe sponsor page offers activations and naming rights via the Director. IG account is the Darwin Fringe organiser account, correct."
+}

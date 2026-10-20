@@ -1,0 +1,147 @@
+{
+  "id": "victorias-pride-street-party",
+  "set": {
+    "website": "https://www.midsumma.org.au/whats-on/events/victoria-s-pride-street-party/",
+    "organiser": {
+      "name": "Midsumma Festival (delivers Victoria's Pride in partnership with the Victorian Government)",
+      "type": null,
+      "website": "https://www.midsumma.org.au/"
+    },
+    "dates": {
+      "last_edition": {
+        "start": "2026-02-08",
+        "end": "2026-02-08",
+        "status": "held",
+        "label": "2026"
+      },
+      "next_edition": {
+        "start": "2027-02-07",
+        "end": "2027-02-07",
+        "status": "confirmed",
+        "label": "2027"
+      },
+      "frequency": "annual",
+      "duration_days": 1
+    },
+    "attendance": {
+      "figure": 84789,
+      "figure_high": null,
+      "year": 2025,
+      "is_estimate": false,
+      "source": "https://culturecounts.cc/r/midsumma/victoriaspride-yoy/",
+      "note": "Organiser-reported via Midsumma's Culture Counts impact report: 84,789 total unique attendees across the 2025 Victoria's Pride program (street party plus regional events), not street party only. Earlier totals: 67,669 (2022), 88,937 (2023), 86,850 (2024)."
+    },
+    "audience": {
+      "age_range": null,
+      "gender_skew": null,
+      "psychographics": "LGBTQIA+ communities and allies; free, all ages and family friendly. Attendees mostly live in metropolitan Melbourne, with regional Victoria at 13% of 2025 survey respondents.",
+      "source": "https://culturecounts.cc/r/midsumma/victoriaspride-yoy/"
+    },
+    "partnership_contact": {
+      "email": null,
+      "page_url": "https://www.midsumma.org.au/support/partner-with-midsumma/",
+      "named_person": null,
+      "source": "https://www.midsumma.org.au/whats-on/events/victoria-s-pride-street-party/"
+    },
+    "ticket_price": {
+      "min": 0,
+      "max": 0,
+      "currency": "AUD",
+      "free_entry": true,
+      "note": "Free, no ticket required; noon to 9pm (2027)."
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Victorian Government",
+      "years": [
+        2026,
+        2027
+      ],
+      "role": "government",
+      "source": "https://www.midsumma.org.au/whats-on/events/victoria-s-pride-street-party/"
+    },
+    {
+      "brand": "NAB",
+      "years": [
+        2027
+      ],
+      "role": "major",
+      "source": "https://www.midsumma.org.au/whats-on/events/victoria-s-pride-street-party/"
+    },
+    {
+      "brand": "City of Melbourne",
+      "years": [
+        2027
+      ],
+      "role": "government",
+      "source": "https://www.midsumma.org.au/whats-on/events/victoria-s-pride-street-party/"
+    },
+    {
+      "brand": "Creative Victoria (Victorian Government)",
+      "years": [
+        2027
+      ],
+      "role": "government",
+      "source": "https://www.midsumma.org.au/whats-on/events/victoria-s-pride-street-party/"
+    }
+  ],
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://www.midsumma.org.au/whats-on/events/victoria-s-pride-street-party/",
+      "note": "Page read: official event page on the organiser's site."
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.midsumma.org.au/whats-on/events/victoria-s-pride-street-party/",
+      "note": "Page read: Sunday 7 February 2027, noon to 9pm, Gertrude St and Smith St, Fitzroy; free, no ticket required."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.midsumma.org.au/victorias-pride/victoria-s-pride-info/",
+      "note": "Page read: 'The most recent Victoria's Pride Street Party was held on Sunday 8 February 2026', 12pm to 9pm; closes Midsumma Festival."
+    },
+    {
+      "field": "organiser",
+      "url": "https://www.midsumma.org.au/victorias-pride/victoria-s-pride-info/",
+      "note": "Page read: 'Midsumma delivers Victoria's Pride in partnership with the Victorian Government'; program runs from November regional events to the street party."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.midsumma.org.au/whats-on/events/victoria-s-pride-street-party/",
+      "note": "Page read: 'Presented by: Midsumma in partnership with the Victorian State Government'; 'Principal Partners' logos NAB, City of Melbourne, Creative Victoria (these may be Midsumma-wide principal partners). A Dan Murphy's advertising banner also appears (not recorded)."
+    },
+    {
+      "field": "attendance",
+      "url": "https://culturecounts.cc/r/midsumma/victoriaspride-yoy/",
+      "note": "Page read: attendance table of total unique attendees 2022 to 2025; forecasts (for example 74,951 street party attendees in 2027) not used."
+    },
+    {
+      "field": "audience",
+      "url": "https://www.midsumma.org.au/whats-on/events/victoria-s-pride-street-party/",
+      "note": "Page read: 'Free. All ages. Everyone welcome.'; 'a multi-generational, family friendly celebration'."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.midsumma.org.au/whats-on/events/victoria-s-pride-street-party/",
+      "note": "Page links to a 'Partner With Us' page (/support/partner-with-midsumma/); no sponsorship email shown."
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://www.midsumma.org.au/whats-on/events/victoria-s-pride-street-party/",
+      "note": "Page read: 'Free', 'No ticket required', noon to 9pm on 7 Feb 2027."
+    }
+  ],
+  "remove_gaps": [
+    "Organiser, exact date, website, Instagram, attendance and sponsors not captured",
+    "Single source"
+  ],
+  "add_gaps": [
+    "Street-party-only attendance not published (impact report gives program totals)",
+    "Audience age and gender breakdown not readable in the impact report",
+    "Principal partners may be Midsumma-wide rather than street party specific",
+    "Organiser type (Midsumma's legal status) not confirmed"
+  ],
+  "notes": "Run by Midsumma for the Victorian Government; the street party closes Midsumma Festival. Note the impact report's narrative claims growth while its own table shows totals falling from 88,937 (2023) to 84,789 (2025). Thorne Harbour Health promotes the street party on its own events page."
+}

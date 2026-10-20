@@ -1,0 +1,60 @@
+{
+  "id": "the-village-markets-burleigh",
+  "set": {
+    "status": "on-hiatus",
+    "website": "https://www.thevillagemarkets.co/",
+    "dates": {
+      "last_edition": {
+        "start": null,
+        "end": null,
+        "status": "unknown",
+        "label": null
+      },
+      "next_edition": {
+        "start": null,
+        "end": null,
+        "status": "unknown",
+        "label": "No future events scheduled (Instagram bio, 20 Oct 2026)"
+      },
+      "frequency": "irregular",
+      "duration_days": 1
+    },
+    "organiser": {
+      "name": "The Village Markets (co-founder Marissa Bowden)",
+      "type": "independent",
+      "website": "https://www.thevillagemarkets.co/"
+    }
+  },
+  "add_sources": [
+    {
+      "field": "status",
+      "url": "https://www.instagram.com/thevillagemarkets/",
+      "note": "Instagram bio on 20 Oct 2026: 'No future TVM events scheduled. Check out: @sunhousestudio__'."
+    },
+    {
+      "field": "dates",
+      "url": "https://www.instagram.com/thevillagemarkets/",
+      "note": "Bio states no future events are scheduled; no 2026 market date found."
+    },
+    {
+      "field": "website",
+      "url": "https://www.instagram.com/thevillagemarkets/",
+      "note": "Instagram profile link is thevillagemarkets.co (site returned HTTP 403 to WebFetch, not read)."
+    },
+    {
+      "field": "organiser",
+      "url": "https://www.queensland.com/au/en/plan-your-holiday/news-and-articles/the-village-markets-marissa-bowden",
+      "note": "Queensland.com article: 'Meet The Village Markets' co-founder Marissa Bowden' (Google snippet)."
+    }
+  ],
+  "remove_gaps": [
+    "No 2026-dated listing found; confirm the market still runs on the same schedule",
+    "Founders not named in results",
+    "Website not captured"
+  ],
+  "add_gaps": [
+    "Not stated whether the pause is temporary or permanent; bio redirects followers to @sunhousestudio__",
+    "Last market date not captured"
+  ],
+  "notes": "Status changed to on-hiatus: the official Instagram bio (20 Oct 2026) says no future TVM events are scheduled. Next-edition 1 Nov 2026 'expected' date removed. Past offshoot partnership with QIC's Robina Town Centre (Christmas twilight markets) not added. Candidate for archive review."
+}

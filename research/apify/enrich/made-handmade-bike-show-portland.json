@@ -1,0 +1,111 @@
+{
+  "id": "made-handmade-bike-show-portland",
+  "set": {
+    "website": "https://made.bike/",
+    "ticket_price": {
+      "min": 13,
+      "max": 49,
+      "currency": "USD",
+      "free_entry": false,
+      "note": "2026 tickets USD 13 to 49 via Eventbrite; kids free."
+    },
+    "partnership_contact": {
+      "email": "info@made.bike",
+      "page_url": "https://made.bike/contact/",
+      "named_person": null,
+      "source": "https://made.bike/contact/"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "BikeFlights",
+      "years": [
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/Db8UuoOmzDc/"
+    },
+    {
+      "brand": "Wolf Tooth Components",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DaNlsbsiRAp/"
+    },
+    {
+      "brand": "Mavic",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DaNlsbsiRAp/"
+    },
+    {
+      "brand": "Reform (saddles)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DaNlsbsiRAp/"
+    },
+    {
+      "brand": "Feedback Sports",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DaNlsbsiRAp/"
+    }
+  ],
+  "add_activation_formats": [
+    "lounge"
+  ],
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://made.bike/event/2026-made-bike-show-event/",
+      "note": "Official site (linked from @made.bike profile); 2026 show 21 to 23 Aug at Zidell Barge Building."
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://made.bike/event/2026-made-bike-show-event/",
+      "note": "'Cost: $13.00 - $49.00'; Google snippet of same page: 'Kids are free to enter'."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://made.bike/contact/",
+      "note": "Contact page: 'Email: info@made.bike'; enquiry form offers Brand, Builder or Sponsor."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/Db8UuoOmzDc/",
+      "note": "12 Aug 2026: 'We have partnered with local logistics magicians Bikeflights since day one'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.bicycling.com/news/a40731336/made-handmade-bike-show-launch-2023/",
+      "note": "Google snippet: 'MADE sponsor BikeFlights' (2023 launch)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DaNlsbsiRAp/",
+      "note": "30 Jun 2026: 'The Builder Lounge is a new program supported by @wolf_tooth_comp / @maviccycling / @reformsaddle / @feedbacksports', beside the indoor beer garden."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/DaNlsbsiRAp/",
+      "note": "Brand-supported Builder Lounge seating area next to the beverage station."
+    }
+  ],
+  "remove_gaps": [
+    "Website, sponsors, ticket prices and contacts not captured"
+  ],
+  "add_gaps": [
+    "Full show sponsor roster not published on crawled pages; most brand mentions are exhibitor booths and builder collaborations"
+  ],
+  "notes": "Most brand tags in the pack (Chris King, Silca, White Industries, Shimano, Campagnolo) are exhibitor booths or builder part suppliers, not show sponsors, so they were left out. Director of Show is Billy Sinkford (@souphorse). Show moves to Oregon Convention Center 6 to 8 Aug 2027."
+}

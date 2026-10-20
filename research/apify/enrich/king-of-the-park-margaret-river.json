@@ -1,0 +1,40 @@
+{
+  "id": "king-of-the-park-margaret-river",
+  "set": {
+    "organiser": {"name": "The Redman Academy (founder Jolan Bonelli)", "type": null, "website": null},
+    "dates": {
+      "last_edition": {"start": "2026-04-26", "end": "2026-04-26", "status": "held", "label": "2026 (first edition)"},
+      "next_edition": {"start": "2027", "end": null, "status": "expected", "label": "2027 (Shire grant awarded for King of the Park 2027)"},
+      "frequency": "annual",
+      "duration_days": 1
+    },
+    "location": {"city": "Margaret River", "state_or_region": "WA", "country": "Australia", "venue_or_area": "Margaret River Skate Park and Youth Precinct"},
+    "attendance": {"figure": 400, "figure_high": null, "year": 2026, "is_estimate": true, "source": "https://gathsports.com/king-of-the-park-2026-margaret-rivers-skate-culture-turned-all-the-way-up/", "note": "Main sponsor Gath Sports' recap: 'Around 400 people showed up' (Google snippet of same page says 400+ spectators). Sponsor-reported approximate figure, not organiser-reported."}
+  },
+  "add_sponsors": [
+    {"brand": "Gath Sports", "years": [2026], "role": "presenting", "source": "https://gathsports.com/king-of-the-park-2026-margaret-rivers-skate-culture-turned-all-the-way-up/"},
+    {"brand": "Pelicans Cafe", "years": [2026], "role": "major", "source": "https://www.facebook.com/AMRShire/posts/heads-up-king-of-the-park-skate-competition-is-on-this-sunday-26-april-which-mea/1393401562832595/"},
+    {"brand": "Red Bull", "years": [2026], "role": "partner", "source": "https://gathsports.com/king-of-the-park-2026-margaret-rivers-skate-culture-turned-all-the-way-up/"},
+    {"brand": "FORM Skateboarding", "years": [2026], "role": "partner", "source": "https://gathsports.com/king-of-the-park-2026-margaret-rivers-skate-culture-turned-all-the-way-up/"},
+    {"brand": "We Are Feel Good Inc", "years": [2026], "role": "unknown", "source": "https://gathsports.com/king-of-the-park-2026-margaret-rivers-skate-culture-turned-all-the-way-up/"},
+    {"brand": "Unleash Cafe", "years": [2026], "role": "vendor-or-stall", "source": "https://gathsports.com/king-of-the-park-2026-margaret-rivers-skate-culture-turned-all-the-way-up/"},
+    {"brand": "Margaret River Lions Club", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DWQn8WOk5k-/"},
+    {"brand": "Shire of Augusta Margaret River", "years": [2027], "role": "government", "source": "https://www.amrshire.wa.gov.au/shire-and-council/grants-and-financial-assistance/grants-program/community-development-and-events-grants"}
+  ],
+  "add_activation_formats": ["stall", "stage-or-program-takeover"],
+  "add_sources": [
+    {"field": "organiser", "url": "https://www.instagram.com/p/DWQn8WOk5k-/", "note": "IG post: '@theredmanacademy presents KING OF THE PARK. Supported by @gathsports and The MR Lions. 6K in prizes' (Google snippet)."},
+    {"field": "organiser", "url": "https://gathsports.com/king-of-the-park-2026-margaret-rivers-skate-culture-turned-all-the-way-up/", "note": "Recap names Jolan Bonelli, founder of The Redman Academy, as leading the event."},
+    {"field": "dates.last_edition", "url": "https://gathsports.com/king-of-the-park-2026-margaret-rivers-skate-culture-turned-all-the-way-up/", "note": "'On Sunday, 26 April 2026' at Margaret River Skate Park and Youth Precinct; WSL finals at Main Break ran before it. AMR Shire FB also says Sunday 26 April."},
+    {"field": "dates.last_edition", "url": "https://www.amrtimes.com.au/news/augusta-margaret-river-times/new-skate-event-attracts-strong-turnout-at-margaret-river-skate-park-c-22210226", "note": "Headline 'New skate event attracts strong turnout' (Google snippet), supporting 2026 as the first edition."},
+    {"field": "dates.next_edition", "url": "https://www.amrshire.wa.gov.au/shire-and-council/grants-and-financial-assistance/grants-program/community-development-and-events-grants", "note": "Shire grants list: 'The Redman Academy - King of the Park 2027: $8,200' (Google snippet)."},
+    {"field": "location", "url": "https://gathsports.com/king-of-the-park-2026-margaret-rivers-skate-culture-turned-all-the-way-up/", "note": "Venue: Margaret River Skate Park and Youth Precinct."},
+    {"field": "attendance", "url": "https://gathsports.com/king-of-the-park-2026-margaret-rivers-skate-culture-turned-all-the-way-up/", "note": "'Around 400 people showed up'; organiser later describes crowds of 'multiple hundreds'."},
+    {"field": "sponsors", "url": "https://gathsports.com/king-of-the-park-2026-margaret-rivers-skate-culture-turned-all-the-way-up/", "note": "Gath Sports named main sponsor ('King of the Park by Gath Sports', 'powered by @gathsports'); Red Bull a partner (DJ truck); FORM skateboarding 'a sponsor of the event'; We Are Feel Good set up a sunscreen station, bean bags and umbrellas (role not stated); Unleash Cafe provided food. Over $6,000 in prizes."},
+    {"field": "sponsors", "url": "https://www.facebook.com/AMRShire/posts/heads-up-king-of-the-park-skate-competition-is-on-this-sunday-26-april-which-mea/1393401562832595/", "note": "AMR Shire post (Google snippet): 'Thank you to Kirsty and Troy from Pelicans Cafe for the major sponsorship'."},
+    {"field": "activation_formats", "url": "https://gathsports.com/king-of-the-park-margaret-river-2026/", "note": "Gath Sports preview lists a 'Gath Sports Demo Stand' and $6,000+ prizes including a potential Gath team spot (Google snippet). Red Bull DJ truck provided music."}
+  ],
+  "add_gaps": ["2027 date not announced", "Organiser contact and website not published (IG @theredmanacademy)"],
+  "remove_gaps": ["Organiser, venue, frequency and 2027 dates not confirmed", "Link to the Margaret River Pro inferred from overlapping dates only", "Attendance, sponsors and IG handle not captured"],
+  "notes": "Date correction: a one-day event on Sun 26 Apr 2026 (Margaret River Pro finals day), not 16 to 19 Apr. Health-adjacent signal: We Are Feel Good (sunscreen) ran a sunscreen station. Small (about 400) but brand-friendly; the Shire funded a 2027 edition."
+}

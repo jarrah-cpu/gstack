@@ -1,0 +1,62 @@
+{
+  "id": "leaps-and-bounds-music-festival",
+  "add_sponsors": [
+    {
+      "brand": "PBS 106.7FM",
+      "years": [
+        2022,
+        2025
+      ],
+      "role": "media",
+      "source": "https://www.yarracity.vic.gov.au/things-to-do/arts/arts-news/leaps-and-bounds-music-festival-2025-winter-sounds-better-yarra"
+    },
+    {
+      "brand": "Kanopy",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.lbmf.com.au/2026-program"
+    }
+  ],
+  "add_sources": [
+    {
+      "field": "sponsors",
+      "url": "https://www.yarracity.vic.gov.au/things-to-do/arts/arts-news/leaps-and-bounds-music-festival-2025-winter-sounds-better-yarra",
+      "note": "Google snippet: 2025 festival 'proudly presented by Yarra City Council, with presenting partner PBS FM'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.pbsfm.org.au/news/leaps-and-bounds-music-festival-2",
+      "note": "Google snippet: 2022 festival (24 Jun to 24 Jul 2022) presented by Yarra City Council 'with presenting partner PBS'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.lbmf.com.au/2026-program",
+      "note": "Google snippet: 'Music documentaries on the big screen presented by Yarra Libraries and Kanopy as part of Cinema Yarra' (2026 program)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.pbsfm.org.au/news/leaps-and-bounds-music-festival",
+      "note": "Google snippet: an earlier edition was 'presented by City of Yarra, Music Victoria & PBS FM' (year not shown)."
+    },
+    {
+      "field": "gaps",
+      "url": "https://www.instagram.com/p/Da2YENXiMPQ/",
+      "note": "Organiser post: IN MOTION, 18 Jul 2026 across The Night Cat, The Evelyn and Punters Club, 'Presented as part of @highground3065'."
+    },
+    {
+      "field": "gaps",
+      "url": "https://www.instagram.com/p/DaUlNm4iP1A/",
+      "note": "Organiser post: program additions listed as 'HIGH GROUND: @winstonsurfshirt', 'HIGH GROUND: @mildlife_' etc. @highground3065 profile: 'A winter long collision of sound on Wurundjeri Country, May-August 2026', site highground3065.com."
+    }
+  ],
+  "remove_gaps": [
+    "What the 'HIGH GROUND' program strand is (and who runs it) not established; check for a name clash with the client"
+  ],
+  "add_gaps": [
+    "Music Victoria named as a co-presenter in an undated PBS article; year not established",
+    "Official festival site is lbmf.com.au; record website points to the council event page"
+  ],
+  "notes": "HIGH GROUND is an unrelated Fitzroy winter music series (@highground3065, highground3065.com, May to Aug 2026) that presented shows inside L&B 2026: a name clash with the client, not a client program. Commercial support is thin: PBS (media, 2022 and 2025 to 2026) and Kanopy on the Cinema Yarra strand. Consider switching website to https://www.lbmf.com.au/."
+}

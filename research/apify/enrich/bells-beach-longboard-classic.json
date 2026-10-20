@@ -1,0 +1,136 @@
+{
+  "id": "bells-beach-longboard-classic",
+  "set": {
+    "website": "https://www.worldsurfleague.com/events/2025/lt/348/bioglan-bells-beach-longboard-classic",
+    "dates": {
+      "last_edition": {
+        "start": "2025-09-17",
+        "end": "2025-09-21",
+        "status": "held",
+        "label": "2025 WSL Longboard Tour stop"
+      },
+      "next_edition": {
+        "start": "2026-11-25",
+        "end": "2026-11-29",
+        "status": "confirmed",
+        "label": "2026 WSL Longboard Tour stop"
+      },
+      "frequency": "annual",
+      "duration_days": 5
+    },
+    "ticket_price": {
+      "min": 0,
+      "max": 0,
+      "currency": "AUD",
+      "free_entry": true,
+      "note": "Spectator entry free per Surf Coast Events listing."
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Bioglan",
+      "years": [
+        2023,
+        2024,
+        2025,
+        2027
+      ],
+      "role": "naming",
+      "source": "https://www.worldsurfleague.com/posts/552235/wsl-and-bioglan-expand-partnership-across-australian-events-through-2027"
+    },
+    {
+      "brand": "Rip Curl",
+      "years": [
+        2023
+      ],
+      "role": "presenting",
+      "source": "https://surfingwa.com.au/lucy-small-win-bioglan-bells-beach-longboard-classic-trials-event/"
+    },
+    {
+      "brand": "Visit Victoria",
+      "years": [
+        2023
+      ],
+      "role": "government",
+      "source": "https://surfingwa.com.au/lucy-small-win-bioglan-bells-beach-longboard-classic-trials-event/"
+    },
+    {
+      "brand": "Surf Coast Shire",
+      "years": [
+        2023
+      ],
+      "role": "government",
+      "source": "https://surfingwa.com.au/lucy-small-win-bioglan-bells-beach-longboard-classic-trials-event/"
+    },
+    {
+      "brand": "GWM",
+      "years": [
+        2023
+      ],
+      "role": "partner",
+      "source": "https://surfingwa.com.au/lucy-small-win-bioglan-bells-beach-longboard-classic-trials-event/"
+    }
+  ],
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://www.worldsurfleague.com/events/2025/lt/348/bioglan-bells-beach-longboard-classic/results?roundId=25715&statEventId=4967",
+      "note": "WSL official event page for the 2025 edition (Google result)."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://timesnewsgroup.com.au/surfcoasttimes/living/all-aboard-for-the-2025-bells-beach-longboard-classic/",
+      "note": "Google snippet: 2025 edition held 17 to 21 Sep."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.instagram.com/p/DNXxvp1PBFf/",
+      "note": "Google snippet: 2025 event is the second stop on the WSL Longboard Tour, 17 to 21 Sep."
+    },
+    {
+      "field": "dates.frequency",
+      "url": "https://www.facebook.com/SurfCoastShireCouncil/posts/bells-beach-longboard-classic-competitors-and-spectators-gathered-for-a-moving-w/1224712869691377/",
+      "note": "Google snippet: 2024 edition 18 to 21 Jul 2024. With 2023 (surfingwa) and 2025, shows a recurring annual event."
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.surfcoastevents.com.au/event/bioglan-bells-beach-longboard-classic/",
+      "note": "Page read: Surf Coast Events lists 2026 as Wed 2 Dec to Sun 6 Dec, conflicting with the record's 25 to 29 Nov."
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://www.surfcoastevents.com.au/event/bioglan-bells-beach-longboard-classic/",
+      "note": "Page read: 'Spectators welcome!! Entry is free.'"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.worldsurfleague.com/posts/552235/wsl-and-bioglan-expand-partnership-across-australian-events-through-2027",
+      "note": "Page read (WSL, 17 Feb 2026): Bioglan multi-year partnership for the 2026 and 2027 seasons, with 'long-standing support of the Bioglan Bells Beach Longboard Classic'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://surfingwa.com.au/lucy-small-win-bioglan-bells-beach-longboard-classic-trials-event/",
+      "note": "Google snippet: 2023 event 'presented by Rip Curl' and supported by Bioglan, Visit Victoria, Surf Coast Shire, GWM and others (list truncated)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.surfcoastevents.com.au/event/bioglan-bells-beach-longboard-classic/",
+      "note": "Page read: 'Presented by: Bioglan' for 2026."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.youtube.com/playlist?list=PLQ3-3sUOFLfGUyRNXR_KWWFQO421_tYBK",
+      "note": "Google snippet: WSL playlist titled 'Bioglan Bells Beach Longboard Classic presented by Rip Curl' (year not shown)."
+    }
+  ],
+  "remove_gaps": [
+    "Whether this is a first edition or recurring not confirmed",
+    "Website, Instagram, attendance and pricing not captured"
+  ],
+  "add_gaps": [
+    "Attendance not published",
+    "2023 supporter list truncated in a Google snippet; 2024 to 2026 supporters beyond Bioglan not confirmed",
+    "No partnership contact found (event run by WSL)"
+  ],
+  "notes": "Recurring since at least 2023 (2023; 18 to 21 Jul 2024; 17 to 21 Sep 2025). Bioglan (health supplements, a direct category neighbour) holds naming through 2027. 2026 date conflict stays open: Surf Coast Events listing says 2 to 6 Dec vs 25 to 29 Nov in the record. Free to watch."
+}

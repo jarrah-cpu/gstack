@@ -1,0 +1,29 @@
+{
+  "id": "sland-sneakerland-perth",
+  "set": {
+    "dates": {
+      "last_edition": {"start": "2026-01", "end": null, "status": "held", "label": "SLAND 2026 at HoopsFest Perth, RAC Arena"},
+      "next_edition": {"start": "2027-01-13", "end": "2027-01-17", "status": "confirmed", "label": "SLAND 2027 'Built From The Block' with HoopsFest"},
+      "frequency": "annual",
+      "duration_days": 5
+    },
+    "partnership_contact": {"email": null, "page_url": "https://www.sneakerland.com.au/blank-1", "named_person": null, "source": "https://www.sneakerland.com.au/blank-1"}
+  },
+  "add_sponsors": [
+    {"brand": "NBL", "years": [2026, 2027], "role": "partner", "source": "https://www.instagram.com/p/DeGlvtOhnnd/"},
+    {"brand": "Virgin Australia", "years": [2027], "role": "presenting", "source": "https://www.instagram.com/p/DYwQC-5gdsL/"}
+  ],
+  "add_activation_formats": ["workshop"],
+  "add_sources": [
+    {"field": "dates.last_edition", "url": "https://www.instagram.com/p/DTmRiLLEgBn/", "note": "17 Jan 2026 post: content 'for @slandaustralia HoopsFest & @nbl'; SLAND posts from the event run 14 to 19 Jan 2026. Exact 2026 days not stated."},
+    {"field": "dates.next_edition", "url": "https://www.instagram.com/p/DeGlvtOhnnd/", "note": "Oct 2026: 'A 5-day celebration of basketball & culture... partnering with the @nbl on HoopsFest... at home in Perth for the third year in a row. SLAND 2027 - Built From The Block'."},
+    {"field": "dates.next_edition", "url": "https://www.sneakerland.com.au/", "note": "Homepage: 'January 13-17, 2027 - RAC Arena, Perth'; 'Access to SLAND 2027 is included with all HoopsFest tickets'; 'yearly celebration of culture'."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DeGlvtOhnnd/", "note": "SLAND partners with the NBL on HoopsFest (2027 is the third Perth year)."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DYwQC-5gdsL/", "note": "NBL post: 'HoopsFest Perth returns to @westernaustralia on January 13, presented by @virginaustralia'. Virgin presents the HoopsFest umbrella that hosts SLAND, not SLAND alone."},
+    {"field": "partnership_contact", "url": "https://www.sneakerland.com.au/blank-1", "note": "Partners page: 'Interested in becoming a SLAND partner?... We offer several partnership and sponsorship packages' with an enquiry form; no email shown."},
+    {"field": "activation_formats", "url": "https://www.sneakerland.com.au/", "note": "Homepage: 'Explore curated activations by local and international brands'; 'Join workshops, talks, and curated experiences'."}
+  ],
+  "add_gaps": ["Exact SLAND 2026 days not captured (IG posts 14 to 19 Jan 2026)", "SLAND 2027 brand partners shown only as an image; names not captured"],
+  "remove_gaps": ["Last edition date unclear: a VenuesWest listing gives 21 and 22 Sep with no year", "The 13 to 17 Jan 2027 span may be the HoopsFest run rather than SLAND days; duration left null", "Search budget ran out during discovery, so sponsors, IG handle and partnership contact were not researched"],
+  "notes": "SLAND now runs inside NBL HoopsFest at RAC Arena each January (5 days, access bundled with HoopsFest tickets), so sponsor exposure is mostly at HoopsFest level (Virgin Australia presenting). The partner logo strip is an image; a manual look at sneakerland.com.au would name the 2027 brand partners."
+}

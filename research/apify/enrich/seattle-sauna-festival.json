@@ -1,0 +1,394 @@
+{
+  "id": "seattle-sauna-festival",
+  "set": {
+    "attendance": {
+      "figure": 847,
+      "figure_high": null,
+      "year": 2025,
+      "is_estimate": false,
+      "source": "https://www.instagram.com/p/DdhyFzlG-vU/",
+      "note": "Organiser-reported: 'Our first festival sold 847 tickets and brought together 26 sponsors and partners in 2025.' Tickets sold, not unique visitors."
+    },
+    "partnership_contact": {
+      "email": "info@seattlesaunafestival.com",
+      "page_url": "https://www.seattlesaunafestival.com/#sponsors",
+      "named_person": null,
+      "source": "https://www.seattlesaunafestival.com/"
+    },
+    "dates": {
+      "last_edition": {
+        "start": "2025-11-01",
+        "end": "2025-11-02",
+        "status": "held",
+        "label": "1st edition (2025)"
+      },
+      "next_edition": {
+        "start": "2026-11-07",
+        "end": "2026-11-08",
+        "status": "confirmed",
+        "label": "2nd edition (2026)"
+      },
+      "frequency": "annual",
+      "duration_days": 2
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Redwood Outdoors",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/Dd9TFGHFWKc/"
+    },
+    {
+      "brand": "Banya 5 Urban Spa",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/DePQsEMEWiq/"
+    },
+    {
+      "brand": "ROSISU Sauna Gear",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/DdcV6xbCKkw/"
+    },
+    {
+      "brand": "Ember (@emberseattle)",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/DdcV6xbCKkw/"
+    },
+    {
+      "brand": "Space BAR Wellness",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/DdcV6xbCKkw/"
+    },
+    {
+      "brand": "The Ladies Room (@ladiesroom206)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DdcV6xbCKkw/"
+    },
+    {
+      "brand": "Finlandia Foundation",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/Des7ugtALXm/"
+    },
+    {
+      "brand": "National Nordic Museum",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "venue",
+      "source": "https://nordicmuseum.org/events/rental-partner-seattle-sauna-festival"
+    },
+    {
+      "brand": "Olympic Saunas",
+      "years": [
+        2025
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/DQNzwXwkQ1D/"
+    },
+    {
+      "brand": "Seattle Sauna (@seattle.sauna)",
+      "years": [
+        2025
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/DP4GseXkRSl/"
+    },
+    {
+      "brand": "Voyageur Sauna",
+      "years": [
+        2025
+      ],
+      "role": "major",
+      "source": "https://www.facebook.com/p/Seattle-Sauna-Festival-61580105289122/"
+    },
+    {
+      "brand": "Von Sauna",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DQaak-uAVsb/"
+    },
+    {
+      "brand": "Sauna Water",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DQFYUzPElcN/"
+    },
+    {
+      "brand": "Saint Lucie",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DQU-CI7ki66/"
+    },
+    {
+      "brand": "PNW Mobile Spa",
+      "years": [
+        2025
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.instagram.com/p/DQpOQOuEitR/"
+    },
+    {
+      "brand": "North Shore Sauna",
+      "years": [
+        2025
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.instagram.com/p/DQpOQOuEitR/"
+    },
+    {
+      "brand": "Sauna Moon",
+      "years": [
+        2025
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.instagram.com/p/DQpOQOuEitR/"
+    },
+    {
+      "brand": "Evergreen Sauna",
+      "years": [
+        2025
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.instagram.com/p/DQpOQOuEitR/"
+    },
+    {
+      "brand": "Rogue Sauna",
+      "years": [
+        2025
+      ],
+      "role": "unknown",
+      "source": "https://www.instagram.com/p/DQpOQOuEitR/"
+    },
+    {
+      "brand": "The Springs",
+      "years": [
+        2025
+      ],
+      "role": "unknown",
+      "source": "https://www.instagram.com/p/DQpOQOuEitR/"
+    },
+    {
+      "brand": "NRC Homes",
+      "years": [
+        2025
+      ],
+      "role": "unknown",
+      "source": "https://www.instagram.com/p/DQpOQOuEitR/"
+    },
+    {
+      "brand": "Fire and Floe",
+      "years": [
+        2025
+      ],
+      "role": "unknown",
+      "source": "https://www.instagram.com/p/DQpOQOuEitR/"
+    },
+    {
+      "brand": "Good Day Sauna",
+      "years": [
+        2025
+      ],
+      "role": "unknown",
+      "source": "https://www.instagram.com/p/DQpOQOuEitR/"
+    },
+    {
+      "brand": "Sacred Rain Healing",
+      "years": [
+        2025
+      ],
+      "role": "unknown",
+      "source": "https://www.instagram.com/p/DQpOQOuEitR/"
+    },
+    {
+      "brand": "Steam Gardens",
+      "years": [
+        2025
+      ],
+      "role": "unknown",
+      "source": "https://www.instagram.com/p/DQpOQOuEitR/"
+    },
+    {
+      "brand": "West Coast Sauna Summit",
+      "years": [
+        2025
+      ],
+      "role": "unknown",
+      "source": "https://www.instagram.com/p/DQpOQOuEitR/"
+    },
+    {
+      "brand": "Sauna Soul Sister",
+      "years": [
+        2025
+      ],
+      "role": "unknown",
+      "source": "https://www.instagram.com/p/DQpOQOuEitR/"
+    },
+    {
+      "brand": "Cascade Sauna Camp",
+      "years": [
+        2025
+      ],
+      "role": "unknown",
+      "source": "https://www.instagram.com/p/DQpOQOuEitR/"
+    },
+    {
+      "brand": "Skal Beer Hall",
+      "years": [
+        2025
+      ],
+      "role": "unknown",
+      "source": "https://www.instagram.com/p/DQpOQOuEitR/"
+    },
+    {
+      "brand": "Wildhaus PNW",
+      "years": [
+        2025
+      ],
+      "role": "unknown",
+      "source": "https://www.instagram.com/p/DQpOQOuEitR/"
+    },
+    {
+      "brand": "Tuli Lodge",
+      "years": [
+        2025
+      ],
+      "role": "unknown",
+      "source": "https://www.instagram.com/p/DQpOQOuEitR/"
+    },
+    {
+      "brand": "Hierophant Meadery",
+      "years": [
+        2025
+      ],
+      "role": "unknown",
+      "source": "https://www.instagram.com/p/DQpOQOuEitR/"
+    },
+    {
+      "brand": "Upper Bench Podcast",
+      "years": [
+        2025
+      ],
+      "role": "media",
+      "source": "https://www.instagram.com/p/DQpOQOuEitR/"
+    }
+  ],
+  "add_activation_formats": [
+    "workshop"
+  ],
+  "add_sources": [
+    {
+      "field": "attendance",
+      "url": "https://www.instagram.com/p/DdhyFzlG-vU/",
+      "note": "20 Sep 2026 sponsor call: 'Our first festival sold 847 tickets and brought together 26 sponsors and partners in 2025'; ways in: sponsor, on-site experience, in-kind partnership."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.seattlesaunafestival.com/",
+      "note": "Homepage 'SPONSORS: Why Partner with the Seattle Sauna Festival?' with a 2026 Sponsorship Prospectus PDF and tiers (Löyly Partners, Platinum, Gold, Silver); site email info@seattlesaunafestival.com."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://form.jotform.com/252455543309054",
+      "note": "Google snippet: 'Seattle Sauna Festival. Sponsorship Application Form'."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.instagram.com/p/DQFYUzPElcN/",
+      "note": "Oct 2025: 'November 1 & 2 at the @nordicmuseum'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DdcV6xbCKkw/",
+      "note": "18 Sep 2026: Löyly Partners (PNW Mobile Spa, North Shore Sauna, Sauna Moon, Evergreen Sauna, Tempo Sauna, Alma Saunas, Willamette Sauna Haus); 'Platinum Sponsors, Redwood Outdoors, Banya 5 Urban Spa, ROSISU Sauna Gear, Ember, and Space BAR Wellness, and Gold Sponsor, The Ladies Room'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/Des7ugtALXm/",
+      "note": "20 Oct 2026 collab post by Finlandia Foundation Seattle: festival 'proudly sponsored by @finlandiafoundationnational'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://nordicmuseum.org/events/rental-partner-seattle-sauna-festival",
+      "note": "Google snippet: National Nordic Museum lists the festival as a 'Rental Partner' event, 7 to 8 Nov 2026."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DQpOQOuEitR/",
+      "note": "4 Nov 2025 thank-you to 'sponsors, partners, and friends' listing 28 accounts (roles not stated, so set unknown unless named elsewhere)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DQNzwXwkQ1D/",
+      "note": "25 Oct 2025: 'Platinum Sponsor Spotlight: Olympic Saunas'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DP4GseXkRSl/",
+      "note": "16 Oct 2025: 'Meet @seattle.sauna, one of our Platinum Sponsors'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DQaak-uAVsb/",
+      "note": "30 Oct 2025: founder of @vonsauna, 'one of our Gold Sponsors', leads a floating sauna talk."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DQU-CI7ki66/",
+      "note": "27 Oct 2025: 'Product Partner Spotlight: Saint Lucie' (skincare)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.facebook.com/p/Seattle-Sauna-Festival-61580105289122/",
+      "note": "Google snippet: 'Platinum Sponsor Spotlight: Voyageur Sauna' (undated; Voyageur is in the 2025 thank-you list)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DQFYUzPElcN/",
+      "note": "'Sauna Water: The Official Beverage of the Seattle Sauna Festival' with on-site tastings (2025)."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.seattlesaunafestival.com/schedule-of-events/event-two-fpllb-dlykm-ygwnf",
+      "note": "Google result: 'Breathwork & Cold Plunge Experience' session; 2025 talks led by sponsor founders (Von Sauna, Wildhaus)."
+    }
+  ],
+  "remove_gaps": [
+    "Attendance not published",
+    "No partnership contact captured"
+  ],
+  "add_gaps": [
+    "Sponsorship prospectus PDF too large to read; tier prices and audience demographics not captured",
+    "Roles of 2025 thank-you list accounts not stated"
+  ],
+  "notes": "Strongest health fit in this batch: wellness-led audience, open tiered sponsorship (prospectus, application form) and existing wellness and skincare partners. Löyly Partners (sauna operators) are an official sponsor tier, so consider changing the seven existing vendor-or-stall entries to partner; the merge cannot do that. Outside Online quoted 2025 attendees aged 10 to 68, which conflicts with the recorded 13+ age rule."
+}

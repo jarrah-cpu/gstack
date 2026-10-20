@@ -1,0 +1,147 @@
+{
+  "id": "vanlife-gathering-natural-bridge",
+  "set": {
+    "location": {
+      "city": "Natural Bridge",
+      "state_or_region": "QLD",
+      "country": "Australia",
+      "venue_or_area": "Hinterland between the Gold Coast and Byron Bay (Yugambeh/Bundjalung Country)"
+    },
+    "partnership_contact": {
+      "email": "vanlifediariesaustralia@gmail.com",
+      "page_url": "https://www.vanlife.com.au/gatherings",
+      "named_person": null,
+      "source": "https://www.vanlife.com.au/gatherings"
+    },
+    "ticket_price": {
+      "min": 140,
+      "max": null,
+      "currency": "AUD",
+      "free_entry": false,
+      "note": "A$140 listed for 2026 (early bird until 1 Sep 2026); children under 16 free; full price not seen."
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Victron Energy",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.vanlife.com.au/gatherings"
+    },
+    {
+      "brand": "Surfrider Northern Rivers",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.vanlife.com.au/gatherings"
+    },
+    {
+      "brand": "Yarn Australia",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.vanlife.com.au/gatherings"
+    },
+    {
+      "brand": "Teva",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/reel/CF0m3I8nhly/"
+    },
+    {
+      "brand": "Topargee",
+      "years": [
+        2026
+      ],
+      "role": "unknown",
+      "source": "https://www.facebook.com/topargee/posts/vanlifediaries-adventurers-were-coming-to-youtopargee-is-hitting-the-road-for-th/1758864449572878/"
+    },
+    {
+      "brand": "One Wave",
+      "years": [
+        2021
+      ],
+      "role": "partner",
+      "source": "https://www.vanlife.com.au/vanlifegatherings/2021/07/16/byron-bay-region-vanlife-gathering"
+    },
+    {
+      "brand": "Take 3",
+      "years": [
+        2021
+      ],
+      "role": "partner",
+      "source": "https://www.vanlife.com.au/vanlifegatherings/2021/07/16/byron-bay-region-vanlife-gathering"
+    }
+  ],
+  "add_activation_formats": [
+    "competition-or-prize"
+  ],
+  "add_sources": [
+    {
+      "field": "location",
+      "url": "https://www.instagram.com/reel/CF0m3I8nhly/",
+      "note": "Google snippet: 'Two tickets to the Vanlife Gathering at Natural Bridge, Queensland, from 2 to 5 October 2026'."
+    },
+    {
+      "field": "location",
+      "url": "https://www.facebook.com/groups/637556563102391/posts/2909520522572639/",
+      "note": "Google snippet: 'Australian Vanlife Gathering at Natural Bridge QLD'."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.vanlife.com.au/gatherings",
+      "note": "Page read: contact VanlifeDiariesAustralia@gmail.com (footer: vanlifediariesaustralia@gmail.com)."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.vanlife.com.au/",
+      "note": "Google snippet: '... would like to partner, sponsor or have a stall at the 2026 Vanlife Gathering, we'd love to hear from you. We only partner with brands and businesses ...'."
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://www.vanlife.com.au/gatherings",
+      "note": "Page read: A$140 featured listing, early bird until 1 Sep 2026, under 16 free."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.vanlife.com.au/gatherings",
+      "note": "Page read: program lists Victron Energy, Surfrider Northern Rivers and Yarn Australia (not explicitly called sponsors)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.facebook.com/topargee/posts/vanlifediaries-adventurers-were-coming-to-youtopargee-is-hitting-the-road-for-th/1758864449572878/",
+      "note": "Google snippet of Topargee post (about Sep 2026): 'We're excited to welcome back some incredible partners: Victron Energy B.V. with ...'; Topargee attending the 2026 Gathering."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/reel/CF0m3I8nhly/",
+      "note": "Google snippet: giveaway winners receive 'A $300 Teva voucher' plus two 2026 Gathering tickets."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.vanlife.com.au/vanlifegatherings/2021/07/16/byron-bay-region-vanlife-gathering",
+      "note": "Google snippet (2021): proceeds go 'towards our non-profit partners; One Wave (Mental Health), Take 3 (Environmental) and our Indigenous partner'."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/reel/CF0m3I8nhly/",
+      "note": "Teva voucher plus ticket giveaway promoting the 2026 Gathering."
+    }
+  ],
+  "remove_gaps": [
+    "Search summary places Natural Bridge in NSW; the state was not confirmed, so it is left null",
+    "Attendance and partners not found",
+    "No public partnerships contact found"
+  ],
+  "add_gaps": [
+    "Attendance not published (organisers say previous Gatherings sold out)",
+    "2026 partner tiers unknown; Gatherings page lists partners in the program without calling them sponsors"
+  ],
+  "notes": "Natural Bridge is in QLD (Gold Coast hinterland). Brand partners are van-life gear (Victron, Topargee, Teva) plus non-profits; One Wave (mental health) was a past beneficiary. Organiser openly invites partners, sponsors and stalls, with a values filter. Organiser IG @vanlifediaries (390k) is the channel."
+}

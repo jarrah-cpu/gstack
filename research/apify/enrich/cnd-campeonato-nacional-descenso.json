@@ -1,0 +1,22 @@
+{
+  "id": "cnd-campeonato-nacional-descenso",
+  "set": {
+    "organiser": {"name": "Comité Nacional de Descenso (CND), Real Federación Española de Patinaje", "type": null, "website": "https://www.cndescenso.es/"},
+    "partnership_contact": {"email": "info@cndescenso.es", "page_url": "https://www.cndescenso.es/contacto/", "named_person": null, "source": "https://www.cndescenso.es/contacto/"},
+    "location": {"city": null, "state_or_region": null, "country": "Spain", "venue_or_area": "Multi-round series; 2026 rounds: Cullera (Valencia, 27 to 29 Mar), Pukas (Priego and Alcantud area, Cuenca, 29 to 31 May), Polopos (Granada, 2 to 4 Oct)"}
+  },
+  "add_sponsors": [
+    {"brand": "Ayuntamiento de Priego", "years": [2026], "role": "government", "source": "https://www.instagram.com/p/DYkNeXoDT60/"},
+    {"brand": "Ayuntamiento de Alcantud", "years": [2026], "role": "government", "source": "https://www.instagram.com/p/DYkNeXoDT60/"}
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {"field": "organiser", "url": "https://www.cndescenso.es/", "note": "Footer: '© 2026 Comité Nacional de Descenso · Real Federación Española de Patinaje'. IG bio: 'Comité Nacional de Descenso, Federación Española de Patinaje', email descenso@fep.es."},
+    {"field": "partnership_contact", "url": "https://www.cndescenso.es/contacto/", "note": "Contact page lists info@cndescenso.es and @cndownhill. IG bio also gives descenso@fep.es."},
+    {"field": "location", "url": "https://www.cndescenso.es/", "note": "Homepage calendar: Copa de España de Cullera 27 to 29 Mar 2026 (83 riders), Copa de España de Pukas, Cuenca 29 to 31 May 2026 (95 riders), Copa de España de Polopos, Granada 2 to 4 Oct 2026; results via r4wrun."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DYkNeXoDT60/", "note": "Urethane Burners (Pukas round co-organiser), 20 May 2026: thanks 'a todos los sponsors y los ayuntamientos de Priego y Alcantud por hacer posible este evento'. Round-level support, not series-level."}
+  ],
+  "add_gaps": ["No series-level commercial sponsors found; only round-level council support for the Pukas round", "Spectator numbers not published (rider fields only: 83 at Cullera, 95 at Pukas in 2026)"],
+  "remove_gaps": ["Name of the Cuenca round not confirmed", "No sponsors identified", "No public partnerships contact found"],
+  "notes": "The Cuenca round is the Copa de España de Pukas (Pukas Race), run by Madrid Downhill Club and Urethane Burners. Each round has its own local organiser (Cullera: L'Horta Downhill Club; Polopos: Polopos Freeride), so sponsorship is bought round by round. IG @cndownhill is correct."
+}

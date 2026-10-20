@@ -1,0 +1,86 @@
+{
+  "id": "repco-beach-hop-whangamata",
+  "set": {
+    "attendance": {
+      "figure": 110000,
+      "figure_high": null,
+      "year": 2024,
+      "is_estimate": true,
+      "source": "https://www.nzherald.co.nz/waikato-news/news/beach-hop-classic-car-enthusiasts-converge-on-coromandel/SGUVKTHU35HKZICSUXJMJBYS4M/",
+      "note": "NZ Herald (21 Mar 2024): 'More than 110,000 people were expected to arrive in the region'; 2,000 vehicles registered. Press pre-event estimate, not organiser-confirmed. NZ Performance Car estimated 120,000 at the 2016 edition. Replaces the Setline listing figure of 60,000."
+    },
+    "dates": {
+      "last_edition": {
+        "start": "2026-03-25",
+        "end": "2026-03-29",
+        "status": "held",
+        "label": "2026 (26th year)"
+      },
+      "next_edition": {
+        "start": "2027-03-17",
+        "end": "2027-03-21",
+        "status": "confirmed",
+        "label": "Repco Beach Hop 27 (2027)"
+      },
+      "frequency": "annual",
+      "duration_days": 5
+    },
+    "organiser": {
+      "name": "Noddy Watts (festival organiser)",
+      "type": null,
+      "website": "https://beachhop.co.nz/"
+    },
+    "partnership_contact": {
+      "email": "INFO@BEACHHOP.CO.NZ",
+      "page_url": "https://beachhop.co.nz/contact/",
+      "named_person": null,
+      "source": "https://beachhop.co.nz/"
+    }
+  },
+  "add_sponsors": [
+    {"brand": "Repco", "years": [2027], "role": "naming", "source": "https://beachhop.co.nz/"},
+    {"brand": "Castrol", "years": [2027], "role": "partner", "source": "https://beachhop.co.nz/"},
+    {"brand": "Classic Cover", "years": [2027], "role": "partner", "source": "https://beachhop.co.nz/"},
+    {"brand": "Meguiar's", "years": [2027], "role": "partner", "source": "https://beachhop.co.nz/"},
+    {"brand": "Harley-Davidson", "years": [2027], "role": "partner", "source": "https://beachhop.co.nz/"},
+    {"brand": "NZV8", "years": [2027], "role": "media", "source": "https://beachhop.co.nz/"},
+    {"brand": "Mag & Turbo", "years": [2027], "role": "media", "source": "https://beachhop.co.nz/"},
+    {"brand": "Magic (Rova radio)", "years": [2027], "role": "media", "source": "https://beachhop.co.nz/sponsor/magic/"},
+    {"brand": "CMP", "years": [2027], "role": "partner", "source": "https://beachhop.co.nz/"},
+    {"brand": "Thames-Coromandel District Council", "years": [2027], "role": "government", "source": "https://beachhop.co.nz/"},
+    {"brand": "Happy Hank Media", "years": [2027], "role": "partner", "source": "https://beachhop.co.nz/"},
+    {"brand": "Mainstream Freight", "years": [2027], "role": "partner", "source": "https://beachhop.co.nz/"},
+    {"brand": "NZ Hot Rod Association", "years": [2027], "role": "partner", "source": "https://beachhop.co.nz/"},
+    {"brand": "Kentucky Woodstock", "years": [2027], "role": "partner", "source": "https://beachhop.co.nz/"},
+    {"brand": "Cross Country Rentals", "years": [2027], "role": "partner", "source": "https://beachhop.co.nz/"},
+    {"brand": "Mustang Centre", "years": [2027], "role": "partner", "source": "https://beachhop.co.nz/"},
+    {"brand": "Kiwi Plates", "years": [2027], "role": "partner", "source": "https://beachhop.co.nz/"},
+    {"brand": "Coruba", "years": [2027], "role": "partner", "source": "https://beachhop.co.nz/"},
+    {"brand": "Haltech", "years": [2027], "role": "partner", "source": "https://beachhop.co.nz/sponsor/haltech"},
+    {"brand": "BurgerFuel", "years": [2026], "role": "partner", "source": "https://www.burgerfuel.com/nz/world-of-burgerfuel/articles/beach-hop-2026"}
+  ],
+  "add_activation_formats": ["naming-rights", "installation"],
+  "add_sources": [
+    {"field": "attendance", "url": "https://www.nzherald.co.nz/waikato-news/news/beach-hop-classic-car-enthusiasts-converge-on-coromandel/SGUVKTHU35HKZICSUXJMJBYS4M/", "note": "Page read (21 Mar 2024): more than 110,000 people expected in the region; 2,000 vehicles and 100+ classic caravans registered."},
+    {"field": "attendance", "url": "https://nzperformancecar.co.nz/2016-4-8-repco-beach-hop-16-day-five-whangamata/", "note": "Google snippet: Repco Beach Hop 16 'with an estimated 120,000 people in attendance'."},
+    {"field": "dates.next_edition", "url": "https://beachhop.co.nz/", "note": "Official site (crawled Oct 2026): '17th to 21st March 2027'; passes for Beach Hop 2027 on sale via Flicket."},
+    {"field": "organiser", "url": "https://www.nzherald.co.nz/waikato-news/news/beach-hop-classic-car-enthusiasts-converge-on-coromandel/SGUVKTHU35HKZICSUXJMJBYS4M/", "note": "Page read: 'Festival organiser Noddy Watts'."},
+    {"field": "partnership_contact", "url": "https://beachhop.co.nz/", "note": "Crawled homepage footer: 'CONTACT: INFO@BEACHHOP.CO.NZ' (general enquiries; written in capitals on the page). Contact page linked in the menu."},
+    {"field": "sponsors", "url": "https://beachhop.co.nz/", "note": "Crawled homepage (2027 edition page, Oct 2026): 'Major Sponsor' Repco, then 'BEACH HOP IS MADE POSSIBLE BY OUR SPONSORS' logo block: Repco, Castrol, Classic Cover, Meguiar's, Harley-Davidson, NZV8, CMP, Thames-Coromandel District Council, Happy Hank Media, Mag and Turbo, Mainstream Freight, NZ Hot Rod Association, Kentucky Woodstock, Cross Country Rentals, Mustang Centre, Kiwi Plates and a Coruba logo (identified from link slugs, alt text and logo file names)."},
+    {"field": "sponsors", "url": "https://beachhop.co.nz/sponsor/haltech", "note": "Crawled Beach Hop sponsor redirect pages exist for Haltech and Magic (rova radio), so both are linked as sponsors on the site."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DesisvsHR-5/", "note": "Google snippet: 'Excited to share Happy Hank has partnered with Repco Beach Hop'."},
+    {"field": "sponsors", "url": "https://www.burgerfuel.com/nz/world-of-burgerfuel/articles/beach-hop-2026", "note": "Page read: BurgerFuel served burgers on site, showcased three classic cars and ran 'the BurgerFuel Pin Up competition' at the 2026 event. Not explicitly called a sponsor."},
+    {"field": "activation_formats", "url": "https://www.burgerfuel.com/nz/world-of-burgerfuel/articles/beach-hop-2026", "note": "BurgerFuel classic car display and named Pin Up competition; Repco names the event, the Repco Power Cruise and the Repco Pre 1949 Hot Rod Show (homepage)."}
+  ],
+  "add_gaps": [
+    "Sponsor years inferred from the 2027-edition homepage logo block; two logos linked as 'sundaydrive' and 'longwhite' not identified",
+    "Organiser company not captured (Noddy Watts named as organiser)"
+  ],
+  "remove_gaps": [
+    "2027 dates from a third-party listing only",
+    "BurgerFuel's role not stated",
+    "Organiser entity not captured",
+    "No public partnerships contact found"
+  ],
+  "notes": "Huge free nostalgia car festival (press: 110,000+ expected in 2024). Deep, mostly automotive sponsor roster under Repco naming; the only drinks brands are Kentucky Woodstock and Coruba. Attendance stays a press estimate. IG @beachhopnz is correct."
+}

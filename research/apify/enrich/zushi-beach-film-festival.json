@@ -1,0 +1,263 @@
+{
+  "id": "zushi-beach-film-festival",
+  "set": {
+    "attendance": {
+      "figure": 15000,
+      "figure_high": null,
+      "year": 2019,
+      "is_estimate": true,
+      "source": "https://paddler-shonan.com/eye/eye-4203/",
+      "note": "Press: 'over 15,000' visitors across the festival period (PADDLER, 10th edition 2019); an interview with the executive committee chair (precious.jp) also says over 15,000. Google snippets; no recent official count."
+    },
+    "partnership_contact": {
+      "email": "info@zushifilm.com",
+      "page_url": "https://zushifilm.com/qa/",
+      "named_person": null,
+      "source": "https://zushifilm.com/qa/"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Vans",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://zushifilm.com/about/"
+    },
+    {
+      "brand": "Ron Herman",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://zushifilm.com/about/"
+    },
+    {
+      "brand": "Nocs Provisions",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://zushifilm.com/about/"
+    },
+    {
+      "brand": "Hydro Flask",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://zushifilm.com/about/"
+    },
+    {
+      "brand": "Corona Cero",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://zushifilm.com/about/"
+    },
+    {
+      "brand": "REALGATE",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://zushifilm.com/about/"
+    },
+    {
+      "brand": "Muse Crea (ミューズクリエ)",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "partner",
+      "source": "https://zushifilm.com/about/"
+    },
+    {
+      "brand": "Iwai Sesame Oil (岩井の胡麻油)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://zushifilm.com/about/"
+    },
+    {
+      "brand": "Apero (wines)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://zushifilm.com/about/"
+    },
+    {
+      "brand": "Channel Original",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://zushifilm.com/about/"
+    },
+    {
+      "brand": "magic number",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://zushifilm.com/about/"
+    },
+    {
+      "brand": "Tokyo Bincho (東京備長炭)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://zushifilm.com/about/"
+    },
+    {
+      "brand": "AlphaTheta",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://zushifilm.com/about/"
+    },
+    {
+      "brand": "CINEMA AMIGO",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://zushifilm.com/about/"
+    },
+    {
+      "brand": "JAZZY SPORT",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://zushifilm.com/about/"
+    },
+    {
+      "brand": "LUZeSOMBRA",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://zushifilm.com/about/"
+    },
+    {
+      "brand": "Jimoto no Senzai (じもとの洗剤)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://zushifilm.com/about/"
+    },
+    {
+      "brand": "SBY wellness",
+      "years": [
+        2026
+      ],
+      "role": "collab",
+      "source": "https://www.instagram.com/p/DXqyAX1E_yc/"
+    },
+    {
+      "brand": "MAMA BUTTER (Cynthia Garden)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DXqyAX1E_yc/"
+    },
+    {
+      "brand": "UMITO Partners",
+      "years": [
+        2025
+      ],
+      "role": "collab",
+      "source": "https://umitopartners.com/2025/04/zushifilm/"
+    },
+    {
+      "brand": "The North Face",
+      "years": [
+        2016
+      ],
+      "role": "partner",
+      "source": "https://www.yamakei-online.com/sp/news_brand.php?id=3545"
+    },
+    {
+      "brand": "Zushi City",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://zushifilm.com/about/"
+    }
+  ],
+  "add_activation_formats": [
+    "sampling"
+  ],
+  "add_sources": [
+    {
+      "field": "sponsors",
+      "url": "https://zushifilm.com/about/",
+      "note": "About page 2026: Sponsor logos Vans, Ron Herman, Nocs Provisions, Hydro Flask, Corona Cero, REALGATE, Muse Crea, Iwai Sesame Oil, Apero, Channel Original, magic number, Tokyo Bincho, AlphaTheta; Supporter CINEMA AMIGO, JAZZY SPORT, LUZeSOMBRA, Jimoto no Senzai. 主催 Zushi Beach Film Festival executive committee; 共催 Zushi Art Festival executive committee; 協力 Zushi City, Zushi Tourism Association, Zushi shopping street federation."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.muse-crea.com/the-15th-zushi-beach-film-festival/",
+      "note": "Google snippet: Muse Crea says it is sponsoring the festival 'again this year' (15th, 2026)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DXqyAX1E_yc/",
+      "note": "2026 yoga and lunch session with yoga teacher Waka Nozawa, co-posted with @sby_wellness: Corona non-alcoholic beer toast and a MAMA BUTTER balancing serum (Cynthia Garden) gift; 20 seats, booked separately."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://umitopartners.com/2025/04/zushifilm/",
+      "note": "Google snippet: UMITO Partners x Zushi Beach Film Festival 2025 collaboration (25 Apr to 6 May 2025)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.yamakei-online.com/sp/news_brand.php?id=3545",
+      "note": "Google snippet: THE NORTH FACE sponsored the 2016 festival (28 Apr to 8 May 2016)."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/DW728Stk2Zz/",
+      "note": "Iwai Sesame Oil x tempura chef workshop ('Traveling Tempura') with take-home gifts, 2026; repeated from 2025."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/DXqyAX1E_yc/",
+      "note": "Wellness program: yoga, lunch and talk with sponsor product sampling (Corona Cero, MAMA BUTTER)."
+    },
+    {
+      "field": "attendance",
+      "url": "https://paddler-shonan.com/eye/eye-4203/",
+      "note": "Google snippet: festival period visitors now exceed 15,000 (2019, 10th edition)."
+    },
+    {
+      "field": "attendance",
+      "url": "https://precious.jp/articles/-/11307",
+      "note": "Google snippet: interview with chair Gen Nagashima describes an event of over 15,000 people."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://zushifilm.com/qa/",
+      "note": "FAQ: after the event, contact info@zushifilm.com directly (general enquiries)."
+    }
+  ],
+  "remove_gaps": [
+    "Attendance not pinned: search results mentioned 15,000+ visitors for the 2019 edition but the source page was not confirmed",
+    "Sponsor and partner roster not captured",
+    "No partnerships contact found"
+  ],
+  "add_gaps": [
+    "No recent official attendance figure (latest is a 2019 press figure of over 15,000)",
+    "No dedicated sponsorship contact; general email only"
+  ],
+  "notes": "Sponsor roster now sourced: 13 sponsors in 2026 (Vans, Ron Herman, Hydro Flask, Corona Cero, AlphaTheta, Iwai Sesame Oil and others) and four supporters. Wellness fit is direct: a yoga, lunch and talk session with sby_wellness, Corona Cero and MAMA BUTTER sampling. 2026 days on 1 and 4 May were cancelled for strong winds; 2026 tickets sold out. Instagram on record is organiser @cinemacaravan; check whether a festival account (zushifilm) exists."
+}

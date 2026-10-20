@@ -1,0 +1,153 @@
+{
+  "id": "fuji-gravel",
+  "set": {
+    "attendance": {
+      "figure": 107,
+      "figure_high": null,
+      "year": 2026,
+      "is_estimate": false,
+      "source": "https://fujigravel.com/pages/2026-fuji-gravel-yamanashi-overview",
+      "note": "Organiser-reported in the 2026 Fuji Gravel Yamanashi report: 107 riders started (115 entries) plus 15 guides. Visitor numbers for the co-held Arcadia Sports Festa not reported (sponsor page expected up to about 500)."
+    },
+    "audience": {
+      "age_range": null,
+      "gender_skew": null,
+      "psychographics": "Organiser pitches two groups: core gravel riders travelling from across Japan (ride cap 150) and sport-minded local families and casual visitors at the co-held Arcadia Sports Festa in Nanbu.",
+      "source": "https://fujigravel.com/collections/sponsors-2026-yamanashi"
+    },
+    "partnership_contact": {
+      "email": "contact@fujigravel.com",
+      "page_url": "https://fujigravel.com/collections/sponsors-2026-yamanashi",
+      "named_person": null,
+      "source": "https://fujigravel.com/collections/sponsors-2026-autumn"
+    },
+    "ticket_price": {
+      "min": 8000,
+      "max": 11000,
+      "currency": "JPY",
+      "free_entry": false,
+      "note": "2026 Yamanashi rider entry: short course about 49 km JPY 8,000 (cap 50), hard course about 69 km JPY 11,000 (cap 100). Camping JPY 5,000 and car-stay JPY 4,000 extra."
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Panaracer",
+      "years": [
+        2025
+      ],
+      "role": "naming",
+      "source": "https://fujigravel.com/pages/about"
+    },
+    {
+      "brand": "Monoral Bikes",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://fujigravel.com/pages/2026-fuji-gravel-yamanashi-overview"
+    },
+    {
+      "brand": "Yamanashi Prefecture",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://fujigravel.com/pages/2026-fuji-gravel-yamanashi-overview"
+    },
+    {
+      "brand": "Nanbu Town",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://fujigravel.com/pages/2026-fuji-gravel-yamanashi-overview"
+    },
+    {
+      "brand": "Yamanashi Sports Engine",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://fujigravel.com/pages/2026-fuji-gravel-yamanashi-overview"
+    },
+    {
+      "brand": "Nanbu Chamber of Commerce (南部商工会)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://fujigravel.com/pages/2026-fuji-gravel-yamanashi-overview"
+    },
+    {
+      "brand": "Fuji City",
+      "years": [
+        2025
+      ],
+      "role": "government",
+      "source": "https://fujigravel.com/pages/about"
+    }
+  ],
+  "add_activation_formats": [
+    "stage-or-program-takeover"
+  ],
+  "add_sources": [
+    {
+      "field": "attendance",
+      "url": "https://fujigravel.com/pages/2026-fuji-gravel-yamanashi-overview",
+      "note": "2026 Fuji Gravel Yamanashi results report (11 Oct 2026, Arcadia Nanbu Sogo Koen): 107 riders (115 entries) plus 15 guides."
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://fujigravel.com/pages/2026-fuji-gravel-yamanashi-overview",
+      "note": "Entry fees from the 24 Aug 2026 announcement linked in the report: hard course JPY 11,000, short course JPY 8,000."
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://fujigravel.com/",
+      "note": "Shop listing: 10 to 11 Oct 2026 tent site JPY 5,000, car-stay plan JPY 4,000."
+    },
+    {
+      "field": "audience",
+      "url": "https://fujigravel.com/collections/sponsors-2026-yamanashi",
+      "note": "Exhibitor guide: reach two groups at once, core gravel riders from across Japan (ride cap 150) and local sport-minded families (festa visitors up to about 500)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://fujigravel.com/pages/2026-fuji-gravel-yamanashi-overview",
+      "note": "Report: 主催 Terra Incognita; 後援 Yamanashi Prefecture, Yamanashi Sports Engine, Nanbu Town, Nanbu Chamber of Commerce; partner company Monoral Bikes hosted a talk at the eve party; local inns and shops supplied aid stations."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://fujigravel.com/pages/about",
+      "note": "About page: the first edition on 18 May 2025 at Fujisan Kodomo no Kuni (Fuji city) was titled 'Fuji Gravel supported by Panaracer', backed by Fuji City. Applies to the Shizuoka editions of the series."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://fujigravel.com/pages/2025-fuji-gravel-extra-sponsor",
+      "note": "Fuji Gravel Extra (7 Dec 2025) page carries 'SUPPORTED BY PANARACER' and a sponsor menu: course naming rights JPY 33,000 to 44,000, aid station JPY 22,000, booth JPY 16,500 to 22,000, photo booth JPY 33,000, brand ride JPY 55,000."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://fujigravel.com/pages/2026-fuji-gravel-yamanashi-overview",
+      "note": "Monoral Bikes talk show at the 10 Oct eve party."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://fujigravel.com/collections/sponsors-2026-autumn",
+      "note": "Fuji Gravel Extra 2026 exhibitor and brand ride guide lists contact@fujigravel.com; the site also has a contact form at https://fujigravel.com/pages/contact."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://fujigravel.com/collections/sponsors-2026-yamanashi",
+      "note": "Fuji Gravel Yamanashi 2026 exhibitor guide: 6 x 3 m tent space with test-ride course access, or 3 x 3 m display space."
+    }
+  ],
+  "add_gaps": [
+    "No Instagram account found for the event (@fujin_gravelwear is an unrelated brand)",
+    "Spectator or festa visitor numbers not reported"
+  ],
+  "remove_gaps": [
+    "Participant numbers, entry fees and sponsors not captured"
+  ],
+  "notes": "Record is the first Fuji Gravel Yamanashi (11 Oct 2026, Nanbu), part of Terra Incognita's Fuji Gravel series (Fuji Gravel May 2025 and Fuji Gravel Extra Dec 2025 in Shizuoka, Fuji Cycle Festival May 2026). Small: 107 riders. Panaracer title support is shown for the Shizuoka editions only; check whether the record should cover the series or just Yamanashi."
+}

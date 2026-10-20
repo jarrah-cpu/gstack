@@ -1,0 +1,32 @@
+{
+  "id": "lucky-dumpling-market-adelaide",
+  "set": {
+    "website": "https://luckydumplingmarket.com/",
+    "organiser": {"name": "Gluttony", "type": null, "website": "https://gluttony.net.au/"},
+    "partnership_contact": {"email": "info@gluttony.net.au", "page_url": "https://luckydumplingmarket.com/faqs/", "named_person": null, "source": "https://luckydumplingmarket.com/faqs/"}
+  },
+  "add_sponsors": [
+    {"brand": "OzAsia Festival (Adelaide Festival Centre)", "years": [2025, 2026], "role": "presenting", "source": "https://luckydumplingmarket.com/about-us/"},
+    {"brand": "City of Adelaide (Adelaide Economic Development Agency)", "years": [2026], "role": "government", "source": "https://luckydumplingmarket.com/about-us/"},
+    {"brand": "Nova FM", "years": [2026], "role": "media", "source": "https://luckydumplingmarket.com/about-us/"},
+    {"brand": "FIVEaa", "years": [2026], "role": "media", "source": "https://luckydumplingmarket.com/about-us/"},
+    {"brand": "Pirate Life", "years": [2026], "role": "partner", "source": "https://luckydumplingmarket.com/about-us/"},
+    {"brand": "Novatech", "years": [2026], "role": "partner", "source": "https://luckydumplingmarket.com/about-us/"},
+    {"brand": "Adelady / Hello SA", "years": [2026], "role": "media", "source": "https://luckydumplingmarket.com/about-us/"},
+    {"brand": "Pimm's (Diageo)", "years": [2026], "role": "partner", "source": "https://luckydumplingmarket.com/about-us/"},
+    {"brand": "Alpha Box & Dice", "years": [2026], "role": "partner", "source": "https://luckydumplingmarket.com/about-us/"},
+    {"brand": "QBE", "years": [2019], "role": "partner", "source": "https://www.eventfinda.com.au/2019/lucky-dumpling-market/adelaide"}
+  ],
+  "add_sources": [
+    {"field": "sponsors", "url": "https://luckydumplingmarket.com/about-us/", "note": "'2026 PARTNERS' logos (names from link targets and file names): Gluttony, OzAsia, City of Adelaide/AEDA, Nova FM, FIVEaa, Pirate Life, Novatech (ncet.co), Adelady/Hello SA, Pimm's (links to Diageo), Alpha Box & Dice. 'Lucky Dumpling Market is brought to you by' Gluttony and OzAsia."},
+    {"field": "sponsors", "url": "https://meetings.cityofadelaide.com.au/documents/s26552/Attachment%20C%20for%20202425%20Business%20Plan%20Budget%20Quarter%203%20Update.pdf", "note": "AEDA 2024/25 business plan update lists 'Lucky Dumpling Market - $45,000' under its Commercial Events Sponsorship Program (Google snippet)."},
+    {"field": "sponsors", "url": "https://www.eventfinda.com.au/2019/lucky-dumpling-market/adelaide", "note": "2019 listing mentions the 'QBE Outdoor Music Sessions' at the market (Google snippet)."},
+    {"field": "organiser", "url": "https://www.instagram.com/luckydumplingmarket/", "note": "IG bio: 'Run by @gluttony_fringe during @ozasiafestival'. About page links Gluttony to gluttony.net.au."},
+    {"field": "website", "url": "https://www.instagram.com/luckydumplingmarket/", "note": "IG profile links to luckydumplingmarket.com; site states 2026 dates 9 Oct to 1 Nov."},
+    {"field": "partnership_contact", "url": "https://luckydumplingmarket.com/faqs/", "note": "FAQ page lists info@gluttony.net.au; no dedicated partnerships contact."},
+    {"field": "dates.next_edition", "url": "https://luckydumplingmarket.com/faqs/", "note": "FAQ: 'Lucky Dumpling Market will return in 2027, and beyond' even though 2026 is the final OzAsia Festival."}
+  ],
+  "add_gaps": ["Visitor numbers not published (only OzAsia-wide figures)", "Presenting partner for 2027 unknown once OzAsia ends"],
+  "remove_gaps": ["Organiser after OzAsia ends not confirmed", "Visitor numbers, sponsors and IG handle not captured"],
+  "notes": "Run by Gluttony (Adelaide Fringe hub operator), which confirms a 2027 return despite OzAsia ending. 2026 partners mix drinks brands (Pirate Life, Pimm's, Alpha Box & Dice), local media and AEDA ($45,000 in FY2024/25). 2026 season is in progress (to 1 Nov)."
+}

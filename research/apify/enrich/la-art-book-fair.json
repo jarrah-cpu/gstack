@@ -1,0 +1,18 @@
+{
+  "id": "la-art-book-fair",
+  "set": {},
+  "add_sponsors": [
+    {"brand": "Orange Radio & Homebody", "years": [2026], "role": "collab", "source": "https://laabf2026.printedmatterartbookfairs.org/programs"},
+    {"brand": "SFMOMA Library (David Senior)", "years": [2026], "role": "collab", "source": "https://laabf2026.printedmatterartbookfairs.org/programs"}
+  ],
+  "add_activation_formats": ["workshop"],
+  "add_sources": [
+    {"field": "sponsors", "url": "https://laabf2026.printedmatterartbookfairs.org/programs", "note": "2026 Programs page: The Stage organised with Orange Radio & Homebody (DIY radio station and community space, Alhambra); Classroom organised with David Senior, Director of Library at SFMOMA; Volume Grant funded by the LAABF Committee. No commercial sponsor list on the page. Project-space presenters (Getty Research Institute, Ooga Booga, Three Star Books and others) are exhibitors, not added."},
+    {"field": "activation_formats", "url": "https://laabf2026.printedmatterartbookfairs.org/programs", "note": "Workshops at ArtCenter's South Campus run with Riso Studio Arts and Archetype Press; Opening Night ticket holders got a limited-edition card deck by Amia Yokoyama."},
+    {"field": "dates.last_edition", "url": "https://laabf2026.printedmatterartbookfairs.org/programs", "note": "Thursday 7 May to Sunday 10 May 2026."},
+    {"field": "audience", "url": "https://hyperallergic.com/printed-matters-la-art-book-fair-returns-may-7-10/", "note": "Google snippet: 'Connect with 250 international artists, publishers, and booksellers' (2026 exhibitor count, not attendance)."}
+  ],
+  "add_gaps": ["No sponsor list found on the 2026 fair site; only programme collaborators", "Attendance and ticket prices not captured; about 250 exhibitors in 2026 (Hyperallergic)", "No partnership or press contact found on the fair site", "No IG posts scraped for the shared NY and LA account"],
+  "remove_gaps": ["Attendance, exhibitor count and ticketing not captured"],
+  "notes": "Thin result: the 2026 fair site credits only curatorial collaborators (Orange Radio & Homebody, SFMOMA Library), no brand sponsors, prices or contact. ArtCenter remains the venue. IG @printedmatter_artbookfairs is shared with the NY fair, so its signals are not LA-specific."
+}

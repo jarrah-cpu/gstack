@@ -1,0 +1,295 @@
+{
+  "id": "sea-otter-australia-batemans-bay",
+  "set": {
+    "website": "https://seaotter.au/",
+    "organiser": {
+      "name": "Rocky Trail Entertainment",
+      "type": "promoter",
+      "website": "https://rockytrailentertainment.com/"
+    },
+    "partnership_contact": {
+      "email": "juliane@seaotter.au",
+      "page_url": "https://seaotter.au/about/#partnerships",
+      "named_person": "Juliane, Managing Director & Partnerships",
+      "source": "https://seaotter.au/contact/"
+    },
+    "dates": {
+      "last_edition": {
+        "start": "2025",
+        "end": null,
+        "status": "held",
+        "label": "Debut (2025)"
+      },
+      "next_edition": {
+        "start": "2026-10-21",
+        "end": "2026-10-25",
+        "status": "confirmed",
+        "label": "2nd edition (2026)"
+      },
+      "frequency": "annual",
+      "duration_days": 5
+    },
+    "attendance": {
+      "figure": 7000,
+      "figure_high": 9000,
+      "year": 2025,
+      "is_estimate": true,
+      "source": "https://rideonmagazine.com.au/sea-otter-australia-a-bold-debut-in-batemans-bay/",
+      "note": "Media-reported for the 2025 debut: close to 7,000 (Ride On) and about 9,000 (Flow); organiser says 'nearly 9,000 attendees and 170+ brands' (seaotter.au/about). 2026 expectation: 10,000 visitors, 2,500 athletes and 120+ exhibitors representing 250+ brands (Australasian Leisure Management, 13 Oct 2026)."
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Bosch eBike Systems",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/DPnQF74k247/"
+    },
+    {
+      "brand": "Fox (FOX Factory)",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/DZL7m5PFP6_/"
+    },
+    {
+      "brand": "Maxxis",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/DZL7m5PFP6_/"
+    },
+    {
+      "brand": "Shimano",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/DZL7m5PFP6_/"
+    },
+    {
+      "brand": "Smith Optics",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/DZL7m5PFP6_/"
+    },
+    {
+      "brand": "Thule",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/DZL7m5PFP6_/"
+    },
+    {
+      "brand": "Scott Sports",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/DZL7m5PFP6_/"
+    },
+    {
+      "brand": "Muc-Off",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/DZL7m5PFP6_/"
+    },
+    {
+      "brand": "CamelBak",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DazEOOsjKPt/"
+    },
+    {
+      "brand": "Magicshine",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DazEOOsjKPt/"
+    },
+    {
+      "brand": "MTB Direct",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DazEOOsjKPt/"
+    },
+    {
+      "brand": "ROCKBROS",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DazEOOsjKPt/"
+    },
+    {
+      "brand": "Velosolutions",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DazEOOsjKPt/"
+    },
+    {
+      "brand": "Bowhead Corp",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DP0IDnkjfPp/"
+    },
+    {
+      "brand": "Push Mobility",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DP0IDnkjfPp/"
+    },
+    {
+      "brand": "Eurobodalla Shire Council",
+      "years": [
+        2025
+      ],
+      "role": "government",
+      "source": "https://www.instagram.com/p/Da2fbOpDodv/"
+    },
+    {
+      "brand": "Forestry Corporation of NSW (Visit NSW Forests)",
+      "years": [
+        2025
+      ],
+      "role": "government",
+      "source": "https://www.instagram.com/p/Da2fbOpDodv/"
+    },
+    {
+      "brand": "Destination NSW",
+      "years": [
+        2025
+      ],
+      "role": "government",
+      "source": "https://www.instagram.com/p/Da2fbOpDodv/"
+    },
+    {
+      "brand": "Destination Southern NSW",
+      "years": [
+        2025
+      ],
+      "role": "government",
+      "source": "https://www.instagram.com/p/Da2fbOpDodv/"
+    }
+  ],
+  "add_activation_formats": [
+    "naming-rights",
+    "product-drop"
+  ],
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://seaotter.au/",
+      "note": "Official site; Instagram bio links seaotter.au."
+    },
+    {
+      "field": "organiser",
+      "url": "https://seaotter.au/about/",
+      "note": "Crawled page: 'Rocky Trail Entertainment now runs Sea Otter the Southern Hemisphere' with a 10-year contract."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://seaotter.au/contact/",
+      "note": "Crawled page: 'juliane@seaotter.au Managing Director & Partnerships'; also info@seaotter.au (general) and expo@seaotter.au (exhibitors)."
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://seaotter.au/about/",
+      "note": "Crawled page: festival 21 to 25 Oct 2026, 20 to 24 Oct 2027 and 19 to 23 Oct 2028 confirmed."
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.instagram.com/p/Da2fbOpDodv/",
+      "note": "Festival post (16 Jul 2026): 'returning to the Mogo and Narooma Trails this October 21 to 25, 2026'."
+    },
+    {
+      "field": "attendance",
+      "url": "https://seaotter.au/about/",
+      "note": "Crawled page: inaugural 2025 festival united 'nearly 9,000 attendees and 170+ brands'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DZL7m5PFP6_/",
+      "note": "Festival post (5 Jun 2026): 'all of our major sponsors are returning for year two ... our 2026 Gold Sponsors: @ridefox_au @maxxisbikeau @shimanoaustralia @smithoptics @thule @scottsports @mucoff @boschebikesystems'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DRLU5RRE6dC/",
+      "note": "Festival post (18 Nov 2025) thanking 2025 Gold, Silver and Bronze partners: Bosch, Muc-Off, Smith, Thule, Bowhead, Fox, Maxxis, Velosolutions, MTB Direct."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DazEOOsjKPt/",
+      "note": "Festival post (15 Jul 2026): 2026 Silver CamelBak; Bronze Magicshine, MTB Direct, ROCKBROS, Velosolutions."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DPnQF74k247/",
+      "note": "Festival post (10 Oct 2025): Bosch eBike Systems 'Gold Sponsor and the official partner of the eOtterX'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DPVVVd5jt3m/",
+      "note": "Festival post (3 Oct 2025): Maxxis 'Silver Sponsor and the official partner of the Maxxis Effervelo Gravel Fondo', launching the 2025 Maxxis Dissector at the event."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DP0IDnkjfPp/",
+      "note": "Festival post (15 Oct 2025): Bowhead with Australian supplier Push Mobility supporting the Adaptive Zone."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/Da2fbOpDodv/",
+      "note": "Festival post (16 Jul 2026): 'To our incredible partners - @eurobodallashirecouncil, @visitnswforests, @visitnsw and Destination Southern NSW' (thanks tied to the inaugural year)."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/DcfduoBHKO1/",
+      "note": "Festival post (26 Aug 2026): FOX is a Gold Sponsor and 'long-time headline sponsor of the Fox Superflow'. Race naming also used by Bosch (eOtterX), Maxxis (Effervelo Gravel Fondo), Thule (Marathon) and Shimano (XC Crit)."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/DPVVVd5jt3m/",
+      "note": "Maxxis launched the 2025 Maxxis Dissector tyre at Sea Otter Australia 2025."
+    }
+  ],
+  "remove_gaps": [
+    "Sources disagree on 2026 dates: 22 to 25 Oct (Australasian Leisure Management), 21 to 25 Oct (NSW Government), 23 to 25 Oct (Flow)",
+    "Organiser and website not named in results; 2026 gravel course details not found",
+    "No public partnerships contact found"
+  ],
+  "add_gaps": [
+    "2026 dates: organiser site and posts say 21 to 25 Oct; the Instagram bio says 22 to 25 Oct and the Rocky Trail events page 23 to 25 Oct (core race days may differ from the festival window)",
+    "2026 gravel course details not found",
+    "Exact 2025 debut dates not pinned in the evidence"
+  ],
+  "notes": "2026 edition runs now (21 to 25 Oct 2026); roll next_edition to 20 to 24 Oct 2027 once it ends (2028: 19 to 23 Oct; 10-year licence). Gold tier = 'major sponsors' per the organiser; Maxxis upgraded from partner. Mostly endemic bike brands plus CamelBak; named partnerships contact published. IG account is correct."
+}

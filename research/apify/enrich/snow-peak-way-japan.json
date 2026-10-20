@@ -1,0 +1,46 @@
+{
+  "id": "snow-peak-way-japan",
+  "set": {
+    "website": "https://www.snowpeak.co.jp/event/spw/",
+    "location": {"city": null, "state_or_region": "Nationwide (11 prefectures in 2026)", "country": "Japan", "venue_or_area": "Snow Peak campfields and partner campsites; 12 weekends scheduled in 2026 from HQ (Sanjo, Niigata) to Tokachi, Hokkaido"},
+    "dates": {
+      "last_edition": {"start": "2026-09-26", "end": "2026-09-27", "status": "held", "label": "Snow Peak Way 2026 in Akagi (final 2026 weekend; Okuhita 5 to 6 Sep cancelled for a typhoon)"},
+      "next_edition": {"start": "2027-04", "end": null, "status": "expected", "label": "Snow Peak Way 2027 (spring series expected from the 2026 pattern)"},
+      "frequency": "seasonal",
+      "duration_days": 2
+    },
+    "attendance": {"figure": 5000, "figure_high": null, "year": null, "is_estimate": true, "source": "https://note.com/onodera39/n/ndcd550a4887c", "note": "Secondary sources only (marketing blog and a consultancy column, Google snippets) say about 5,000 people take part each year; not organiser-reported. A 2026 HQ post mentions over 200 groups (up to 6 people each) at the HQ weekend."},
+    "partnership_contact": {"email": null, "page_url": "https://support.snowpeak.co.jp/hc/ja/requests/new", "named_person": null, "source": "https://www.snowpeak.co.jp/event/spw/"}
+  },
+  "add_sponsors": [
+    {"brand": "Suntory (Suntory Tennensui, Hakushu, ROKU gin, All-Free)", "years": [2026], "role": "partner", "source": "https://www.snowpeak.co.jp/event/spw/"},
+    {"brand": "Starbucks Coffee Japan", "years": [2026], "role": "partner", "source": "https://www.snowpeak.co.jp/event/spw/"},
+    {"brand": "Nestlé Japan", "years": [2026], "role": "partner", "source": "https://www.snowpeak.co.jp/event/spw/"},
+    {"brand": "Kuze Fuku & Co. (久世福商店)", "years": [2026], "role": "partner", "source": "https://www.snowpeak.co.jp/event/spw/"},
+    {"brand": "Asahi Shuzo", "years": [2026], "role": "partner", "source": "https://www.snowpeak.co.jp/event/spw/"},
+    {"brand": "BRING", "years": [2026], "role": "partner", "source": "https://www.snowpeak.co.jp/event/spw/"},
+    {"brand": "Canon Marketing Japan", "years": [2026], "role": "partner", "source": "https://www.snowpeak.co.jp/event/spw/"}
+  ],
+  "add_activation_formats": ["sampling", "hospitality-bar"],
+  "add_sources": [
+    {"field": "website", "url": "https://www.snowpeak.co.jp/event/spw/", "note": "Official Snow Peak Way 2026 event page."},
+    {"field": "dates.last_edition", "url": "https://www.snowpeak.co.jp/event/spw/", "note": "2026 schedule: 12 weekends from 4 to 5 Apr (HQ) to 26 to 27 Sep (Akagi, Gunma). Notice of 2 Sep 2026: Snow Peak Way 2026 in Okuhita (5 to 6 Sep) cancelled for safety due to Typhoon No. 26. Record had Okuhita as held."},
+    {"field": "location", "url": "https://www.snowpeak.co.jp/event/spw/", "note": "2026 venues include Snow Peak HQ Campfield (Niigata), Minoh (Osaka), Rikuzentakata (Iwate), Ochi (Kochi), Narita Yume Bokujo (Chiba), Makino Kogen (Shiga), Kanuma (Tochigi), Ookidani (Hiroshima), Tokachi Poroshiri (Hokkaido), Okuhita (Oita), Akagi (Gunma)."},
+    {"field": "sponsors", "url": "https://www.snowpeak.co.jp/event/spw/", "note": "Sponsor section 2026: Suntory Tennensui, Hakushu, ROKU, ALL-FREE, Starbucks Coffee Japan, Kuze Fuku & Co., Asahi Shuzo, BRING (clothing and tent recycling), Canon Marketing Japan. Program credits: cafe by Nestlé Japan, morning soup by Kuze Fuku, bonfire talk drinks by Suntory and Asahi Shuzo."},
+    {"field": "activation_formats", "url": "https://www.snowpeak.co.jp/event/spw/", "note": "Sponsors supply program content: Nestlé cafe, Kuze Fuku morning soup, Suntory All-Free and whisky/gin at the bonfire talk; BRING runs a gear and clothing recycling collection."},
+    {"field": "attendance", "url": "https://note.com/onodera39/n/ndcd550a4887c", "note": "Google snippet (blog): Snow Peak Way 'about 5,000 participants each time'."},
+    {"field": "attendance", "url": "https://www.imd-net.com/column/14565/", "note": "Google snippet (column): about 5,000 at Snow Peak Way and reportedly 8,000 at each Seppo-sai."},
+    {"field": "attendance", "url": "https://www.instagram.com/p/DWxW1cagSZ3/", "note": "Google snippet: first 2026 Snow Peak Way at HQ, Sanjo, with over 200 user groups."},
+    {"field": "partnership_contact", "url": "https://www.snowpeak.co.jp/event/spw/", "note": "Event page lists an event enquiry form, the general support form (support.snowpeak.co.jp) and phone 0120-010-660. No partnership or sponsorship contact published."}
+  ],
+  "remove_gaps": [
+    "Spring 2026 Japan sites and 2027 dates not captured",
+    "Whether non-Snow Peak brands ever take part not known"
+  ],
+  "add_gaps": [
+    "2027 Japan dates and sites not announced",
+    "Japan participation fees shown only in images on the event page; not captured",
+    "No organiser-reported participant count; no sponsorship contact published"
+  ],
+  "notes": "Correction: the Okuhita weekend (5 to 6 Sep 2026) was cancelled for a typhoon; the last 2026 weekend held was Akagi, 26 to 27 Sep. Brand-owned but with seven non-endemic sponsors (Suntory, Starbucks, Nestlé, Kuze Fuku, Asahi Shuzo, BRING, Canon) supplying drinks, food and program content, so food and beverage style sampling partners are accepted. Attendance figure is a weak secondary estimate."
+}

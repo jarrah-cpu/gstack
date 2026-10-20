@@ -1,0 +1,47 @@
+{
+  "id": "queen-victoria-night-market",
+  "set": {
+    "dates": {
+      "last_edition": {"start": "2026-06-03", "end": "2026-09-09", "status": "held", "label": "Winter Night Market 2026 (Wednesdays; extended two weeks to 9 Sep)"},
+      "next_edition": {"start": "2027-01-06", "end": "2027-03-10", "status": "confirmed", "label": "Summer Night Market 2027 (Wednesdays)"},
+      "frequency": "seasonal",
+      "duration_days": 1
+    },
+    "partnership_contact": {
+      "email": "info@qvm.com.au",
+      "page_url": "https://thenightmarket.com.au/contact-us/",
+      "named_person": null,
+      "source": "https://thenightmarket.com.au/contact-us/"
+    }
+  },
+  "add_sponsors": [
+    {"brand": "Australian Dairy", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DT7YfZhjd6E/"},
+    {"brand": "CARDCORE", "years": [2026], "role": "collab", "source": "https://www.instagram.com/p/DcIxftTDSGK/"},
+    {"brand": "Melbourne Fringe", "years": [2025], "role": "collab", "source": "https://www.instagram.com/p/DPtA_ZZEX8W/"},
+    {"brand": "Victoria Racing Club", "years": [2026], "role": "collab", "source": "https://www.instagram.com/p/DU_vpC-kn5o/"}
+  ],
+  "add_activation_formats": ["workshop", "stage-or-program-takeover"],
+  "add_sources": [
+    {"field": "dates.next_edition", "url": "https://www.instagram.com/p/DcYOSxIjalH/", "note": "Organiser post 23 Aug 2026: Summer Night Market 'every Wednesday evening from Jan 6 - Mar 10'; trader applications closed 5 Oct 2026."},
+    {"field": "dates.last_edition", "url": "https://www.instagram.com/p/DcIxftTDSGK/", "note": "Organiser post 17 Aug 2026: Winter Night Market extended two weeks to 2 and 9 Sep."},
+    {"field": "dates.last_edition", "url": "https://thenightmarket.com.au/about-us/", "note": "Crawled: Winter Night Market runs 'until September 9'; entry is free."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DT7YfZhjd6E/", "note": "Collab post Jan 2026: 'We've partnered up with @australiandairy to bring you Make It an Aussie Dairy Summer', a live cheese pop-up with demos and tastings, Wednesdays 28 Jan to 18 Feb."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DcIxftTDSGK/", "note": "Collab post with @officiallycardcore and @vicmarket: CARDCORE Night Market took over almost 2,000 m2 (E Shed) on 2 and 9 Sep 2026 as a free trading card game event."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DPtA_ZZEX8W/", "note": "Oct 2025: 'Fringe Flavours Night Market' with free performances curated by @melbfringe."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DU_vpC-kn5o/", "note": "Paid-partnership creator post co-authored by @thenightmarket and @flemingtonvrc, Feb 2026: Summer Night Market food at Flemington during the Autumn Racing Carnival (cross-promotion)."},
+    {"field": "activation_formats", "url": "https://www.instagram.com/p/DUNgSeKDFIU/", "note": "Australian Dairy cheese-board demos with a presenter each Wednesday (workshop); CARDCORE E Shed takeover (stage-or-program-takeover)."},
+    {"field": "partnership_contact", "url": "https://thenightmarket.com.au/contact-us/", "note": "Contact page: info@qvm.com.au (general)."}
+  ],
+  "remove_gaps": [
+    "2026 to 2027 summer season dates not found; November start expected from the last two seasons",
+    "Sources conflict on 2026 winter end date",
+    "Attendance, sponsors and Instagram not captured"
+  ],
+  "add_gaps": [
+    "Attendance not published",
+    "Audience demographics not published",
+    "No dedicated partnerships contact; info@qvm.com.au is general",
+    "NFL-themed 'Gridiron Alley' activation (Sep 2026) not described as a paid partnership"
+  ],
+  "notes": "Summer 2027 season runs 6 Jan to 10 Mar 2027, later than the November start the record expected. Brand activations are a regular feature (Australian Dairy demo pop-up, CARDCORE takeover, Gridiron Alley tie-in with the NFL game at the MCG). The five IG paid-partnership posts are creator promos of the market, not sponsors."
+}

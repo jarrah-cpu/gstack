@@ -1,0 +1,257 @@
+{
+  "id": "beaker-street-festival-hobart",
+  "set": {
+    "attendance": {
+      "figure": 20000,
+      "figure_high": null,
+      "year": 2026,
+      "is_estimate": false,
+      "source": "https://www.beakerstreet.com.au/festival/",
+      "note": "Organiser-reported: festival page says it 'brings nearly 20,000 people together' each August across 70+ events. General statement on the page as at Oct 2026, not a counted figure for one edition; treat 20,000 as an upper bound."
+    },
+    "audience": {
+      "age_range": "Adults",
+      "gender_skew": null,
+      "psychographics": "Curious adults 'from all walks of life'; organiser says most audience members are not scientists. Science, art, music and ideas crowd; program runs in pubs, saunas and after-dark venues (Antarctic parties, dark-energy concerts).",
+      "source": "https://www.beakerstreet.com.au/festival/"
+    },
+    "partnership_contact": {
+      "email": "matt@moxee.au",
+      "page_url": "https://www.beakerstreet.com.au/contact/",
+      "named_person": null,
+      "source": "https://www.beakerstreet.com.au/contact/"
+    },
+    "organiser": {
+      "name": "Beaker Street (founder Dr Margo Adler)",
+      "type": "non-profit",
+      "website": "https://beakerstreet.com.au/"
+    },
+    "dates": {
+      "last_edition": {
+        "start": "2026-08-06",
+        "end": "2026-08-17",
+        "status": "held",
+        "label": "10th edition (2026)"
+      },
+      "next_edition": {
+        "start": "2027-08",
+        "end": null,
+        "status": "confirmed",
+        "label": "11th edition (2027)"
+      },
+      "frequency": "annual",
+      "duration_days": 12
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Tasmanian Government (Events Tasmania)",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.instagram.com/p/DVJuOzPgDtt/"
+    },
+    {
+      "brand": "City of Hobart",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.instagram.com/p/DVJuOzPgDtt/"
+    },
+    {
+      "brand": "Tasmanian Museum and Art Gallery (TMAG)",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/DVJuOzPgDtt/"
+    },
+    {
+      "brand": "Nelson Meers Foundation",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.beakerstreet.com.au/partners-2026/"
+    },
+    {
+      "brand": "Peter and Susan Yates Foundation",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.beakerstreet.com.au/partners-2026/"
+    },
+    {
+      "brand": "AuScope",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.beakerstreet.com.au/partners-2026/"
+    },
+    {
+      "brand": "ANZIC (Australian and New Zealand IODP Consortium)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.beakerstreet.com.au/partners-2026/"
+    },
+    {
+      "brand": "TasPorts",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.beakerstreet.com.au/partners-2026/"
+    },
+    {
+      "brand": "Full Gamut",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.beakerstreet.com.au/partners-2026/"
+    },
+    {
+      "brand": "Hadley's Hotel",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.beakerstreet.com.au/partners-2026/"
+    },
+    {
+      "brand": "Triple M",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.beakerstreet.com.au/partners-2026/"
+    },
+    {
+      "brand": "ABC Radio National",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.beakerstreet.com.au/partners-2026/"
+    },
+    {
+      "brand": "Oi Studios",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.beakerstreet.com.au/partners-2026/"
+    },
+    {
+      "brand": "Moxee",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.beakerstreet.com.au/partners-2026/"
+    },
+    {
+      "brand": "Thirsty Nerd",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.beakerstreet.com.au/partners-2026/"
+    },
+    {
+      "brand": "Pennicott Wilderness Journeys",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DeJJNf6AIh0/"
+    },
+    {
+      "brand": "Lufra Hotel",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DeJJNf6AIh0/"
+    },
+    {
+      "brand": "CameraPro",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DeJJNf6AIh0/"
+    }
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {
+      "field": "attendance",
+      "url": "https://www.beakerstreet.com.au/festival/",
+      "note": "'brings nearly 20,000 people together across more than 70 events'; returning for its 11th year in 2027"
+    },
+    {
+      "field": "audience",
+      "url": "https://www.beakerstreet.com.au/festival/",
+      "note": "Invites 'adults from all walks of life'; FAQ says most audience members are not scientists"
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.beakerstreet.com.au/contact/",
+      "note": "Contact page lists Partnerships: matt@moxee.au (Moxee is also a listed media and creative partner); general enquiries hello@beakerstreet.com.au"
+    },
+    {
+      "field": "organiser.type",
+      "url": "https://www.beakerstreet.com.au/festival/",
+      "note": "Presented by Beaker Street, a DGR-endorsed not-for-profit organisation"
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.beakerstreet.com.au/",
+      "note": "Homepage: 'Beaker Street Festival returns August 2027'; exact dates not given"
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.instagram.com/p/DVJuOzPgDtt/",
+      "note": "Organiser post: 10th iteration, 6 to 17 August 2026 (resolves the 29 Aug end date on Discover Tasmania)"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DVJuOzPgDtt/",
+      "note": "24 Feb 2026 post thanks major partners: Tasmanian Government through Events Tasmania, City of Hobart and TMAG"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.beakerstreet.com.au/partners-2026/",
+      "note": "2026 partners page: major partners (logos), festival supporters AuScope, ANZIC, TasPorts, Full Gamut; philanthropic Nelson Meers Foundation, Peter and Susan Yates Foundation; accommodation partner Hadley's Hotel; media and creative partners Triple M, Radio National, Oi Studios, Moxee, Thirsty Nerd (names from logo file names)"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DeJJNf6AIh0/",
+      "note": "2026 Science Photography Prize supported by TMAG, Full Gamut, Pennicott Wilderness Journeys, Lufra Hotel and CameraPro"
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/DXYrMmDkrQC/",
+      "note": "Pennicott Wilderness Journeys experience offered as the People's Choice prize"
+    }
+  ],
+  "add_gaps": [
+    "Exact 2027 dates not announced; organiser confirms August 2027",
+    "Some 2026 partner logos (CoC, ASOC, hospitality partners) have no readable names"
+  ],
+  "remove_gaps": [
+    "Attendance not captured",
+    "Nelson Meers Foundation role and years not confirmed",
+    "No partnerships contact found",
+    "2027 dates not announced; August expected from pattern",
+    "Discover Tasmania listing gives a 29 Aug end date, conflicting with 17 Aug elsewhere"
+  ],
+  "notes": "Partners page and IG give a full 2026 roster (government, TMAG, science bodies, TasPorts, media, prize partners). Partnerships contact is an agency address (Moxee). Attendance 'nearly 20,000' is a general organiser claim. IG account @beakerstreetsci looks right."
+}

@@ -1,0 +1,97 @@
+{
+  "id": "salinas-international-longboard-festival",
+  "set": {
+    "website": "https://festivalsalinaslongboard.es/",
+    "dates": {
+      "last_edition": {
+        "start": "2026-07-22",
+        "end": "2026-07-26",
+        "status": "held",
+        "label": "24th edition (2026), Barreltopia Salinas International Longboard Festival"
+      },
+      "next_edition": {
+        "start": "2027-07",
+        "end": null,
+        "status": "expected",
+        "label": "2027"
+      },
+      "frequency": "annual",
+      "duration_days": 5
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Barreltopia",
+      "years": [
+        2026
+      ],
+      "role": "naming",
+      "source": "https://www.instagram.com/p/DXWfYCXjKu0/"
+    },
+    {
+      "brand": "Lightning Bolt",
+      "years": [
+        2022
+      ],
+      "role": "partner",
+      "source": "https://www.boardsportsource.com/lightning-bolt-sponsors-spains-salinas-international-longboard-festival/"
+    },
+    {
+      "brand": "Zumosol",
+      "years": [
+        2014
+      ],
+      "role": "naming",
+      "source": "https://www.marca.com/2014/08/01/mas_deportes/otros_deportes/1406849069.html"
+    }
+  ],
+  "add_activation_formats": [
+    "naming-rights"
+  ],
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://festivalsalinaslongboard.es/",
+      "note": "Official site fetched 21 Oct 2026: logo 'Barreltopia Salinas Longboard Festival 2026', 22 to 26 Jul at Playa de Salinas; sponsor block has no readable names."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://festivalsalinaslongboard.es/",
+      "note": "Official site gives 'del 22 al 26 de julio' 2026; IG posts call it the XXIV edition, 22 to 26 Jul, a European Longboard Tour stop."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.instagram.com/p/Dbi0KPGiJ2Y/",
+      "note": "'BARRELTOPIA SALINAS INTERNATIONAL LONGBOARD FESTIVAL XXIV EDICION 22 al 26 JULIO'; Google snippet."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DXWfYCXjKu0/",
+      "note": "@barreltopia, 20 Apr 2026: 'Un ano mas, orgullosos patrocinadores' (proud sponsors once again); festival now billed as Barreltopia Salinas International Longboard Festival."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.boardsportsource.com/lightning-bolt-sponsors-spains-salinas-international-longboard-festival/",
+      "note": "Lightning Bolt sponsored the 20th edition (2022); Google snippet."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.marca.com/2014/08/01/mas_deportes/otros_deportes/1406849069.html",
+      "note": "2014: 'Zumosol Salinas International LongBoard Festival' naming sponsorship; Google snippet."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/DXWfYCXjKu0/",
+      "note": "Title sponsor naming (Barreltopia)."
+    }
+  ],
+  "add_gaps": [
+    "Attendance not captured",
+    "Barreltopia's earlier sponsor years not pinned ('un ano mas' implies at least 2025)"
+  ],
+  "remove_gaps": [
+    "Sources disagree on 2026 dates (22 to 26 Jul vs 30 Jul to 2 Aug for the music program)",
+    "Attendance, sponsors and website not captured"
+  ],
+  "notes": "The official site settles the 2026 dates as 22 to 26 Jul. Barreltopia is the 2026 title sponsor. There is no IG account on the record (search only found unrelated accounts); the festival uses Facebook @salinaslongboardfestival. RTPA reported the 20th edition (2022) was suspended over safety deficiencies. The organiser is still unconfirmed: the site footer only says Salinas Longboard Festival."
+}

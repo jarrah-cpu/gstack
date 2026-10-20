@@ -1,0 +1,83 @@
+{
+ "id": "primavera-sound-buenos-aires",
+ "set": {
+  "website": "https://www.primaverasound.com/es/buenos-aires",
+  "location": {
+   "city": "Buenos Aires",
+   "state_or_region": "CABA",
+   "country": "Argentina",
+   "venue_or_area": "Club Ciudad de Buenos Aires"
+  },
+  "organiser": {
+   "name": "Primavera Sound, produced locally by PopArt Music and Move Concerts Argentina",
+   "type": "promoter",
+   "website": "https://www.primaverasound.com/"
+  },
+  "partnership_contact": {
+   "email": "sponsors@primaverasound.com.ar",
+   "page_url": "https://www.primaverasound.com/es/buenos-aires/general-information-primavera-sound-buenos-aires",
+   "named_person": null,
+   "source": "https://www.primaverasound.com/es/buenos-aires/general-information-primavera-sound-buenos-aires"
+  },
+  "ticket_price": {
+   "min": null,
+   "max": null,
+   "currency": "ARS",
+   "free_entry": false,
+   "note": "Sold only via Enigma Tickets; six interest-free instalments with BBVA cards via MODO; presale phases sold out. Prices not captured."
+  }
+ },
+ "add_sponsors": [
+  {
+   "brand": "BBVA Argentina",
+   "years": [
+    2026
+   ],
+   "role": "partner",
+   "source": "https://www.instagram.com/p/DYM90o5tDze/"
+  }
+ ],
+ "add_sources": [
+  {
+   "field": "website",
+   "url": "https://www.primaverasound.com/es/buenos-aires",
+   "note": "Official Primavera Sound Buenos Aires page."
+  },
+  {
+   "field": "location",
+   "url": "https://linda.buenosaires.gob.ar/eventos/primavera-sound-buenos-aires-2026?utm_source=quehayba.com.ar&utm_medium=referral&utm_campaign=agenda",
+   "note": "Google snippet (city agenda): 'El Club Ciudad será el escenario' for 28 and 29 Nov 2026."
+  },
+  {
+   "field": "organiser",
+   "url": "https://www.instagram.com/p/DYM90o5tDze/",
+   "note": "PopArt Music (@popartmusicarg) and Move Concerts Argentina (@moveconcertsarg) co-author about 55 organiser posts each."
+  },
+  {
+   "field": "partnership_contact",
+   "url": "https://www.primaverasound.com/es/buenos-aires/general-information-primavera-sound-buenos-aires",
+   "note": "Google snippet of the general information page: 'Sponsors: sponsors@primaverasound.com.ar'. Page text refers to the first (2022) edition; address may be dated."
+  },
+  {
+   "field": "ticket_price",
+   "url": "https://www.instagram.com/p/DY4n_CXsYA9/",
+   "note": "'PREVENTA AGOTADA'; tickets only via enigmatickets.com; 6 cuotas sin interés with BBVA."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://www.instagram.com/p/DYM90o5tDze/",
+   "note": "Ticket posts: 'Si sos cliente @bbva_argentina aprovechá 6 cuotas sin interés en todas las fases de venta' (banking partner on every sales phase)."
+  }
+ ],
+ "add_gaps": [
+  "Attendance and ticket prices not captured",
+  "2026 sponsor tiers (beyond BBVA) not announced in organiser posts",
+  "Sponsorship email comes from a 2022-era page"
+ ],
+ "remove_gaps": [
+  "Venue not yet announced in results",
+  "Local promoter not named in results",
+  "Attendance, sponsors and prices not captured"
+ ],
+ "notes": "Third Argentine edition, 28 and 29 Nov 2026 at Club Ciudad de Buenos Aires, produced by PopArt Music and Move Concerts; presale sold out (Clarín). Only BBVA (payment partner) visible so far. Big-ticket, promoter-run festival with a sponsorship email; high cost likely."
+}

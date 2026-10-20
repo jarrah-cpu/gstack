@@ -1,0 +1,31 @@
+{
+  "id": "miami-marketta-gold-coast",
+  "set": {
+    "partnership_contact": {
+      "email": "info@miamimarketta.com",
+      "page_url": "https://www.miamimarketta.com/corporate-events",
+      "named_person": null,
+      "source": "https://www.miamimarketta.com/"
+    }
+  },
+  "add_sources": [
+    {
+      "field": "partnership_contact",
+      "url": "https://www.miamimarketta.com/",
+      "note": "Home page mailto info@miamimarketta.com (general); Corporate Events page also lists events@miamimarketta.com for event bookings."
+    },
+    {
+      "field": "organiser",
+      "url": "https://miamimarketta.oztix.com.au/default.aspx?venue=2540",
+      "note": "Oztix venue page: 'Miami Marketta is an artist-run creative industries precinct on the Gold Coast' (Google snippet); operator still not named."
+    }
+  ],
+  "remove_gaps": [
+    "No public partnerships contact found"
+  ],
+  "add_gaps": [
+    "Venue capacity stated as 100 to 1,000 guests for corporate events; not an attendance figure",
+    "No brand sponsors; ticketed nights are run by promoters (e.g. Tropical Lab, Folia's Entertainment), not sponsors"
+  ],
+  "notes": "This is a standing venue and night market rather than a festival; partnerships would be venue deals. Contact info@miamimarketta.com (events@miamimarketta.com for bookings). Instagram account is correct."
+}

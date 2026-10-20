@@ -1,0 +1,458 @@
+{
+  "id": "murasaki-shonan-open-kugenuma",
+  "set": {
+    "website": "http://www.shonanopen.com/",
+    "organiser": {
+      "name": "Shonan Open executive committee (湘南オープン実行委員会); title and special sponsor Murasaki Sports",
+      "type": "retailer",
+      "website": "http://www.shonanopen.com/"
+    },
+    "attendance": {
+      "figure": 23410,
+      "figure_high": null,
+      "year": 2025,
+      "is_estimate": false,
+      "source": "http://www.shonanopen.com/info/",
+      "note": "Organiser-reported record of 23,410 visitors at the 2025 edition, the first in six years. 2026 figure not published; a Gorilla Clinic partner post says the festival draws 20,000."
+    },
+    "partnership_contact": {
+      "email": "info@shonanopen.com",
+      "page_url": "http://www.shonanopen.com/info/",
+      "named_person": null,
+      "source": "http://www.shonanopen.com/info/"
+    },
+    "ticket_price": {
+      "min": 0,
+      "max": 0,
+      "currency": "JPY",
+      "free_entry": true,
+      "note": "Entry free (入場料 無料) per the official info page."
+    },
+    "dates": {
+      "last_edition": {
+        "start": "2026-07-18",
+        "end": "2026-07-20",
+        "status": "held",
+        "label": "MURASAKI SHONAN OPEN 2026"
+      },
+      "next_edition": {
+        "start": "2027-07",
+        "end": null,
+        "status": "expected",
+        "label": "2027"
+      },
+      "frequency": "annual",
+      "duration_days": 3
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Murasaki Sports",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "naming",
+      "source": "http://www.shonanopen.com/info/"
+    },
+    {
+      "brand": "BRISA MARINA",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "http://www.shonanopen.com/info/"
+    },
+    {
+      "brand": "Red Bull Japan",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "http://www.shonanopen.com/info/"
+    },
+    {
+      "brand": "Gorilla Clinic",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "http://www.shonanopen.com/info/"
+    },
+    {
+      "brand": "BOAT RACE Promotion Association",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "http://www.shonanopen.com/info/"
+    },
+    {
+      "brand": "Adobe",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "http://www.shonanopen.com/info/"
+    },
+    {
+      "brand": "BILLABONG",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "http://www.shonanopen.com/info/"
+    },
+    {
+      "brand": "Corona Cero",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "http://www.shonanopen.com/info/"
+    },
+    {
+      "brand": "Dai-ichi Life",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "http://www.shonanopen.com/info/"
+    },
+    {
+      "brand": "Livedoor",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "http://www.shonanopen.com/info/"
+    },
+    {
+      "brand": "NSK",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "http://www.shonanopen.com/info/"
+    },
+    {
+      "brand": "REBOO",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "http://www.shonanopen.com/info/"
+    },
+    {
+      "brand": "SAVAS (Meiji)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "http://www.shonanopen.com/info/"
+    },
+    {
+      "brand": "New Era",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "http://www.shonanopen.com/info/"
+    },
+    {
+      "brand": "Oakley",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "http://www.shonanopen.com/info/"
+    },
+    {
+      "brand": "BAT Japan",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "http://www.shonanopen.com/info/"
+    },
+    {
+      "brand": "Crocs",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "http://www.shonanopen.com/info/"
+    },
+    {
+      "brand": "G-SHOCK (Casio)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "http://www.shonanopen.com/info/"
+    },
+    {
+      "brand": "Vans",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "http://www.shonanopen.com/info/"
+    },
+    {
+      "brand": "Tranpac Japan (Print Shokunin)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "http://www.shonanopen.com/info/"
+    },
+    {
+      "brand": "Condition Stick",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "http://www.shonanopen.com/info/"
+    },
+    {
+      "brand": "DC Shoes",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "http://www.shonanopen.com/info/"
+    },
+    {
+      "brand": "Akagi Nyugyo (Gatsun to Mikan)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "http://www.shonanopen.com/info/"
+    },
+    {
+      "brand": "Hurley",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "http://www.shonanopen.com/info/"
+    },
+    {
+      "brand": "Hydro Flask",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "http://www.shonanopen.com/info/"
+    },
+    {
+      "brand": "Outdoor Spice Horinishi (Outdoor shop Orange)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "http://www.shonanopen.com/info/"
+    },
+    {
+      "brand": "Nikki Co.",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "http://www.shonanopen.com/info/"
+    },
+    {
+      "brand": "Ocean Pacific",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "http://www.shonanopen.com/info/"
+    },
+    {
+      "brand": "PUMA",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "http://www.shonanopen.com/info/"
+    },
+    {
+      "brand": "QUIKSILVER",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "http://www.shonanopen.com/info/"
+    },
+    {
+      "brand": "RIP CURL",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "http://www.shonanopen.com/info/"
+    },
+    {
+      "brand": "ROXY",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "http://www.shonanopen.com/info/"
+    },
+    {
+      "brand": "RVCA",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "http://www.shonanopen.com/info/"
+    },
+    {
+      "brand": "STANCE",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "http://www.shonanopen.com/info/"
+    },
+    {
+      "brand": "VOLCOM",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "http://www.shonanopen.com/info/"
+    },
+    {
+      "brand": "Kanagawa Prefecture",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "http://www.shonanopen.com/info/"
+    },
+    {
+      "brand": "Fujisawa City",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "http://www.shonanopen.com/info/"
+    },
+    {
+      "brand": "Shonan Nagisa Park",
+      "years": [
+        2026
+      ],
+      "role": "venue",
+      "source": "http://www.shonanopen.com/info/"
+    },
+    {
+      "brand": "GAORA",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.instagram.com/p/Da4Y1_8J1Y6/"
+    },
+    {
+      "brand": "Nissan",
+      "years": [],
+      "role": "major",
+      "source": "https://www.sports-biz.co.jp/works/sports_marketing/253/"
+    }
+  ],
+  "add_activation_formats": [
+    "stall",
+    "sampling",
+    "stage-or-program-takeover",
+    "naming-rights"
+  ],
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "http://www.shonanopen.com/",
+      "note": "Official site MURASAKI SHONAN OPEN 2026, linked from @shonanopen bio."
+    },
+    {
+      "field": "sponsors",
+      "url": "http://www.shonanopen.com/info/",
+      "note": "Info page 2026: 特別協賛 Murasaki Sports; 協賛 list (BRISA MARINA, Red Bull Japan, Gorilla Clinic, BOATRACE Promotion Association, Adobe, Billabong, Corona Cero, Dai-ichi Life, Livedoor, NSK, REBOO, Meiji SAVAS, New Era, Oakley, BAT Japan, Crocs, Casio, Vans and more); 特別協力 Shonan Nagisa Park; 協力 incl. NSA Shonan Fujisawa, ARK LEAGUE, GAORA, Sanko Gakuen; 後援 Kanagawa Prefecture and Fujisawa City."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DbE1TmbCSv-/",
+      "note": "Official 'Thank you for your support' lists separate sponsors into tiers with dividers: Murasaki Sports; BRISA MARINA; Red Bull, Gorilla Clinic, BOATRACE; then the rest. 'major' roles are inferred from that order, not labelled."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/Da5C87xk3ve/",
+      "note": "Paid-partnership post (17 Jul 2026): 'MURASAKI SHONAN OPEN presented by Murasaki Sports x Gorilla Clinic', festival drawing 20,000."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.nsk.com/jp-ja/company/news/2026/murasaki-shonan-open-0622/",
+      "note": "Google snippet: NSK's first sponsorship (初協賛), with an NSK booth offering bearing assembly experiences on 19 to 20 Jul 2026."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.boatrace-pr.jp/pc/site/release/2026/07/11426/",
+      "note": "Google snippet: BOAT RACE release announcing its sponsorship of MURASAKI SHONAN OPEN 2026."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.sports-biz.co.jp/works/sports_marketing/253/",
+      "note": "Google snippet: an earlier edition was titled 'MURASAKI SHONAN OPEN supported by NISSAN', with Nissan and Billabong as sponsors (year not shown)."
+    },
+    {
+      "field": "organiser",
+      "url": "https://www.murasaki.jp/Page/Feature/FeaturePage254.aspx",
+      "note": "Google snippet of Murasaki Sports' 2026 feature page: 主催 湘南オープン実行委員会; 後援 藤沢市; 特別協力 湘南なぎさパーク; 特別協賛 Murasaki Sports."
+    },
+    {
+      "field": "attendance",
+      "url": "http://www.shonanopen.com/info/",
+      "note": "History 2025: first edition in six years, record 23,410 visitors."
+    },
+    {
+      "field": "dates",
+      "url": "https://www.instagram.com/p/Dau-3WTiRgo/",
+      "note": "2026 timetable: three days; 18 Jul beach area only, park area and Kids Land from 19 Jul; highlights post also says 3 days."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/Da7eFtfCboY/",
+      "note": "PARK AREA booth area: sponsor booths with product displays, hands-on content, sampling and shopping."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/Dc2hKZAI-Bk/",
+      "note": "Contest naming: 'ONE SHOT KING supported by Dai-ichi Life' and 'TOP of TOP SURFING supported by Corona Cero'."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "http://www.shonanopen.com/info/",
+      "note": "Info page お問い合わせ: info@shonanopen.com."
+    },
+    {
+      "field": "ticket_price",
+      "url": "http://www.shonanopen.com/info/",
+      "note": "入場料 無料."
+    }
+  ],
+  "add_gaps": [
+    "2026 attendance not published",
+    "Sponsor tier names and fees not published (tiers inferred from list order)"
+  ],
+  "remove_gaps": [
+    "Organising entity inferred from the event name (Murasaki Sports); not confirmed",
+    "Attendance, entry fee, sponsors and website not captured",
+    "A 20 Oct 2026 search summary gave 18 to 20 Jul 2026 (three days, incl. breaking) against the press release's 19 to 20 Jul; not resolved",
+    "Only a single press release seen; no post-event report"
+  ],
+  "notes": "Strong fit: free beach festival, 23,410 visitors in 2025, about 40 sponsors in 2026 incl. Gorilla Clinic (men's medical aesthetics, paid co-branded post), Meiji SAVAS, REBOO, Condition Stick, Hydro Flask, Dai-ichi Life. Organiser is an executive committee with Murasaki Sports as title sponsor. 2026 ran 18 to 20 Jul (beach only on 18th). Contact info@shonanopen.com."
+}

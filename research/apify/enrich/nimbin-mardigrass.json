@@ -1,0 +1,280 @@
+{
+  "id": "nimbin-mardigrass",
+  "set": {
+    "partnership_contact": {
+      "email": "head@hempembassy.net",
+      "page_url": "https://nimbinmardigrass.com/participate/sponsor/",
+      "named_person": null,
+      "source": "https://nimbinmardigrass.com/participate/sponsor/"
+    },
+    "ticket_price": {
+      "min": null,
+      "max": 150,
+      "currency": "AUD",
+      "free_entry": false,
+      "note": "Golden Bud MardiGrass Pass with 3 nights camping $150 per person (2027 tickets page); entry to all MardiGrass events. Other ticket types not captured."
+    },
+    "dates": {
+      "last_edition": {
+        "start": "2026-05-01",
+        "end": "2026-05-03",
+        "status": "held",
+        "label": "2026 (34th year)"
+      },
+      "next_edition": {
+        "start": "2027-05",
+        "end": null,
+        "status": "expected",
+        "label": "2027 (35th, inferred)"
+      },
+      "frequency": "annual",
+      "duration_days": 3
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Nimbin Hemp Embassy",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://nimbinmardigrass.com/sponsors/"
+    },
+    {
+      "brand": "CANNA",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://nimbinmardigrass.com/sponsors/"
+    },
+    {
+      "brand": "Agung",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://nimbinmardigrass.com/sponsors/"
+    },
+    {
+      "brand": "Northern Rivers Hemp",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://nimbinmardigrass.com/sponsors/"
+    },
+    {
+      "brand": "NCOC (logo 'ncoc-ad-banner')",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://nimbinmardigrass.com/sponsors/"
+    },
+    {
+      "brand": "Legalise Cannabis NSW",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://nimbinmardigrass.com/sponsors/"
+    },
+    {
+      "brand": "Legalise Cannabis Victoria",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://nimbinmardigrass.com/sponsors/"
+    },
+    {
+      "brand": "Nimbin Herbs",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://nimbinmardigrass.com/sponsors/"
+    },
+    {
+      "brand": "Hemp Club",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://nimbinmardigrass.com/sponsors/"
+    },
+    {
+      "brand": "Grow Art Solutions",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://nimbinmardigrass.com/sponsors/"
+    },
+    {
+      "brand": "Arcadia Motel",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://nimbinmardigrass.com/sponsors/"
+    },
+    {
+      "brand": "Susukka Nimbin",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://nimbinmardigrass.com/sponsors/"
+    },
+    {
+      "brand": "Hemping Around Nimbin",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://nimbinmardigrass.com/sponsors/"
+    },
+    {
+      "brand": "Nimbin Candles",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://nimbinmardigrass.com/sponsors/"
+    },
+    {
+      "brand": "Nimbin Building Materials",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://nimbinmardigrass.com/sponsors/"
+    },
+    {
+      "brand": "The Greens",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://nimbinmardigrass.com/sponsors/"
+    },
+    {
+      "brand": "Teretre Nimbin",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://nimbinmardigrass.com/sponsors/"
+    },
+    {
+      "brand": "Perceptio Nimbin",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://nimbinmardigrass.com/sponsors/"
+    },
+    {
+      "brand": "Rainbow Power Company",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://nimbinmardigrass.com/sponsors/"
+    },
+    {
+      "brand": "izwoz",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://nimbinmardigrass.com/sponsors/"
+    },
+    {
+      "brand": "Nimbin Organic Food Co-Op",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://nimbinmardigrass.com/sponsors/"
+    },
+    {
+      "brand": "Seven on Sibley",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://nimbinmardigrass.com/sponsors/"
+    },
+    {
+      "brand": "Nimbin Showground",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://nimbinmardigrass.com/sponsors/"
+    },
+    {
+      "brand": "Grey Gum Lodge Nimbin",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://nimbinmardigrass.com/sponsors/"
+    },
+    {
+      "brand": "NimFM",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://nimbinmardigrass.com/sponsors/"
+    }
+  ],
+  "add_activation_formats": [
+    "stall"
+  ],
+  "add_sources": [
+    {
+      "field": "sponsors",
+      "url": "https://nimbinmardigrass.com/sponsors/",
+      "note": "Sponsors page ('CLOSED for 2026', grateful for supporters over 34 years) shows logos for CANNA (2026 file), Agung, Northern Rivers Hemp (2026), NCOC, NSW Legalise Cannabis, Legalise Cannabis Victoria, Nimbin Hemp Embassy, Nimbin Herbs, Hemp Club (2025 file), Grow Art Solutions, Arcadia Motel, Susukka, Hemping Around Nimbin, Nimbin Candles, Nimbin Building Materials, Greens, Teretre, Perceptio, Rainbow Power (2025 file), izwoz, Nimbin Organic Food Co-Op, Seven on Sibley, Showground, Grey Gum Lodge, NimFM. The page mixes sponsors and Pot Papers advertisers. A tarot reader, 'Mardi Marvellous' and 'sniff-off' ads not added."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://shop.hempembassy.net/pages/about-us",
+      "note": "'The Nimbin Hemp Embassy sponsors the annual Nimbin MardiGrass Cannabis Law Reform Rally' (Google snippet)."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://nimbinmardigrass.com/participate/sponsor/",
+      "note": "Sponsorship Packages page: Indica package $5,000 (3m x 3m powered stall or roaming promo distribution, banner ad in The Pot Papers program, 40,000 copies, web banner, sponsor activities announced); Sativa package $3,000 (business-card ads in print and web). Book via head@hempembassy.net. Pot Papers ads $300 to $2,000."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://nimbinmardigrass.com/participate/sponsor/",
+      "note": "Top sponsor package includes a 3m x 3m stall with power or free-ranging distribution of promotional items, plus announced demos."
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://nimbinmardigrass.com/attend/tickets/",
+      "note": "'Golden Bud MardiGrass Pass With Camping $150 per person, Entry to all MardiGrass events! 3 nights camping included!' (Google snippet)."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.instagram.com/nimbinmardigrassmedia/",
+      "note": "IG bio: 'Next joint: 1 - 3 May 2026'. Sponsor page: 'as we enter our 34th year'. Times News Group covered the 2026 crowd ('we lost count')."
+    }
+  ],
+  "add_gaps": [
+    "2026 crowd count not published; organisers said they 'lost count' (Times News Group)",
+    "2027 dates not announced on the site, though a 2027 program and tickets page exist"
+  ],
+  "remove_gaps": [
+    "Sponsors not found; the event is run by a volunteer organising body tied to the Hemp Embassy",
+    "Ticketing and entry cost not captured"
+  ],
+  "notes": "Published sponsorship packages ($3,000 and $5,000) and a 25-name sponsor and advertiser wall, almost all cannabis, hemp, political or Nimbin local businesses. Cannabis law reform rally, so likely a poor fit for a health brand. 2026 confirmed as the 34th year."
+}

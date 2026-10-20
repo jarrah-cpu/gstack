@@ -1,0 +1,304 @@
+{
+  "id": "long-beach-walls-art-renzei",
+  "set": {
+    "website": "https://www.longbeachwalls.com/",
+    "organiser": {
+      "name": "Creative Class Collective (presents Long Beach Walls & Art Renzei)",
+      "type": null,
+      "website": "https://www.longbeachwalls.com/"
+    },
+    "partnership_contact": {
+      "email": "info@artrenzei.com",
+      "page_url": "https://www.longbeachwalls.com/about",
+      "named_person": "Cassandra Leeman, Partnership Director",
+      "source": "https://www.longbeachwalls.com/about"
+    },
+    "dates": {
+      "last_edition": {
+        "start": "2026-06-08",
+        "end": "2026-06-13",
+        "status": "held",
+        "label": "2026, theme 'Art Beyond Walls'"
+      },
+      "next_edition": {
+        "start": "2027-07",
+        "end": null,
+        "status": "expected",
+        "label": "2027; organiser site says the weeklong festival is 'coming in July 2027'"
+      },
+      "frequency": "annual",
+      "duration_days": 6
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Intertrend",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DaLWsbYlN_3/"
+    },
+    {
+      "brand": "WorldWide Walls",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DaLWsbYlN_3/"
+    },
+    {
+      "brand": "City of Long Beach",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.instagram.com/p/DaLWsbYlN_3/"
+    },
+    {
+      "brand": "Visit Long Beach",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DaLWsbYlN_3/"
+    },
+    {
+      "brand": "Long Beach Convention & Entertainment Center",
+      "years": [
+        2026
+      ],
+      "role": "venue",
+      "source": "https://www.instagram.com/p/DaLWsbYlN_3/"
+    },
+    {
+      "brand": "Port of Long Beach",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.instagram.com/p/DaLWsbYlN_3/"
+    },
+    {
+      "brand": "Downtown Long Beach Alliance",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DaLWsbYlN_3/"
+    },
+    {
+      "brand": "XLARGE",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DaLWsbYlN_3/"
+    },
+    {
+      "brand": "Arts Council for Long Beach",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DaLWsbYlN_3/"
+    },
+    {
+      "brand": "Long Beach Transit",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DaLWsbYlN_3/"
+    },
+    {
+      "brand": "LA County Supervisor Janice Hahn",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.instagram.com/p/DaLWsbYlN_3/"
+    },
+    {
+      "brand": "LA County Department of Arts and Culture",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.instagram.com/p/DaLWsbYlN_3/"
+    },
+    {
+      "brand": "Hyatt Regency Long Beach",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DaLWsbYlN_3/"
+    },
+    {
+      "brand": "Taiwan Academy of Los Angeles (Ministry of Culture, Taiwan)",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.instagram.com/p/DaLWsbYlN_3/"
+    },
+    {
+      "brand": "Long Beach Stuff",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DaLWsbYlN_3/"
+    },
+    {
+      "brand": "Pedal Movement",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DaLWsbYlN_3/"
+    },
+    {
+      "brand": "Moonlight Mash Long Beach",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DaLWsbYlN_3/"
+    },
+    {
+      "brand": "Downtown Runners LB",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DaLWsbYlN_3/"
+    },
+    {
+      "brand": "Mosaic DTLB",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DaLWsbYlN_3/"
+    },
+    {
+      "brand": "Dunn-Edwards",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DaLWsbYlN_3/"
+    },
+    {
+      "brand": "Waiakea",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DaLWsbYlN_3/"
+    },
+    {
+      "brand": "JuneShine",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DaLWsbYlN_3/"
+    },
+    {
+      "brand": "HYQ (@drinkhyq)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DaLWsbYlN_3/"
+    },
+    {
+      "brand": "Coffee Drunk",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DaLWsbYlN_3/"
+    },
+    {
+      "brand": "Zibra (@zibrapainting)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DaLWsbYlN_3/"
+    },
+    {
+      "brand": "Knockaround",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DaLWsbYlN_3/"
+    },
+    {
+      "brand": "Monster Energy",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DaLWsbYlN_3/"
+    },
+    {
+      "brand": "Alexan West End",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DaLWsbYlN_3/"
+    }
+  ],
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://www.longbeachwalls.com/about",
+      "note": "Official festival site (About page lists the festival team; Google result describes Long Beach Walls & Art Renzei)."
+    },
+    {
+      "field": "organiser",
+      "url": "https://www.artrenzei.com/about",
+      "note": "'Presented by creative class collective' with a donation link; IG bio: 'A @creativeclass_lb initiative', formerly POW! WOW! Long Beach."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.longbeachwalls.com/about",
+      "note": "Team list: 'Cassandra Leeman, Partnership Director'; Blair Cohn, Executive Director, Creative Class Collective. No email on the page."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.artrenzei.com/contact",
+      "note": "'General Information: info@artrenzei.com'."
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.artrenzei.com/about",
+      "note": "Banner: 'Weeklong Art Spectacle coming in July 2027'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DaLWsbYlN_3/",
+      "note": "29 Jun 2026 post: 'Festival Supported by' Intertrend, WorldWide Walls, City of Long Beach, Visit Long Beach, Long Beach CEC, Port of Long Beach, DTLB Alliance, XLARGE, Arts Council for Long Beach, Long Beach Transit, Supervisor Janice Hahn, LA County Arts, Hyatt Regency Long Beach, Taiwan Academy of LA / Ministry of Culture Taiwan. 'Community Partners and Sponsors': Long Beach Stuff, Pedal Movement, Moonlight Mash, Downtown Runners LB, Mosaic DTLB, Dunn-Edwards, Waiakea, JuneShine, HYQ, Coffee Drunk, Zibra, Knockaround, Monster Energy, Alexan West End. 'Presented by: @creativeclass_lb'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/longbeachwalls_artrenzei/",
+      "note": "Instagram 13 Jun 2026 caption (in pack): Long Beach CEC and Visit Long Beach hosted the Welcome Ceremony; Downtown Runners LB ran a mural run."
+    }
+  ],
+  "remove_gaps": [
+    "Organiser structure, website, sponsors and attendance not captured"
+  ],
+  "add_gaps": [
+    "Attendance not published",
+    "No partnership-specific email; general info@artrenzei.com only"
+  ],
+  "notes": "Strong civic and brand roster for 2026 (XLARGE, Monster Energy, JuneShine, Waiakea, Hyatt). Next edition moves from June to July 2027 per organiser site. Pack's proposed website was a merch shop link; used longbeachwalls.com instead."
+}

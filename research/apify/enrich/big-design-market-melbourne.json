@@ -1,0 +1,132 @@
+{
+  "id": "big-design-market-melbourne",
+  "set": {
+    "dates": {
+      "last_edition": {
+        "start": "2026-05-22",
+        "end": "2026-05-24",
+        "status": "held",
+        "label": "Almost Winter 2026"
+      },
+      "next_edition": {
+        "start": "2026-12-04",
+        "end": "2026-12-06",
+        "status": "confirmed",
+        "label": "December 2026"
+      },
+      "frequency": "biannual",
+      "duration_days": 3
+    },
+    "attendance": {
+      "figure": 50000,
+      "figure_high": null,
+      "year": 2026,
+      "is_estimate": false,
+      "source": "https://melbourne.thebigdesignmarket.com/exhibitor-information/",
+      "note": "Organiser-reported 'over 50,000 shoppers coming through the doors each year' at the Royal Exhibition Building (annual claim on the 2026 exhibitor page; Melbourne now runs two editions a year)."
+    },
+    "organiser": {
+      "name": "The Big Design Market Pty Ltd (The Big Design Group)",
+      "type": "independent",
+      "website": "https://thebigdesignmarket.com/"
+    },
+    "audience": {
+      "age_range": null,
+      "gender_skew": null,
+      "psychographics": "Shoppers of independent Australian and NZ design (homewares, ceramics, fashion, jewellery, kids, art prints) plus families, with free kids activities and food and drink.",
+      "source": "https://melbourne.thebigdesignmarket.com/info/about-us/"
+    },
+    "partnership_contact": {
+      "email": "enquiries@thebigdesignmarket.com",
+      "page_url": "https://melbourne.thebigdesignmarket.com/",
+      "named_person": null,
+      "source": "https://melbourne.thebigdesignmarket.com/"
+    },
+    "ticket_price": {
+      "min": 8,
+      "max": 8,
+      "currency": "AUD",
+      "free_entry": false,
+      "note": "Adults $8 plus booking fee; kids 12 and under free."
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Departed Spirits",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://melbourne.thebigdesignmarket.com/buy-tickets/"
+    },
+    {
+      "brand": "Pizzini",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://melbourne.thebigdesignmarket.com/buy-tickets/"
+    }
+  ],
+  "add_sources": [
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.instagram.com/p/DYoMypSzd4I/",
+      "note": "Post of 22 May 2026: The Big Design Market 'Almost Winter' back at the Royal Exhibition Building this weekend (22 to 24 May)."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://events.humanitix.com/the-big-design-market-melbourne-almost-winter-2026",
+      "note": "Google result: 'The Big Design Market Melbourne Almost Winter 2026' ticket page."
+    },
+    {
+      "field": "dates.next_edition, dates.frequency",
+      "url": "https://melbourne.thebigdesignmarket.com/",
+      "note": "Official site: Melbourne 4 to 6 Dec 2026, then 21 to 23 May 2027 and 3 to 5 Dec 2027 (two Melbourne editions a year)."
+    },
+    {
+      "field": "attendance",
+      "url": "https://melbourne.thebigdesignmarket.com/exhibitor-information/",
+      "note": "Official exhibitor page: 'over 50,000 shoppers coming through the doors each year'."
+    },
+    {
+      "field": "organiser",
+      "url": "https://melbourne.thebigdesignmarket.com/",
+      "note": "Site footer: The Big Design Market Pty Ltd as Trustee for the BDM Trust."
+    },
+    {
+      "field": "organiser",
+      "url": "https://au.linkedin.com/in/simon-obarzanek-4488714b",
+      "note": "Google snippet: Simon Obarzanek, Founder and Director of The Big Design Market since 2012."
+    },
+    {
+      "field": "audience",
+      "url": "https://melbourne.thebigdesignmarket.com/info/about-us/",
+      "note": "Organiser about page: food and drinks, free kids activities; 280+ exhibitors across homewares, fashion, kids, art prints."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://melbourne.thebigdesignmarket.com/",
+      "note": "Contact Us: 'General enquiries' mailto enquiries@thebigdesignmarket.com."
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://melbourne.thebigdesignmarket.com/buy-tickets/",
+      "note": "Page read: 'Adults: $8 + Booking fee', 'Kids 12 years & under: free'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://melbourne.thebigdesignmarket.com/buy-tickets/",
+      "note": "Page read: 'Event Partners' logos link to departedspirits.com.au and pizzini.com.au (names taken from link targets; no alt text)."
+    }
+  ],
+  "remove_gaps": [
+    "2026 dates from aggregators only",
+    "Organiser, Instagram, pricing and sponsors not captured"
+  ],
+  "add_gaps": [
+    "Event Partner roles, tiers and fees not published (logos only)",
+    "Audience age and gender not published"
+  ],
+  "notes": "Official site confirms Melbourne now runs twice a year (22 to 24 May 2026 held; 4 to 6 Dec 2026 next; 2027: 21 to 23 May and 3 to 5 Dec). Event Partners are drinks brands (Departed Spirits, Pizzini wines). Paid-partnership and showbag posts are stallholders, not sponsors."
+}

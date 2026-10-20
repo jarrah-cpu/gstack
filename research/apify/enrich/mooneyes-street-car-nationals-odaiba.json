@@ -1,0 +1,68 @@
+{
+  "id": "mooneyes-street-car-nationals-odaiba",
+  "set": {
+    "attendance": {
+      "figure": 12000,
+      "figure_high": null,
+      "year": 2026,
+      "is_estimate": false,
+      "source": "https://www.facebook.com/MooneyesJapan/posts/38th-mooneyesstreet-car-nationals-sunday-may-24-2026at-odaibatokyo-aomi-parking-/1423774003111573/",
+      "note": "Organiser-reported: MOONEYES Japan's SCN2026 web report post says visitors 'recorded 12,000' (Google snippet). 2024 report: over 10,000."
+    },
+    "partnership_contact": {
+      "email": "shop@mooneyes.co.jp",
+      "page_url": "https://www.streetcarnationals.com/contact/",
+      "named_person": null,
+      "source": "https://www.streetcarnationals.com/contact/"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Kiyoken",
+      "years": [
+        2026
+      ],
+      "role": "collab",
+      "source": "https://www.streetcarnationals.com/2026/0512/post-5710/"
+    }
+  ],
+  "add_activation_formats": [
+    "collab-product"
+  ],
+  "add_sources": [
+    {
+      "field": "attendance",
+      "url": "https://www.facebook.com/MooneyesJapan/posts/38th-mooneyesstreet-car-nationals-sunday-may-24-2026at-odaibatokyo-aomi-parking-/1423774003111573/",
+      "note": "Google snippet of MOONEYES Japan Facebook post for the 38th SCN (24 May 2026): '来場者数はなんと12,000人を記録'."
+    },
+    {
+      "field": "attendance",
+      "url": "https://www.streetcarnationals.com/2024/0518/36th-mooneyes-street-car-nationals-event-report/",
+      "note": "Google snippet: 36th (2024) report says visitors exceeded 10,000; Yahoo News piece cites about 1,300 entry cars and 10,000 visitors."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.streetcarnationals.com/contact/",
+      "note": "Official SCN contact page: E-mail shop@mooneyes.co.jp, phone 045-623-9662 (general enquiries; no separate sponsorship contact)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.streetcarnationals.com/2026/0512/post-5710/",
+      "note": "SCN site post (12 May 2026) titled '崎陽軒 X MOONEYES 炒飯弁当' (Kiyoken x MOONEYES fried rice bento); details not captured."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DYiwhEHvb0G/",
+      "note": "Google snippet: MOONEYES post thanks an unnamed party for sponsoring (協賛) special guest Brian Bent's trip to Japan for SCN 2026."
+    }
+  ],
+  "add_gaps": [
+    "Sponsor of the 2026 special guest (Brian Bent) not named in the snippet",
+    "No sponsor list published; event is brand-owned by MOONEYES"
+  ],
+  "remove_gaps": [
+    "Attendance not published (only car and vendor counts)",
+    "No sponsor list or partnerships contact found"
+  ],
+  "notes": "Attendance 12,000 (2026) rests on a Google snippet of the organiser's Facebook post; worth a quick check. Brand-owned show with few outside partners: Kiyoken collab bento in 2026 and an unnamed sponsor for the guest. Contact is MOONEYES' general shop email. @mooneyesjp posts were not scraped."
+}

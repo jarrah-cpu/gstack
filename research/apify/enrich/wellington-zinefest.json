@@ -1,0 +1,65 @@
+{
+  "id": "wellington-zinefest",
+  "set": {
+    "website": "https://wellingtonzinefest.com/",
+    "organiser": {
+      "name": "Wellington Zinefest",
+      "type": "community-collective",
+      "website": "https://wellingtonzinefest.com/"
+    },
+    "dates": {
+      "last_edition": {
+        "start": "2025-10-04",
+        "end": "2025-10-05",
+        "status": "held",
+        "label": "2025"
+      },
+      "next_edition": {
+        "start": "2026-10-31",
+        "end": "2026-11-01",
+        "status": "confirmed",
+        "label": "2026"
+      },
+      "frequency": "annual",
+      "duration_days": 2
+    },
+    "attendance": {
+      "figure": 1000,
+      "figure_high": null,
+      "year": 2025,
+      "is_estimate": true,
+      "source": "https://www.linkedin.com/posts/victoria-university-of-wellington_an-iconic-part-of-wellingtons-creative-scene-activity-7381403192330334208-wSiP",
+      "note": "Victoria University of Wellington (host venue) LinkedIn post after the Oct 2025 festival: 'over 1,000 attendees'. Not organiser-confirmed. Eventfinda's 2023 listing gave 120 stallholders across two days."
+    }
+  },
+  "add_sponsors": [
+    {"brand": "Creative New Zealand", "years": [2026], "role": "government", "source": "https://www.instagram.com/p/DenybDozAxz/"},
+    {"brand": "Te Herenga Waka Victoria University of Wellington", "years": [2025, 2026], "role": "venue", "source": "https://www.instagram.com/p/DenybDozAxz/"},
+    {"brand": "Creative Communities Scheme", "years": [2026], "role": "government", "source": "https://www.instagram.com/p/DZZDl9fzkSY/"},
+    {"brand": "Goethe-Institut Neuseeland", "years": [2026], "role": "collab", "source": "https://www.instagram.com/p/DeOKKUpEv2q/"}
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {"field": "website", "url": "https://wellingtonzinefest.com/", "note": "Page read: Wellington Zinefest site gives 31 Oct and 1 Nov 2026, 11am to 4pm, 139 Vivian Street, VUW School of Design and Innovation campus; table registrations full."},
+    {"field": "dates.next_edition", "url": "https://www.instagram.com/p/DdTLNqYT3ey/", "note": "Organiser post (15 Sep 2026): 'we'll see you 31 Oct + 1 Nov at the Te Aro Campus of Te Herenga Waka Victoria University of Wellington'. Matches the official site."},
+    {"field": "dates.last_edition", "url": "https://zinemap.com/event/wellington-zinefest-wellington", "note": "Google snippet: Wellington Zinefest, Oct 4, 2025 to Oct 5, 2025."},
+    {"field": "dates.frequency", "url": "https://www.eventfinda.co.nz/2023/wellington-zinefest-2023/wellington", "note": "Google result: 2023 edition listed; with 2025 and 2026 shows an annual festival."},
+    {"field": "organiser", "url": "https://wellingtonzinefest.com/", "note": "Official site of the volunteer-run festival."},
+    {"field": "attendance", "url": "https://www.linkedin.com/posts/victoria-university-of-wellington_an-iconic-part-of-wellingtons-creative-scene-activity-7381403192330334208-wSiP", "note": "Page read: 'This past weekend's Wellington Zinefest, held at Te Aro campus' with 'over 1,000 attendees' (posted Oct 2025)."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DenybDozAxz/", "note": "2026 poster post (18 Oct 2026): 'With thanks to @creativenz & @vicuniwgtn'."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DZZDl9fzkSY/", "note": "June 2026 Winter Zine Market post: 'grateful to the Creative Communities Scheme and Te Herenga Waka for their support' (support for the organiser's winter market)."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DeOKKUpEv2q/", "note": "Post co-authored by Critical Signals, Goethe-Institut Neuseeland and Wellington Zinefest for a pre-Zinefest zine-making session on 17 Oct 2026."}
+  ],
+  "add_gaps": [
+    "Free entry not restated on the official site for 2026",
+    "No partnership email published; official site has a contact form only",
+    "Audience age and gender not published"
+  ],
+  "remove_gaps": [
+    "2026 dates not seen on an official Wellington Zinefest site",
+    "Official website not captured",
+    "2025 edition dates and attendance not captured",
+    "Sponsors not captured"
+  ],
+  "notes": "Volunteer-run zine festival funded by Creative NZ and hosted by Victoria University at Te Aro campus; about 1,000 attendees in 2025 (venue's figure). 2026 confirmed for 31 Oct to 1 Nov. Funders are public arts bodies; no commercial brand has partnered. IG @wellingtonzinefest is correct."
+}

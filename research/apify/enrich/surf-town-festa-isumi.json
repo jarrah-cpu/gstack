@@ -1,0 +1,36 @@
+{
+  "id": "surf-town-festa-isumi",
+  "set": {
+    "website": "https://surftown.jp/",
+    "organiser": {"name": "Surf Town Festa Executive Committee with Isumi City and the Isumi City Sports Association surfing division (site run by the Isumi City Surfing Business Association)", "type": "government-or-council", "website": "https://surftown.jp/"},
+    "dates": {
+      "last_edition": {"start": "2026-05-23", "end": "2026-10-11", "status": "held", "label": "22nd (2026): six days on 23 to 24 May, 30 to 31 May, 6 to 7 Jun and 11 Oct"},
+      "next_edition": {"start": "2027", "end": null, "status": "expected", "label": "23rd (2027)"},
+      "frequency": "annual",
+      "duration_days": 6
+    }
+  },
+  "add_sponsors": [
+    {"brand": "SketchBook, Inc.", "years": [2026], "role": "partner", "source": "https://fineplay.me/surf/138623/"},
+    {"brand": "Meiwa Jisho (CLIO)", "years": [2025], "role": "partner", "source": "https://www.instagram.com/p/DJ_bAXUzhTf/"}
+  ],
+  "add_sources": [
+    {"field": "website", "url": "https://fineplay.me/surf/138623/", "note": "FINEPLAY 2026 preview gives the official site as surftown.jp and IG as @surf.town.festa."},
+    {"field": "organiser", "url": "https://fineplay.me/surf/138623/", "note": "主催: Surf Town Festa Executive Committee, Isumi City, Isumi City Sports Association surfing division. 後援: Isumi Chamber of Commerce, Tourism Isumi. 協力 includes local fishing co-op, J-PRO, NSA Chiba East, Taito Beach Club, NPO NOMARK-adapt, Isumi City Surfing Business Association."},
+    {"field": "dates.last_edition", "url": "https://fineplay.me/surf/138623/", "note": "22nd edition 2026 on 23 to 24 May, 30 to 31 May, 6 to 7 Jun and 11 Oct at Taito and Sangenya beaches."},
+    {"field": "sponsors", "url": "https://fineplay.me/surf/138623/", "note": "特別協力 (special cooperation): SketchBook, Inc. (2026)."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DJ_bAXUzhTf/", "note": "Google snippet, IG @clio_meiwajisyo: 'we are sponsoring the 21st SURF TOWN FESTA 2025' (25 May to 8 Jun, Taito beach)."},
+    {"field": "sponsors", "url": "https://surftown.jp/surf-town-festa-%E5%8D%94%E8%B3%9B%E5%90%84%E7%A4%BE/", "note": "Google snippet: 2019 sponsor list of mostly local businesses (builders, JP Post office, a tour bus company); no current sponsor list found."}
+  ],
+  "remove_gaps": [
+    "Organiser not captured (possibly local association or city)",
+    "Exact 2026 dates, 2027 dates, attendance and sponsors not captured"
+  ],
+  "add_gaps": [
+    "2027 dates not announced",
+    "Attendance not published",
+    "No current published sponsor list (only a 2019 page); no sponsorship contact found",
+    "Admission terms not stated (likely free beach event, unconfirmed)"
+  ],
+  "notes": "Organiser and 2026 dates now sourced (six days spread May to Oct; the 11 Oct day is the final one). Sponsorship is local and small (SketchBook special cooperation, Meiwa Jisho in 2025). The 'sponsor area / Pigmon AR' snippet tied to this event in Google actually belongs to Yokohama Urban Sports Festival '26."
+}

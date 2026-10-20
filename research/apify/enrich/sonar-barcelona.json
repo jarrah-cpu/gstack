@@ -1,0 +1,281 @@
+{
+  "id": "sonar-barcelona",
+  "set": {
+    "organiser": {
+      "name": "Advanced Music SL",
+      "type": "promoter",
+      "website": "https://sonar.es/"
+    },
+    "dates": {
+      "last_edition": {
+        "start": "2026-06-18",
+        "end": "2026-06-20",
+        "status": "held",
+        "label": "33rd edition (2026)"
+      },
+      "next_edition": {
+        "start": "2027-06-17",
+        "end": "2027-06-19",
+        "status": "confirmed",
+        "label": "2027"
+      },
+      "frequency": "annual",
+      "duration_days": 3
+    },
+    "attendance": {
+      "figure": 150000,
+      "figure_high": null,
+      "year": 2026,
+      "is_estimate": false,
+      "source": "https://efe.com/cultura/2026-06-20/sonar-cierre-33-edicion-asistentes/",
+      "note": "Press-reported closing figure (EFE): more than 150,000 attendees at the 33rd edition, the first to unify Day and Night at Fira Gran Via, L'Hospitalet. 2025: 161,000 (El Pais)."
+    },
+    "location": {
+      "city": "Barcelona",
+      "state_or_region": "Catalonia",
+      "country": "Spain",
+      "venue_or_area": "Fira Gran Via, L'Hospitalet de Llobregat (Day and Night unified in 2026); Sonar+D at Llotja de Mar"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Estrella Damm",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://sonar.es/en/partners"
+    },
+    {
+      "brand": "fritz-kola",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://sonar.es/es/noticias/patros-2026"
+    },
+    {
+      "brand": "OCB",
+      "years": [
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "role": "partner",
+      "source": "https://sonar.es/es/noticias/patros-2026"
+    },
+    {
+      "brand": "Vieta",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://sonar.es/es/noticias/patros-2026"
+    },
+    {
+      "brand": "Cutty Sark",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://sonar.es/es/noticias/patros-2026"
+    },
+    {
+      "brand": "Ron Negrita",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://sonar.es/es/noticias/patros-2026"
+    },
+    {
+      "brand": "The Social Hub",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://sonar.es/es/noticias/patros-2026"
+    },
+    {
+      "brand": "Fundacio Barcelona Music Lab",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://sonar.es/es/noticias/patros-2026"
+    },
+    {
+      "brand": "FUJIFILM House of Photography",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://sonar.es/es/noticias/patros-2026"
+    },
+    {
+      "brand": "L-Acoustics",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://sonar.es/es/noticias/patros-2026"
+    },
+    {
+      "brand": "Grey Goose",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://sonar.es/es/noticias/patros-2026"
+    },
+    {
+      "brand": "Schweppes",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://sonar.es/es/noticias/patros-2026"
+    },
+    {
+      "brand": "Generalitat de Catalunya",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://sonar.es/en/partners"
+    },
+    {
+      "brand": "Ajuntament de Barcelona",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://sonar.es/es/noticias/patros-2026"
+    },
+    {
+      "brand": "Ministerio de Cultura (Spain)",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://sonar.es/en/partners"
+    },
+    {
+      "brand": "INAEM",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://sonar.es/en/partners"
+    },
+    {
+      "brand": "Ajuntament de L'Hospitalet",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://sonar.es/en/partners"
+    },
+    {
+      "brand": "S+T+ARTS (European Commission)",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://sonar.es/en/partners"
+    },
+    {
+      "brand": "ICEC (Institut Catala de les Empreses Culturals)",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://sonar.es/en/partners"
+    },
+    {
+      "brand": "Fundacion Cotec",
+      "years": [
+        2026
+      ],
+      "role": "collab",
+      "source": "https://www.instagram.com/sonarfestival/?hl=es"
+    }
+  ],
+  "add_activation_formats": [
+    "lounge",
+    "workshop"
+  ],
+  "add_sources": [
+    {
+      "field": "organiser",
+      "url": "https://sonar.es/en",
+      "note": "Site footer: 'Copyright Advanced Music SL 2026'."
+    },
+    {
+      "field": "organiser",
+      "url": "https://sonar.es/es/sonar-responde",
+      "note": "Superstruct Entertainment acquired Sonar in 2018; Google snippet."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://sonar.es/en",
+      "note": "Page title 'Sonar - 18.19.20 June 2026' and 'We'll see you on the 17th, 18th and 19th of June 2027'."
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://sonar.es/en",
+      "note": "Official site confirms 17 to 19 Jun 2027; IG bio also says 17.18.19 June 2027."
+    },
+    {
+      "field": "attendance",
+      "url": "https://efe.com/cultura/2026-06-20/sonar-cierre-33-edicion-asistentes/",
+      "note": "'Mas de 150.000 personas acuden a Sonar 2026, la primera que ha unificado las franjas de Dia y Noche en la Fira Gran Via de L'Hospitalet'; Google snippet."
+    },
+    {
+      "field": "attendance",
+      "url": "https://elpais.com/espana/catalunya/2025-06-14/el-sonar-rompe-su-techo-con-161000-asistentes-en-su-edicion-mas-controvertida.html",
+      "note": "2025 (32nd edition): 161,000 attendees; Google snippet."
+    },
+    {
+      "field": "location",
+      "url": "https://efe.com/cultura/2026-06-20/sonar-cierre-33-edicion-asistentes/",
+      "note": "2026 Day and Night both at Fira Gran Via, L'Hospitalet."
+    },
+    {
+      "field": "location",
+      "url": "https://www.facebook.com/SonarFestival/",
+      "note": "Sonar+D 2026 programme at Llotja de Mar; Google snippet."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://sonar.es/en/partners",
+      "note": "Partners page: Main sponsor Estrella Damm; Sponsored by fritz-kola; In collaboration with Generalitat; With support from Ministerio de Cultura, INAEM, Ajuntament de L'Hospitalet, S+T+ARTS EU, ICEC; Collaborating entity TIMES; initiative of Advanced Music."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://sonar.es/es/noticias/patros-2026",
+      "note": "'Acciones de los patrocinadores de Sonar 2026': Estrella Damm, fritz-kola, OCB (official collaborator, fourth year running), Vieta DJ, Cutty Sark, Ron Negrita, The Social Hub, Barcelona Music Lab, FUJIFILM House of Photography, L-Acoustics, Grey Goose, Schweppes; Generalitat and Barcelona city council logos."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/sonarfestival/?hl=es",
+      "note": "Open Call run by Fundacion Cotec and Sonar+D; Google snippet; Cotec co-authored 2026 posts."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://sonar.es/es/noticias/patros-2026",
+      "note": "fritz-kola stand with immersive installation 'Dins'; Cutty Sark 'Base Camp' rest area with charging; Grey Goose in VIP areas; Schweppes gin-tonic bar; FUJIFILM check-in point and photo exhibition; L-Acoustics and Barcelona Music Lab sessions at Sonar+D."
+    }
+  ],
+  "add_gaps": [
+    "Sponsorship contact not published on the partners or sponsor-actions pages"
+  ],
+  "remove_gaps": [
+    "2027 dates come from third-party ticketing listings; verify on sonar.es",
+    "2026 edition dates and attendance not captured",
+    "Organiser not captured",
+    "Sponsors not captured"
+  ],
+  "notes": "Rich sponsor list from the official partners page and the 2026 sponsor-actions page. Estrella Damm is main sponsor, with about 11 brand partners running stands, bars, a rest lounge and Sonar+D sessions. Superstruct Entertainment has owned Sonar since 2018, via Advanced Music SL. Alfa Romeo has also been an official sponsor (Stellantis press), year not pinned, so not added."
+}

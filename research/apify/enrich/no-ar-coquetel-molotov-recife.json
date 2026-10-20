@@ -1,0 +1,221 @@
+{
+ "id": "no-ar-coquetel-molotov-recife",
+ "set": {
+  "website": "https://coquetelmolotov.com.br/",
+  "dates": {
+   "last_edition": {
+    "start": "2025-12-06",
+    "end": "2025-12-06",
+    "status": "held",
+    "label": "22nd edition (2025), Campus da UFPE"
+   },
+   "next_edition": {
+    "start": "2026-11-28",
+    "end": "2026-11-28",
+    "status": "confirmed",
+    "label": "23rd edition (2026)"
+   },
+   "frequency": "annual",
+   "duration_days": 1
+  },
+  "organiser": {
+   "name": "Coquetel Molotov (Coda Produções and Instituto Cultural Coquetel Molotov)",
+   "type": "independent",
+   "website": "https://coquetelmolotov.com.br/"
+  }
+ },
+ "add_sponsors": [
+  {
+   "brand": "Cartões BB (Banco do Brasil)",
+   "years": [
+    2026
+   ],
+   "role": "major",
+   "source": "https://www.instagram.com/p/DeaMo3exdZc/"
+  },
+  {
+   "brand": "Prefeitura do Recife",
+   "years": [
+    2025,
+    2026
+   ],
+   "role": "government",
+   "source": "https://www.instagram.com/p/DeaMo3exdZc/"
+  },
+  {
+   "brand": "Embratur",
+   "years": [
+    2025,
+    2026
+   ],
+   "role": "government",
+   "source": "https://www.instagram.com/p/DeaMo3exdZc/"
+  },
+  {
+   "brand": "Embassy of the Netherlands in Brazil",
+   "years": [
+    2026
+   ],
+   "role": "government",
+   "source": "https://www.instagram.com/p/DeaMo3exdZc/"
+  },
+  {
+   "brand": "Ministério da Cultura (Lei Rouanet)",
+   "years": [
+    2026
+   ],
+   "role": "government",
+   "source": "https://www.instagram.com/p/DeaMo3exdZc/"
+  },
+  {
+   "brand": "Heineken",
+   "years": [
+    2025,
+    2026
+   ],
+   "role": "partner",
+   "source": "https://www.instagram.com/p/DeaMo3exdZc/"
+  },
+  {
+   "brand": "Natura",
+   "years": [
+    2024,
+    2025
+   ],
+   "role": "major",
+   "source": "https://www.instagram.com/p/DS2zS2WEUKm/"
+  },
+  {
+   "brand": "Funarte",
+   "years": [
+    2025
+   ],
+   "role": "government",
+   "source": "https://www.instagram.com/p/DS2zS2WEUKm/"
+  },
+  {
+   "brand": "Ibermúsicas",
+   "years": [
+    2025
+   ],
+   "role": "government",
+   "source": "https://www.instagram.com/p/DS2zS2WEUKm/"
+  },
+  {
+   "brand": "Secretaria de Cultura de Pernambuco (PNAB PE)",
+   "years": [
+    2025
+   ],
+   "role": "government",
+   "source": "https://www.instagram.com/p/DS2zS2WEUKm/"
+  },
+  {
+   "brand": "Feira Preta",
+   "years": [
+    2025
+   ],
+   "role": "partner",
+   "source": "https://www.instagram.com/p/DS2zS2WEUKm/"
+  },
+  {
+   "brand": "Borsoi",
+   "years": [
+    2025
+   ],
+   "role": "partner",
+   "source": "https://www.instagram.com/p/DS2zS2WEUKm/"
+  },
+  {
+   "brand": "Institut Français (Temporada França-Brasil 2025)",
+   "years": [
+    2025
+   ],
+   "role": "government",
+   "source": "https://www.instagram.com/p/DS2zS2WEUKm/"
+  },
+  {
+   "brand": "Deezer",
+   "years": [
+    2024
+   ],
+   "role": "partner",
+   "source": "https://livemarketing.com.br/tag/no-ar-coquetel-molotov"
+  },
+  {
+   "brand": "Futuro Black",
+   "years": [
+    2026
+   ],
+   "role": "partner",
+   "source": "https://www.instagram.com/p/Dd9714bEcMQ/"
+  }
+ ],
+ "add_activation_formats": [
+  "lounge",
+  "sampling",
+  "hospitality-bar",
+  "stall"
+ ],
+ "add_sources": [
+  {
+   "field": "website",
+   "url": "https://coquetelmolotov.com.br/19edicao/o-festival/",
+   "note": "Organiser site hosts festival edition pages (19th and 21st editions)."
+  },
+  {
+   "field": "dates.last_edition",
+   "url": "https://www.uol.com.br/toca/noticias/2025/12/03/no-ar-coquetel-molotov-reafirma-papel-estrategico-na-cena-independente.htm",
+   "note": "Google snippet (3 Dec 2025): 22nd edition 'neste sábado' (Sat 6 Dec 2025) at Campus da UFPE."
+  },
+  {
+   "field": "organiser",
+   "url": "https://www.instagram.com/p/DeaMo3exdZc/",
+   "note": "Credit: 'realização da Coda Produções, Instituto Cultural Coquetel Molotov e Ministério da Cultura'."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://www.instagram.com/p/DeaMo3exdZc/",
+   "note": "2026 credit: 'patrocínio dos Cartões BB via Lei Rouanet, Prefeitura do Recife e Embratur; Apoio: Embaixada dos Países Baixos; Cerveja Oficial: Heineken, Vendas Oficiais da Shotgun'."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://www.instagram.com/p/DS2zS2WEUKm/",
+   "note": "2025 aftermovie credit: 'Patrocínio: @naturabroficial @prefeiturarecife @embraturbrasil; Cerveja Oficial: @heinekenbr; Apoio: Livre de Assédio, Manifesto Ambiental, Feira Preta, Borsoi, @funarte e @ibermusicas; Incentivo: PNAB PE'; part of Temporada França-Brasil 2025."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://coquetelmolotov.com.br/novo/no-ar-coquetel-molotov-revela-primeiros-artistas-confirmados-para-sua-21a-edicao/",
+   "note": "Google snippet: 21st edition (2024) 'Com patrocínio da Natura'."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://livemarketing.com.br/tag/no-ar-coquetel-molotov",
+   "note": "Google snippet: 'Natura patrocina No Ar Coquetel Molotov 2025 com experiências de bem-estar e cuidado'; 'Deezer participa da 21ª edição'."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://www.instagram.com/p/Dd9714bEcMQ/",
+   "note": "'Com apoio do @futuroblack' a maker market for entrepreneurs, stylists and artists at the 2026 festival."
+  },
+  {
+   "field": "activation_formats",
+   "url": "https://www.instagram.com/p/DR79deFks-T/",
+   "note": "2025: Natura space where festivalgoers could refresh their look with Natura products."
+  },
+  {
+   "field": "activation_formats",
+   "url": "https://www.instagram.com/p/Dd9714bEcMQ/",
+   "note": "2026 maker market (stalls) supported by Futuro Black; official beer bar (Heineken)."
+  }
+ ],
+ "add_gaps": [
+  "Natura not listed in 2026 credits; unclear whether it returns"
+ ],
+ "remove_gaps": [
+  "Official website and Instagram handle not captured",
+  "No sponsor or partner list found",
+  "Organiser legal entity and type not confirmed",
+  "2025 date for the 22nd edition inferred from edition numbering"
+ ],
+ "notes": "Strong precedent: Natura sponsored 2024 and 2025 with 'wellness and care' experiences. 2026 lead is Cartões BB via Lei Rouanet, with Recife city, Embratur, Dutch embassy and Heineken. Inclusive policies (free entry for trans people and people with disability). Attendance still unpublished."
+}

@@ -1,0 +1,112 @@
+{
+  "id": "ultra-trail-australia-katoomba",
+  "set": {
+    "dates": {
+      "last_edition": {
+        "start": "2026-05",
+        "end": null,
+        "status": "held",
+        "label": "2026 (18th edition)"
+      },
+      "next_edition": {
+        "start": "2027-05-13",
+        "end": "2027-05-16",
+        "status": "confirmed",
+        "label": "2027 (19th edition)"
+      },
+      "frequency": "annual",
+      "duration_days": 4
+    },
+    "attendance": {
+      "figure": 8000,
+      "figure_high": null,
+      "year": 2027,
+      "is_estimate": false,
+      "source": "https://www.instagram.com/p/DdfD-tnz7UM/",
+      "note": "Organiser-reported '8,000+ runners' entered for the sold-out 2027 (19th) edition. Runners only; spectators and support crew not counted."
+    },
+    "audience": {
+      "age_range": null,
+      "gender_skew": "43% of 2026 runners were female; women outnumbered men in UTA11 and UTA22 (organiser-reported)",
+      "psychographics": "Trail and ultra runners across UTA11, UTA22, UTA50, UTA100 and the 161 km UTAMiler, plus a 1 km kids' race; 47% of the 2026 field were first-timers (organiser-reported).",
+      "source": "https://www.instagram.com/p/DcUXJtUG2sq/"
+    },
+    "partnership_contact": {
+      "email": null,
+      "page_url": "https://uta.utmb.world/get-involved/become-a-partner",
+      "named_person": null,
+      "source": "https://uta.utmb.world/get-notified"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "HOKA",
+      "years": [
+        2026,
+        2027
+      ],
+      "role": "naming",
+      "source": "https://www.facebook.com/ultratrailaustralia/videos/the-uta100-is-underway-for-2026-hoka-ultra-trail-australia-by-utmball-the-best-t/3951902435116883/"
+    },
+    {
+      "brand": "Destination NSW",
+      "years": [],
+      "role": "government",
+      "source": "https://www.destinationnsw.com.au/newsroom/hoka-ultra-trail-australia-by-utmb-elevated-to-world-series-major-status"
+    }
+  ],
+  "add_sources": [
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.facebook.com/ultratrailaustralia/videos/the-uta100-is-underway-for-2026-hoka-ultra-trail-australia-by-utmball-the-best-t/3951902435116883/",
+      "note": "Facebook video titled 'The UTA100 is underway for 2026 HOKA Ultra-Trail Australia by UTMB' (Google result); race-weekend posts dated 16 May 2026."
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.instagram.com/p/DdiQIEcIxNx/",
+      "note": "Festival post (21 Sep 2026): 'The 2027 HOKA Ultra-Trail Australia by UTMB has officially sold out'."
+    },
+    {
+      "field": "attendance",
+      "url": "https://www.instagram.com/p/DdfD-tnz7UM/",
+      "note": "Festival post (19 Sep 2026): '8,000+ runners join us ... for the 19th edition'."
+    },
+    {
+      "field": "audience",
+      "url": "https://www.instagram.com/p/DcUXJtUG2sq/",
+      "note": "Festival post (21 Aug 2026): 'In 2026, 43% of runners ... were female'."
+    },
+    {
+      "field": "audience",
+      "url": "https://www.instagram.com/p/DdCtdrJgWwv/",
+      "note": "Festival post (8 Sep 2026): 'In 2026, an incredible 47% of our field were first timers'."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://uta.utmb.world/get-notified",
+      "note": "Crawled site navigation links 'Become a Partner' (/get-involved/become-a-partner) and 'Sponsorship'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.facebook.com/ultratrailaustralia/videos/the-uta100-is-underway-for-2026-hoka-ultra-trail-australia-by-utmball-the-best-t/3951902435116883/",
+      "note": "Event named '2026 HOKA Ultra-Trail Australia by UTMB'; 2027 posts use the same HOKA naming."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.destinationnsw.com.au/newsroom/hoka-ultra-trail-australia-by-utmb-elevated-to-world-series-major-status",
+      "note": "Google snippet: 'HOKA Ultra-Trail Australia by UTMB is supported proudly by Destination NSW' (article year not shown)."
+    }
+  ],
+  "remove_gaps": [
+    "Sponsor years assumed from the current event name; first year of HOKA naming not found",
+    "Registration status unclear; some 2027 events marked opening soon",
+    "Participant and spectator numbers not found",
+    "No public partnerships contact found"
+  ],
+  "add_gaps": [
+    "First year of HOKA naming rights not found",
+    "Spectator and crew numbers not published; runner count is 2027 entries",
+    "Year of Destination NSW support not shown; other partners not read"
+  ],
+  "notes": "2027 (13 to 16 May) sold out with 8,000+ runners; 43% female, 47% first-timers in 2026; prize pool about $120,000. HOKA holds naming; Destination NSW supports. 'Become a Partner' page exists. Run by UTMB Oceania. IG account correct."
+}

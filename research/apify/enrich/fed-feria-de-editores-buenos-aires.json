@@ -1,0 +1,204 @@
+{
+ "id": "fed-feria-de-editores-buenos-aires",
+ "set": {
+  "website": "https://feriadeeditores.com.ar/",
+  "dates": {
+   "last_edition": {
+    "start": "2026-08-06",
+    "end": "2026-08-09",
+    "status": "held",
+    "label": "15th anniversary edition (2026)"
+   },
+   "next_edition": {
+    "start": "2027-08-13",
+    "end": "2027-08-15",
+    "status": "confirmed",
+    "label": "FED27, Centro de Exposiciones y Convenciones (CEC)"
+   },
+   "frequency": "annual",
+   "duration_days": 3
+  },
+  "organiser": {
+   "name": "Feria de Editores (FED), created by Víctor Malumián",
+   "type": "independent",
+   "website": "https://feriadeeditores.com.ar/"
+  }
+ },
+ "add_sponsors": [
+  {
+   "brand": "Medifé",
+   "years": [
+    2026
+   ],
+   "role": "partner",
+   "source": "https://feriadeeditores.com.ar/"
+  },
+  {
+   "brand": "Finnegans",
+   "years": [
+    2026
+   ],
+   "role": "partner",
+   "source": "https://feriadeeditores.com.ar/"
+  },
+  {
+   "brand": "Santander",
+   "years": [
+    2026
+   ],
+   "role": "partner",
+   "source": "https://feriadeeditores.com.ar/"
+  },
+  {
+   "brand": "MUBI",
+   "years": [
+    2026
+   ],
+   "role": "partner",
+   "source": "https://feriadeeditores.com.ar/"
+  },
+  {
+   "brand": "La Fuerza",
+   "years": [
+    2026
+   ],
+   "role": "partner",
+   "source": "https://feriadeeditores.com.ar/"
+  },
+  {
+   "brand": "Getnet",
+   "years": [
+    2026
+   ],
+   "role": "partner",
+   "source": "https://feriadeeditores.com.ar/"
+  },
+  {
+   "brand": "MALBA",
+   "years": [
+    2026
+   ],
+   "role": "partner",
+   "source": "https://feriadeeditores.com.ar/"
+  },
+  {
+   "brand": "Fondo Nacional de las Artes",
+   "years": [
+    2026
+   ],
+   "role": "government",
+   "source": "https://feriadeeditores.com.ar/"
+  },
+  {
+   "brand": "Mecenazgo Cultural (Buenos Aires City)",
+   "years": [
+    2026
+   ],
+   "role": "government",
+   "source": "https://feriadeeditores.com.ar/"
+  },
+  {
+   "brand": "POSCA",
+   "years": [
+    2026
+   ],
+   "role": "partner",
+   "source": "https://feriadeeditores.com.ar/"
+  },
+  {
+   "brand": "Literalia",
+   "years": [
+    2026
+   ],
+   "role": "partner",
+   "source": "https://feriadeeditores.com.ar/"
+  },
+  {
+   "brand": "IVESS",
+   "years": [
+    2026
+   ],
+   "role": "partner",
+   "source": "https://feriadeeditores.com.ar/"
+  },
+  {
+   "brand": "CADRA",
+   "years": [
+    2026
+   ],
+   "role": "partner",
+   "source": "https://feriadeeditores.com.ar/"
+  },
+  {
+   "brand": "Centro Cultural de España en Buenos Aires (CCEBA)",
+   "years": [
+    2026
+   ],
+   "role": "government",
+   "source": "https://feriadeeditores.com.ar/"
+  },
+  {
+   "brand": "Acción Cultural Española",
+   "years": [
+    2026
+   ],
+   "role": "government",
+   "source": "https://feriadeeditores.com.ar/"
+  },
+  {
+   "brand": "Centro Cultural Coreano",
+   "years": [
+    2026
+   ],
+   "role": "government",
+   "source": "https://feriadeeditores.com.ar/"
+  },
+  {
+   "brand": "CPS Soluciones Gráficas",
+   "years": [
+    2026
+   ],
+   "role": "partner",
+   "source": "https://feriadeeditores.com.ar/"
+  }
+ ],
+ "add_sources": [
+  {
+   "field": "website",
+   "url": "https://feriadeeditores.com.ar/",
+   "note": "Official FED site; announces FED27 dates."
+  },
+  {
+   "field": "dates.next_edition",
+   "url": "https://feriadeeditores.com.ar/quienes-son-los-lectores-de-la-fed/",
+   "note": "FED27: 13 to 15 Aug 2027 at the Centro de Exposiciones y Convenciones (CEC), free entry. Homepage confirms Fri 13 to Sun 15 Aug 2027, 2pm to 9pm, Av. Figueroa Alcorta 2099."
+  },
+  {
+   "field": "organiser",
+   "url": "https://www.lanacion.com.ar/cultura/victor-malumian-creador-de-la-fed-esta-feria-atrae-a-lectores-activos-y-curiosos-que-buscan-nuevas-nid04082026/",
+   "note": "La Nación headline (Google snippet): 'Víctor Malumián, creador de la FED'. No legal entity named on the FED site."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://feriadeeditores.com.ar/",
+   "note": "Homepage 'Aliados' logos (file names): porter, thomson, uk, medife, finnegans, santander, mubi, godot. Medifé, Finnegans, Santander and MUBI added; others not identifiable. Undated homepage captured Oct 2026, after the 2026 edition."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://feriadeeditores.com.ar/",
+   "note": "Homepage 'Nos acompañan' logos (file names) include la-fuerza, getnet, malba, fna, mecenzago, posca, literalia, ivess, cadra, cceba, accioncultural, cccoreano; body text says the Premio Rumbo a Guadalajara has 'el apoyo de CPS Soluciones Gráficas'."
+  }
+ ],
+ "add_gaps": [
+  "Sponsor names come from logo file names on the undated homepage; unidentified logos: porter, thomson, uk, argenta, pleno, bacreatvia, manifiesto, flores-negras, winne, animal, celulosa, italia, francia",
+  "Audience survey (2023, UNSAM, 367 responses) exists but its age and gender data were not read",
+  "No contact email published on the homepage",
+  "FED27 runs three days (13 to 15 Aug) against four days in 2026"
+ ],
+ "remove_gaps": [
+  "2027 dates not announced; August expected",
+  "Official website and Instagram not captured",
+  "Sponsors not captured"
+ ],
+ "notes": "Official site lists about 30 ally and supporter logos; notable for High Ground: Medifé (Argentine health insurer) is an 'Aliado', alongside Santander, MUBI and Finnegans, so non-endemic and health brands already partner. FED27 confirmed for 13 to 15 Aug 2027 at the CEC (bigger venue). Godot logo is the organiser's own publishing house."
+}

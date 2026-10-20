@@ -1,0 +1,50 @@
+{
+  "id": "primavera-sound-porto",
+  "set": {
+    "website": "https://www.primaverasound.com/pt/porto",
+    "dates": {
+      "last_edition": {"start": "2026-06-11", "end": "2026-06-14", "status": "held", "label": "2026"},
+      "next_edition": {"start": "2027-06-10", "end": "2027-06-13", "status": "confirmed", "label": "2027"},
+      "frequency": "annual",
+      "duration_days": 4
+    },
+    "location": {"city": "Porto", "state_or_region": "Norte", "country": "Portugal", "venue_or_area": "Parque da Cidade"},
+    "attendance": {"figure": 120000, "figure_high": null, "year": 2026, "is_estimate": false, "source": "https://expresso.pt/blitz/noticias/2026-06-13-mais-de-120-mil-pessoas-no-primavera-sound-porto-festival-regressa-em-2027-ec217cae", "note": "Press-reported 'mais de 120 mil pessoas' (over 120,000) for 2026, cumulative over four days (Google snippet). ECO reported 120,000 expected before the event."}
+  },
+  "add_sponsors": [
+    {"brand": "ZYN", "years": [2026], "role": "major", "source": "https://www.sppneumologia.pt/uploads/subcanais_conteudos_ficheiros/ci_spp-repudia-patrocaanio-de-marca-de-bolsas-de-nicotina-no-primavera-sound-porto-e-alerta-para-riscos-na-juventude.pdf"},
+    {"brand": "Vodafone", "years": [2024, 2026], "role": "major", "source": "https://www.instagram.com/p/DZk8bj7tCEu/"},
+    {"brand": "Estrella Damm", "years": [2026], "role": "major", "source": "https://www.instagram.com/p/DZiDfaTNEkc/"},
+    {"brand": "CUPRA", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DZgD7eXupBp/"},
+    {"brand": "MDS Group", "years": [2023], "role": "partner", "source": "https://pt.linkedin.com/posts/mds-group-pt_primavera-sound-porto-activity-7071499774822162432-j45n"},
+    {"brand": "Câmara Municipal do Porto", "years": [2026], "role": "government", "source": "https://www.instagram.com/p/DZfX5Xvtzbh/"}
+  ],
+  "add_activation_formats": ["naming-rights", "stage-or-program-takeover"],
+  "add_sources": [
+    {"field": "website", "url": "https://www.primaverasound.com/pt/porto", "note": "Official festival page (script-rendered; partner names not readable)."},
+    {"field": "dates.last_edition", "url": "https://www.porto.pt/pt/noticia/mais-de-50-artistas-vao-subir-ao-palco-do-primavera-sound-porto-2026", "note": "Google snippet (Porto city): festival returns to Parque da Cidade from 11 to 14 June 2026."},
+    {"field": "dates.last_edition", "url": "https://eco.sapo.pt/2026/06/03/primavera-sound-porto-espera-120-mil-festivaleiros-e-superar-os-57-milhoes-de-retorno-economico/", "note": "Google snippet: 120,000 festivalgoers expected from 11 to 14 June; economic return over EUR 57 million."},
+    {"field": "dates.next_edition", "url": "https://www.instagram.com/primaverasound_porto/", "note": "IG bio: '10 - 13 JUN 2027 | Porto, Portugal'."},
+    {"field": "location", "url": "https://www.porto.pt/pt/noticia/mais-de-50-artistas-vao-subir-ao-palco-do-primavera-sound-porto-2026", "note": "Google snippet: Parque da Cidade."},
+    {"field": "attendance", "url": "https://expresso.pt/blitz/noticias/2026-06-13-mais-de-120-mil-pessoas-no-primavera-sound-porto-festival-regressa-em-2027-ec217cae", "note": "Google snippet headline: 'Mais de 120 mil pessoas no Primavera Sound Porto: festival regressa em 2027'."},
+    {"field": "sponsors", "url": "https://www.sppneumologia.pt/uploads/subcanais_conteudos_ficheiros/ci_spp-repudia-patrocaanio-de-marca-de-bolsas-de-nicotina-no-primavera-sound-porto-e-alerta-para-riscos-na-juventude.pdf", "note": "Portuguese Pneumology Society statement (Jun 2026) condemns the naming rights of one of the main stages given to the nicotine pouch brand ZYN."},
+    {"field": "sponsors", "url": "https://sicnoticias.pt/cultura/2026-06-09-nao-estamos-a-fazer-nada-ilegal-primavera-sound-porto-defende-patrocinio-de-marca-de-nicotina-96d9b451", "note": "Google snippet (SIC, 9 Jun 2026): festival defends the nicotine brand sponsorship, 'não estamos a fazer nada ilegal'."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DZk8bj7tCEu/", "note": "2026 posts credit the 'Vodafone Stage' (IDLES, Amaarae, Viagra Boys) and 'Music, love and Vodafone'."},
+    {"field": "sponsors", "url": "https://eco.sapo.pt/2024/06/06/vodafone-renova-patrocinio-ao-primavera-sound-porto/", "note": "Google snippet: Vodafone renewed as sponsor and technology partner for 6 to 8 June 2024."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DZiDfaTNEkc/", "note": "'ESTRELLA DAMM STAGE' post co-authored with @estrelladammpt; stage hosted Massive Attack, Big Thief, Slowdive."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DZgD7eXupBp/", "note": "'CUPRA Pulse' area posts co-authored with @cupra_portugal (DJ sets), 2026."},
+    {"field": "sponsors", "url": "https://pt.linkedin.com/posts/mds-group-pt_primavera-sound-porto-activity-7071499774822162432-j45n", "note": "Google snippet: MDS joined as a sponsor of the 10th edition (2023)."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DZfX5Xvtzbh/", "note": "2026 posts co-authored with @cmporto and @agoraporto (city culture company); site lists a 'Parceiro Institucional' tier."},
+    {"field": "activation_formats", "url": "https://www.instagram.com/p/DZh4EqdDYyy/", "note": "CUPRA PULSE branded DJ area; stage naming by Vodafone, Estrella Damm and ZYN."}
+  ],
+  "add_gaps": [
+    "Organiser entity not confirmed (Pic Nic Produções co-authors posts; partners page is script-rendered)",
+    "Ticket prices not captured"
+  ],
+  "remove_gaps": [
+    "Guides disagree on 2026 end date (13 vs 14 Jun)",
+    "Official website, venue, organiser, attendance and sponsors not captured",
+    "2027 dates not announced; June expected"
+  ],
+  "notes": "Flag for a health brand: ZYN nicotine pouches held naming rights to a main stage in 2026, publicly condemned by the Portuguese Pneumology Society. Other 2026 stage names: Vodafone, Estrella Damm; CUPRA ran 'CUPRA Pulse'. Over 120,000 attendance (press). 2026 ran 11 to 14 Jun at Parque da Cidade; 2027 confirmed 10 to 13 Jun. No partnership contact found."
+}

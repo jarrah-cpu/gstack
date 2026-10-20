@@ -1,0 +1,142 @@
+{
+  "id": "yoga-del-mar-spirit-festival-mallorca",
+  "set": {
+    "dates": {
+      "last_edition": {
+        "start": "2026-08-27",
+        "end": "2026-08-30",
+        "status": "held",
+        "label": "4th edition (2026), Only Summer Finca, Llubi"
+      },
+      "next_edition": {
+        "start": "2027-05-21",
+        "end": "2027-05-23",
+        "status": "confirmed",
+        "label": "5th edition (2027), moving from late August to May"
+      },
+      "frequency": "annual",
+      "duration_days": 3
+    },
+    "organiser": {
+      "name": "Yoga del Mar studio, Portixol (founders Nina-Gyana and Yasmin)",
+      "type": "independent",
+      "website": null
+    },
+    "location": {
+      "city": "Llubi",
+      "state_or_region": "Balearic Islands (Mallorca)",
+      "country": "Spain",
+      "venue_or_area": "Only Summer Finca (Es Dau), Llubi"
+    },
+    "ticket_price": {
+      "min": 240,
+      "max": 400,
+      "currency": "EUR",
+      "free_entry": false,
+      "note": "2027 full festival: Super Early Bird EUR 240 (capped at 500 participants), Supporter ticket EUR 400. Camping EUR 150 and VIP glamping EUR 750 for three nights are extra; 10% resident discount. Kids and teen ticket prices not shown."
+    },
+    "partnership_contact": {
+      "email": "info@yogadelmarspiritfestival.com",
+      "page_url": "https://www.yogadelmarspiritfestival.com/contact",
+      "named_person": null,
+      "source": "https://www.yogadelmarspiritfestival.com/contact"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Neue Wege Reisen",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.facebook.com/groups/1932460387052857/posts/3808351106130433/"
+    },
+    {
+      "brand": "Only Summer",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "venue",
+      "source": "https://www.mallorcawellnessliving.com/yoga-del-mar-spirit-festival-mallorca-2026/"
+    },
+    {
+      "brand": "Casa Marti",
+      "years": [
+        2026
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.instagram.com/reel/DclAW2UNe4F/"
+    }
+  ],
+  "add_activation_formats": [
+    "stall"
+  ],
+  "add_sources": [
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.mallorcawellnessliving.com/yoga-del-mar-spirit-festival-mallorca-2026/",
+      "note": "'Taking place from 27 to 30 August 2026 at Only Summer Finca in Llubi ... the fourth edition'; Google snippet."
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.instagram.com/yogadelmarspiritfestival/",
+      "note": "IG bio: 'Festival in Mallorca 21-23 May 2027'; a profile snippet invites people to the '5th Yoga del Mar Spirit Festival Edition'."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.facebook.com/events/llubi-mallorca/yoga-del-mar-spirit-festival-2025/493644720183496/?locale=es_ES",
+      "note": "2025 edition 28 to 31 Aug in Llubi; 2024 edition late Aug per 24plans; annual pattern; Google snippet."
+    },
+    {
+      "field": "organiser",
+      "url": "https://www.bookyogaretreats.com/es/yoga-del-mar/4-day-yoga-del-mar-spirit-yoga-festival-2025-in-mallorca-spain",
+      "note": "'Nina-Gyana and Yasmin are the founders of the yoga studio Yoga del Mar ... in Portixol/Mallorca and the first Yoga del Mar Spirit Festival'; Google snippet."
+    },
+    {
+      "field": "location",
+      "url": "https://www.yogadelmarspiritfestival.com/tickets",
+      "note": "Tickets page (fetched 21 Oct 2026) names the venue Only Summer Finca, Llubi; FAQ gives 'ES DAU, Polig. 7, Parc. 432, 07430 Llubi'."
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://www.yogadelmarspiritfestival.com/tickets",
+      "note": "Super Early Bird EUR 240, Supporter Ticket EUR 400, VIP Glamping EUR 750, Camping EUR 150."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.yogadelmarspiritfestival.com/contact",
+      "note": "Contact page lists info@yogadelmarspiritfestival.com (general)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.facebook.com/groups/1932460387052857/posts/3808351106130433/",
+      "note": "'One of our beautiful Sponsors of the Yoga del Mar Spirit Festival is Neue Wege Reisen' (2026); Google snippet."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.mallorcawellnessliving.com/yoga-del-mar-spirit-festival-mallorca-2026/",
+      "note": "2026 held at Only Summer Finca; Only Summer is a boutique real estate and travel agency in Llubi (mallorcaguide 2025 listing)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/reel/DclAW2UNe4F/",
+      "note": "Casa Marti: 'se va de festival ... Estaremos en Yoga del Mar Spirit Festival' (Aug 2026)."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.yogadelmarspiritfestival.com/",
+      "note": "Programme includes an Art and Food Market."
+    }
+  ],
+  "add_gaps": [
+    "Attendance not published",
+    "Full 2027 price list (kids, teens, day tickets) not captured"
+  ],
+  "remove_gaps": [
+    "Previous editions and frequency not captured",
+    "Attendance, organiser, sponsors and prices not captured",
+    "No public partnerships contact found"
+  ],
+  "notes": "This is an annual festival in its 4th edition in 2026 (27 to 30 Aug), moving to 21 to 23 May for the 2027 5th edition. It is founder-run by a Palma yoga studio. Sponsor evidence is thin: one travel-retreat sponsor, the venue and market stalls. Contact is the general info@ email."
+}

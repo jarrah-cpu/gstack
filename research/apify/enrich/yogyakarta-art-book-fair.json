@@ -1,0 +1,47 @@
+{
+  "id": "yogyakarta-art-book-fair",
+  "set": {
+    "attendance": {
+      "figure": 2800,
+      "figure_high": null,
+      "year": 2026,
+      "is_estimate": false,
+      "source": "https://www.instagram.com/p/DYUZkGSBjM8/",
+      "note": "Organiser-reported '2800++ pengunjung' (2,800+ visitors) over three days, 8 to 10 May 2026, with 43 exhibitors and 65 partners. The Display recap gives 'more than 2,500'."
+    },
+    "ticket_price": {
+      "min": null,
+      "max": null,
+      "currency": "IDR",
+      "free_entry": false,
+      "note": "Paid daily pass sold via linktr.ee/YKABF (organiser Instagram); under-5s free. Price not in captions; one visitor report puts entry at IDR 35,000. The free 'Road to YKABF' pre-event ran in April 2026."
+    }
+  },
+  "add_sponsors": [
+    {"brand": "Fedrigoni Indonesia", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DYCEU2lAUQI/"},
+    {"brand": "Ace House Collective", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DYBfs20AeKc/"},
+    {"brand": "Palka Kreatif", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DYBfs20AeKc/"},
+    {"brand": "Bajaj Maxride", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DYCO8SygSXu/"},
+    {"brand": "Langgeng Art Space", "years": [2026], "role": "venue", "source": "https://jogja.antaranews.com/berita/827183/yogyakarta-art-book-fair-2026-menghadirkan-43-exhibitor-dari-dalam-dan-luar-negeri"}
+  ],
+  "add_activation_formats": ["stage-or-program-takeover"],
+  "add_sources": [
+    {"field": "attendance", "url": "https://www.instagram.com/p/DYUZkGSBjM8/", "note": "@ykartbookfair (14 May 2026): '3 hari penyelenggaraan, 6 bulan persiapan, 30 orang komite ..., 43 exhibitor, ... 30 program dan aktivasi ruang, 65 pihak partner dan 2800++ pengunjung. ... Sampai jumpa di YKABF27!'"},
+    {"field": "attendance", "url": "https://thedisplay.net/2026/05/13/yogyakarta-art-book-fair-2026-rekap/", "note": "Google snippet: more than 2,500 visitors from various backgrounds."},
+    {"field": "ticket_price", "url": "https://www.instagram.com/p/DYEJkaggc4O/", "note": "@ykartbookfair (8 May 2026): 'Dapatkan tiket harian Anda sekarang di linktr.ee/YKABF'; kids under 5 free with an adult."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DYCEU2lAUQI/", "note": "'Book Launch powered by @fedrigoni_indonesia'; 'Confab Deck powered by @fedrigoni_indonesia' (https://www.instagram.com/p/DYARkDeATsX/)."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DYBfs20AeKc/", "note": "Ika Vantiani special showcase 'powered by @acehousecollective & @palkakreatif'."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DYCO8SygSXu/", "note": "Post co-authored by @maxrideindonesia, @bajajreindonesia and @ykartbookfair: Bajaj Maxride rides to YKABF 2026 with promo code YKARTMAX."},
+    {"field": "sponsors", "url": "https://jogja.antaranews.com/berita/827183/yogyakarta-art-book-fair-2026-menghadirkan-43-exhibitor-dari-dalam-dan-luar-negeri", "note": "Google snippet: YKABF 2026 held 8 to 10 May 2026 at Langgeng Art Space with 43 exhibitors from Indonesia and abroad."},
+    {"field": "activation_formats", "url": "https://www.instagram.com/p/DX_n1jmAVh0/", "note": "Brand-powered program spaces: 'Confab Deck powered by Fedrigoni' talks and book launches."}
+  ],
+  "add_gaps": [
+    "Daily pass price not confirmed from the organiser",
+    "Organiser entity: likely Yogyakarta Art Book Club (YKABC), not confirmed"
+  ],
+  "remove_gaps": [
+    "Entry price conflict (IDR 35,000 vs free)",
+    "Attendance not in results"
+  ],
+  "notes": "Organiser-reported 2,800+ visitors and 65 partners for the 3-day 2026 edition; paid daily pass (not free). Brand partners are paper and creative-industry players (Fedrigoni) plus Bajaj Maxride transport. IG bio now promotes 'YKABC @ Nandur Srawung #13' (21 to 28 Oct 2026, Taman Budaya Yogyakarta), a club satellite, not the fair; YKABF27 signalled for 2027."
+}

@@ -1,0 +1,158 @@
+{
+  "id": "rodellar-climbing-festival",
+  "set": {
+    "dates": {
+      "last_edition": {
+        "start": "2025-06",
+        "end": null,
+        "status": "held",
+        "label": "2025: La Sportiva Rodellar Opening Party, billed as taking over from the Climbing Festival (early June per Instagram posts)"
+      },
+      "next_edition": {
+        "start": null,
+        "end": null,
+        "status": "unknown",
+        "label": "Not announced; the 9 to 11 Oct 2026 dates came only from an aggregator and no coverage of a 2026 festival was found"
+      },
+      "frequency": "annual",
+      "duration_days": null
+    },
+    "attendance": {
+      "figure": 500,
+      "figure_high": null,
+      "year": 2024,
+      "is_estimate": true,
+      "source": "https://www.heraldo.es/noticias/deportes/2024/10/08/el-rodellar-climbing-festival-congregara-a-500-escaladores-amateurs-y-profesionales-1768152.html",
+      "note": "Pre-event press figure: more than 500 amateur and professional climbers to take part in the 7th edition, 11 and 12 Oct 2024 (Heraldo, Google snippet). Spectator total not published."
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "La Sportiva",
+      "years": [
+        2022,
+        2023,
+        2024
+      ],
+      "role": "presenting",
+      "source": "https://rondasomontano.com/rodellar-climbing-festival-2024/"
+    },
+    {
+      "brand": "Petzl",
+      "years": [
+        2022,
+        2023
+      ],
+      "role": "major",
+      "source": "https://www.desnivel.com/material/noticias-de-empresa/exito-de-convocatoria-en-el-rodellar-climbing-festival-2023/"
+    },
+    {
+      "brand": "Singing Rock",
+      "years": [
+        2022
+      ],
+      "role": "partner",
+      "source": "https://www.desnivel.com/escalada-roca/el-rodellar-climbing-festival-sigue-creciendo-en-su-quinta-edicion/"
+    },
+    {
+      "brand": "Climb Skin",
+      "years": [
+        2022
+      ],
+      "role": "partner",
+      "source": "https://www.desnivel.com/escalada-roca/el-rodellar-climbing-festival-sigue-creciendo-en-su-quinta-edicion/"
+    },
+    {
+      "brand": "Fixe Climbing",
+      "years": [
+        2022
+      ],
+      "role": "partner",
+      "source": "https://www.desnivel.com/escalada-roca/el-rodellar-climbing-festival-sigue-creciendo-en-su-quinta-edicion/"
+    },
+    {
+      "brand": "The Monkey Climber",
+      "years": [
+        2022
+      ],
+      "role": "partner",
+      "source": "https://www.desnivel.com/escalada-roca/el-rodellar-climbing-festival-sigue-creciendo-en-su-quinta-edicion/"
+    },
+    {
+      "brand": "Mutant Fingers",
+      "years": [
+        2022
+      ],
+      "role": "partner",
+      "source": "https://www.desnivel.com/escalada-roca/el-rodellar-climbing-festival-sigue-creciendo-en-su-quinta-edicion/"
+    },
+    {
+      "brand": "Ayuntamiento de Bierge",
+      "years": [
+        2023
+      ],
+      "role": "government",
+      "source": "https://www.heraldo.es/noticias/deportes/2023/09/25/el-rodellar-climbing-festival-mas-multitudinario-1680059.html"
+    },
+    {
+      "brand": "Camping Mascun",
+      "years": [
+        2023
+      ],
+      "role": "venue",
+      "source": "https://www.heraldo.es/noticias/deportes/2023/09/25/el-rodellar-climbing-festival-mas-multitudinario-1680059.html"
+    }
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.instagram.com/p/DKNEMXPoEKV/",
+      "note": "IG post (28 May 2025 by shortcode): 'La Sportiva Rodellar Opening Party 2025. Recogiendo el testigo del Rodellar Climbing Festival, @lasportivaspain celebra este ano un evento...' (taking over from the festival); Google snippet."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.instagram.com/p/DKpmLHGs2xy/",
+      "note": "Attendee post (8 Jun 2025 by shortcode): 'Another year another Rodellar Climbing Festival', thanking @lasportivaspain; Google snippet."
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://woguclimbing.com/tag/rodellar-climbing-festival/",
+      "note": "WOGU tag page fetched 21 Oct 2026 lists coverage up to the 2024 (7th) edition only; nothing on 2025 or 2026."
+    },
+    {
+      "field": "attendance",
+      "url": "https://www.heraldo.es/noticias/deportes/2024/10/08/el-rodellar-climbing-festival-congregara-a-500-escaladores-amateurs-y-profesionales-1768152.html",
+      "note": "'tomaran parte mas de 500' climbers, 2024; Google snippet."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://rondasomontano.com/rodellar-climbing-festival-2024/",
+      "note": "'VII Rodellar Climbing Festival ... organizada por La Sportiva', 11 and 12 Oct 2024."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.desnivel.com/material/noticias-de-empresa/exito-de-convocatoria-en-el-rodellar-climbing-festival-2023/",
+      "note": "2023: 'organizado por La Sportiva con el apoyo tecnico de Petzl'; Google snippet."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.desnivel.com/escalada-roca/el-rodellar-climbing-festival-sigue-creciendo-en-su-quinta-edicion/",
+      "note": "2022 (5th edition): invited brands Petzl, Singing Rock, Climb Skin, Fixe Climbing, The Monkey Climber and Mutant Fingers; Google snippet."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.heraldo.es/noticias/deportes/2023/09/25/el-rodellar-climbing-festival-mas-multitudinario-1680059.html",
+      "note": "2023 (6th edition) thanks collaborators, Ayuntamiento de Bierge, Camping Mascun and Rodellar residents; Google snippet."
+    }
+  ],
+  "add_gaps": [
+    "2026 edition not confirmed; 2025 ran as a La Sportiva Opening Party in early June",
+    "Exact 2025 dates not captured"
+  ],
+  "remove_gaps": [
+    "2026 dates come from an aggregator that said exact dates would be published by La Sportiva and Petzl",
+    "Edition count and recent attendance not confirmed"
+  ],
+  "notes": "Check the format change. The last festival covered in press is the 7th, 11 and 12 Oct 2024. In 2025 La Sportiva ran a 'Rodellar Opening Party' in early June that it said takes over from the festival. Nothing confirms a 2026 edition, so I set it to unknown; the status may need to go to on-hiatus. The attendance figure is a 2024 pre-event press number."
+}

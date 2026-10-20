@@ -1,0 +1,51 @@
+{
+  "id": "alentejo-gravel-ourique",
+  "set": {
+    "website": "http://www.gravelalentejo.com",
+    "organiser": {"name": "Cabreira Solutions (with the Município de Ourique)", "type": "promoter", "website": "https://cabreirasolutions.com/"},
+    "dates": {
+      "last_edition": {"start": "2025-11-09", "end": "2025-11-09", "status": "held", "label": "1st edition (2025), race day 9 Nov"},
+      "next_edition": {"start": "2026-10-24", "end": "2026-10-25", "status": "confirmed", "label": "2nd edition (2026), UCI Gravel World Series qualifier; race day 25 Oct"},
+      "frequency": "annual",
+      "duration_days": 2
+    },
+    "attendance": {"figure": 732, "figure_high": null, "year": 2025, "is_estimate": false, "source": "https://www.mountainbikes.pt/noticias/uci-gravel-world-series-ourique-reuniu-732-atletas-37-nacionalidades_318862_102.html", "note": "Riders, not spectators: press reported 732 athletes from 37 nationalities at the 1st edition (Google snippet); other press said over 800 registered. A 2026 press release says about 1,000 riders are expected."},
+    "partnership_contact": {"email": "geral@cabreirasolutions.com", "page_url": "https://cabreirasolutions.com/kit-de-imprensa/", "named_person": null, "source": "https://cabreirasolutions.com/evento/uci-alentejo-gravel/"}
+  },
+  "add_sponsors": [
+    {"brand": "Škoda Portugal", "years": [2025], "role": "naming", "source": "https://www.instagram.com/p/DQXHvFZiA1Q/"},
+    {"brand": "Município de Ourique", "years": [2025, 2026], "role": "government", "source": "https://stopandgo.net/storage/events/uci-alentejo-gravel-2025/690e85ca4ba2f_Alentejo_uci_gravel.pdf"},
+    {"brand": "Turismo do Alentejo (ERT)", "years": [2025, 2026], "role": "government", "source": "https://www.instagram.com/p/DdvsiSJD1QN/"},
+    {"brand": "Visit Portugal (Turismo de Portugal)", "years": [2025, 2026], "role": "government", "source": "https://www.instagram.com/p/DdvsiSJD1QN/"},
+    {"brand": "Specialized Portugal", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DdvsiSJD1QN/"}
+  ],
+  "add_activation_formats": ["naming-rights", "stall"],
+  "add_sources": [
+    {"field": "website", "url": "https://www.instagram.com/ucialentejogravel/", "note": "IG profile link is gravelalentejo.com; bio 'Organização: Cabreira Solutions'."},
+    {"field": "organiser", "url": "https://www.instagram.com/ucialentejogravel/", "note": "IG bio: 'Organização: Cabreira Solutions'."},
+    {"field": "organiser", "url": "https://stopandgo.net/storage/events/uci-alentejo-gravel-2025/690e85ca4ba2f_Alentejo_uci_gravel.pdf", "note": "Google snippet of 2025 race regulations: '...Alentejo e o Município de Ourique, organizam o evento'."},
+    {"field": "dates.last_edition", "url": "https://ucigravelworldseries.com/en/ourique/", "note": "Google snippet: Alentejo Gravel, Sunday 09.11.2025, 87 to 119 km."},
+    {"field": "dates.next_edition", "url": "https://cabreirasolutions.com/evento/uci-alentejo-gravel/", "note": "Organiser page: 2nd edition on 25 Oct 2026, also lists 24 Oct 2026; expo, food and family zone alongside the race."},
+    {"field": "dates.next_edition", "url": "https://sapo.pt/artigo/ourique-recebe-segunda-edicao-do-uci-alentejo-gravel-a-24-e-25-de-outubro-6ac602529015085aedc206f0", "note": "Google snippet (7 Oct 2026): second edition on 24 and 25 Oct."},
+    {"field": "attendance", "url": "https://www.mountainbikes.pt/noticias/uci-gravel-world-series-ourique-reuniu-732-atletas-37-nacionalidades_318862_102.html", "note": "Google snippet: 1st edition 'reuniu 732 atletas de 37 nacionalidades'."},
+    {"field": "attendance", "url": "https://www.goride.pt/o-sucesso-do-alentejo-gravel-2025-a-etapa-portuguesa-da-uci-gravel-world-series/", "note": "Google snippet: more than 800 athletes of 37 nationalities."},
+    {"field": "attendance", "url": "https://www.record.pt/comunicados-de-imprensa/detalhe/uci-alentejo-gravel-espera-mil-ciclistas-em-ourique?ref=HP_BlocoComunicadosdeImprensa", "note": "Google snippet: press release headline 'UCI Alentejo Gravel espera mil ciclistas em Ourique' (2026)."},
+    {"field": "partnership_contact", "url": "https://cabreirasolutions.com/kit-de-imprensa/", "note": "Organiser press kit page lists general email geral@cabreirasolutions.com."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DQXHvFZiA1Q/", "note": "28 Oct 2025 caption: 'Naming Sponsor: @skodagram_portugal' for 9 Nov 2025 race; event styled 'UCI Alentejo Gravel by Škoda'."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DRPtA5liHOq/", "note": "19 Nov 2025: Škoda Portugal general manager on Škoda's role as naming sponsor of the event."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DQaFp6dDs5_/", "note": "29 Oct 2025 caption lists Visit Portugal, Turismo do Alentejo and Município de Ourique."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DdvsiSJD1QN/", "note": "26 Sep 2026 post (co-authored with Município de Ourique) tags @visitportugal @alentejo.ert @municipioourique @specialized_portugal in its partner block."},
+    {"field": "activation_formats", "url": "https://www.instagram.com/p/DQ7cihmDCRh/", "note": "2025 edition branded 'UCI Alentejo Gravel by Škoda' (naming rights)."},
+    {"field": "activation_formats", "url": "https://cabreirasolutions.com/evento/uci-alentejo-gravel/", "note": "Organiser page: dedicated zone with food, exhibitors ('expositores') and activities for all ages."}
+  ],
+  "add_gaps": [
+    "Entry fees not captured (stopandgo.net registration page not read)",
+    "Škoda naming sponsorship confirmed for 2025 only; 2026 posts keep #skoda hashtags but no explicit naming credit"
+  ],
+  "remove_gaps": [
+    "No public partnerships contact found",
+    "Organiser, website, entry fee and rider numbers not found",
+    "1st edition year inferred from the 2026 edition being the second"
+  ],
+  "notes": "Škoda Portugal was naming sponsor of the 2025 edition; 2026 partner block shows tourism bodies, the municipality and Specialized. Attendance is rider count (732 in 2025), not spectators. 2026 event spans 24 to 25 Oct with the race on 25 Oct. Organiser Cabreira Solutions is a cycling event company; general email only."
+}

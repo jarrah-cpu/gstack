@@ -1,0 +1,83 @@
+{
+  "id": "maryhill-ratz-freerides",
+  "set": {
+    "dates": {
+      "last_edition": {
+        "start": "2026-09-05",
+        "end": "2026-09-07",
+        "status": "held",
+        "label": "2026 RVOD Freeride and Tour de Maryhill"
+      },
+      "next_edition": {
+        "start": "2027",
+        "end": null,
+        "status": "expected",
+        "label": "2027, 20th anniversary; one event only, weekend between late May and Labor Day still being chosen"
+      },
+      "frequency": "annual",
+      "duration_days": 3
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Johnson Gravity Racing",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.maryhillratz.com/2026/06/2026-rvod-freeride/"
+    },
+    {
+      "brand": "Woodinville CPA",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.maryhillratz.com/2026/06/2026-rvod-freeride/"
+    },
+    {
+      "brand": "Eastside Longboards",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.maryhillratz.com/2026/06/2026-rvod-freeride/"
+    },
+    {
+      "brand": "Skate School of Santa Fe",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.maryhillratz.com/2026/06/2026-rvod-freeride/"
+    },
+    {
+      "brand": "Maryhill Museum of Art",
+      "years": [
+        2026
+      ],
+      "role": "venue",
+      "source": "https://www.maryhillratz.com/2026/06/2026-rvod-freeride/"
+    }
+  ],
+  "add_sources": [
+    {
+      "field": "dates",
+      "url": "https://www.instagram.com/p/DdURwnQBxen/",
+      "note": "15 Sep 2026: Ratz Freerides started in 2007 and grew to 4 events a year; 'In 2027, our 20th anniversary, we will only be putting on one event'; Labor Day not preferred; options 'between the 3rd week in May to Labor Day weekend'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.maryhillratz.com/2026/06/2026-rvod-freeride/",
+      "note": "'We also want to thank our current sponsors, Johnson Gravity Racing, Woodinville CPA, Eastside Longboards, Skate School of Santa Fe'; thanks to The Maryhill Museum of Art (owner of the Maryhill Loops Road) and The Wolfe Family. 'Please contact the Ratz for sponsorship opportunities.'"
+    }
+  ],
+  "remove_gaps": [
+    "Attendance and sponsors not captured"
+  ],
+  "add_gaps": [
+    "Attendance not published",
+    "Site invites sponsorship enquiries ('Please contact the Ratz') but publishes no email or contact page"
+  ],
+  "notes": "Frequency changes from biannual to a single annual event in 2027 (20th anniversary), date not yet set, so the April 2027 Spring Freeride expectation no longer holds. Sponsors are small endemic businesses; scale is a few hundred riders at most (not published)."
+}

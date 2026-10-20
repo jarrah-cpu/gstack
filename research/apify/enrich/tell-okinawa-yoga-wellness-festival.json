@@ -1,0 +1,16 @@
+{
+  "id": "tell-okinawa-yoga-wellness-festival",
+  "set": {
+    "partnership_contact": {"email": "outreach.okinawa@telljp.com", "page_url": "https://telljp.com/event/2026-tell-okinawa-yoga-wellness-festival/", "named_person": null, "source": "https://telljp.com/event/2026-tell-okinawa-yoga-wellness-festival/"}
+  },
+  "add_sources": [
+    {"field": "partnership_contact", "url": "https://telljp.com/event/2026-tell-okinawa-yoga-wellness-festival/", "note": "Event page: volunteers and yoga teachers wanting to lead a session should email outreach.okinawa@telljp.com (address shown via the page's email protection link). Published for volunteering, the only event-specific contact. TELL's contact page lists development@telljp.com for TELL @ Work (corporate programs) and okinawa.intake@telljp.com for Okinawa clinical intake."},
+    {"field": "ticket_price", "url": "https://telljp.com/event/2026-tell-okinawa-yoga-wellness-festival/", "note": "Event page: 15 Nov 2026, 10:00 to 16:00, Yaeshima Park, 'Free to participate', theme 'Yoga for mental health'."},
+    {"field": "activation_formats", "url": "https://www.facebook.com/groups/463702664949397/posts/1752252872761030/", "note": "Google snippet: organisers seeking more food vendors for the 15 Nov 2026 festival at Yaeshima Park."}
+  ],
+  "add_gaps": [
+    "No sponsor list published on the event page; no previous edition found",
+    "No dedicated partnership or sponsorship contact (only the volunteer email and TELL's corporate development@ address)"
+  ],
+  "notes": "Thin evidence: event page confirms free entry, 15 Nov 2026, Yaeshima Park, 'Yoga for mental health' theme, and an event email (outreach.okinawa@telljp.com, published for volunteers). No sponsors, attendance or past editions found. Mental health non-profit host is a natural fit for a health brand; approach via TELL's development team."
+}

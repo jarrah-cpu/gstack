@@ -1,0 +1,287 @@
+{
+  "id": "designart-tokyo",
+  "set": {
+    "attendance": {
+      "figure": 248800,
+      "figure_high": null,
+      "year": 2025,
+      "is_estimate": false,
+      "source": "https://www.designart.jp/designarttokyo2025/report/",
+      "note": "Organiser-reported cumulative visits (のべ) of about 248,800 over 31 Oct to 9 Nov 2025, a record; 91 venues, 130 exhibitors, about 300 creators and brands. 2024 report gives 226,700."
+    },
+    "partnership_contact": {
+      "email": "info@designart.jp",
+      "page_url": "https://www.designart.jp/entry2026/",
+      "named_person": null,
+      "source": "https://www.designart.jp/"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "SCALE Magazine",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.instagram.com/p/DetOqHsPDk4/"
+    },
+    {
+      "brand": "ELLE DECOR Japan",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.instagram.com/p/Dd-eMmXvhA9/"
+    },
+    {
+      "brand": "Time Out Tokyo",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.instagram.com/p/DcsDxnAP7k6/"
+    },
+    {
+      "brand": "The Artling",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.instagram.com/p/DcsDuDXPOXo/"
+    },
+    {
+      "brand": "Shoten Kenchiku",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.instagram.com/p/DcsDnNXvZd3/"
+    },
+    {
+      "brand": "TECTURE MAG",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.instagram.com/p/DcsDqblPrRa/"
+    },
+    {
+      "brand": "Visual Atelier 8",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.instagram.com/p/DcsD1PfvE2O/"
+    },
+    {
+      "brand": "SHIFT",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.instagram.com/p/DcsDjmwP559/"
+    },
+    {
+      "brand": "REAL LIVING & INTERIOR",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.instagram.com/p/DcsDeUovCSy/"
+    },
+    {
+      "brand": "QUI",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.instagram.com/p/DcsDZsivwyf/"
+    },
+    {
+      "brand": "ONBEAT",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.instagram.com/p/DcsDUrSPAbR/"
+    },
+    {
+      "brand": "DesignWanted",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.instagram.com/p/Dck9V2uPWKA/"
+    },
+    {
+      "brand": "AXIS",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.instagram.com/p/Dck9AUZvgcE/"
+    },
+    {
+      "brand": "designboom",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.instagram.com/p/Dck9STivkfY/"
+    },
+    {
+      "brand": "Chizai Zukan",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.instagram.com/p/Dck9H9fPxDQ/"
+    },
+    {
+      "brand": "Design Anthology",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.instagram.com/p/Dck9NM2vXVH/"
+    },
+    {
+      "brand": "JDN",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.instagram.com/p/Dck9bJzPqHe/"
+    },
+    {
+      "brand": "Architecture Hunter",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.instagram.com/p/Dck8mhfvStl/"
+    },
+    {
+      "brand": "Lula Japan",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.instagram.com/p/Dck9d-Dv9O_/"
+    },
+    {
+      "brand": "Artprice.com (Artmarket)",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.instagram.com/p/Dck81qRvVyp/"
+    },
+    {
+      "brand": "Range Rover",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://x.com/DESIGNART_TOKYO/status/1983414042745360584"
+    },
+    {
+      "brand": "FLEXFORM",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/Des6iLSPpvZ/"
+    },
+    {
+      "brand": "Toyota",
+      "years": [
+        2025
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://xtrend.nikkei.com/atcl/contents/18/00947/00235/?P=2"
+    },
+    {
+      "brand": "LIXIL",
+      "years": [
+        2025
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://xtrend.nikkei.com/atcl/contents/18/00947/00235/?P=2"
+    }
+  ],
+  "add_activation_formats": [
+    "stage-or-program-takeover"
+  ],
+  "add_sources": [
+    {
+      "field": "attendance",
+      "url": "https://www.designart.jp/designarttokyo2025/report/",
+      "note": "Google snippet of the 2025 Festival Report: total visitors about 248,800 (のべ), 91 venues, 130 exhibitors, about 300 creators and brands, sales about JPY 130 million."
+    },
+    {
+      "field": "attendance",
+      "url": "https://www.instagram.com/p/DTHNqKhDw6i/",
+      "note": "@designart_tokyo new year post (5 Jan 2026): 2025 edition had 130 exhibitors at 91 venues and about 248,800 visits, the highest ever."
+    },
+    {
+      "field": "attendance",
+      "url": "https://www.designart.jp/designarttokyo2024/report/",
+      "note": "Google snippet of the 2024 Festival Report: total visitors 226,700, 96 venues, 117 exhibitors."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/Dck9STivkfY/",
+      "note": "Series of '【MEDIA PARTNER | メディアパートナー紹介】' posts (Aug to Oct 2026) introduce 20 media partners incl. designboom, AXIS, Time Out Tokyo, ELLE DECOR, DesignWanted, Design Anthology."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://x.com/DESIGNART_TOKYO/status/1983414042745360584",
+      "note": "Google snippet: DESIGNART TOKYO 2025 '【協賛企業様ご紹介】 RANGE ROVER' (sponsor introduction)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/Des6iLSPpvZ/",
+      "note": "Talk Session 05 at the main venue (1 Nov 2026) is 'FLEXFORM presents'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/00947/00235/?P=2",
+      "note": "Google snippet: Nikkei Trendy headline says Toyota and LIXIL exhibited at DESIGNART TOKYO 2025 corporate exhibits."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.designart.jp/designarttokyo2026/supporters/",
+      "note": "2026 supporters page has SUPPORTERS, SPONSORS and SUPPORTING MEDIA sections but logos carry no readable names; only RANA UNITED (special cooperation) is named."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/Des6iLSPpvZ/",
+      "note": "Brand-presented talk session (FLEXFORM) in the free talk programme at the AUTOBAHN / KK Line main venue."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.designart.jp/",
+      "note": "Site footer: 'Contact for DESIGNART' info@designart.jp; press press@designart.jp (about page lists designarttokyo@camronpr.com for press)."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.designart.jp/entry2026/",
+      "note": "Google snippet: 2026 entry page lists sponsor advertising (協賛広告掲載), e.g. web article ad JPY 500,000 and banner ad JPY 500,000."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.designart.jp/callforsponsers/",
+      "note": "Google snippet: 2021 sponsor call gave a sponsorship desk sponsor@designart.jp; not confirmed as current."
+    }
+  ],
+  "add_gaps": [
+    "Named sponsors and venue sponsors for 2026 not readable (logo images only on the supporters page)",
+    "Sponsorship package prices beyond advertising rates not published"
+  ],
+  "remove_gaps": [
+    "Which edition each attendance figure (210,000 and 214,500) belongs to is not fully clear",
+    "Corporate partner list beyond Dezeen not captured"
+  ],
+  "notes": "Attendance updated to the organiser's 2025 report (248,800 cumulative visits; 226,700 in 2024). 20 media partners for 2026 from IG intro posts; Range Rover sponsored 2025 (X snippet); FLEXFORM presented a talk. Corporate sponsor logos on the 2026 supporters page have no names, worth a manual look. General contact info@designart.jp; old sponsor desk sponsor@designart.jp (2021)."
+}

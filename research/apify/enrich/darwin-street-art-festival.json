@@ -1,0 +1,139 @@
+{
+  "id": "darwin-street-art-festival",
+  "set": {
+    "website": "https://www.darwinstreetartfestival.com.au/",
+    "organiser": {
+      "name": "Proper Creative (Festival Director David Collins)",
+      "type": "independent",
+      "website": "https://www.propercreative.com.au/"
+    },
+    "partnership_contact": {
+      "email": "admin@darwinstreetartfestival.com.au",
+      "page_url": "https://www.darwinstreetartfestival.com.au/about",
+      "named_person": "Kate Dinning, Marketing and Sponsorships",
+      "source": "https://www.darwinstreetartfestival.com.au/about"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Tourism and Events NT (NT Government)",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.instagram.com/p/DbStxWCSzWo/"
+    },
+    {
+      "brand": "City of Darwin",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.instagram.com/p/DbStxWCSzWo/"
+    },
+    {
+      "brand": "Monarch Painting",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/DbStxWCSzWo/"
+    },
+    {
+      "brand": "Haymes Paint",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/DbStxWCSzWo/"
+    },
+    {
+      "brand": "Darwin Airport (Airport Development Group)",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/DbStxWCSzWo/"
+    },
+    {
+      "brand": "Kennards Hire",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DbStxWCSzWo/"
+    },
+    {
+      "brand": "Argus Accommodation",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DbStxWCSzWo/"
+    },
+    {
+      "brand": "Zip Print NT",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DbStxWCSzWo/"
+    },
+    {
+      "brand": "NT News",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.instagram.com/p/DbStxWCSzWo/"
+    },
+    {
+      "brand": "Creative Australia",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.instagram.com/p/DZGyDaGyutW/"
+    }
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://www.darwinstreetartfestival.com.au/",
+      "note": "Official site, linked from @darwinstreetartfestival"
+    },
+    {
+      "field": "organiser",
+      "url": "https://www.darwinstreetartfestival.com.au/about",
+      "note": "'DSAF is delivered by Proper Creative, run by David Collins'; funded by the NT Government"
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.darwinstreetartfestival.com.au/about",
+      "note": "Team list names Kate Dinning for Marketing and Sponsorships; contact email admin@darwinstreetartfestival.com.au"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DbStxWCSzWo/",
+      "note": "DSAF2026 by the numbers: Major Funding Partner Tourism and Events NT; Official Equipment Partner Kennards Hire; Major Partners Monarch Painting, Haymes Paint, Darwin Airport; Media Partner NT News; Accommodation Argus; Printing Zip Print NT; City Partner City of Darwin"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DZwWw-vSqd-/",
+      "note": "Kennards Hire supplied elevated work platforms, vehicles, fencing, light towers, hats and water bottles as Official Equipment Partner"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DZGyDaGyutW/",
+      "note": "'Marked' book and exhibition supported by Creative Australia, NT Government, Zip Print NT and Kellaborate"
+    }
+  ],
+  "add_gaps": [
+    "Attendance not published (organiser says 'thousands of visitors each year'; 3,000+ maps given out in 2026)"
+  ],
+  "remove_gaps": [
+    "Organiser and sponsors not named in results"
+  ],
+  "notes": "Organiser, website, sponsorship contact and full 2026 partner roster now sourced. Partners are trade and in-kind (paint, equipment hire, printing) plus NT Government funding. 2026 tally: 23 murals, 32 artists, sold-out walking tours."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "bangalow-market",
+  "set": {
+    "website": "https://bangalowmarket.com.au/",
+    "partnership_contact": {
+      "email": "bangalowmarket@gmail.com",
+      "page_url": "https://bangalowmarket.com.au/market-stall-availability/",
+      "named_person": null,
+      "source": "https://bangalowmarket.com.au/market-stall-availability/"
+    },
+    "dates": {
+      "last_edition": {"start": "2026-09-27", "end": "2026-09-27", "status": "held", "label": "Sep 2026 (fourth Sunday)"},
+      "next_edition": {"start": "2026-10-25", "end": "2026-10-25", "status": "confirmed", "label": "Oct 2026 (fourth Sunday monthly)"},
+      "frequency": "monthly",
+      "duration_days": 1
+    }
+  },
+  "add_sponsors": [],
+  "add_activation_formats": [],
+  "add_sources": [
+    {"field": "website", "url": "https://www.instagram.com/bangalowmarket/", "note": "@bangalowmarket profile links to bangalowmarket.com.au; site carries the market's own history, stallholder applications and contact."},
+    {"field": "partnership_contact", "url": "https://bangalowmarket.com.au/market-stall-availability/", "note": "Contact page lists bangalowmarket@gmail.com. General market contact, not a sponsorship contact."},
+    {"field": "dates.next_edition", "url": "https://www.instagram.com/bangalowmarket/", "note": "IG bio: 'Next Market - Sunday October 25th', '4th Sunday of every month'."},
+    {"field": "dates", "url": "https://bangalowmarket.com.au/", "note": "Official site history: Jeff Prichard started the market at Bangalow Showgrounds in 1982 with forty stallholders."}
+  ],
+  "add_gaps": [
+    "No sponsors or brand partners found; site and IG show stallholders only",
+    "Attendance and stall count not published on the official site",
+    "Current operator not named on the official site (founder Jeff Prichard named for 1982)"
+  ],
+  "remove_gaps": [
+    "Dates inferred from the fourth-Sunday pattern, not an organiser calendar",
+    "Start year (1982) from one guide only"
+  ],
+  "notes": "Official site and contact email confirmed via the IG profile link. No sponsors: the only collab account (@byronbinfluencer, 756 followers) looks like a local waste or recycling initiative, not a sponsor. Casual stall fee is $50 (stallholder page)."
+}

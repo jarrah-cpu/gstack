@@ -1,0 +1,16 @@
+{
+  "id": "unsound-adelaide",
+  "set": {
+    "website": "https://www.illuminateadelaide.com/unsound-adelaide-2026/",
+    "ticket_price": {"min": 49, "max": 150, "currency": "AUD", "free_entry": false, "note": "2026 range '$49 - $150' on the Illuminate Adelaide event page; tiers not broken down. Sold via Moshtix."}
+  },
+  "add_sources": [
+    {"field": "website", "url": "https://www.illuminateadelaide.com/unsound-adelaide-2026/", "note": "Official event page within Illuminate Adelaide; Moshtix lists 'Illuminate Adelaide presents Unsound Adelaide 2026'."},
+    {"field": "ticket_price", "url": "https://www.illuminateadelaide.com/unsound-adelaide-2026/", "note": "Event page shows '$49 - $150'."},
+    {"field": "dates.last_edition", "url": "https://www.illuminateadelaide.com/unsound-adelaide-2026/", "note": "'Fri 10 - Sat 11 Jul 2026': Lion Arts Factory (Fri), Hindley Street Music Hall (Sat), Unsound Adelaide Club at Ancient World both nights. InDaily's '11 to 12 July' is an outlier."},
+    {"field": "dates.next_edition", "url": "https://www.instagram.com/illuminateadelaide/", "note": "Illuminate Adelaide IG bio: 'Returning July 2027'. Unsound's 2027 return not separately announced."}
+  ],
+  "add_gaps": ["Attendance not published", "No sponsors named beyond the presenter Illuminate Adelaide"],
+  "remove_gaps": ["Ticket prices, attendance and IG handle not captured"],
+  "notes": "Ticket range and official page added; no sponsors beyond Illuminate Adelaide. 'Presented by arrangement with Arts Projects Australia' applies to one act only. IG account in the pack is Illuminate Adelaide (the presenter), not a dedicated Unsound Adelaide account."
+}

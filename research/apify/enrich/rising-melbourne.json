@@ -1,0 +1,279 @@
+{
+  "id": "rising-melbourne",
+  "set": {
+    "organiser": {
+      "name": "RISING",
+      "type": "non-profit",
+      "website": "https://rising.melbourne/"
+    },
+    "partnership_contact": {
+      "email": "partnerships@rising.melbourne",
+      "page_url": "https://rising.melbourne/about/partners",
+      "named_person": null,
+      "source": "https://rising.melbourne/about/partners"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "ahm health insurance",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/Dat2jl7Sbm7/"
+    },
+    {
+      "brand": "Sapporo",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/Dat2jl7Sbm7/"
+    },
+    {
+      "brand": "Emporium Melbourne",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/Dat2jl7Sbm7/"
+    },
+    {
+      "brand": "Hotel Indigo Melbourne Little Collins by IHG",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/Dat2jl7Sbm7/"
+    },
+    {
+      "brand": "University of Melbourne",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://rising.melbourne/about/partners"
+    },
+    {
+      "brand": "Red Bull",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://rising.melbourne/about/partners"
+    },
+    {
+      "brand": "Thorne Harbour Health",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/Da18l9fxhu9/"
+    },
+    {
+      "brand": "Sydney Gay and Lesbian Mardi Gras",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/Da18l9fxhu9/"
+    },
+    {
+      "brand": "Corrs",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://rising.melbourne/about/partners"
+    },
+    {
+      "brand": "SAE University College",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://rising.melbourne/about/partners"
+    },
+    {
+      "brand": "The Electric Canvas",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://rising.melbourne/about/partners"
+    },
+    {
+      "brand": "Bolster Group",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://rising.melbourne/about/partners"
+    },
+    {
+      "brand": "Tsu Lange Yor",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://rising.melbourne/about/partners"
+    },
+    {
+      "brand": "Yarra Trams",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DdaGTt9SNNA/"
+    },
+    {
+      "brand": "Transport Victoria",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.instagram.com/p/DdaGTt9SNNA/"
+    },
+    {
+      "brand": "City of Melbourne",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://rising.melbourne/about/partners"
+    },
+    {
+      "brand": "Creative Australia (Australian Government)",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.instagram.com/p/Dat2jl7Sbm7/"
+    },
+    {
+      "brand": "Japan Foundation",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://rising.melbourne/about/partners"
+    },
+    {
+      "brand": "Goethe-Institut",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://rising.melbourne/about/partners"
+    },
+    {
+      "brand": "British Council",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://rising.melbourne/about/partners"
+    },
+    {
+      "brand": "Creative New Zealand",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://rising.melbourne/about/partners"
+    },
+    {
+      "brand": "ACMI",
+      "years": [
+        2026
+      ],
+      "role": "collab",
+      "source": "https://www.instagram.com/p/DajKdOqSwIu/"
+    },
+    {
+      "brand": "Beat",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://rising.melbourne/about/partners"
+    },
+    {
+      "brand": "Rock Posters",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://rising.melbourne/about/partners"
+    },
+    {
+      "brand": "RRR (3RRR)",
+      "years": [
+        2025
+      ],
+      "role": "media",
+      "source": "https://www.instagram.com/p/Db2N0mkkVvs/"
+    }
+  ],
+  "add_activation_formats": [
+    "installation"
+  ],
+  "add_sources": [
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/Dat2jl7Sbm7/",
+      "note": "2026 wrap post: 'RISING is supported by the Victorian Government through Creative Victoria ... Australian Dance Biennale is assisted by the Australian Government through Creative Australia ... With thanks to our Major Partner @ahminsurance and Official Partners @sapporoaus @emporiummelbourne @melbournehotelindigo @umac.melbourne'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://rising.melbourne/about/partners",
+      "note": "Partners page (crawled Oct 2026, footer 2026). Major Partner: ahm. Public Supporters: City of Melbourne, Transport Victoria, VMDO, Japan Foundation, Goethe Institut, British Council, Creative New Zealand, Australian Government. Official Partners: Sapporo, Emporium, Hotel Indigo Melbourne Little Collins by IHG, University of Melbourne. Supporting Partners: Tsu Lange Yor, Corrs, Exhibitionist, Bolster Group, SAE University College, The Electric Canvas, Thorne Harbour Health, Red Bull. Media: Beat, Rock Posters. Program partners include Arts Centre Melbourne, Arts House, Melbourne Recital Centre, Chunky Move, MTC, State Library Victoria, Max Watts."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/Da18l9fxhu9/",
+      "note": "Sissy Ball 8 (Australian Dance Biennale at RISING 2026): 'With thanks to our Sissy Ball partners @thorneharbour @sydneymardigras @cypherculture_'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DdaGTt9SNNA/",
+      "note": "First Peoples Melbourne Art Trams: 'Presented by RISING in partnership with @transport.victoria and @yarratrams' (2026 trams; 2027 EOI open)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DajKdOqSwIu/",
+      "note": "'Reverb: This is a Journey into Sound is presented with @acmionline' (post Jul 2026; Reverb ran at ACMI into Aug to Oct 2026)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/Db2N0mkkVvs/",
+      "note": "Organiser post Aug 2026 on the Little Bands LP: Little Bands was presented by RISING and @3rrrfm in June 2025."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/DdIQdunS-Ef/",
+      "note": "Art Trams: artist-wrapped trams on Yarra Trams routes, presented with Transport Victoria and Yarra Trams."
+    },
+    {
+      "field": "organiser",
+      "url": "https://rising.melbourne/about/partners",
+      "note": "Partners page: 'As a not-for-profit organisation, our partners help bring ambitious work to life'."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://rising.melbourne/about/partners",
+      "note": "'Contact the RISING Partnerships team' (mailto partnerships@rising.melbourne); link to a 2027 Partnership Prospectus; brands offered 'major activations and product launches to hospitality, storytelling and city-wide visibility'. Partners face ESG due diligence and a Fossil Free Sponsorship pledge."
+    }
+  ],
+  "remove_gaps": [
+    "Instagram, attendance, sponsors beyond government and audience data not found",
+    "Organiser legal entity and type not confirmed"
+  ],
+  "add_gaps": [
+    "Attendance not published (Wikipedia shows a garbled '753,0000 (2023)', not used)",
+    "Audience demographics not published",
+    "Organiser legal entity not confirmed (RISING states it is not-for-profit)",
+    "VMDO (public supporter) not identified"
+  ],
+  "notes": "Health insurer ahm is RISING's Major Partner (2026), a direct health-category precedent and possible category conflict. Partnerships team email and a 2027 prospectus are published; RISING screens partners for ESG fit and has a fossil-free sponsorship pledge. RISING partners page was rate-limited on fetch but was read from the Apify crawl."
+}

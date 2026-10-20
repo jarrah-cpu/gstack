@@ -1,0 +1,57 @@
+{
+  "id": "burleigh-heads-single-fin-festival",
+  "add_sponsors": [
+    {
+      "brand": "Billabong",
+      "years": [
+        2019,
+        2023,
+        2024,
+        2025
+      ],
+      "role": "presenting",
+      "source": "https://www.boardriding.com/events/burleigh-single-fin-festival-2024"
+    },
+    {
+      "brand": "Gage Roads",
+      "years": [
+        2023,
+        2024,
+        2025
+      ],
+      "role": "presenting",
+      "source": "https://www.boardriding.com/events/burleigh-single-fin-festival-2024"
+    },
+    {
+      "brand": "Burleigh Pavilion",
+      "years": [
+        2024
+      ],
+      "role": "presenting",
+      "source": "https://www.boardriding.com/events/burleigh-single-fin-festival-2024"
+    }
+  ],
+  "add_sources": [
+    {
+      "field": "sponsors",
+      "url": "https://www.boardriding.com/events/burleigh-boardriders-annual-single-fin-festival-2019",
+      "note": "Google snippet: 2019 'annual Single Fin Festival presented by Billabong'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.boardriding.com/events/burleigh-single-fin-festival-2024",
+      "note": "Google snippet: 2024 festival 'presented by @billabong_australia @gageroadsbrewco @burleighpavilion'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.facebook.com/groups/99148475798/posts/10162998990730799/",
+      "note": "Google snippet: 'Single Fin Festival 2025 presented by @billabong_australia, and @gageroadsbrewco'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.facebook.com/SamosSurfPhotography/posts/a-few-pics-from-day-1-of-the-burleigh-heads-single-fin-classic-comp-2023-that-wa/6271348112897951/",
+      "note": "Google snippet: 2023 comp photos tagged with 'sponsors Gage Roads Brewing Co Billabong Australia'."
+    }
+  ],
+  "notes": "Billabong has presented the festival for years (2019 to 2025), with Gage Roads since at least 2023 and Burleigh Pavilion in 2024. No event IG account; the club account @burleigh_boardriders posts results. 30th year due Jan 2027, dates not out."
+}

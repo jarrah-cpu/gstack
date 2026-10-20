@@ -1,0 +1,32 @@
+{
+  "id": "lakemba-nights-during-ramadan",
+  "set": {
+    "dates": {
+      "last_edition": {"start": "2026-02-19", "end": "2026-03-15", "status": "held", "label": "2026 (Thursday to Sunday nights)"},
+      "next_edition": {"start": "2027-02-11", "end": "2027-03-07", "status": "confirmed", "label": "2027 (Thursday to Sunday nights, 6pm to 2am)"},
+      "frequency": "annual",
+      "duration_days": null
+    },
+    "partnership_contact": {"email": "media@cbcity.nsw.gov.au", "page_url": "https://www.cbcity.nsw.gov.au/your-council/media-centre", "named_person": null, "source": "https://www.cbcity.nsw.gov.au/your-council/media-centre"}
+  },
+  "add_sponsors": [
+    {"brand": "Multicultural NSW (NSW Government)", "years": [2026], "role": "government", "source": "https://whereinterestinghappens.com.au/event/lakembanights2026/"},
+    {"brand": "Western Union", "years": [2026], "role": "major", "source": "https://whereinterestinghappens.com.au/event/lakembanights2026/"},
+    {"brand": "SBS", "years": [2026], "role": "partner", "source": "https://whereinterestinghappens.com.au/event/lakembanights2026/"},
+    {"brand": "Sydney Water", "years": [2026], "role": "partner", "source": "https://whereinterestinghappens.com.au/event/lakembanights2026/"},
+    {"brand": "iJuice", "years": [2026], "role": "partner", "source": "https://whereinterestinghappens.com.au/event/lakembanights2026/"},
+    {"brand": "Shan Foods", "years": [2026], "role": "partner", "source": "https://whereinterestinghappens.com.au/event/lakembanights2026/"},
+    {"brand": "Malaysia Airlines", "years": [2026], "role": "partner", "source": "https://whereinterestinghappens.com.au/event/lakembanights2026/"},
+    {"brand": "MySat", "years": [2026], "role": "partner", "source": "https://www.facebook.com/Indians1nSydney/posts/its-back-lakemba-nights-during-ramadan-is-returning-in-2026-and-the-excitement-i/1227380589499901/"}
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {"field": "dates.next_edition", "url": "https://www.cbcity.nsw.gov.au/Lakemba-nights-during-ramadan", "note": "Council page: 'Returning in 2027 ... every Thursday-Sunday from 6pm to 2am between 11 February to 7 March.'"},
+    {"field": "sponsors", "url": "https://whereinterestinghappens.com.au/event/lakembanights2026/", "note": "Council event page for 2026: 'Proudly funded by' logo links to multicultural.nsw.gov.au; Major sponsor Western Union; Event sponsors SBS, Sydney Water, iJuice, Shan Foods; Airline partner Malaysia Airlines (names read from logo links)."},
+    {"field": "sponsors", "url": "https://www.facebook.com/Indians1nSydney/posts/its-back-lakemba-nights-during-ramadan-is-returning-in-2026-and-the-excitement-i/1227380589499901/", "note": "Google snippet: 2026 'sponsors: Sydney Water, Shan Foods, SBS Australia, MySat, Canterbury ...' (list cut off)."},
+    {"field": "partnership_contact", "url": "https://www.cbcity.nsw.gov.au/your-council/media-centre", "note": "Council-wide media enquiries email; general council email council@cbcity.nsw.gov.au on the contact page. No event-specific sponsorship contact published."}
+  ],
+  "add_gaps": ["No event-specific sponsorship contact; council media and general emails only", "Audience age and gender not published"],
+  "remove_gaps": ["2027 dates not announced; Ramadan 2027 is expected to start in early February", "Sponsor roster not captured", "No public partnerships contact found"],
+  "notes": "2027 dates confirmed by council: 11 Feb to 7 Mar 2027. 2026 sponsor roster found on the council's event page, with Western Union as major sponsor and food, utility and media brands as event sponsors, so non-endemic brands do buy in here. Sponsor names come from logo link URLs (no alt text). MySat and a truncated 'Canterbury ...' come only from a Facebook Google snippet."
+}

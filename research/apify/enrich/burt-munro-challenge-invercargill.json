@@ -1,0 +1,46 @@
+{
+  "id": "burt-munro-challenge-invercargill",
+  "set": {
+    "website": "https://www.burtmunrochallenge.co.nz/",
+    "dates": {
+      "last_edition": {"start": "2026-02-04", "end": "2026-02-08", "status": "held", "label": "2026"},
+      "next_edition": {"start": "2027-02-10", "end": "2027-02-14", "status": "confirmed", "label": "2027 (20th)"},
+      "frequency": "annual",
+      "duration_days": 5
+    },
+    "organiser": {"name": "Burt Munro Challenge (created by Southland Motorcycle Club; enquiries via a Great South address)", "type": null, "website": "https://www.burtmunrochallenge.co.nz/"},
+    "ticket_price": {"min": 20, "max": 140, "currency": "NZD", "free_entry": false, "note": "Spectator tickets $20 per race event ($10 with a General Rally Pass); General Rally Pass $90; All Access Rally Pass $140. From the official FAQ as crawled Oct 2026; edition not stated on the page."},
+    "partnership_contact": {"email": "burtmunro@greatsouth.nz", "page_url": "https://www.burtmunrochallenge.co.nz/contact", "named_person": null, "source": "https://www.burtmunrochallenge.co.nz/contact"}
+  },
+  "add_sponsors": [
+    {"brand": "Southland Honda", "years": [2026, 2027], "role": "partner", "source": "https://www.instagram.com/p/DPmlKwqE3f1/"},
+    {"brand": "Star Insurance", "years": [2026, 2027], "role": "partner", "source": "https://www.instagram.com/p/DP4mshUDRpi/"},
+    {"brand": "Indian Motorcycle", "years": [2026, 2027], "role": "partner", "source": "https://www.instagram.com/p/DQKoSyeEqUg/"},
+    {"brand": "E Hayes & Sons", "years": [2026, 2027], "role": "partner", "source": "https://www.instagram.com/p/DQcjDBvk4Uz/"},
+    {"brand": "Shelley Henderson (Professionals real estate)", "years": [2026, 2027], "role": "partner", "source": "https://www.instagram.com/p/DQum9xPElfZ/"},
+    {"brand": "Yamaha Motor New Zealand", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DUe1Ghxjo2f/"},
+    {"brand": "Jack Daniel's", "years": [2027], "role": "partner", "source": "https://www.burtmunrochallenge.co.nz/"},
+    {"brand": "ILT Foundation", "years": [2027], "role": "partner", "source": "https://www.burtmunrochallenge.co.nz/"},
+    {"brand": "Craigs Investment Partners", "years": [2027], "role": "partner", "source": "https://www.burtmunrochallenge.co.nz/"},
+    {"brand": "Southern Dragways", "years": [2027], "role": "partner", "source": "https://www.burtmunrochallenge.co.nz/"},
+    {"brand": "Invercargill City Council", "years": [2027], "role": "government", "source": "https://www.burtmunrochallenge.co.nz/"},
+    {"brand": "Great South", "years": [2027], "role": "government", "source": "https://www.burtmunrochallenge.co.nz/"}
+  ],
+  "add_activation_formats": ["naming-rights"],
+  "add_sources": [
+    {"field": "website", "url": "https://www.instagram.com/burtmunrochallenge/", "note": "IG profile links burtmunrochallenge.co.nz; site shows 10 to 14 Feb 2027."},
+    {"field": "dates.last_edition", "url": "https://www.instagram.com/p/DPmlKwqE3f1/", "note": "Southland Honda Track Day opened the 2026 event on Wed 4 Feb 2026; final-day post (https://www.instagram.com/p/DUd0vzzEtdc/) published 8 Feb NZDT. AMCN also says 4 to 8 Feb 2026 (Google snippet)."},
+    {"field": "dates.next_edition", "url": "https://www.burtmunrochallenge.co.nz/", "note": "Official site: '10-14 FEBRUARY 2027' with full 2027 schedule; IG calls it the 20th Burt Munro Challenge (https://www.instagram.com/p/DepmV64F7lN/)."},
+    {"field": "organiser", "url": "https://www.burtmunrochallenge.co.nz/about", "note": "'the Southland Motorcycle Club created the Burt Munro Challenge'; inaugural event 2006."},
+    {"field": "organiser", "url": "https://www.burtmunrochallenge.co.nz/contact", "note": "Contact email is burtmunro@greatsouth.nz (Great South, Southland's regional development agency)."},
+    {"field": "partnership_contact", "url": "https://www.burtmunrochallenge.co.nz/contact", "note": "Contact page: Burt Munro Challenge, PO Box 1339, Invercargill; burtmunro@greatsouth.nz (general enquiries). No sponsorship-specific contact."},
+    {"field": "ticket_price", "url": "https://www.burtmunrochallenge.co.nz/faq", "note": "'ALL ACCESS Rally Pass: $140'; 'GENERAL Rally Pass: $90 ... ($10 instead of $20 per race event)'."},
+    {"field": "sponsors", "url": "https://www.burtmunrochallenge.co.nz/", "note": "Footer sponsor logos on the site promoting the 2027 event: Shelley Henderson, Indian Motorcycle, Southland Honda, Southern Dragways, Craigs, Southland Motorcycle Club, Invercargill City Council, Star Insurance, Jack Daniel's, ILT Foundation, E Hayes, Great South. 2027 schedule keeps naming partners (Southland Honda Track Day, Star Insure Hill Climb, Indian Motorcycle Twilight Drags, E Hayes & Sons Beach Racing and Teretonga Sprints, Super Seller Shelley Speedway)."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DUd0vzzEtdc/", "note": "2026 final day: 'E Hayes & Sons Teretonga Sprint Races and Star Insurance NZ Superbike Champs'."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DUe1Ghxjo2f/", "note": "2026 raffle of a $40k Yamaha R6 race bike: 'Shout out to Yamaha Motor New Zealand ... the amazing sponsors who made the prize a reality'."},
+    {"field": "activation_formats", "url": "https://www.instagram.com/p/DTwk30RDArt/", "note": "Jan 2026: 'Swipe to see each event and its partner'; each race event carries a sponsor name."}
+  ],
+  "add_gaps": ["Attendance figure not published (police describe 'thousands' of riders and spectators)", "Organiser legal entity not confirmed; contact email is a Great South address", "Audience age and gender not published"],
+  "remove_gaps": ["2026 dates conflict across sources (4 to 8 Feb vs 5 to 9 Feb)", "2027 dates came from a search summary attributing them to the organiser (named as 'MHF Events'); confirm on the official site", "Official website, organiser, attendance figure, ticket prices and sponsors not captured", "No public partnerships contact found"],
+  "notes": "2026 dates resolved to 4 to 8 Feb from the organiser's own IG posts. Sponsorship model is naming rights on each race event (Honda, Star Insure, Indian, E Hayes, Shelley Henderson), so an open, sellable structure. Footer-logo sponsors are dated 2027 because the site now promotes the 2027 event; they may also have backed 2026. Ambassador Cormac Buchanan (Moto3 rider) not added as a sponsor. Organiser left vague: Southland Motorcycle Club founded it and Great South handles enquiries; orchestrator may want to confirm who runs it now."
+}

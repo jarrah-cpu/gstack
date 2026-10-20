@@ -1,0 +1,43 @@
+{
+  "id": "mucho-flow-guimaraes",
+  "set": {
+    "website": "https://muchoflow.net/",
+    "organiser": {"name": "Revolve (co-produced with A Oficina)", "type": "independent", "website": "https://muchoflow.net/"},
+    "dates": {
+      "last_edition": {"start": "2025-10-30", "end": "2025-11-01", "status": "held", "label": "2025 edition"},
+      "next_edition": {"start": "2026-10-29", "end": "2026-10-31", "status": "confirmed", "label": "2026"},
+      "frequency": "annual",
+      "duration_days": 3
+    },
+    "location": {"city": "Guimaraes", "state_or_region": "Braga district, Norte", "country": "Portugal", "venue_or_area": "Multi-venue across Guimarães; 2026 venues include Centro Cultural Vila Flor, CAAA and São Mamede CAE"},
+    "partnership_contact": {"email": "hello@muchoflow.net", "page_url": "https://muchoflow.net/", "named_person": null, "source": "https://muchoflow.net/"}
+  },
+  "add_sponsors": [
+    {"brand": "Município de Guimarães", "years": [2026], "role": "government", "source": "https://www.instagram.com/p/DZFo75isZTk/"},
+    {"brand": "DGArtes", "years": [2026], "role": "government", "source": "https://www.instagram.com/p/DZFo75isZTk/"},
+    {"brand": "Turismo do Porto e Norte de Portugal (TPNP)", "years": [2026], "role": "government", "source": "https://www.instagram.com/p/DZFo75isZTk/"},
+    {"brand": "A Oficina", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DdqszM4jcK1/"}
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {"field": "website", "url": "https://muchoflow.net/", "note": "Official site: Mucho Flow, 29 to 31 Oct 2026, Guimarães; partner logo sections (institutional, other, media) without alt text; hello@muchoflow.net."},
+    {"field": "organiser", "url": "https://www.instagram.com/p/DZFo75isZTk/", "note": "2 Jun 2026: 'organizado pela Revolve, em co-produção com a Oficina, financiamento do Município de Guimarães, DG Artes e TPNP'. IG bio: 'Organized by @revolve_'."},
+    {"field": "dates.last_edition", "url": "https://www.instagram.com/p/DRdTMSfjDAn/", "note": "Mucho Flow 2025, Guimarães, 30 Oct to 1 Nov 2025."},
+    {"field": "dates.frequency", "url": "https://muchoflow.net/festival/", "note": "Google snippet: held annually in Guimarães since 2013."},
+    {"field": "location", "url": "https://www.instagram.com/p/DekAgHcDvWk/", "note": "2026 timetable post co-authored with Centro Cultural Vila Flor and São Mamede CAE, tagging CAAA and A Oficina."},
+    {"field": "partnership_contact", "url": "https://muchoflow.net/", "note": "Site footer email hello@muchoflow.net (general)."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DdqszM4jcK1/", "note": "24 Sep 2026: 'Co-produção @revolve_ e @aoficinaguimaraes com apoio do @municipio.guimaraes'."},
+    {"field": "ticket_price", "url": "https://www.instagram.com/p/DetwYozFu_b/", "note": "20 Oct 2026: last 50 general passes; Saturday day tickets nearly sold out; prices rise on 26 Oct; tickets on DICE. Prices not stated."}
+  ],
+  "add_gaps": [
+    "Attendance and ticket prices not captured",
+    "Commercial partner and media logos on muchoflow.net have no alt text, so names unknown"
+  ],
+  "remove_gaps": [
+    "No public partnerships contact found",
+    "Dates from roundup only; confirm on official site",
+    "Frequency and edition history not found",
+    "Website, organiser, venue, attendance, sponsors and prices not found"
+  ],
+  "notes": "Publicly funded avant-garde music festival (municipality, DGArtes, TPNP) programmed by Revolve and co-produced by A Oficina. Six 'outros parceiros' and four media logos exist on the site but are unnamed images. 2026 passes nearly sold out (organiser IG, 20 Oct 2026); early bird passes sold out by 2 Jun 2026."
+}

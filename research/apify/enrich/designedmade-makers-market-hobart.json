@@ -1,0 +1,84 @@
+{
+  "id": "designedmade-makers-market-hobart",
+  "set": {
+    "website": "https://www.designedmade.com.au/",
+    "organiser": {
+      "name": "designedmade inc (Tasmanian designers and makers association, founded 1995)",
+      "type": "community-collective",
+      "website": "https://www.designedmade.com.au/"
+    },
+    "partnership_contact": {
+      "email": "dminctas@gmail.com",
+      "page_url": "https://www.designedmade.com.au/contact",
+      "named_person": null,
+      "source": "https://www.designedmade.com.au/contact"
+    },
+    "dates": {
+      "last_edition": {
+        "start": "2025-12-09",
+        "end": "2025-12-17",
+        "status": "held",
+        "label": "2025 (reimagined as Home: inspired by this place)"
+      },
+      "next_edition": {
+        "start": "2026-12-04",
+        "end": "2026-12-16",
+        "status": "expected",
+        "label": "2026 (LOCALE popup + design + exhibition, Waterside Pavilion; organiser page gives 4 to 16 December without a year)"
+      },
+      "frequency": "annual",
+      "duration_days": 9
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "City of Hobart",
+      "years": [
+        2023
+      ],
+      "role": "government",
+      "source": "https://www.hobartcity.com.au/Services/Grants-and-funding/Grant-recipients"
+    }
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://www.designedmade.com.au/",
+      "note": "Organiser site with event pages for the 2024 Makers Market, Home (2025) and LOCALE"
+    },
+    {
+      "field": "organiser",
+      "url": "https://www.designedmade.com.au/aboutus",
+      "note": "Established in Tasmania in 1995 by furniture designers, formerly the furniture designers association; member-run, meets monthly"
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.designedmade.com.au/contact",
+      "note": "Contact page general email"
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.designedmade.com.au/locale-popup-design-exhibition",
+      "note": "LOCALE popup + design + exhibition, Waterside Pavilion, Mawson Place, 4th to 16th December, open daily 10am to 4pm; 'latest venture'. Year not printed; 2025 was Home (9 to 17 Dec) at the same venue, so 2026 is inferred"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.hobartcity.com.au/Services/Grants-and-funding/Grant-recipients",
+      "note": "Google snippet: grant for 'designedmade makers market 2023', amount funded $3,466"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.designedmade.com.au/locale-popup-design-exhibition",
+      "note": "SUPPORTED BY shows a City of Hobart CreativeHobart logo (from the image file name)"
+    }
+  ],
+  "add_gaps": [
+    "2026 LOCALE dates (4 to 16 Dec) shown without a year on the organiser page"
+  ],
+  "remove_gaps": [
+    "Official website not captured",
+    "2026 edition not confirmed; December expected from pattern"
+  ],
+  "notes": "Next edition likely the LOCALE pop-up, 4 to 16 Dec 2026 at Waterside Pavilion, but the page omits the year. Only funder is a small City of Hobart grant. Contact is a Gmail address. No event IG account (only individual makers found)."
+}

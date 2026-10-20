@@ -1,0 +1,123 @@
+{
+  "id": "darwin-fringe-festival",
+  "set": {
+    "organiser": {
+      "name": "Darwin Fringe Incorporated (Director Hannah Illingworth)",
+      "type": "non-profit",
+      "website": "https://darwinfringe.org.au/"
+    },
+    "partnership_contact": {
+      "email": "director@darwinfringe.org.au",
+      "page_url": "https://darwinfringe.org.au/become-a-sponsor/",
+      "named_person": "Hannah Illingworth, Festival Director",
+      "source": "https://darwinfringe.org.au/become-a-sponsor/"
+    },
+    "dates": {
+      "last_edition": {
+        "start": "2026-07-17",
+        "end": "2026-07-26",
+        "status": "held",
+        "label": "2026"
+      },
+      "next_edition": {
+        "start": "2027-07-16",
+        "end": "2027-07-25",
+        "status": "confirmed",
+        "label": "2027"
+      },
+      "frequency": "annual",
+      "duration_days": 10
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Airport Development Group",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.adgnt.com.au/airport-development-group-partners-with-darwin-fringe-festival-as-major-sponsor"
+    },
+    {
+      "brand": "NT Government",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://darwinfringe.org.au/become-a-sponsor/"
+    },
+    {
+      "brand": "Tourism and Events NT",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://darwinfringe.org.au/become-a-sponsor/"
+    },
+    {
+      "brand": "Regional Arts Fund (Australian Government, via Regional Arts Australia)",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://darwinfringe.org.au/become-a-sponsor/"
+    },
+    {
+      "brand": "Brown's Mart Theatre",
+      "years": [
+        2026
+      ],
+      "role": "venue",
+      "source": "https://darwinfringe.org.au/become-a-sponsor/"
+    }
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {
+      "field": "organiser",
+      "url": "https://darwinfringe.org.au/about/",
+      "note": "Independent incorporated entity since 2022, volunteer board, DGR charity since 2024; current Director Hannah Illingworth"
+    },
+    {
+      "field": "organiser",
+      "url": "https://www.acnc.gov.au/charity/charities/82a2ed8d-94b9-ed11-a37e-002248122b18/profile",
+      "note": "ACNC: Darwin Fringe Incorporated, also known as Darwin Fringe Festival"
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://darwinfringe.org.au/become-a-sponsor/",
+      "note": "'Reach out to the Fringe Director via email: director@darwinfringe.org.au or 0476 106 210'. Tiers: Major Sponsor $20,000+, Category 5 $5,000+, Category 4 $2,500+, Category 3 $1,000+, Category 2 $500+, Category 1 up to $500; naming rights and award categories negotiable"
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://darwinfringe.org.au/about/",
+      "note": "About page: 2027 dates July Friday 16th to Sunday 25th. IG bio also says July 16 - 25, 2027"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.adgnt.com.au/airport-development-group-partners-with-darwin-fringe-festival-as-major-sponsor",
+      "note": "ADG joins as major sponsor for the first time in 2026 with an airport terminal activation, an airport pop-up Fringe event and a Darwin Airport Resorts pool party"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://darwinfringe.org.au/become-a-sponsor/",
+      "note": "Footer 'Our Partners': Airport Development Group, NT Government, Tourism and Events NT, NT Regional Art Fund, Regional Arts Aus, Australian Government Regional Arts Fund, Browns Mart Theatre"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.facebook.com/darwinfringefestival/",
+      "note": "Google snippet: 'each year we work with more than 30 Sponsors' under a blended finance model"
+    }
+  ],
+  "add_gaps": [
+    "Attendance not published (organiser says 'thousands of audience members')",
+    "Ticket prices not captured beyond a $3 transaction fee and a concession tier",
+    "Most of the 30+ sponsors not named on the site"
+  ],
+  "remove_gaps": [
+    "Attendance, ticket prices and sponsors not captured",
+    "Organiser entity type and staff not captured",
+    "2027 dates (16 to 25 Jul) from a single tourism listing, not the organiser"
+  ],
+  "notes": "Sponsor page publishes cash tiers ($500 to $20,000+), useful for cost signal. ADG is the 2026 major sponsor with airport and pool-party activations. Director contact published. 2027 dates from the organiser."
+}

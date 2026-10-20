@@ -1,0 +1,45 @@
+{
+  "id": "aotearoa-surf-film-festival",
+  "set": {
+    "organiser": {"name": "Aotearoa Surf Film Festival (run by Louis Murphy-Harris; founded by filmmaker Nick Stevenson)", "type": null, "website": "https://www.asff.co.nz/"},
+    "attendance": {"figure": 5000, "figure_high": null, "year": 2026, "is_estimate": false, "source": "https://www.asff.co.nz/life-on-tour", "note": "Organiser-reported: '26 shows across 12 weeks, reaching 5000+ people'. Page is undated but matches the 2026 tour format (12 weeks, 26 communities). FilmFreeway listing also gives audience attendance 5,000. The free Takapuna outdoor screening draws '2000+'."},
+    "partnership_contact": {"email": "louis@asff.co.nz", "page_url": "https://www.asff.co.nz/contact", "named_person": "Louis Murphy-Harris (runs the festival)", "source": "https://www.asff.co.nz/life-on-tour"}
+  },
+  "add_sponsors": [
+    {"brand": "O'Neill", "years": [2020], "role": "naming", "source": "https://christchurchartgallery.org.nz/events/aotearoa-surf-film-festival"},
+    {"brand": "Patagonia", "years": [2023, 2024, 2025, 2026], "role": "partner", "source": "https://www.instagram.com/p/DWzYkklEgky/"},
+    {"brand": "Sawmill Brewery", "years": [2026], "role": "partner", "source": "https://www.asff.co.nz/partners"},
+    {"brand": "YETI", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DRL7hRPEqra/"},
+    {"brand": "Sol + Sea", "years": [2026], "role": "partner", "source": "https://www.asff.co.nz/partners"},
+    {"brand": "Pals", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DWW7wGekqDA/"},
+    {"brand": "Good Surf Now!", "years": [2024, 2026], "role": "partner", "source": "https://www.asff.co.nz/partners"},
+    {"brand": "Verdure Surf", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DXx7mlYBHuy/"},
+    {"brand": "SurfShell", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DVE-MhukmZ0/"},
+    {"brand": "Sticky Johnson", "years": [2026], "role": "partner", "source": "https://www.asff.co.nz/partners"},
+    {"brand": "Red Bull", "years": [2024, 2026], "role": "partner", "source": "https://www.instagram.com/p/DUhu2qgEj6m/"},
+    {"brand": "Mt Atkinson Coffee", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DW7d-AgEtso/"},
+    {"brand": "Canon New Zealand", "years": [2024], "role": "partner", "source": "https://www.eventfinda.co.nz/2024/aotearoa-surf-film-festival-riverton/riverton"},
+    {"brand": "Photo Warehouse", "years": [], "role": "partner", "source": "https://filmfreeway.com/AotearoaSurfFilmFestival"},
+    {"brand": "Visit Auckland", "years": [2026], "role": "government", "source": "https://www.instagram.com/p/DV9g6YNkknw/"},
+    {"brand": "I Love Takapuna", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DV9g6YNkknw/"}
+  ],
+  "add_activation_formats": ["competition-or-prize", "hospitality-bar"],
+  "add_sources": [
+    {"field": "sponsors", "url": "https://www.asff.co.nz/partners", "note": "Festival Partners page (crawled Oct 2026): Patagonia (presents Most Environmentally Conscious Film award), Sawmill Brewery (tour partner, presents Best Film Soundtrack), YETI (presents People's Choice), Sol + Sea, Pals, Good Surf Now!, Verdure, SurfShell (tour partners), Sticky Johnson (supporting partner)."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DWzYkklEgky/", "note": "Apr 2026: Patagonia 'back to the ASFF whanau for the fourth year running' (so 2023 to 2026)."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DUhu2qgEj6m/", "note": "Feb 2026 programme post thanks sponsors: Red Bull, Patagonia, YETI, Sawmill, Sol + Sea, Verdure, Good Surf Now, Pals, SurfShell, Sticky Johnson."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DW7d-AgEtso/", "note": "Apr 2026 Auckland finale sponsor shoutout adds Mt Atkinson Coffee; 'heaps of sponsored spot prizes'."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DV9g6YNkknw/", "note": "Mar 2026 Takapuna free screening: 'Bonus thanks: @visitauckland @ilovetakapuna'."},
+    {"field": "sponsors", "url": "https://www.eventfinda.co.nz/2024/aotearoa-surf-film-festival-riverton/riverton", "note": "Google snippet: 2024 tour partners 'Red Bull, Patagonia, Canon New Zealand, Good Surf Now ...'."},
+    {"field": "sponsors", "url": "https://filmfreeway.com/AotearoaSurfFilmFestival", "note": "Google snippet: \"Photo Warehouse 'Best Kiwi Film, Presented by ...'\"; year not shown."},
+    {"field": "sponsors", "url": "https://christchurchartgallery.org.nz/events/aotearoa-surf-film-festival", "note": "Page names 'The O'Neill Aotearoa Surf Film Festival', 'back for its 8th year'. Festival launched 2013 and 2026 was the 14th, so the 8th was 2020."},
+    {"field": "activation_formats", "url": "https://www.instagram.com/p/DWS4HInEkUa/", "note": "Sawmill beers sold at all ASFF shows; Pals likewise (https://www.instagram.com/p/DWW7wGekqDA/). Award sponsorships and Verdure custom-board draw (https://www.instagram.com/p/DWDUCXOEkS5/)."},
+    {"field": "attendance", "url": "https://www.asff.co.nz/life-on-tour", "note": "About page: 'ASFF hosts 26 shows across 12 weeks, reaching 5000+ people'."},
+    {"field": "attendance", "url": "https://filmfreeway.com/AotearoaSurfFilmFestival", "note": "Google snippet: 'Audience Attendance. 5,000.'"},
+    {"field": "organiser", "url": "https://www.asff.co.nz/life-on-tour", "note": "Founded by filmmaker Nick Stevenson; 'Louis Murphy-Harris has since taken over the reins of the festival'."},
+    {"field": "partnership_contact", "url": "https://www.asff.co.nz/contact", "note": "Contact page has a form only; louis@asff.co.nz is the FilmFreeway festival contact."}
+  ],
+  "add_gaps": ["Ticket prices not captured", "Audience age and gender not published", "Organiser legal entity not named"],
+  "remove_gaps": ["Year of the O'Neill naming deal not pinned", "Attendance and ticket prices not captured", "Organiser entity not named"],
+  "notes": "Strong outdoor and surf brand roster for 2026 (Patagonia, YETI, Red Bull, Sawmill, Pals) plus Sol + Sea sunscreen as a wellness-adjacent tour partner. O'Neill naming pinned to 2020 by edition count and is absent from the 2026 partner list, so it looks historical; orchestrator may want to drop the 'naming' role for current editions. Sponsors present awards and spot prizes; no paid-partnership posts."
+}

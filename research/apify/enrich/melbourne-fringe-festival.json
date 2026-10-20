@@ -1,0 +1,54 @@
+{
+  "id": "melbourne-fringe-festival",
+  "set": {
+    "dates": {
+      "last_edition": {"start": "2026-09-29", "end": "2026-10-18", "status": "held", "label": "2026"},
+      "next_edition": {"start": "2027-10", "end": null, "status": "confirmed", "label": "2027 (organiser says it returns October 2027; exact dates not announced)"},
+      "frequency": "annual",
+      "duration_days": 20
+    },
+    "partnership_contact": {
+      "email": "development@melbournefringe.com.au",
+      "page_url": "https://www.melbournefringe.com.au/about-us/our-partners",
+      "named_person": "Tim Powell, Development Manager (development, partnerships and storytelling)",
+      "source": "https://www.melbournefringe.com.au/about-us/our-team"
+    }
+  },
+  "add_sponsors": [
+    {"brand": "Creative Victoria (Victorian Government)", "years": [2026], "role": "government", "source": "https://www.melbournefringe.com.au/about-us/our-partners"},
+    {"brand": "City of Melbourne", "years": [2026], "role": "government", "source": "https://www.melbournefringe.com.au/about-us/our-partners"},
+    {"brand": "Visit Victoria", "years": [2026], "role": "government", "source": "https://www.melbournefringe.com.au/about-us/our-partners"},
+    {"brand": "Creative Australia", "years": [2026], "role": "government", "source": "https://www.melbournefringe.com.au/about-us/our-partners"},
+    {"brand": "VicHealth", "years": [2026], "role": "government", "source": "https://www.melbournefringe.com.au/about-us/our-partners"},
+    {"brand": "City of Ballarat", "years": [2026], "role": "government", "source": "https://www.melbournefringe.com.au/about-us/our-partners"},
+    {"brand": "Monash Arts (Monash University)", "years": [2026], "role": "major", "source": "https://www.melbournefringe.com.au/about-us/our-partners"},
+    {"brand": "Sidney Myer Fund", "years": [2026], "role": "partner", "source": "https://www.melbournefringe.com.au/about-us/our-partners"},
+    {"brand": "Federation Square", "years": [2026], "role": "partner", "source": "https://www.melbournefringe.com.au/about-us/our-partners"},
+    {"brand": "Victorian Trades Hall Council", "years": [2026], "role": "partner", "source": "https://www.melbournefringe.com.au/about-us/our-partners"},
+    {"brand": "Stomping Ground Brewing Co", "years": [2026], "role": "partner", "source": "https://www.melbournefringe.com.au/about-us/our-partners"},
+    {"brand": "Lucas Dental", "years": [2026], "role": "partner", "source": "https://www.melbournefringe.com.au/about-us/our-partners"},
+    {"brand": "Brunswick Aces", "years": [2026], "role": "partner", "source": "https://www.melbournefringe.com.au/about-us/our-partners"},
+    {"brand": "ReWine", "years": [2026], "role": "partner", "source": "https://www.melbournefringe.com.au/about-us/our-partners"},
+    {"brand": "Quest Southbank", "years": [2026], "role": "partner", "source": "https://www.melbournefringe.com.au/about-us/our-partners"},
+    {"brand": "Funhouse Food Group", "years": [2026], "role": "partner", "source": "https://www.melbournefringe.com.au/about-us/our-partners"},
+    {"brand": "Beat", "years": [2026], "role": "media", "source": "https://www.melbournefringe.com.au/about-us/our-partners"},
+    {"brand": "Broadsheet", "years": [2026], "role": "media", "source": "https://www.melbournefringe.com.au/about-us/our-partners"},
+    {"brand": "RRR (Triple R)", "years": [2026], "role": "media", "source": "https://www.melbournefringe.com.au/about-us/our-partners"}
+  ],
+  "add_sources": [
+    {"field": "sponsors", "url": "https://www.melbournefringe.com.au/about-us/our-partners", "note": "Page read (footer 2026). Tiers: Major Government Partners (Creative Victoria, City of Melbourne, Visit Victoria); Major Philanthropic Partner (Sidney Myer Fund); Major Program Partners (Federation Square, Victorian Trades Hall Council); Major Sponsor (Monash Arts); Government Partners (Creative Australia, DSS, VicHealth and others); Local Government Partners (City of Ballarat and others); Supporting Partners (Stomping Ground Brewing Co, Lucas Dental); Media Partners (Beat, Broadsheet, RRR); Production and Supply Partners (Brunswick Aces, ReWine, Quest Southbank, Funhouse Food Group and others). Logos only: Visit Victoria, Victorian Trades Hall, VicHealth, Lucas Dental, Broadsheet and RRR identified from logo filenames, not text."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DeihLA9jzd_/", "note": "Stomping Ground Brewing Co co-authored 3 festival posts in Oct 2026."},
+    {"field": "partnership_contact", "url": "https://www.melbournefringe.com.au/about-us/our-team", "note": "Page read: Tim Powell, Development Manager, works 'across development, partnerships and storytelling'; Development Team address development@melbournefringe.com.au (link is obfuscated on the page and was decoded by the fetch tool). General email info@melbournefringe.com.au on the home page."},
+    {"field": "dates.next_edition", "url": "https://www.instagram.com/melbfringe/", "note": "IG bio (Apify, Oct 2026): 'The Melbourne Fringe Festival will return October 2027'."}
+  ],
+  "remove_gaps": [
+    "2027 dates not announced; late Sep to Oct expected",
+    "Instagram, attendance, sponsors and demographics not found"
+  ],
+  "add_gaps": [
+    "Exact 2027 dates not announced (organiser says October 2027)",
+    "Attendance and audience demographics not published",
+    "Six partner names read from logo filenames only (Visit Victoria, Victorian Trades Hall, VicHealth, Lucas Dental, Broadsheet, RRR)"
+  ],
+  "notes": "Partner page gives a deep, open partner stack including health-adjacent names (VicHealth, Lucas Dental) and drinks suppliers (Stomping Ground, Brunswick Aces, ReWine). The two IG paid-partnership posts are creator ads promoting Fringe itself, not sponsors. 'Clay sponsored by @keaneceramics' is a single-show sponsor, not festival level. Check the development@ email, which was decoded from an obfuscated link."
+}

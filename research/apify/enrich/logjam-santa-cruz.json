@@ -1,0 +1,295 @@
+{
+  "id": "logjam-santa-cruz",
+  "set": {
+    "website": "https://www.bigsticklogjam.org/",
+    "organiser": {
+      "name": "Big Stick Surfing Association",
+      "type": "community-collective",
+      "website": "https://www.bigsticksurfing.org/"
+    },
+    "attendance": {
+      "figure": 100,
+      "figure_high": null,
+      "year": 2026,
+      "is_estimate": false,
+      "source": "https://www.bigsticklogjam.org/",
+      "note": "Organiser-reported 'over 100 competitors ranging in age from 7 to 70+'. Competitors only; spectator numbers not published."
+    },
+    "partnership_contact": {
+      "email": "info@bigsticksurfing.org",
+      "page_url": "https://www.bigsticklogjam.org/sponsorsbooths.html",
+      "named_person": null,
+      "source": "https://www.bigsticklogjam.org/sponsorsbooths.html"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Sandbar Solar",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.bigsticklogjam.org/sponsorsbooths.html"
+    },
+    {
+      "brand": "Trees Wax",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.bigsticklogjam.org/sponsorsbooths.html"
+    },
+    {
+      "brand": "EyeQ Optometry",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.bigsticklogjam.org/sponsorsbooths.html"
+    },
+    {
+      "brand": "New Leaf",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.bigsticklogjam.org/sponsorsbooths.html"
+    },
+    {
+      "brand": "Bay Federal",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.bigsticklogjam.org/sponsorsbooths.html"
+    },
+    {
+      "brand": "SurfAid",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.bigsticklogjam.org/sponsorsbooths.html"
+    },
+    {
+      "brand": "Verve",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.bigsticklogjam.org/sponsorsbooths.html"
+    },
+    {
+      "brand": "Patagonia",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.bigsticklogjam.org/sponsorsbooths.html"
+    },
+    {
+      "brand": "Betty Belts",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.bigsticklogjam.org/sponsorsbooths.html"
+    },
+    {
+      "brand": "Pizza My Heart",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.bigsticklogjam.org/sponsorsbooths.html"
+    },
+    {
+      "brand": "Swell Cycle",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.bigsticklogjam.org/sponsorsbooths.html"
+    },
+    {
+      "brand": "Pacific Consulting",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.bigsticklogjam.org/sponsorsbooths.html"
+    },
+    {
+      "brand": "O'Neill",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.bigsticklogjam.org/sponsorsbooths.html"
+    },
+    {
+      "brand": "Surfline",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.bigsticklogjam.org/sponsorsbooths.html"
+    },
+    {
+      "brand": "Freeline",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.bigsticklogjam.org/sponsorsbooths.html"
+    },
+    {
+      "brand": "True Source Waters",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.bigsticklogjam.org/sponsorsbooths.html"
+    },
+    {
+      "brand": "Merge4",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.bigsticklogjam.org/sponsorsbooths.html"
+    },
+    {
+      "brand": "Dr. Darla Chenin",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.bigsticklogjam.org/sponsorsbooths.html"
+    },
+    {
+      "brand": "West Coast Community Bank",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.bigsticklogjam.org/sponsorsbooths.html"
+    },
+    {
+      "brand": "Kayak Connection",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.bigsticklogjam.org/sponsorsbooths.html"
+    },
+    {
+      "brand": "Richard Schmidt",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.bigsticklogjam.org/sponsorsbooths.html"
+    },
+    {
+      "brand": "The Storeroom Mini Storage",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.bigsticklogjam.org/sponsorsbooths.html"
+    },
+    {
+      "brand": "Blownout",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.bigsticklogjam.org/sponsorsbooths.html"
+    },
+    {
+      "brand": "SC Warriors",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.bigsticklogjam.org/sponsorsbooths.html"
+    },
+    {
+      "brand": "Ola Chica",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.bigsticklogjam.org/sponsorsbooths.html"
+    },
+    {
+      "brand": "Santa Cruz Vibes",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.bigsticklogjam.org/sponsorsbooths.html"
+    },
+    {
+      "brand": "Moved By Bikes",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.bigsticklogjam.org/sponsorsbooths.html"
+    },
+    {
+      "brand": "Hula's",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.bigsticklogjam.org/sponsorsbooths.html"
+    }
+  ],
+  "add_activation_formats": [
+    "stall"
+  ],
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://www.bigsticklogjam.org/",
+      "note": "Official event site 'Big Stick Log Jam 2026': LOGJAM! 25 to 26 Apr 2026, Pleasure Point, Santa Cruz; an official event of the California Coalition of Surf Clubs."
+    },
+    {
+      "field": "organiser",
+      "url": "https://www.bigsticksurfing.org/",
+      "note": "Big Stick Surfing Association site runs '2026 Logjam! April 25-26' and links to bigsticklogjam.org; Logjam is the club's main fundraiser for scholarships and community giving since 2002."
+    },
+    {
+      "field": "attendance",
+      "url": "https://www.bigsticklogjam.org/",
+      "note": "'over 100 competitors ranging in age from 7 to 70+'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.bigsticklogjam.org/sponsorsbooths.html",
+      "note": "Sponsors/Booths page, 2026 tiers: Big Kahuna (Sandbar Solar); First Peak (Trees Wax, EyeQ Optometry, New Leaf, Bay Federal, SurfAid, Verve, Patagonia); Second Peak (Betty Belts, Pizza My Heart, Swell Cycle); Hook (Pacific Consulting, O'Neill, Surfline, Freeline, True Source Waters, Merge4, Dr. Darla Chenin); Jacks (West Coast Community Bank, Kayak Connection, Richard Schmidt, The Storeroom Mini Storage, Blownout, SC Warriors, Ola Chica, Santa Cruz Vibes, Moved By Bikes, Hula's). Names read from logo image filenames; no text labels."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.bigsticklogjam.org/sponsorsbooths.html",
+      "note": "'room for 25 beachfront booths at the bargain rate of $150 for the entire event'; 2026 vendors included Surfrider Foundation, Vets Surf Alliance, Rocky's Fitness and a reflexology practitioner (from logo filenames)."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.bigsticklogjam.org/sponsorsbooths.html",
+      "note": "Sponsors/Booths page offers a sponsorship prospectus and 'Pay Sponsorship Now'; contact info@bigsticksurfing.org."
+    }
+  ],
+  "remove_gaps": [
+    "Organiser not named in search results",
+    "Attendance, sponsors, prices and website not captured"
+  ],
+  "add_gaps": [
+    "Spectator numbers, entry fees and sponsorship tier prices not published",
+    "Sponsor names read from logo filenames on the sponsors page; spelling not confirmed"
+  ],
+  "notes": "Organiser is Big Stick Surfing Association, not Santa Cruz Longboard Union: the pack's proposed SCLU page and its Gold/Platinum sponsor pages belong to SCLU's Memorial Day contest, so none of those sponsors were used. No Instagram account matched (pack says website-matched account was unrelated)."
+}

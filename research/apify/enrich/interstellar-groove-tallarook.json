@@ -1,0 +1,94 @@
+{
+  "id": "interstellar-groove-tallarook",
+  "set": {
+    "website": "https://www.interstellargroovefestival.com.au/",
+    "dates": {
+      "last_edition": {
+        "start": "2025-10",
+        "end": null,
+        "status": "held",
+        "label": "2025"
+      },
+      "next_edition": {
+        "start": "2026-10-30",
+        "end": "2026-11-02",
+        "status": "confirmed",
+        "label": "2026"
+      },
+      "frequency": "annual",
+      "duration_days": 4
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Wallaroo Camping Hire",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DWN1LpUkl7H/"
+    },
+    {
+      "brand": "Setline",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DZggKb7SbRj/"
+    },
+    {
+      "brand": "Music Victoria Live Music Festivals Fund",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.musicvictoria.com.au/live-music-festivals-fund-round-3-recipients-announced/"
+    }
+  ],
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://www.interstellargroovefestival.com.au/",
+      "note": "Official site in Google results (FAQ, music, get involved pages)."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://beat.com.au/theres-a-five-day-electronic-camping-festival-coming-to-melbourne-in-october/",
+      "note": "Google snippet (24 Mar 2025): festival 'gearing up for a ... return to Victoria's Tallarook this spring', headline says October."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.instagram.com/p/DVdEdO2Ehpi/",
+      "note": "Festival post (4 Mar 2026) refers to 'Interstellar Groove 2025'."
+    },
+    {
+      "field": "dates.frequency",
+      "url": "https://www.instagram.com/p/DbfBRuvyZtq/",
+      "note": "Festival post (Aug 2026): 'For the last few years, our attendees ...'; 2025 and 2026 editions run back to back."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DWN1LpUkl7H/",
+      "note": "Festival post (23 Mar 2026): 'new Glamping & Pre pitched tent partner - @wallaroocampinghire'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DZggKb7SbRj/",
+      "note": "Festival collab post (17 Jun 2026): 'Our official festival app is here: @setlineapp'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.musicvictoria.com.au/live-music-festivals-fund-round-3-recipients-announced/",
+      "note": "Google snippet (Aug 2026): Interstellar Groove Festival (Tallarook) among Live Music Festivals Fund Round 3 recipients."
+    }
+  ],
+  "remove_gaps": [
+    "A 2025 edition was mentioned in an earlier search summary but not pinned",
+    "Attendance, organiser, website and partners not found"
+  ],
+  "add_gaps": [
+    "2025 exact dates not pinned (October per Beat)",
+    "Attendance and organiser entity not found"
+  ],
+  "notes": "Psytrance and techno camping festival; partners are service-type (glamping hire, Setline app, Humanitix ticketing) plus a 2026 Music Victoria fund grant. A community post flags a 2024 'important update' (content unknown). Morning After agency co-authors many posts (role unclear). IG account is correct."
+}

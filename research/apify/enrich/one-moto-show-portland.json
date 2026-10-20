@@ -1,0 +1,471 @@
+{
+  "id": "one-moto-show-portland",
+  "set": {
+    "organiser": {
+      "name": "The One Motorcycle Show LLC (founder Thor Drake, See See Motorcycles)",
+      "type": "retailer",
+      "website": "https://www.the1moto.com/"
+    },
+    "partnership_contact": {
+      "email": "info@theonemoto.com",
+      "page_url": null,
+      "named_person": null,
+      "source": "https://www.the1moto.com/faq"
+    },
+    "dates": {
+      "last_edition": {
+        "start": "2026-05-01",
+        "end": "2026-05-03",
+        "status": "held",
+        "label": "17th annual (2026)"
+      },
+      "next_edition": {
+        "start": "2027",
+        "end": null,
+        "status": "expected",
+        "label": "18th (2027); organiser says dates to be announced, venue uncertain"
+      },
+      "frequency": "annual",
+      "duration_days": 3
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Progressive",
+      "years": [
+        2026
+      ],
+      "role": "presenting",
+      "source": "https://www.the1moto.com/"
+    },
+    {
+      "brand": "Harley-Davidson",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.the1moto.com/"
+    },
+    {
+      "brand": "Royal Enfield",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.the1moto.com/"
+    },
+    {
+      "brand": "Indian Motorcycle",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.the1moto.com/"
+    },
+    {
+      "brand": "BMW Motorrad",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.the1moto.com/"
+    },
+    {
+      "brand": "Triumph Columbia River",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.the1moto.com/"
+    },
+    {
+      "brand": "Gates Carbon Drive",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.the1moto.com/"
+    },
+    {
+      "brand": "J&P Cycles",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.the1moto.com/"
+    },
+    {
+      "brand": "Lincoln Design Co",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.the1moto.com/"
+    },
+    {
+      "brand": "Danner",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.the1moto.com/"
+    },
+    {
+      "brand": "LiveWire",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.the1moto.com/"
+    },
+    {
+      "brand": "Easy Rider Whiskey",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.the1moto.com/"
+    },
+    {
+      "brand": "Cayman Jack",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.the1moto.com/"
+    },
+    {
+      "brand": "Wyld",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.the1moto.com/"
+    },
+    {
+      "brand": "Simpson Motorcycle Helmets",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.the1moto.com/"
+    },
+    {
+      "brand": "Cool Crafted Beverage (coolcraftedbeverage.com)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.the1moto.com/"
+    },
+    {
+      "brand": "Shwood",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.the1moto.com/"
+    },
+    {
+      "brand": "Drink Weird",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.the1moto.com/"
+    },
+    {
+      "brand": "Sawicki Speed",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.the1moto.com/"
+    },
+    {
+      "brand": "MotoSport Hillsboro",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.the1moto.com/"
+    },
+    {
+      "brand": "coastportland.com",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.the1moto.com/"
+    },
+    {
+      "brand": "MotoSport.com",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.the1moto.com/"
+    },
+    {
+      "brand": "Miller Lite",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.the1moto.com/"
+    },
+    {
+      "brand": "Hopworks Urban Brewery",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.the1moto.com/"
+    },
+    {
+      "brand": "Espolòn Tequila",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.the1moto.com/"
+    },
+    {
+      "brand": "The James Brand",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.the1moto.com/"
+    },
+    {
+      "brand": "Alchemy Cider",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.the1moto.com/"
+    },
+    {
+      "brand": "Biltwell",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.the1moto.com/"
+    },
+    {
+      "brand": "Monster Energy",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.the1moto.com/"
+    },
+    {
+      "brand": "Vahna",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.the1moto.com/"
+    },
+    {
+      "brand": "Traeger",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.the1moto.com/"
+    },
+    {
+      "brand": "PNC Live Studio (pnclivestudio.com)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.the1moto.com/"
+    },
+    {
+      "brand": "TEAM OREGON",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.the1moto.com/"
+    },
+    {
+      "brand": "Dynojet",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.the1moto.com/"
+    },
+    {
+      "brand": "Onyx Motors",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.the1moto.com/"
+    },
+    {
+      "brand": "Russ Brown Motorcycle Attorneys",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.the1moto.com/"
+    },
+    {
+      "brand": "Protek Auto",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.the1moto.com/"
+    },
+    {
+      "brand": "REV'IT!",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.the1moto.com/"
+    },
+    {
+      "brand": "Prost Portland (prostportland.com)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.the1moto.com/"
+    },
+    {
+      "brand": "The Hoxton Portland",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.the1moto.com/"
+    },
+    {
+      "brand": "Puff Coffee",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.the1moto.com/"
+    },
+    {
+      "brand": "Steve and Kate's Camp",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.the1moto.com/"
+    },
+    {
+      "brand": "KINK.fm",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.the1moto.com/"
+    },
+    {
+      "brand": "DicE Magazine",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.the1moto.com/"
+    },
+    {
+      "brand": "Willamette Week",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.the1moto.com/"
+    },
+    {
+      "brand": "Travel Oregon",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.the1moto.com/"
+    },
+    {
+      "brand": "Prosper Portland",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.the1moto.com/"
+    },
+    {
+      "brand": "Steelhead (Live Nation venue)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://the1moto.com/portland-info"
+    }
+  ],
+  "add_activation_formats": [
+    "sampling",
+    "after-party",
+    "product-drop"
+  ],
+  "add_sources": [
+    {
+      "field": "organiser",
+      "url": "https://the1moto.com/portland-info",
+      "note": "Footer: '(c) 2026 The One Motorcycle Show LLC', 1642 NE Sandy Blvd (One Moto Cafe); FAQ routes helmet showcase enquiries to thor@theonemoto.com."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.the1moto.com/faq",
+      "note": "'If you're interested in partnering on a good time, hit up info@theonemoto.com'; vendors@theonemoto.com for vendors; media@theonemoto.com for media."
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.the1moto.com/",
+      "note": "Homepage: '2027 SHOW DATES TO BE ANNOUNCED'."
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.forbes.com/sites/billroberson/2026/05/19/portlands-one-moto-show-returns-with-cool-customs-uncertain-future/",
+      "note": "Forbes, May 2026: show returns 'with cool customs, uncertain future' (Zidell Yards venue)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.the1moto.com/",
+      "note": "'PROGRESSIVE PRESENTS THE ONE MOTORCYCLE SHOW'; '2026 SPONSORS' logo grid (about 55 logos, names from link targets) incl. Harley-Davidson, Royal Enfield, Indian, BMW, LiveWire, Monster Energy, Miller Lite, Traeger, Travel Oregon, Prosper Portland, Willamette Week, KINK. See See Motorcycles also listed (organiser-linked, not added)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://the1moto.com/portland-info",
+      "note": "2026 schedule: 'Globe of Death PRESENTED BY SIMPSON', 'Progressive Secret Walls', 'Monster BMX STUNT SHOW', 'BMW Motorrad Meet & Greet at Biergarten', live music 'PRESENTED BY STEELHEAD'."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.the1moto.com/media",
+      "note": "2026 media events: Easy Rider 'Official Whiskey of The One Moto Show, exclusive single barrel, media tasting'; LiveWire showcasing soon-to-be-released S4 Honcho; Drink Weird launching Magic Mate Lemonade; Travel Portland: 'Official Afterparty at Hopworks Brewery'."
+    }
+  ],
+  "remove_gaps": [
+    "2027 dates are an aggregator estimate, not organiser-confirmed",
+    "Year of Indian Motorcycle demo partnership not confirmed",
+    "Attendance, sponsor list and ticket prices not found"
+  ],
+  "add_gaps": [
+    "2027 dates and venue not announced by organiser",
+    "Attendance figure not published ('thousands')",
+    "Ticket prices not captured (kids 10 and under free)"
+  ],
+  "notes": "Large, open sponsor roster (about 55 logos) with Progressive as presenting partner and many beverage and lifestyle brands; categories open for health. Some logos only identifiable by domain (coastportland.com etc.). 2027 dates and venue unconfirmed amid Zidell Yards redevelopment."
+}

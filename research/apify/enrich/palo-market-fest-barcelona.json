@@ -1,0 +1,164 @@
+{
+  "id": "palo-market-fest-barcelona",
+  "set": {
+    "website": "https://palomarketfest.com/",
+    "dates": {
+      "last_edition": {
+        "start": "2026-10-03",
+        "end": "2026-10-04",
+        "status": "held",
+        "label": "October 2026 (Palo Market Fest x KIBUKA)"
+      },
+      "next_edition": {
+        "start": "2026-11-07",
+        "end": "2026-11-08",
+        "status": "confirmed",
+        "label": "November 2026 monthly edition, 12:00 to 22:00"
+      },
+      "frequency": "monthly",
+      "duration_days": 2
+    },
+    "partnership_contact": {
+      "email": "paloalto@palomarketfest.com",
+      "page_url": "https://palomarketfest.com/es/contacto",
+      "named_person": null,
+      "source": "https://palomarketfest.com/es/partners"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Moritz",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://palomarketfest.com/es/partners"
+    },
+    {
+      "brand": "Aperol",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://palomarketfest.com/es/partners"
+    },
+    {
+      "brand": "Perrier",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://palomarketfest.com/es/partners"
+    },
+    {
+      "brand": "Cinzano",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://palomarketfest.com/es/partners"
+    },
+    {
+      "brand": "El Tony",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://palomarketfest.com/es/partners"
+    },
+    {
+      "brand": "Pepsi",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://palomarketfest.com/es/partners"
+    },
+    {
+      "brand": "Kayak",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://palomarketfest.com/es/partners"
+    },
+    {
+      "brand": "aProperties",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://es.linkedin.com/posts/aproperties_patrocinio-palomarketfest-aproperties-activity-7338941628398678018-qkxe"
+    },
+    {
+      "brand": "KIBUKA",
+      "years": [
+        2026
+      ],
+      "role": "collab",
+      "source": "https://www.instagram.com/p/Dc-xdRKt8tU/"
+    },
+    {
+      "brand": "Centro Cultural Coreano en España",
+      "years": [
+        2024
+      ],
+      "role": "collab",
+      "source": "https://www.instagram.com/p/DCT3Jf0IRvv/"
+    }
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://palomarketfest.com/",
+      "note": "Official site (Google result); FAQ, info and partners pages sit under palomarketfest.com."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://palomarketfest.com/es/partners",
+      "note": "Partners page (page copyright 2026): main sponsor ('Patrocinador principal') Moritz; sponsors ('Patrocinadores') Aperol, Perrier, Cinzano, El Tony, Pepsi; 'Mencion' tier Kayak. No years shown on the page."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://es.linkedin.com/posts/aproperties_patrocinio-palomarketfest-aproperties-activity-7338941628398678018-qkxe",
+      "note": "aProperties LinkedIn post (about June 2025) says it sponsored the latest edition; Google snippet."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/Dc-xdRKt8tU/",
+      "note": "KIBUKA co-authored posts; the IG profile announced the 3 and 4 Oct edition as 'PALO MARKET FEST X KIBUKA'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DCT3Jf0IRvv/",
+      "note": "Korean Cultural Centre in Spain brought Korean food and culture to Palo Market Fest 2024; Google snippet."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.instagram.com/palomarketfest/",
+      "note": "Google snippet of the IG profile: 'SAVE THE DATE PROXIMA CITA 3/4 D'OCTUBRE PALO MARKET FEST X KIBUKA'."
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.instagram.com/palomarketfest/",
+      "note": "IG bio (Apify profile data): '7/8 NOVIEMBRE de 12H a 22H, Carrer pellaires, 30'; first weekend of each month."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://palomarketfest.com/es/partners",
+      "note": "Site lists general email paloalto@palomarketfest.com and a Contacto page; no dedicated sponsorship contact. entradas@ is for tickets."
+    }
+  ],
+  "add_gaps": [
+    "Sponsor years not shown on the partners page; 2026 assumed from the page copyright",
+    "Organiser legal entity not named on the site (founder Pedrin Mariscal named in press)"
+  ],
+  "remove_gaps": [
+    "Official website not captured from results (palomarketfest.com named only in a search summary)",
+    "Exact Nov 2026 date not found",
+    "Sponsors not identified",
+    "No public partnerships contact found"
+  ],
+  "notes": "Partners page gives a clear tiered list led by Moritz. Attendance still unknown for Barcelona: the 40,000 figure in the pack is for the 2018 Valencia edition, so not used. No dedicated sponsorship contact, only the general paloalto@ email."
+}

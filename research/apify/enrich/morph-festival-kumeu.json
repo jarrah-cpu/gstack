@@ -1,0 +1,63 @@
+{
+  "id": "morph-festival-kumeu",
+  "set": {
+    "location": {
+      "city": "Kumeū",
+      "state_or_region": "Auckland",
+      "country": "New Zealand",
+      "venue_or_area": "Kumeū Showgrounds"
+    },
+    "dates": {
+      "last_edition": {
+        "start": "2026-03-26",
+        "end": "2026-03-29",
+        "status": "held",
+        "label": "1st edition (2026)"
+      },
+      "next_edition": {
+        "start": "2027-03-25",
+        "end": "2027-03-28",
+        "status": "confirmed",
+        "label": "2nd edition (2027)"
+      },
+      "frequency": "annual",
+      "duration_days": 4
+    },
+    "organiser": {
+      "name": "Leah Luna, Stephen McDowell (The Buzzy Kiwi), Stephen Blase, Loren Honey and Lunar Landing (named as the organisers by festival crew)",
+      "type": "independent",
+      "website": null
+    },
+    "audience": {
+      "age_range": null,
+      "gender_skew": null,
+      "psychographics": "Conscious-living and wellness crowd: breathwork, somatic and ecstatic dance, organic and afro house DJs, healing workshops and ancestral-healing family programming, with te ao Māori and tikanga woven through. Models itself on BaliSpirit Festival and Prana Fest Australia (named as sister festivals).",
+      "source": "inferred from IG audience signals"
+    }
+  },
+  "add_sponsors": [],
+  "add_activation_formats": [],
+  "add_sources": [
+    {"field": "location", "url": "https://www.facebook.com/morphfest/posts/festivals-can-feel-good-too-your-guide-to-wellness-at-morph-between-dancing-work/122124484287059091/", "note": "Google snippet: 'MORPH Festival 26-29 March Kumeu Showgrounds, Auckland NZ'."},
+    {"field": "dates.last_edition", "url": "https://www.facebook.com/morphfest/posts/festivals-can-feel-good-too-your-guide-to-wellness-at-morph-between-dancing-work/122124484287059091/", "note": "Google snippet: Morph Fest at Kumeu Showgrounds, 26 to 29 March (2026 edition, posted 16 Mar)."},
+    {"field": "dates.last_edition", "url": "https://www.instagram.com/popular/morph-festival-auckland/", "note": "Google snippet: 'the very first Morph Festival at Kumeu Showground this Friday, March 27th' (27 Mar 2026 was a Friday)."},
+    {"field": "dates.next_edition", "url": "https://morphfest.flicket.co.nz/events/7de2a22c-6e86-4bb5-a2b3-4cb95f092068/reservation", "note": "Google snippet of the official Flicket ticket page: four-day festival 25 to 28 March 2027, Kumeu Showgrounds. Instagram bio also gives 25 to 28 March 2027."},
+    {"field": "dates.frequency", "url": "https://www.instagram.com/morphfest/", "note": "First edition March 2026, second edition announced for March 2027; annual pattern so far."},
+    {"field": "organiser", "url": "https://www.instagram.com/p/DXq6SqOE32z/", "note": "Crew member's post (28 Apr 2026) thanks 'the organisers @itsleahluna, @thebuzzykiwi, @stephenblase, @lorenhoney_, @lunar.landing'."},
+    {"field": "organiser", "url": "https://www.instagram.com/p/DXENGMCj16-/", "note": "@thebuzzykiwi (Stephen McDowell) post refers to 'everything we do at @morphfest'."},
+    {"field": "audience", "url": "https://www.instagram.com/morphfest/", "note": "Inferred from @morphfest posts: wellness, arts and music programming, breathwork and somatic dance facilitators, te ao Māori collaboration with Chelita Zainey."},
+    {"field": "audience", "url": "https://www.instagram.com/p/DV0M9R7E9QT/", "note": "@morphfest names BaliSpirit Festival and Prana Fest Australia as sister festivals."}
+  ],
+  "add_gaps": [
+    "No official website found; tickets sold via morphfest.flicket.co.nz",
+    "Attendance for the 2026 first edition not published",
+    "No sponsors or brand partners found in 81 Instagram posts (Feb to Oct 2026)",
+    "Ticket prices not captured (Flicket page returned no prices)"
+  ],
+  "remove_gaps": [
+    "No official website or ticketing found",
+    "Past editions, organiser, attendance and sponsors not captured",
+    "Dates from listing sites only"
+  ],
+  "notes": "New wellness, arts and music festival: first edition 26 to 29 Mar 2026 at Kumeū Showgrounds, second confirmed for 25 to 28 Mar 2027 via official Flicket ticketing. Run by a DJ and breathwork collective; no brand partners seen, so a first health partner would face no clutter. IG @morphfest is correct."
+}

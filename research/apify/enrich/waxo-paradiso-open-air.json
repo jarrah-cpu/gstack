@@ -1,0 +1,20 @@
+{
+  "id": "waxo-paradiso-open-air",
+  "add_sponsors": [
+    {"brand": "Poor Toms Gin", "years": [], "role": "unknown", "source": "https://www.facebook.com/djsimontk/"}
+  ],
+  "add_sources": [
+    {"field": "sponsors", "url": "https://www.facebook.com/djsimontk/", "note": "Google snippet only: 'Wax'o Paradiso Open Air - SOLD OUT. Abbotsford Convent ... presented by our sponsors and dear friends Poor Toms Gin, featuring ...'. The snippet joins two passages, so the event and year are not confirmed."},
+    {"field": "sponsors", "url": "https://ra.co/events/2328517", "note": "Google snippet of the Heritage Garden Open Air listing: 'Sound: Funktion 1 & Condesa Electronics. Impeccable vibes from Vollyspot. Wax'o Paradiso Open Air is supported by ...' (truncated; RA blocked a direct fetch)."},
+    {"field": "dates.last_edition", "url": "https://ra.co/events/2385334", "note": "Google snippet: Fairfield Amphitheatre, Sat 28 Mar 2026, 14:00 to 21:00."}
+  ],
+  "remove_gaps": [
+    "No sponsors found"
+  ],
+  "add_gaps": [
+    "Poor Toms Gin sponsorship rests on one Google snippet; event and year not confirmed",
+    "RA listing names an unidentified supporter ('supported by ...' truncated)",
+    "No official website or partnerships contact found"
+  ],
+  "notes": "Thin evidence: no website crawl and no Instagram account matched (search returned unrelated accounts). A Google result shows a post 'Some snaps from our last Open Air' at https://www.instagram.com/p/DTwr2osEmNS/ that may be the collective's own account; worth checking for the handle. Sound suppliers (Funktion-One, Condesa Electronics, Vollyspot) are production vendors, not sponsors. The duo also played a Haven Byron Bay open-air special on 28 Jun 2026 (separate event)."
+}

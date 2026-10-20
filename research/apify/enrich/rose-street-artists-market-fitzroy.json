@@ -1,0 +1,27 @@
+{
+  "id": "rose-street-artists-market-fitzroy",
+  "set": {
+    "partnership_contact": {
+      "email": "info@rosestmarket.com.au",
+      "page_url": "https://www.rosestmarket.com.au/press",
+      "named_person": null,
+      "source": "https://www.rosestmarket.com.au/press"
+    }
+  },
+  "add_sponsors": [
+    {"brand": "BLUETTI Australia", "years": [2026], "role": "collab", "source": "https://www.instagram.com/p/DaRM31vE3Ev/"}
+  ],
+  "add_sources": [
+    {"field": "partnership_contact", "url": "https://www.rosestmarket.com.au/press", "note": "Advertising & Press page: 'We are always seeking like-minded companies and organisations to help support the Rose Street Artist's Market ... please contact us via the form below. All PR enquiries should also be directed here.'"},
+    {"field": "partnership_contact", "url": "https://www.rosestmarket.com.au/contact-us", "note": "Contact page: general enquiries info@rosestmarket.com.au."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DaRM31vE3Ev/", "note": "Post co-authored with @bluetti_australia, Jul 2026, recapping June markets with product hashtags #Elite400 #BLUETTI (portable power). Deal terms not stated."}
+  ],
+  "remove_gaps": [
+    "Partnership contact is the stallholder info pack; no brand partnership contact found"
+  ],
+  "add_gaps": [
+    "Audience demographics not published",
+    "Nature of the BLUETTI collaboration (paid or in-kind) not stated"
+  ],
+  "notes": "Brand partnership enquiries go through the Advertising & Press form. The operator runs a wider network beyond Fitzroy (Lygon St, Heide, Younghusband, Trust and District Docklands markets, CRFT*WRK QVM, Melbourne Makers Market, Quiet Riot prize, Manor Made festival), so one deal could span several markets. Venue collaborations (Heide, Gasworks, Younghusband) are host partners, not sponsors."
+}

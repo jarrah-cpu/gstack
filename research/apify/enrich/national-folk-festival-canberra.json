@@ -1,0 +1,213 @@
+{
+  "id": "national-folk-festival-canberra",
+  "set": {
+    "dates": {
+      "last_edition": {
+        "start": "2026-04-02",
+        "end": "2026-04-06",
+        "status": "held",
+        "label": "2026 (60 years)"
+      },
+      "next_edition": {
+        "start": "2027-03-25",
+        "end": "2027-03-29",
+        "status": "confirmed",
+        "label": "2027"
+      },
+      "frequency": "annual",
+      "duration_days": 5
+    },
+    "attendance": {
+      "figure": 9717,
+      "figure_high": null,
+      "year": 2024,
+      "is_estimate": true,
+      "source": "https://www.abc.net.au/news/2025-04-20/thousands-turn-out-for-national-folk-festival-in-canberra/105193060",
+      "note": "ABC: estimated 9,717 individuals attended in 2024, down from about 11,577 in 2022; 6,408 came from outside the ACT. 2026 reached capacity and closed ticket sales, but no figure was published."
+    },
+    "audience": {
+      "age_range": null,
+      "gender_skew": null,
+      "psychographics": "Folk, roots and community-music audience at a five-day Easter camping festival; multi-generational families, some attending for 40 years; a large interstate share (6,408 non-ACT visitors in 2024).",
+      "source": "https://www.abc.net.au/news/2025-04-20/thousands-turn-out-for-national-folk-festival-in-canberra/105193060"
+    },
+    "organiser": {
+      "name": "National Folk Festival Ltd",
+      "type": "non-profit",
+      "website": "https://www.folkfestival.org.au/"
+    },
+    "partnership_contact": {
+      "email": "info@folkfestival.org.au",
+      "page_url": "https://www.folkfestival.org.au/",
+      "named_person": null,
+      "source": "https://www.folkfestival.org.au/"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "ACT Government (Event Fund)",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://events.canberra.com.au/event-organisers/funding-and-grants"
+    },
+    {
+      "brand": "Beyond Bank Australia",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DWvPPVSCX03/"
+    },
+    {
+      "brand": "Bent Spoke Brewing Co",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DV2-78KEy7Q/"
+    },
+    {
+      "brand": "Contentious Character",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DV2-78KEy7Q/"
+    },
+    {
+      "brand": "Liquor Legends",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DV2-78KEy7Q/"
+    },
+    {
+      "brand": "ANU School of Music",
+      "years": [
+        2027
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DcCpodVCTLw/"
+    },
+    {
+      "brand": "Discovery Parks",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.folkfestival.org.au/"
+    },
+    {
+      "brand": "Goodies Junction",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.folkfestival.org.au/"
+    },
+    {
+      "brand": "Australian Government (Revive Live)",
+      "years": [
+        2025
+      ],
+      "role": "government",
+      "source": "https://www.abc.net.au/news/2025-04-20/thousands-turn-out-for-national-folk-festival-in-canberra/105193060"
+    }
+  ],
+  "add_activation_formats": [
+    "collab-product"
+  ],
+  "add_sources": [
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.folkfestival.org.au/program",
+      "note": "Google snippet: 'We celebrated 60 Years of the National Folk Festival across 2-6 April 2026'"
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://exhibitionparkincanberra.com.au/event/national-folk-festival-2026/",
+      "note": "Google snippet: National Folk Festival 2026, April 2 to April 6"
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.instagram.com/nationalfolkfestival/",
+      "note": "IG bio: every Easter long weekend in Canberra, 25th to 29th March 2027"
+    },
+    {
+      "field": "attendance",
+      "url": "https://www.abc.net.au/news/2025-04-20/thousands-turn-out-for-national-folk-festival-in-canberra/105193060",
+      "note": "2024 estimated 9,717 individuals vs 11,577 in 2022; 6,408 visitors from outside the ACT; 2024 deficit $473,517"
+    },
+    {
+      "field": "attendance",
+      "url": "https://www.instagram.com/p/DW2a_8BiQjK/",
+      "note": "8 Apr 2026: reached full capacity and closed ticket sales; more than 800 volunteers, partners, sponsors and the ACT Government made the festival possible"
+    },
+    {
+      "field": "audience",
+      "url": "https://www.abc.net.au/news/2025-04-20/thousands-turn-out-for-national-folk-festival-in-canberra/105193060",
+      "note": "Families who have attended for 40 years; large proportion of festival-goers from interstate"
+    },
+    {
+      "field": "organiser",
+      "url": "https://www.acnc.gov.au/charity/charities/2af6eeec-38af-e811-a962-000d3ad24a0d/profile",
+      "note": "Google snippet: National Folk Festival Limited conducts the annual festival in Canberra over Easter"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://events.canberra.com.au/event-organisers/funding-and-grants",
+      "note": "2026 Event Fund recipients: National Folk Festival Ltd, $30,000"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DWvPPVSCX03/",
+      "note": "5 Apr 2026: proud to partner with Beyond Bank Australia for the Festival this year"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DV2-78KEy7Q/",
+      "note": "14 Mar 2026: beverage sponsors Bent Spoke, Contentious Character and Liquor Legends"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DcCpodVCTLw/",
+      "note": "15 Aug 2026: Folk School 23 to 25 Mar 2027 presented in partnership with the ANU School of Music"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.folkfestival.org.au/",
+      "note": "Homepage 'proudly supported by' logo strip (file names): Contentious Character, Beyond, Goodies Junction, Discovery Parks, ICP, BARL campaign, plus three unnamed logos; strip undated, matches confirmed 2026 sponsors"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.abc.net.au/news/2025-04-20/thousands-turn-out-for-national-folk-festival-in-canberra/105193060",
+      "note": "Federal Revive Live Program grant of $120,000 (year not stated; article April 2025)"
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/DV9yda3FPvQ/",
+      "note": "Bent Spoke post co-authored with the festival: Folk Stout brewed each year for the National Folk Festival"
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.folkfestival.org.au/",
+      "note": "General contact info@folkfestival.org.au, phone +61 2 6262 4792; no sponsorship page captured"
+    }
+  ],
+  "remove_gaps": [
+    "Attendance not captured",
+    "Exact 2026 dates not captured",
+    "Ticket prices and sponsors not captured",
+    "Setline lists 'April 2027 (TBC)', conflicting with the official 25 to 29 March"
+  ],
+  "add_gaps": [
+    "Ticket prices not captured",
+    "2025 and 2026 attendance figures not published",
+    "Audience age and gender not published",
+    "Some homepage supporter logos unnamed or unclear (ICP, BARL campaign)"
+  ],
+  "notes": "Next edition label changed from '60th year' to '2027': the festival marked 60 years in 2026 (ABC called 2025 its 59th year). Attendance is the ABC 2024 estimate; 2026 sold out. Sponsors include Beyond Bank, three beverage sponsors (Bent Spoke also brews an annual Folk Stout) and ACT Government funding. Festival Director Anne Denzer is named on the team page but not as a partnerships contact."
+}

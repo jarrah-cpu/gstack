@@ -1,0 +1,260 @@
+{
+ "id": "goiania-crew-attack",
+ "set": {
+  "organiser": {
+   "name": "Ambiente Produ (production company; founder Daniel Atassio)",
+   "type": "independent",
+   "website": null
+  }
+ },
+ "add_sponsors": [
+  {
+   "brand": "Vans",
+   "years": [
+    2025,
+    2026
+   ],
+   "role": "presenting",
+   "source": "https://www.instagram.com/p/DXrHmYPDvc2/"
+  },
+  {
+   "brand": "Monster Energy",
+   "years": [
+    2026
+   ],
+   "role": "major",
+   "source": "https://www.instagram.com/p/DXiDqxnDnA5/"
+  },
+  {
+   "brand": "Heineken Brasil (Heineken 0.0)",
+   "years": [
+    2026
+   ],
+   "role": "partner",
+   "source": "https://www.instagram.com/p/DX-kFu8uDSB/"
+  },
+  {
+   "brand": "FYS",
+   "years": [
+    2026
+   ],
+   "role": "partner",
+   "source": "https://www.instagram.com/p/DXiDqxnDnA5/"
+  },
+  {
+   "brand": "Jim Beam Brasil",
+   "years": [
+    2026
+   ],
+   "role": "partner",
+   "source": "https://www.instagram.com/p/DXiDqxnDnA5/"
+  },
+  {
+   "brand": "Prefeitura de Goiânia",
+   "years": [
+    2026
+   ],
+   "role": "government",
+   "source": "https://www.instagram.com/p/DYQVc5IDh9q/"
+  },
+  {
+   "brand": "Crail Trucks",
+   "years": [
+    2026
+   ],
+   "role": "partner",
+   "source": "https://www.instagram.com/p/DX7sL5eOyUn/"
+  },
+  {
+   "brand": "Child Skates",
+   "years": [
+    2026
+   ],
+   "role": "partner",
+   "source": "https://www.instagram.com/p/DX7sL5eOyUn/"
+  },
+  {
+   "brand": "Drop Dead Skateboards",
+   "years": [
+    2026
+   ],
+   "role": "partner",
+   "source": "https://www.instagram.com/p/DX7sL5eOyUn/"
+  },
+  {
+   "brand": "Gnarly Foot Socks",
+   "years": [
+    2026
+   ],
+   "role": "partner",
+   "source": "https://www.instagram.com/p/DX7sL5eOyUn/"
+  },
+  {
+   "brand": "Independent Trucks Brasil",
+   "years": [
+    2026
+   ],
+   "role": "partner",
+   "source": "https://www.instagram.com/p/DX7sL5eOyUn/"
+  },
+  {
+   "brand": "Santa Cruz Brasil",
+   "years": [
+    2026
+   ],
+   "role": "partner",
+   "source": "https://www.instagram.com/p/DX7sL5eOyUn/"
+  },
+  {
+   "brand": "SQZ Group Brindes",
+   "years": [
+    2026
+   ],
+   "role": "partner",
+   "source": "https://www.instagram.com/p/DX7sL5eOyUn/"
+  },
+  {
+   "brand": "Suave Paper",
+   "years": [
+    2026
+   ],
+   "role": "partner",
+   "source": "https://www.instagram.com/p/DX7sL5eOyUn/"
+  },
+  {
+   "brand": "Vereda Casa",
+   "years": [
+    2026
+   ],
+   "role": "partner",
+   "source": "https://www.instagram.com/p/DX7sL5eOyUn/"
+  },
+  {
+   "brand": "Thrasher Magazine",
+   "years": [
+    2026
+   ],
+   "role": "media",
+   "source": "https://www.instagram.com/p/DX7sL5eOyUn/"
+  },
+  {
+   "brand": "Black Media Skate",
+   "years": [
+    2026
+   ],
+   "role": "media",
+   "source": "https://www.instagram.com/p/DXiDqxnDnA5/"
+  },
+  {
+   "brand": "Into the Mirror",
+   "years": [
+    2026
+   ],
+   "role": "media",
+   "source": "https://www.instagram.com/p/DYQVc5IDh9q/"
+  },
+  {
+   "brand": "Cem Por Cento Skate",
+   "years": [
+    2026
+   ],
+   "role": "media",
+   "source": "https://www.instagram.com/p/DYQVc5IDh9q/"
+  },
+  {
+   "brand": "Divas Skateras",
+   "years": [
+    2026
+   ],
+   "role": "media",
+   "source": "https://www.instagram.com/p/DYQVc5IDh9q/"
+  },
+  {
+   "brand": "89 FM Goiânia",
+   "years": [
+    2026
+   ],
+   "role": "media",
+   "source": "https://www.instagram.com/p/DYQVc5IDh9q/"
+  },
+  {
+   "brand": "Festival Bananada",
+   "years": [
+    2026
+   ],
+   "role": "partner",
+   "source": "https://www.instagram.com/p/DYQVc5IDh9q/"
+  },
+  {
+   "brand": "Viva Fisio Goiânia",
+   "years": [
+    2026
+   ],
+   "role": "collab",
+   "source": "https://www.instagram.com/p/DYnjeS5uXHm/"
+  }
+ ],
+ "add_activation_formats": [
+  "sampling",
+  "hospitality-bar",
+  "content-series"
+ ],
+ "add_sources": [
+  {
+   "field": "organiser",
+   "url": "https://www.instagram.com/p/DXsXmWIjmk4/",
+   "note": "Credit block: 'Realização nossa @ambiente.produ'; founder Daniel Atassio appears in the 'Construindo o GCA' series (DdfDpVoxk5d)."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://www.instagram.com/p/DXiDqxnDnA5/",
+   "note": "2026 credit block: 'Apresentado por @vansbrasil, Patrocínio @monsterenergy, Cerveja oficial @heinekenbr, Apoio @fys_oficial @jimbeambr, Cobertura @blackmediaskate'. Paid-partnership post."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://www.instagram.com/p/DXrHmYPDvc2/",
+   "note": "'A Vans veio com a gente no ano passado' (Vans also backed 2025) and is back for 2026."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://www.instagram.com/p/DX7sL5eOyUn/",
+   "note": "'Parceiros @crailtrucks @childskates @dropdeadskateboard @gnarlyfootsocks @independenttrucksbr @santacruzbr @sqzgroupbrindes @suave_paper @thrashermag @vereda.casa @prefeituradegoiania'."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://www.instagram.com/p/DYQVc5IDh9q/",
+   "note": "Full credit adds Apoio @prefeituradegoiania, 'Mídias parceiras @_intothemirror @cemporcentoskate @divaskateras', 'Rádio oficial @89goiania'; Festival Bananada helped book touring acts."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://www.instagram.com/p/DX-kFu8uDSB/",
+   "note": "'Esse ano nossa Cerveja Oficial é a Heineken 0.0'."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://www.instagram.com/p/DYnjeS5uXHm/",
+   "note": "Physiotherapists from Viva Fisio Goiânia offered 'Recover' sessions in the Monster tent."
+  },
+  {
+   "field": "activation_formats",
+   "url": "https://www.instagram.com/p/DY7wiV3Gfm_/",
+   "note": "Monster recap: Monster Ollie Challenge (3m+), cash prizes, free cold Monster all weekend."
+  },
+  {
+   "field": "activation_formats",
+   "url": "https://www.instagram.com/p/DYBFH87u2C2/",
+   "note": "'Dias de GCA' reel series with skaters (also run for GCA SP); official beer bar with Heineken 0.0 (DX-kFu8uDSB)."
+  }
+ ],
+ "add_gaps": [
+  "No official website (IG links to linktr.ee/ambienteskate)",
+  "Attendance not published",
+  "Sponsor fee levels not published"
+ ],
+ "remove_gaps": [
+  "Sponsors and partners not captured",
+  "Website and Instagram not captured",
+  "Attendance not found"
+ ],
+ "notes": "Fully sponsored skate festival: Vans presenting (2025 and 2026), Monster major, Heineken 0.0 official beer, plus 10 skate brands and city government. A physio recovery space in the Monster tent is a direct health-brand precedent. Organiser also ran a GCA São Paulo spin-off (15 to 18 Oct 2026, Cave Pool and Espaço Cultural Elza Soares) with the same lead sponsors plus WAAW by Alok; not added here."
+}

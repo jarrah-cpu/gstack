@@ -1,0 +1,47 @@
+{
+  "id": "graffiato-taupo-street-art-festival",
+  "set": {
+    "website": "https://taupostreetart.com/",
+    "organiser": {"name": "Town Centre Taupō (TCT)", "type": null, "website": "https://www.towncentretaupo.co.nz/"},
+    "dates": {
+      "last_edition": {"start": "2025-10-25", "end": "2025-10-27", "status": "held", "label": "2025 (15th)"},
+      "next_edition": {"start": "2026-10-24", "end": "2026-10-26", "status": "confirmed", "label": "2026 (16th, Labour Weekend)"},
+      "frequency": "annual",
+      "duration_days": 3
+    },
+    "partnership_contact": {"email": null, "page_url": "https://taupostreetart.com/contact/get-involved/", "named_person": null, "source": "https://taupostreetart.com/sponsors/"}
+  },
+  "add_sponsors": [
+    {"brand": "First Light Community Foundation", "years": [2025, 2026], "role": "major", "source": "https://www.instagram.com/p/DPP3diBDFs-/"},
+    {"brand": "Legend Has It", "years": [2025, 2026], "role": "major", "source": "https://www.instagram.com/p/DPP3diBDFs-/"},
+    {"brand": "Taupō District Council", "years": [2025, 2026], "role": "government", "source": "https://www.instagram.com/p/DPP3diBDFs-/"},
+    {"brand": "Bay Trust", "years": [2025, 2026], "role": "partner", "source": "https://www.instagram.com/p/DPkGwAUk6np/"},
+    {"brand": "Pub Charity Limited", "years": [2025, 2026], "role": "partner", "source": "https://www.instagram.com/p/DPkGwAUk6np/"},
+    {"brand": "Taupō Access Hire", "years": [2025, 2026], "role": "partner", "source": "https://www.instagram.com/p/DPkGwAUk6np/"},
+    {"brand": "Resene", "years": [2025, 2026], "role": "partner", "source": "https://www.instagram.com/p/DPkGwAUk6np/"},
+    {"brand": "Creative Communities Scheme", "years": [2025, 2026], "role": "government", "source": "https://www.instagram.com/p/DPkGwAUk6np/"},
+    {"brand": "Wairakei Terraces", "years": [2025], "role": "partner", "source": "https://www.instagram.com/p/DPzdFeAgeC_/"},
+    {"brand": "Harcourts Taupō", "years": [2025], "role": "partner", "source": "https://www.instagram.com/p/DPzdFeAgeC_/"},
+    {"brand": "The Cozy Corner Taupō", "years": [2025, 2026], "role": "partner", "source": "https://www.instagram.com/p/DPzdFeAgeC_/"},
+    {"brand": "Drive EV NZ", "years": [2025, 2026], "role": "partner", "source": "https://www.instagram.com/p/DPzdFeAgeC_/"},
+    {"brand": "Love Taupō (Destination Great Lake Taupō)", "years": [2025, 2026], "role": "partner", "source": "https://www.instagram.com/p/DPzdFeAgeC_/"},
+    {"brand": "Chamberlain Homes", "years": [2026], "role": "partner", "source": "https://taupostreetart.com/sponsors/"},
+    {"brand": "Taupō Rentals & Holiday Homes", "years": [2026], "role": "partner", "source": "https://taupostreetart.com/sponsors/"},
+    {"brand": "Gordon Harris Art Supplies", "years": [2025], "role": "partner", "source": "https://www.instagram.com/p/DQc-UHqEu8k/"},
+    {"brand": "Molotow", "years": [2025], "role": "partner", "source": "https://www.instagram.com/p/DQc-UHqEu8k/"}
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {"field": "website", "url": "https://www.instagram.com/graffiato_taupo_street_art/", "note": "Official IG links taupostreetart.com; site homepage shows 'Next Event: 24-26 October 2026' (Google snippet). Previous record value was the Love Taupo tourism page."},
+    {"field": "organiser", "url": "https://taupostreetart.com/event-info/", "note": "Google snippet: 'Hosted by Town Centre Taupo. Town Centre Taupo (TCT) has successfully delivered the Graffiato: Taupo Street Art Festival for the past 14 years'."},
+    {"field": "dates.last_edition", "url": "https://www.lovetaupo.com/en/dglt-hub/media/latest-news-and-updates/2025/big-bold-and-bright-graffiato-returns-to-taupo/", "note": "Google snippet: 'Graffiato: Taupo Street Art Festival (25 - 27 October)', dated 13 Oct 2025. First festival 2011, so 2025 was the 15th."},
+    {"field": "dates.next_edition", "url": "https://taupostreetart.com/", "note": "Google snippet: 'Next Event: 24-26 October 2026'; IG calls 2026 'our Sweet 16th' (https://www.instagram.com/p/Ddmqcrzj7NG/)."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DQc-UHqEu8k/", "note": "Oct 2025 wrap: 'our amazing sponsors: Legend Has It, Taupo District Council, First Light Community Foundation, Resene, Bay Trust, Pub Charity, Taupo Access Hire, Creative Communities, Wairakei Terraces, Harcourts Taupo, The Cozy Corner, Drive EV, Love Taupo' plus Gordon Harris and Molotow."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DPP3diBDFs-/", "note": "Oct 2025: Tier 1 'Legends of the Streets': Legend Has It, Taupo District Council, First Light Foundation, Town Centre Taupo. Tier 2 post: https://www.instagram.com/p/DPkGwAUk6np/."},
+    {"field": "sponsors", "url": "https://taupostreetart.com/sponsors/", "note": "Read via WebFetch: tiers Legends of the Streets, Urban Icons, Mural Masters; logos (alt text) for First Light, Legend Has It, Town Centre Taupo, Taupo District Council, Bay Trust, PCL, Taupo Access Hire, Resene, Creative Communities, Chamberlain Homes, 'Wt', Taupo Rentals & Holiday Homes, Cozy Corner, Love Taupo, Drive EV. Page year not stated but uses the 2026 logo, so treated as 2026."},
+    {"field": "partnership_contact", "url": "https://taupostreetart.com/contact/get-involved/", "note": "Get Involved page covers sponsorship: 'Sponsors can support through cash, products ...' (Google snippet). No sponsorship email found."}
+  ],
+  "add_gaps": ["No sponsorship email published; Get Involved page only", "2026 sponsor list inferred from logo alt text on the sponsors page", "Audience not published"],
+  "remove_gaps": ["Current organiser entity not confirmed", "No sponsors named in search results", "2025 exact dates not captured", "No public partnerships contact found"],
+  "notes": "Organiser corrected to Town Centre Taupō (business association), replacing the Erupt Events attribution; 'non-profit' type dropped as unconfirmed. Website switched from the Love Taupō page to the official taupostreetart.com. Tiered, community-funded sponsorship (three tiers) with an open Get Involved route. 2026 edition runs 24 to 26 Oct, just after this research date. 'Wt' logo on the 2026 page is probably Wairakei Terraces but not confirmed, so only 2025 recorded for it."
+}

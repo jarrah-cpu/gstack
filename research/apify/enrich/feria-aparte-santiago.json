@@ -1,0 +1,315 @@
+{
+ "id": "feria-aparte-santiago",
+ "set": {
+  "dates": {
+   "last_edition": {
+    "start": "2026-10-02",
+    "end": "2026-10-04",
+    "status": "held",
+    "label": "5th edition (2026)"
+   },
+   "next_edition": {
+    "start": "2027-10",
+    "end": null,
+    "status": "expected",
+    "label": "6th edition (2027)"
+   },
+   "frequency": "annual",
+   "duration_days": 3
+  },
+  "location": {
+   "city": "Santiago",
+   "state_or_region": "Región Metropolitana",
+   "country": "Chile",
+   "venue_or_area": "Ex Cervecería Ebner, Mall Barrio Independencia (Av. Independencia 565), Independencia"
+  },
+  "attendance": {
+   "figure": 7500,
+   "figure_high": null,
+   "year": 2026,
+   "is_estimate": false,
+   "source": "https://www.instagram.com/p/DecKdz0KTgP/",
+   "note": "Organiser-reported 'más de 7.500 personas' (over 7,500 people) over the three days of the 2026 edition; a 7 Oct post said 'más de 7.000'. MAC UChile page cites '30.000 personas', apparently cumulative across editions."
+  },
+  "organiser": {
+   "name": "Feria Aparte (independent, self-managed team of five)",
+   "type": "independent",
+   "website": null
+  },
+  "partnership_contact": {
+   "email": "feriaaparte@gmail.com",
+   "page_url": null,
+   "named_person": null,
+   "source": "https://www.instagram.com/p/DYUmFavFg7W/"
+  }
+ },
+ "add_sponsors": [
+  {
+   "brand": "Mall Barrio Independencia",
+   "years": [
+    2026
+   ],
+   "role": "presenting",
+   "source": "https://www.instagram.com/p/DbBfbmNlo1E/"
+  },
+  {
+   "brand": "Súbela Radio",
+   "years": [
+    2025,
+    2026
+   ],
+   "role": "media",
+   "source": "https://www.instagram.com/p/DdkPPRQCs36/"
+  },
+  {
+   "brand": "Hasta Pronto Brewing Co",
+   "years": [
+    2024,
+    2025,
+    2026
+   ],
+   "role": "partner",
+   "source": "https://www.instagram.com/p/DW2ADEEluaG/"
+  },
+  {
+   "brand": "Retrovisión Óptica",
+   "years": [
+    2025,
+    2026
+   ],
+   "role": "partner",
+   "source": "https://www.instagram.com/p/DQsRRbvkimo/"
+  },
+  {
+   "brand": "Museo de Arte Contemporáneo, Universidad de Chile (MAC)",
+   "years": [
+    2024,
+    2025,
+    2026
+   ],
+   "role": "partner",
+   "source": "https://www.instagram.com/p/DQ20u_xDBi3/"
+  },
+  {
+   "brand": "Fundación Mecenas",
+   "years": [
+    2025,
+    2026
+   ],
+   "role": "partner",
+   "source": "https://www.instagram.com/p/Dcq5-K8Edl7/"
+  },
+  {
+   "brand": "Artishock Revista",
+   "years": [
+    2026
+   ],
+   "role": "media",
+   "source": "https://www.instagram.com/p/DdWfbfmCjx0/"
+  },
+  {
+   "brand": "AGAC (Asociación de Galerías de Arte Contemporáneo)",
+   "years": [
+    2026
+   ],
+   "role": "partner",
+   "source": "https://www.instagram.com/p/DeDYT2zCo7B/"
+  },
+  {
+   "brand": "Municipalidad de Independencia",
+   "years": [
+    2025,
+    2026
+   ],
+   "role": "government",
+   "source": "https://www.instagram.com/p/DQ9fujKkRzW/"
+  },
+  {
+   "brand": "Ministerio de las Culturas, las Artes y el Patrimonio (Artes Visuales)",
+   "years": [
+    2025
+   ],
+   "role": "government",
+   "source": "https://www.instagram.com/p/DQ20u_xDBi3/"
+  },
+  {
+   "brand": "Artisan Roast Chile",
+   "years": [
+    2025,
+    2026
+   ],
+   "role": "partner",
+   "source": "https://www.instagram.com/p/DQP7hSFEm5P/"
+  },
+  {
+   "brand": "Suk",
+   "years": [
+    2025
+   ],
+   "role": "partner",
+   "source": "https://www.instagram.com/p/DQP7hSFEm5P/"
+  },
+  {
+   "brand": "La Vermutería",
+   "years": [
+    2025
+   ],
+   "role": "partner",
+   "source": "https://www.instagram.com/p/DQP7hSFEm5P/"
+  },
+  {
+   "brand": "Ewu Ginger Beer",
+   "years": [
+    2025
+   ],
+   "role": "partner",
+   "source": "https://www.instagram.com/p/DQP7hSFEm5P/"
+  },
+  {
+   "brand": "No Es Pecado",
+   "years": [
+    2025
+   ],
+   "role": "partner",
+   "source": "https://www.instagram.com/p/DQP7hSFEm5P/"
+  },
+  {
+   "brand": "By María",
+   "years": [
+    2025
+   ],
+   "role": "partner",
+   "source": "https://www.instagram.com/p/DQP7hSFEm5P/"
+  },
+  {
+   "brand": "Rockers Industrial",
+   "years": [
+    2026
+   ],
+   "role": "partner",
+   "source": "https://www.instagram.com/p/DdxFdQKCtu8/"
+  },
+  {
+   "brand": "Quesos Los Tilos",
+   "years": [
+    2026
+   ],
+   "role": "partner",
+   "source": "https://www.instagram.com/p/DdxFdQKCtu8/"
+  },
+  {
+   "brand": "La Inquieta Librería",
+   "years": [
+    2026
+   ],
+   "role": "partner",
+   "source": "https://www.instagram.com/p/DdxFdQKCtu8/"
+  },
+  {
+   "brand": "La Hacienda Ginger Beer",
+   "years": [
+    2026
+   ],
+   "role": "partner",
+   "source": "https://www.instagram.com/p/DdxFdQKCtu8/"
+  }
+ ],
+ "add_activation_formats": [
+  "collab-product",
+  "sampling",
+  "competition-or-prize"
+ ],
+ "add_sources": [
+  {
+   "field": "dates.last_edition",
+   "url": "https://mac.uchile.cl/feria-aparte-celebra-su-quinta-edicion-con-entrada-gratuita-en-independencia/",
+   "note": "Google snippet: fifth edition Fri 2, Sat 3 and Sun 4 Oct 2026; organiser open call (IG DYUmFavFg7W) also says 2, 3 and 4 Oct."
+  },
+  {
+   "field": "dates.frequency",
+   "url": "https://artishockrevista.com/2026/09/11/cinco-anos-de-feria-aparte/",
+   "note": "'Cinco años de Feria Aparte': editions every year since 2022 (4th edition 8 and 9 Nov 2025 per independencia.cl)."
+  },
+  {
+   "field": "location",
+   "url": "https://www.instagram.com/p/DdFS3pWlrnL/",
+   "note": "Ex Cervecería Ebner, Mall Barrio Independencia, free entry, 11am to 8pm."
+  },
+  {
+   "field": "attendance",
+   "url": "https://www.instagram.com/p/DecKdz0KTgP/",
+   "note": "Organiser: 'más de 7.500 personas recorriendo la Ex Cervecería Ebner'."
+  },
+  {
+   "field": "organiser",
+   "url": "https://www.instagram.com/p/DZliSyEFl-3/",
+   "note": "'este pequeño equipo de 5 personas'; 7 Oct 2026 post calls it 'un proyecto independiente y autogestionado'."
+  },
+  {
+   "field": "partnership_contact",
+   "url": "https://www.instagram.com/p/DYUmFavFg7W/",
+   "note": "Open call post: questions to feriaaparte@gmail.com (also in IG bio)."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://www.instagram.com/p/DbBfbmNlo1E/",
+   "note": "'Feria Aparte es presentada por @mallbarrioindepen'; other 2026 posts sign off 'Presenta: @mallbarrioindepen'."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://www.instagram.com/p/DdkPPRQCs36/",
+   "note": "'@subelaradio se suma nuevamente como Media Partner' (again, so 2025 too)."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://www.instagram.com/p/DW2ADEEluaG/",
+   "note": "Organiser values Hasta Pronto's 'alianza'; Hasta Pronto co-funds the acquisition prize donated to MAC (2024, 2025, 2026 per DRCeJGrja-H and DdRQ46llgJv)."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://www.instagram.com/p/DQP7hSFEm5P/",
+   "note": "2025: 'marcas que colaboran con nosotros para poder llevar a cabo esta cuarta versión': Hasta Pronto, Retrovisión, Suk, La Vermutería, Ewu Ginger Beer, No Es Pecado, Artisan Roast Chile, By María."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://www.instagram.com/p/DdxFdQKCtu8/",
+   "note": "2026 thanks list: Retrovisión, Hasta Pronto, Rockers Industrial, Artisan Roast Chile, Quesos Los Tilos, La Inquieta Librería, La Hacienda Ginger Beer."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://www.instagram.com/p/DQ20u_xDBi3/",
+   "note": "2025 acquisition prizes: MAC with Hasta Pronto; Ministry of Cultures visual arts area bought three works for the state collection; Fundación Mecenas prize."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://www.instagram.com/p/DeDYT2zCo7B/",
+   "note": "2026 awards thank Fundación Mecenas, Artishock, AGAC, MAC and Hasta Pronto Brewing."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://www.instagram.com/p/DQ9fujKkRzW/",
+   "note": "Municipalidad de Independencia co-authors the 2025 wrap post (also co-author on 2026 posts)."
+  },
+  {
+   "field": "activation_formats",
+   "url": "https://www.instagram.com/p/DQVCSJTEqOe/",
+   "note": "2025 giveaway: special-edition 'Aparte 2025 x Retrovisión' glasses and 'Cerveza Aparte x Hasta Pronto' six-packs."
+  },
+  {
+   "field": "activation_formats",
+   "url": "https://www.instagram.com/p/DQ1-HUMiXBA/",
+   "note": "2025: beer tasting with Hasta Pronto during the fair."
+  }
+ ],
+ "add_gaps": [
+  "No official website (IG and LinkedIn only)",
+  "Cash versus in-kind value of brand partners not stated",
+  "2027 dates not announced"
+ ],
+ "remove_gaps": [
+  "Frequency assumed annual from the dated 2026 edition; prior editions not confirmed",
+  "Organiser, website and Instagram not captured",
+  "Attendance and sponsors not captured"
+ ],
+ "notes": "Rich partner ecosystem: presented by Mall Barrio Independencia, media partner Súbela, plus food and drink and lifestyle brands (Hasta Pronto beer collab, Retrovisión special-edition glasses). Free, self-managed, about 7,500 visitors in 2026; team says funding is uncertain each year, so open to new partners. Dates corrected to 2 to 4 Oct 2026 (three days)."
+}

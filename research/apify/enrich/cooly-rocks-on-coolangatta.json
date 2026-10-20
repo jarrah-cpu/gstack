@@ -1,0 +1,164 @@
+{
+  "id": "cooly-rocks-on-coolangatta",
+  "set": {
+    "organiser": {
+      "name": "Experience Gold Coast",
+      "type": null,
+      "website": "https://experiencegoldcoast.au/"
+    },
+    "attendance": {
+      "figure": 120000,
+      "figure_high": null,
+      "year": 2019,
+      "is_estimate": false,
+      "source": "https://www.coolyrockson.com/news/2019/06/cooly-rocked-on-record-crowds/",
+      "note": "Organiser-reported 'record crowds of over 120,000' across five days in 2019 (2018: 110,000). No later figure found; EGC's 2026 release says 'tens of thousands'."
+    },
+    "partnership_contact": {
+      "email": "sponsorship@experiencegoldcoast.com",
+      "page_url": "https://www.coolyrockson.com/about/become-a-sponsor/",
+      "named_person": null,
+      "source": "https://www.coolyrockson.com/about/become-a-sponsor/"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Tourism and Events Queensland",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.coolyrockson.com/our-sponsors/"
+    },
+    {
+      "brand": "Autoglym",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.coolyrockson.com/our-sponsors/"
+    },
+    {
+      "brand": "Gold Coast Airport",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.coolyrockson.com/our-sponsors/"
+    },
+    {
+      "brand": "Indian Motorcycle",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.coolyrockson.com/our-sponsors/"
+    },
+    {
+      "brand": "Shannons",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.coolyrockson.com/our-sponsors/"
+    },
+    {
+      "brand": "Yugambeh Region Aboriginal Corporation Alliance",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.coolyrockson.com/our-sponsors/"
+    },
+    {
+      "brand": "EVENTelec",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.coolyrockson.com/our-sponsors/"
+    },
+    {
+      "brand": "TFH Hire Services",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.coolyrockson.com/our-sponsors/"
+    },
+    {
+      "brand": "Triple M Gold Coast",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.coolyrockson.com/our-sponsors/"
+    },
+    {
+      "brand": "Clean Vibes",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.coolyrockson.com/our-sponsors/"
+    },
+    {
+      "brand": "Griffith University",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.coolyrockson.com/our-sponsors/"
+    },
+    {
+      "brand": "MND and Me Foundation",
+      "years": [
+        2024
+      ],
+      "role": "partner",
+      "source": "https://www.coolyrockson.com/our-sponsors/"
+    }
+  ],
+  "add_sources": [
+    {
+      "field": "organiser",
+      "url": "https://www.coolyrockson.com/our-sponsors/",
+      "note": "Our Sponsors page: 'Cooly Rocks On is one of four festivals proudly produced by Experience Gold Coast (EGC)'."
+    },
+    {
+      "field": "attendance",
+      "url": "https://www.coolyrockson.com/news/2019/06/cooly-rocked-on-record-crowds/",
+      "note": "Organiser news (2019): 'record crowds of over 120,000 attending the retro festival over the five days'; 2018 'generated more than $6 million for the local economy with 110,000 attendees'."
+    },
+    {
+      "field": "attendance",
+      "url": "https://statements.qld.gov.au/statements/85879",
+      "note": "Queensland Government statement (2018): 'lured more than 110,000 people and generated about 34,000 visitor nights' (Google snippet)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.coolyrockson.com/our-sponsors/",
+      "note": "Our Sponsors page (2026 sponsor family): Strategic TEQ; Major Autoglym (Presenting Partner of the Show 'N' Shine) and Gold Coast Airport; Partners Indian Motorcycle (partners since 2019) and Shannons; Community YRACA, EVENTelec, TFH Hire; Media Triple M Gold Coast; also Clean Vibes, Griffith University; Charity partner MND and Me Foundation (text says 2024)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DZRXUpZD0No/",
+      "note": "@coolyrockson post (7 Jun 2026): 'The Show 'N' Shine proudly presented by @autoglymau'."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.coolyrockson.com/about/become-a-sponsor/",
+      "note": "Sponsorship Opportunities page: 'Contact us today to discuss sponsorship opportunities for Cooly Rocks On 2027'; email shown via Cloudflare email protection, decodes to sponsorship@experiencegoldcoast.com. General: info@coolyrockson.com (FAQ)."
+    }
+  ],
+  "remove_gaps": [
+    "Organiser not named in results",
+    "Attendance not published",
+    "Sponsors not captured (an Experience Gold Coast wrap-up lists a sponsor family, not reviewed)",
+    "No public partnerships contact found"
+  ],
+  "add_gaps": [
+    "No attendance figure published after 2019"
+  ],
+  "notes": "Produced by Experience Gold Coast. Latest stated crowd is 2019 (over 120,000, organiser). Open sponsor model with tiers; Autoglym presents the Show 'N' Shine. Sponsorship email was Cloudflare-obfuscated on the page and decoded, so check before use."
+}

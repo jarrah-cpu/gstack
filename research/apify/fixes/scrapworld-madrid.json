@@ -1,0 +1,14 @@
+{
+ "id": "scrapworld-madrid",
+ "set": {
+  "website": "https://scrapworld.es/"
+ },
+ "add_sources": [
+  {
+   "field": "website",
+   "url": "https://www.instagram.com/scrapworld/",
+   "note": "Event's Instagram profile links scrapworld.es; previous website was the IFEMA venue page."
+  }
+ ],
+ "notes": "Orchestrator fix."
+}

@@ -1,0 +1,62 @@
+{
+  "id": "blak-day-out-brisbane",
+  "set": {
+    "organiser": {
+      "name": "Blak Social (curator Alethea Beetson), co-presented with Open Season",
+      "type": "community-collective",
+      "website": "http://www.blaksocial.com"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Open Season",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DX83KBRk-rV/"
+    },
+    {
+      "brand": "The Tivoli",
+      "years": [
+        2022,
+        2023
+      ],
+      "role": "venue",
+      "source": "http://www.blaksocial.com"
+    }
+  ],
+  "add_sources": [
+    {
+      "field": "organiser",
+      "url": "http://www.blaksocial.com",
+      "note": "Blak Social site: founded by Alethea Beetson; delivered Blak Day Out 2022 and 2023 through a residency at The Tivoli."
+    },
+    {
+      "field": "organiser",
+      "url": "https://www.instagram.com/blak.social/",
+      "note": "Instagram profile link of @blak.social points to blaksocial.com."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DX83KBRk-rV/",
+      "note": "Google snippet of 2026 lineup post: Blak Day Out by Blak Social 'co-presented with @openseasonbrisbane' at The Princess Theatre, Fri 24 July."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.facebook.com/thelmaplum/posts/so-excited-to-be-performing-at-blak-day-out-for-open-season-brisbane-on-july-26t/1210654683765197/",
+      "note": "Google snippet: 2025 edition ran as part of Open Season Brisbane and sold out."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DbC4DSMTd1X/",
+      "note": "@blak.social paid-partnership post (21 Jul 2026) tagging The Princess Theatre and Open Season."
+    }
+  ],
+  "add_gaps": [
+    "Festmore aggregator lists 'Expected 3,000 visitors' (Google snippet); not organiser-reported, so not used",
+    "A Happy Mag Facebook snippet says an edition was 'presented in partnership with Brisbane Festival + The Tivoli Brisbane'; year not confirmed, so Brisbane Festival not added"
+  ],
+  "notes": "No standalone event website; blaksocial.com is the curator's site, so it is set as organiser website and record website stays null. Open Season (Brisbane winter program) co-presents 2025 and 2026; The Tivoli hosted 2022 and 2023. No commercial brand sponsors found."
+}

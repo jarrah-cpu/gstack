@@ -1,0 +1,177 @@
+{
+  "id": "laneway-festival-melbourne",
+  "set": {
+    "website": "https://www.lanewayfestival.com/",
+    "organiser": {
+      "name": "St Jerome's Laneway Festival (part of Ticketek Entertainment Group)",
+      "type": "promoter",
+      "website": "https://www.lanewayfestival.com/"
+    },
+    "dates": {
+      "last_edition": {
+        "start": "2026-02-13",
+        "end": "2026-02-13",
+        "status": "held",
+        "label": "2026 (sold out)"
+      },
+      "next_edition": {
+        "start": "2027-02-19",
+        "end": "2027-02-19",
+        "status": "confirmed",
+        "label": "2027"
+      },
+      "frequency": "annual",
+      "duration_days": 1
+    },
+    "partnership_contact": {
+      "email": null,
+      "page_url": "https://www.lanewayfestival.com/contact-us",
+      "named_person": null,
+      "source": "https://www.lanewayfestival.com/contact-us"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "TAC (Transport Accident Commission)",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.instagram.com/p/DUEqgf6E4ko/"
+    },
+    {
+      "brand": "Pandora",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DUPWpDQkTjV/"
+    },
+    {
+      "brand": "End the Trend",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DUpPZDLE5uN/"
+    },
+    {
+      "brand": "FEAT",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DVz11MJEvQY/"
+    },
+    {
+      "brand": "Afterpay",
+      "years": [
+        2027
+      ],
+      "role": "partner",
+      "source": "https://beat.com.au/laneway-festival-2027-drops-its-32-act-lineup-led-by-fontaines-d-c/"
+    },
+    {
+      "brand": "NYX Professional Makeup (L'Oréal Australia)",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://bastionagency.com/case-study/loreal-australia-nyx-professional-makeup-x-st-jeromes-laneway-festival/"
+    }
+  ],
+  "add_activation_formats": [
+    "lounge",
+    "competition-or-prize",
+    "installation",
+    "content-series",
+    "sampling"
+  ],
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://www.lanewayfestival.com/contact-us",
+      "note": "Google result: official Laneway Festival site."
+    },
+    {
+      "field": "organiser",
+      "url": "https://www.lanewayfestival.com/privacy-policy-australia",
+      "note": "Google snippet: 'Laneway Festival is part of the Ticketek Entertainment Group'."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.instagram.com/p/DUrJA4kE0ni/",
+      "note": "Organiser post, 13 Feb 2026: 'We're almost there Melbourne, Laneway is TODAY!'"
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.instagram.com/p/DUraWSvkzpD/",
+      "note": "Organiser post, 13 Feb 2026: 'Melbourne, we are officially sold out!'"
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.lanewayfestival.com/contact-us",
+      "note": "Google result: official contact page (general enquiries)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DUEqgf6E4ko/",
+      "note": "Organiser post: 'Vanessa's Place' sharehouse at Laneway Melbourne with free toast and phone charging, 'Powered by TAC'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DUPWpDQkTjV/",
+      "note": "Organiser post: '@theofficialpandora Vault' prize challenge at Laneway Sydney and Melbourne 2026."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DUpPZDLE5uN/",
+      "note": "Paid-partnership post, 12 Feb 2026: weather forecasts 'brought to you by @endthetrendaus' with sun-safety messaging (SPF50+, shade)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DVz11MJEvQY/",
+      "note": "Organiser post: Solar Slice across #Laneway2026 'in partnership with @feat.artists', $1 from every ticket to climate and social impact."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://beat.com.au/laneway-festival-2027-drops-its-32-act-lineup-led-by-fontaines-d-c/",
+      "note": "Google snippet: 2027 pre-sale 'presented by Afterpay'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://bastionagency.com/case-study/loreal-australia-nyx-professional-makeup-x-st-jeromes-laneway-festival/",
+      "note": "Page read: NYX Professional Makeup activations at Sydney and Melbourne Laneway in 2025 (porta-party spaces, makeup stations, sampling); deal included pre-parties, tickets and channel promotion."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/DUEqgf6E4ko/",
+      "note": "TAC Vanessa's Place: lounge."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/DUPWpDQkTjV/",
+      "note": "Pandora Vault: prize challenge installation."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/DUpPZDLE5uN/",
+      "note": "End the Trend sponsored weather-forecast posts: content series."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://bastionagency.com/case-study/loreal-australia-nyx-professional-makeup-x-st-jeromes-laneway-festival/",
+      "note": "NYX 2025: branded installation with makeup stations and sampling."
+    }
+  ],
+  "remove_gaps": [
+    "2026 Melbourne edition date not captured",
+    "Official website, organiser, Instagram, attendance, sponsors and ticket prices not captured in search results"
+  ],
+  "add_gaps": [
+    "Attendance not published (Melbourne 2026 sold out, capacity not stated)",
+    "Ticket prices not captured",
+    "No dedicated sponsorship contact (general contact page only)"
+  ],
+  "notes": "Melbourne 2026 held 13 Feb and sold out. Active non-endemic brand program: TAC lounge, Pandora prize vault, End the Trend sun-safety content (health adjacent), FEAT climate levy, NYX beauty (2025), Afterpay presale (2027). A 'Wuthering Heights' hair-styling station (film tie-in, owner not stated) ran in Sydney and Melbourne 2026; not added. IG is the national account. Adelaide and Perth pause in 2027; Melbourne continues."
+}

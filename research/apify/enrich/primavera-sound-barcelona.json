@@ -1,0 +1,213 @@
+{
+  "id": "primavera-sound-barcelona",
+  "set": {
+    "website": "https://www.primaverasound.com/",
+    "dates": {
+      "last_edition": {
+        "start": "2026-06-03",
+        "end": "2026-06-07",
+        "status": "held",
+        "label": "2026"
+      },
+      "next_edition": {
+        "start": "2027-06-02",
+        "end": "2027-06-06",
+        "status": "confirmed",
+        "label": "25th edition (2027): main days 3 to 5 Jun, free opening day 2 Jun, Primavera Bits closing 6 Jun"
+      },
+      "frequency": "annual",
+      "duration_days": 5
+    },
+    "attendance": {
+      "figure": 293000,
+      "figure_high": null,
+      "year": 2025,
+      "is_estimate": false,
+      "source": "https://www.instagram.com/p/DKnEt80NvcA/",
+      "note": "293,000 people across all Parc del Forum activities plus Primavera a la Ciutat in 2025, 25,000 more than 2024 (Google snippet of an Instagram post; posting account not confirmed). 2024: 268,000 (Noticias de Navarra). 2026 total not captured."
+    },
+    "ticket_price": {
+      "min": 275,
+      "max": null,
+      "currency": "EUR",
+      "free_entry": false,
+      "note": "2027 full festival ticket at Fan Sale price EUR 275 plus fees (extended 24 hours for Revolut customers). General sale and VIP prices not captured. Opening day on 2 Jun 2027 is free."
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "CUPRA",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DZYEdV4iMID/"
+    },
+    {
+      "brand": "Estrella Damm",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DZQM4MUiGmP/"
+    },
+    {
+      "brand": "Levi's",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DZQayPGiNfC/"
+    },
+    {
+      "brand": "Vueling",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DZNjdZ4CO1Q/"
+    },
+    {
+      "brand": "Disney",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DZZvt6qCJf-/"
+    },
+    {
+      "brand": "Zalando",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://es.fashionnetwork.com/news/Zalando-refuerza-su-posicionamiento-en-espana-con-el-patrocinio-del-primavera-sound-2026,1821982.html"
+    },
+    {
+      "brand": "Revolut",
+      "years": [
+        2027
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DeJh1WDxQCF/"
+    },
+    {
+      "brand": "Occident",
+      "years": [
+        2026
+      ],
+      "role": "unknown",
+      "source": "https://www.instagram.com/p/DZS5uKdEwIC/"
+    },
+    {
+      "brand": "Pull&Bear",
+      "years": [
+        2023
+      ],
+      "role": "partner",
+      "source": "https://www.marketingdirecto.com/anunciantes-general/patrocinadores-primavera-sound-2023-pull-and-bear-cupra"
+    }
+  ],
+  "add_activation_formats": [
+    "customisation-station",
+    "installation",
+    "lounge"
+  ],
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://www.primaverasound.com/es/barcelona",
+      "note": "Official festival site (Google results for the Barcelona edition and partners page)."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.instagram.com/p/DPB6otykW3D/",
+      "note": "2026 line-up post: 3 to 7 Jun 2026 at Parc del Forum; Google snippet."
+    },
+    {
+      "field": "attendance",
+      "url": "https://www.instagram.com/p/DKnEt80NvcA/",
+      "note": "'293.000 personas sumando todas las actividades del Forum y el Primavera a la Ciutat, 25.000 mas que el...' Google snippet, post dated 7 Jun 2025 by shortcode."
+    },
+    {
+      "field": "attendance",
+      "url": "https://www.noticiasdenavarra.com/cultura/2024/06/01/primavera-sound-registra-268-000-asistentes-preve-retorno-200-milllones-barcelona-8306993.html",
+      "note": "2024: 268,000 attendees; Google snippet."
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://www.instagram.com/p/DeRJ4xUCC1s/",
+      "note": "9 Oct 2026 post: general sale open; Revolut customers get the Fan Sale price 'EUR 275 + tasas' for 24 more hours."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DZYEdV4iMID/",
+      "note": "CUPRA co-authored post: 'this was CUPRA Pulse at Primavera Sound Barcelona 2026' (branded electronic stage)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DZQM4MUiGmP/",
+      "note": "2026 post on the Terrassa Estrella Damm restaurant at the festival, tagging @estrelladamm."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DZQayPGiNfC/",
+      "note": "Levi's Plaza at Primavera Sound 2026 with a tailor shop and live sets."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DZNjdZ4CO1Q/",
+      "note": "Vueling 'Grada Fly Me To The Music' ticketed raised grandstand, 2026."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DZZvt6qCJf-/",
+      "note": "'Disney's island during Primavera Sound' 2026, tagging @disneyspain."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://es.fashionnetwork.com/news/Zalando-refuerza-su-posicionamiento-en-espana-con-el-patrocinio-del-primavera-sound-2026,1821982.html",
+      "note": "Zalando sponsors Primavera Sound Barcelona 2026 (8 Apr 2026); Google snippet."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DeJh1WDxQCF/",
+      "note": "Revolut discount and extra Fan Sale day for 2027 passes ('Revolut Day')."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DZS5uKdEwIC/",
+      "note": "@occidentseguros tagged in four 2026 festival photos (Primavera Bits sets and a ride); role not stated."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.marketingdirecto.com/anunciantes-general/patrocinadores-primavera-sound-2023-pull-and-bear-cupra",
+      "note": "2023: Pull&Bear Stage at Barcelona and Madrid; Google snippet."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/DZQayPGiNfC/",
+      "note": "Levi's tailor shop (customisation-station)."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/DZZvt6qCJf-/",
+      "note": "Disney island (installation)."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/DZNjdZ4CO1Q/",
+      "note": "Vueling grandstand seating area (lounge)."
+    }
+  ],
+  "add_gaps": [
+    "2026 attendance total not captured",
+    "Sponsor tiers (strategic partners, partners, media partners) not captured; the partners page is JS-rendered"
+  ],
+  "remove_gaps": [
+    "Attendance not captured",
+    "Sponsors not captured",
+    "Official website and IG not captured"
+  ],
+  "notes": "The partners page did not render, so sponsors come from 2026 IG posts and press. Roles are set to partner because no tiers were visible; CUPRA and Estrella Damm may well be top tier. 'Momento pogo patrocinado por @lambrinigirlz' is a joke about the band Lambrini Girls, not a sponsor."
+}

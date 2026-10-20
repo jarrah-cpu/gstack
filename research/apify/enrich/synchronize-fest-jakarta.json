@@ -1,0 +1,42 @@
+{
+  "id": "synchronize-fest-jakarta",
+  "set": {
+    "website": "https://www.synchronizefestival.com/"
+  },
+  "add_sponsors": [
+    {"brand": "Telkomsel SIMPATI", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/Deg6NXFk564/"},
+    {"brand": "Biznet", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DejADOYExK-/"},
+    {"brand": "Rumah Indofood", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DeY3NCkTP36/"},
+    {"brand": "Pinhome", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DeOIkIxky53/"},
+    {"brand": "Transjakarta", "years": [2026], "role": "partner", "source": "https://transjakarta.co.id/berita/nonton-festival-bebas-ribet-lebih-dari-3000-pengunjung-synchronize-fest-2026-naik-transjakarta"},
+    {"brand": "Bluebird", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/Ded21GYk5oI/"},
+    {"brand": "JNE", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/Del0RaBT4G2/"},
+    {"brand": "Bike to Fez", "years": [2026], "role": "collab", "source": "https://www.instagram.com/p/DeOxON9gTHu/"},
+    {"brand": "Orang Tua Group", "years": [2025], "role": "partner", "source": "https://exhibition.jiexpo.com/synchronize-festival-2025-saling-silang-sepuluh-tahun-merayakan-musik-indonesia/"},
+    {"brand": "Djarum", "years": [2025], "role": "partner", "source": "https://exhibition.jiexpo.com/synchronize-festival-2025-saling-silang-sepuluh-tahun-merayakan-musik-indonesia/"}
+  ],
+  "add_activation_formats": ["competition-or-prize"],
+  "add_sources": [
+    {"field": "website", "url": "https://www.instagram.com/p/DeJTymtziYH/", "note": "@synchronizefest: buy tickets only at www.synchronizefestival.com, the Synchronize Fest app and official channels."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/Deg6NXFk564/", "note": "@synchronizefest (15 Oct 2026): booth @simpati with vinyl raffle, polaroids, band-tee OOTD."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DejADOYExK-/", "note": "Free internet '#PakeBiznet' for all three days plus @biznethome booth."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DeY3NCkTP36/", "note": "Co-authored with @rumahindofood: meet and greets with The Panturas and Reality Club at the 'Main Booth @rumahindofood'; tags Indomie, Chitato, Pop Mie, Indomilk."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DeOIkIxky53/", "note": "Co-authored with @pinhome.id: Pinhome booth near the gate offering nail art, hair styling and 15 or 30 minute light massage to recover energy between sets."},
+    {"field": "sponsors", "url": "https://transjakarta.co.id/berita/nonton-festival-bebas-ribet-lebih-dari-3000-pengunjung-synchronize-fest-2026-naik-transjakarta", "note": "Transjakarta (16 Oct 2026): more than 3,000 Synchronize Fest 2026 visitors used the 'Nebeng Bareng' free shuttle (7 pick-up points, per https://www.instagram.com/p/DeT7TwAk9h3/)."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/Ded21GYk5oI/", "note": "Bluebird ride discount up to IDR 120k for festival-goers."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/Del0RaBT4G2/", "note": "Merch pre-order with free shipping 'disupport oleh @jne_id'."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DeOxON9gTHu/", "note": "Pre-event 'Alleycat Party' Bike to Synchronize, co-authored with @biketofez (11 Oct 2026)."},
+    {"field": "sponsors", "url": "https://exhibition.jiexpo.com/synchronize-festival-2025-saling-silang-sepuluh-tahun-merayakan-musik-indonesia/", "note": "Google snippet (2 Oct 2025): 'Synchronize Fest 2025 turut didukung oleh beberapa sponsor panggung, diantaranya Orang Tua Group pada District Stage, Djarum dengan produk ...' (text cut short)."},
+    {"field": "sponsors", "url": "https://www.antaranews.com/berita/5100377/synchronize-fest-2025-periksa-ulang-keterlibatan-sponsor-terkait", "note": "Google snippet: 2025 committee said it repeatedly re-checked sponsors after a public sponsor controversy (Kompas also covered)."},
+    {"field": "activation_formats", "url": "https://www.instagram.com/p/DeOIkIxky53/", "note": "Brand booths with services and giveaways (Pinhome massage, Simpati raffle, Rumah Indofood merch)."}
+  ],
+  "add_gaps": [
+    "Organiser entity not named in sources; pre-events ran at Demajors' office and the 2025 after-movie is on demajorsTV, suggesting Demajors (not confirmed)",
+    "2026 attendance not published; Transjakarta counted 3,000+ shuttle riders only"
+  ],
+  "remove_gaps": [
+    "2026 edition ended two days before this scan; no post-event report or attendance found",
+    "Organiser entity, official website and sponsors not shown in results"
+  ],
+  "notes": "2026 partners are booth and service brands (Simpati, Biznet, Rumah Indofood, Pinhome, Transjakarta, Bluebird, JNE). Pinhome's light-massage booth is a direct wellness-service precedent. 2025 stage sponsors included Orang Tua Group and Djarum; a 2025 sponsor controversy made the organiser re-check sponsors. Organiser likely Demajors but not stated."
+}

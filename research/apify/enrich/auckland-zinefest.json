@@ -1,0 +1,26 @@
+{
+  "id": "auckland-zinefest",
+  "set": {
+    "website": "https://www.aucklandzinefest.com/",
+    "organiser": {"name": "Auckland Zinefest (100% volunteer-run)", "type": "community-collective", "website": "https://www.aucklandzinefest.com/"},
+    "partnership_contact": {"email": "akzinefest@gmail.com", "page_url": null, "named_person": null, "source": "https://www.aucklandzinefest.com/2026-best-of-the-fest"}
+  },
+  "add_sponsors": [
+    {"brand": "Creative Communities Scheme", "years": [2026], "role": "government", "source": "https://www.aucklandartgallery.com/visit/events/auckland-zinefest-market"},
+    {"brand": "Auckland Council", "years": [2026], "role": "government", "source": "https://www.aucklandartgallery.com/visit/events/auckland-zinefest-market"},
+    {"brand": "Almighty", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/Dchzx0ROK1C/"}
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {"field": "website", "url": "https://www.aucklandartgallery.com/visit/events/auckland-zinefest-market", "note": "Gallery event page links Auckland Zinefest's 'website' as aucklandzinefest.com."},
+    {"field": "organiser", "url": "https://www.instagram.com/p/DV78fI3j0Du/", "note": "Mar 2026: 'Auckland Zinefest is 100% volunteer-run'; recruiting a volunteer Funding + Sponsorship Coordinator."},
+    {"field": "sponsors", "url": "https://www.aucklandartgallery.com/visit/events/auckland-zinefest-market", "note": "2026 market page: 'Proudly presented in collaboration with Auckland Art Gallery Toi o Tamaki and supported by the Creative Communities Scheme and Auckland Council.'"},
+    {"field": "sponsors", "url": "https://designassembly.org.nz/2026/07/27/auckland-zinefest-month-by-auckland-zinefest/", "note": "Zinefest Month 2026 'proudly supported by the Creative Communities Scheme and Auckland Council' (Google snippet)."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/Dchzx0ROK1C/", "note": "Aug 2026: thanks to '@drinkalmighty for keeping us quenched' at Zinefest Month workshops (also https://www.instagram.com/p/DeAlVuxSRvY/)."},
+    {"field": "sponsors", "url": "https://www.aucklandzinefest.com/2026-best-of-the-fest", "note": "Read via WebFetch: 'Special thanks to our sponsors!' section names no sponsors; supporter logos are the Creative Communities Scheme/Auckland Council mark and an AAG mark."},
+    {"field": "partnership_contact", "url": "https://www.aucklandzinefest.com/2026-best-of-the-fest", "note": "Site contact email akzinefest@gmail.com (general)."}
+  ],
+  "add_gaps": ["Audience age and gender not published", "No partnerships contact; general email only", "Prize sponsors for Best of the Fest not named on the site"],
+  "remove_gaps": ["Official organiser website not captured", "No public partnerships contact found"],
+  "notes": "Volunteer-run, council-funded zine festival; only in-kind brand support found (Almighty drinks at workshops). Auckland Art Gallery is described as co-presenter ('presented in collaboration with'), so its current 'venue' role could be upgraded to presenting by the orchestrator. 2026 market weekend had 150+ zinemakers (https://www.instagram.com/p/DbkZqejmn69/); no visitor count published."
+}

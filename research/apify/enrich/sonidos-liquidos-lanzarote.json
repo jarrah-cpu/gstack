@@ -1,0 +1,220 @@
+{
+  "id": "sonidos-liquidos-lanzarote",
+  "set": {
+    "website": "https://sonidosliquidos.com/",
+    "organiser": {
+      "name": "Arenao Producciones",
+      "type": "promoter",
+      "website": null
+    },
+    "dates": {
+      "last_edition": {
+        "start": "2026-03-08",
+        "end": "2026-06-28",
+        "status": "held",
+        "label": "16th edition (2026): opened 8 Mar; main La Geria concert on 6 Jun cancelled on the day for weather"
+      },
+      "next_edition": {
+        "start": "2027-06-05",
+        "end": null,
+        "status": "confirmed",
+        "label": "17th edition (2027): main La Geria concert on Sat 5 Jun; other dates not announced"
+      },
+      "frequency": "annual",
+      "duration_days": null
+    },
+    "attendance": {
+      "figure": 2800,
+      "figure_high": null,
+      "year": 2024,
+      "is_estimate": false,
+      "source": "https://www.servimedia.es/noticias/sonidos-liquidos-cierra-geria-2800-asistentes/1410179391",
+      "note": "Press-reported total of 2,800 at the 14th edition main day at La Geria, 8 Jun 2024 (Servimedia, Google snippet). The 2026 main day sold out but was cancelled for weather; 2025 total not captured."
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Cabildo de Lanzarote",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://rtvc.es/sonidos-liquidos-afina-los-ultimos-acordes-para-la-gran-cita-de-este-sabado-en-la-geria-3-junio-2026/"
+    },
+    {
+      "brand": "Turismo de Islas Canarias",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://rtvc.es/sonidos-liquidos-afina-los-ultimos-acordes-para-la-gran-cita-de-este-sabado-en-la-geria-3-junio-2026/"
+    },
+    {
+      "brand": "SPEL Turismo Lanzarote (Lanzarote Music Festivals)",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://rtvc.es/sonidos-liquidos-afina-los-ultimos-acordes-para-la-gran-cita-de-este-sabado-en-la-geria-3-junio-2026/"
+    },
+    {
+      "brand": "Centros de Arte, Cultura y Turismo de Lanzarote",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.instagram.com/p/DVowFIgCGGb/"
+    },
+    {
+      "brand": "Ayuntamiento de Yaiza",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://rtvc.es/sonidos-liquidos-afina-los-ultimos-acordes-para-la-gran-cita-de-este-sabado-en-la-geria-3-junio-2026/"
+    },
+    {
+      "brand": "Consejo Regulador D.O. Vinos de Lanzarote",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://rtvc.es/sonidos-liquidos-afina-los-ultimos-acordes-para-la-gran-cita-de-este-sabado-en-la-geria-3-junio-2026/"
+    },
+    {
+      "brand": "Lava Live Fest",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://rtvc.es/sonidos-liquidos-afina-los-ultimos-acordes-para-la-gran-cita-de-este-sabado-en-la-geria-3-junio-2026/"
+    },
+    {
+      "brand": "Grupo Chacon",
+      "years": [
+        2026
+      ],
+      "role": "collab",
+      "source": "https://rtvc.es/sonidos-liquidos-afina-los-ultimos-acordes-para-la-gran-cita-de-este-sabado-en-la-geria-3-junio-2026/"
+    },
+    {
+      "brand": "Relaxia Resorts",
+      "years": [
+        2026
+      ],
+      "role": "collab",
+      "source": "https://rtvc.es/sonidos-liquidos-afina-los-ultimos-acordes-para-la-gran-cita-de-este-sabado-en-la-geria-3-junio-2026/"
+    },
+    {
+      "brand": "Sonora",
+      "years": [
+        2026
+      ],
+      "role": "collab",
+      "source": "https://rtvc.es/sonidos-liquidos-afina-los-ultimos-acordes-para-la-gran-cita-de-este-sabado-en-la-geria-3-junio-2026/"
+    },
+    {
+      "brand": "Tickety",
+      "years": [
+        2026
+      ],
+      "role": "collab",
+      "source": "https://rtvc.es/sonidos-liquidos-afina-los-ultimos-acordes-para-la-gran-cita-de-este-sabado-en-la-geria-3-junio-2026/"
+    },
+    {
+      "brand": "NextGenerationEU (European Union)",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://rtvc.es/sonidos-liquidos-afina-los-ultimos-acordes-para-la-gran-cita-de-este-sabado-en-la-geria-3-junio-2026/"
+    },
+    {
+      "brand": "Fundacion Lineas Romero",
+      "years": [
+        2026
+      ],
+      "role": "collab",
+      "source": "https://www.instagram.com/p/DZ-FF5TCGkj/"
+    },
+    {
+      "brand": "Bodega La Geria",
+      "years": [
+        2026
+      ],
+      "role": "venue",
+      "source": "https://sonidosliquidos.com/preguntas-frecuentes/"
+    }
+  ],
+  "add_activation_formats": [
+    "workshop"
+  ],
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://sonidosliquidos.com/",
+      "note": "Official site, linked from the @sonidos_liquidos IG profile; already selling 2027 tickets."
+    },
+    {
+      "field": "organiser",
+      "url": "https://rtvc.es/sonidos-liquidos-afina-los-ultimos-acordes-para-la-gran-cita-de-este-sabado-en-la-geria-3-junio-2026/",
+      "note": "'Sonidos Liquidos esta organizado por Arenao Producciones con el patrocinio de Cabildo de Lanzarote...'"
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.instagram.com/p/DVowFIgCGGb/",
+      "note": "8 Mar 2026: 'Sonidos Liquidos 2026 arranco hoy' with Natalia Lacunza at Casa Museo del Campesino, opening the 16th edition."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.instagram.com/p/DZPvws4leBQ/",
+      "note": "6 Jun 2026 'COMUNICADO OFICIAL: CANCELACION DE SONIDOS LIQUIDOS 2026' after consulting island safety authorities; RTVC reported strong winds."
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.instagram.com/p/DZcR8b6FfTo/",
+      "note": "11 Jun 2026: return to La Geria 'El sabado 5 de junio de 2027'; tickets from 12 Jun."
+    },
+    {
+      "field": "attendance",
+      "url": "https://www.servimedia.es/noticias/sonidos-liquidos-cierra-geria-2800-asistentes/1410179391",
+      "note": "'decimocuarta edicion el pasado sabado, 8 de junio, con un total de 2.800 asistentes'; Google snippet."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://rtvc.es/sonidos-liquidos-afina-los-ultimos-acordes-para-la-gran-cita-de-este-sabado-en-la-geria-3-junio-2026/",
+      "note": "RTVC (3 Jun 2026) fetched 21 Oct 2026: sponsors Cabildo de Lanzarote, Turismo de Islas Canarias, SPEL Turismo Lanzarote (Lanzarote Music Festivals), Centros de Arte Cultura y Turismo, Ayuntamiento de Yaiza, Consejo Regulador D.O. Vinos de Lanzarote, Lava Live Fest; 'Colaboran: Grupo Chacon, Relaxia Resorts, Sonora y Tickety'; NextGenerationEU funding."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DVowFIgCGGb/",
+      "note": "Centros de Arte, Cultura y Turismo de Lanzarote sponsored the 8 Mar 2026 opening concert (free by invitation)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DZ-FF5TCGkj/",
+      "note": "Family workshop and La Graciosa catamaran Belingueo 'en colaboracion' with Fundacion Lineas Romero, 2026."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://sonidosliquidos.com/preguntas-frecuentes/",
+      "note": "FAQ places the main festival at Bodega La Geria."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/DZ-FF5TCGkj/",
+      "note": "Family workshop co-run with Fundacion Lineas Romero."
+    }
+  ],
+  "add_gaps": [
+    "2025 and 2026 attendance totals not published",
+    "Ticket prices not captured"
+  ],
+  "remove_gaps": [
+    "Organiser not identified",
+    "Total attendance not published",
+    "Sponsors not identified (D.O. Lanzarote wines featured)",
+    "2027 dates not announced"
+  ],
+  "notes": "The 2026 flagship La Geria concert (6 Jun, sold out) was cancelled on the day for weather. The opening and satellite Belingueo events still ran, so the edition is marked held with that caveat. Sponsors are mostly island and regional public bodies plus the D.O. wine council, with three hospitality brands as collaborators. Next main date is 5 Jun 2027."
+}

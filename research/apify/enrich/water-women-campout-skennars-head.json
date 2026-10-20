@@ -1,0 +1,112 @@
+{
+  "id": "water-women-campout-skennars-head",
+  "set": {
+    "website": "https://surfersforclimate.org.au/products/water-women-campout-2026",
+    "organiser": {
+      "name": "Surfers for Climate (host)",
+      "type": "non-profit",
+      "website": "https://surfersforclimate.org.au/"
+    },
+    "ticket_price": {
+      "min": 120,
+      "max": 480,
+      "currency": "AUD",
+      "free_entry": false,
+      "note": "2026: General Admission $480 (3 nights camping, Friday and Saturday dinners), Saturday day pass $180, Sunday day pass $120; add-ons: vehicle pass $70, Bower Camp Co. glamping tent $370 (1 person) or $520 (2 people). Subsidised 'low-tide' tickets on request."
+    },
+    "partnership_contact": {
+      "email": "contact@surfersforclimate.org.au",
+      "page_url": "https://surfersforclimate.org.au/pages/team",
+      "named_person": "Rick Bannister (Strategic Communications & Partnerships Manager, Surfers for Climate)",
+      "source": "https://surfersforclimate.org.au/pages/team"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Bluetti Australia",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/Dd7_gnGyK37/"
+    },
+    {
+      "brand": "Bower Camp Co.",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://surfersforclimate.org.au/products/water-women-campout-2026"
+    },
+    {
+      "brand": "Intuitive Kitchen",
+      "years": [
+        2026
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.instagram.com/p/DdAxKeBgEhh/"
+    },
+    {
+      "brand": "WELA (Women's Environmental Leadership Australia)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DZlazEPE70v/"
+    }
+  ],
+  "add_activation_formats": [
+    "workshop"
+  ],
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://www.instagram.com/water.women.collective/",
+      "note": "@water.women.collective bio links to the campout page on surfersforclimate.org.au; 'Hosted by @surfersforclimate'."
+    },
+    {
+      "field": "organiser",
+      "url": "https://www.instagram.com/water.women.collective/",
+      "note": "IG bio: 'Hosted by @surfersforclimate'; tickets sold on the Surfers for Climate site."
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://surfersforclimate.org.au/products/water-women-campout-2026",
+      "note": "2026 campout page lists ticket types and prices, glamping upgrade via Bower Camp Co. and on-site meals by Intuitive Kitchen."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/Dd7_gnGyK37/",
+      "note": "Post (1 Oct 2026): 'We're so grateful to have worked with Bluetti for the last two Water Women Campouts, helping us power these events without relying on fossil fuels.' Same post calls 2026 the 'third annual Water Women campout'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DZlazEPE70v/",
+      "note": "'WELA is joining Surfers for Climate's (@surfersforclimate) annual Water Women Campout gathering for women leading change in coastal communities' (Google snippet, mid 2026)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DdAxKeBgEhh/",
+      "note": "'Livi & Amanda from Intuitive Kitchen will be cooking through the weekend' (8 Sep 2026)."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://surfersforclimate.org.au/pages/team",
+      "note": "Surfers for Climate team page names Rick Bannister as Strategic Communications & Partnerships Manager; general email contact@surfersforclimate.org.au. Campout queries go to caitlin@surfersforclimate.org.au."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/Dd7_gnGyK37/",
+      "note": "Bluetti supplied portable power for the campout (product-in-use partnership); program is workshops, talks and immersive sessions."
+    }
+  ],
+  "add_gaps": [
+    "2026 attendance not published; a rideshare aggregator's '> 2,000 attendees expected' was not used",
+    "Sponsor tiers not published; partners inferred from posts and the ticket page"
+  ],
+  "remove_gaps": [
+    "2025 and 2026 attendance and prices not found"
+  ],
+  "notes": "Women-only surf and climate campout run by Surfers for Climate, now a named partnerships manager. 2026 was the third edition (11 to 13 Sep). Bluetti powered the last two campouts. Childe's role is still unclear. Note: Surfers For Climate also appears as a 2026 supporter of Seas The Day."
+}

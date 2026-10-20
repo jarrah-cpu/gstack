@@ -1,0 +1,126 @@
+{
+  "id": "scrapworld-madrid",
+  "set": {
+    "attendance": {
+      "figure": 17000,
+      "figure_high": 20000,
+      "year": 2026,
+      "is_estimate": true,
+      "source": "https://www.facebook.com/urgente24/videos/madrid-capital-del-streetwearscrapworld-2026-confirm%C3%B3-su-salto-definitivo-17000-/2159839405414265/",
+      "note": "Urgente24 reported 17,000 attendees for 2026 (Google snippet of a Facebook video). The organiser's event page says 'Mas de 20.000 personas ya vivieron ScrapWorld', which may be cumulative. 2025: over 16,000, organiser-reported (scrapworld.es blog)."
+    },
+    "partnership_contact": {
+      "email": "produccion@scrapworld.es",
+      "page_url": "https://scrapworld.es/pages/evento",
+      "named_person": null,
+      "source": "https://scrapworld.es/pages/evento"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Zalando",
+      "years": [
+        2023
+      ],
+      "role": "partner",
+      "source": "https://highxtar.com/scrapworld-desvela-todas-las-marcas-patrocinadoras-de-su-proxima-edicion/"
+    },
+    {
+      "brand": "Mahou",
+      "years": [
+        2023
+      ],
+      "role": "partner",
+      "source": "https://highxtar.com/scrapworld-desvela-todas-las-marcas-patrocinadoras-de-su-proxima-edicion/"
+    },
+    {
+      "brand": "Fitzgerald",
+      "years": [
+        2023
+      ],
+      "role": "partner",
+      "source": "https://highxtar.com/scrapworld-desvela-todas-las-marcas-patrocinadoras-de-su-proxima-edicion/"
+    },
+    {
+      "brand": "PlayStation",
+      "years": [
+        2023
+      ],
+      "role": "partner",
+      "source": "https://highxtar.com/scrapworld-desvela-todas-las-marcas-patrocinadoras-de-su-proxima-edicion/"
+    },
+    {
+      "brand": "Lenovo",
+      "years": [
+        2023
+      ],
+      "role": "partner",
+      "source": "https://highxtar.com/scrapworld-desvela-todas-las-marcas-patrocinadoras-de-su-proxima-edicion/"
+    },
+    {
+      "brand": "Donettes",
+      "years": [
+        2023
+      ],
+      "role": "partner",
+      "source": "https://highxtar.com/scrapworld-desvela-todas-las-marcas-patrocinadoras-de-su-proxima-edicion/"
+    },
+    {
+      "brand": "Porsche",
+      "years": [
+        2023
+      ],
+      "role": "partner",
+      "source": "https://highxtar.com/scrapworld-desvela-todas-las-marcas-patrocinadoras-de-su-proxima-edicion/"
+    },
+    {
+      "brand": "Lacoste",
+      "years": [
+        2023
+      ],
+      "role": "partner",
+      "source": "https://forbes.es/lifestyle/240760/zalando-lacoste-y-mahou-entre-las-marcas-patrocinadoras-de-scrapworld/"
+    }
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {
+      "field": "attendance",
+      "url": "https://www.facebook.com/urgente24/videos/madrid-capital-del-streetwearscrapworld-2026-confirm%C3%B3-su-salto-definitivo-17000-/2159839405414265/",
+      "note": "'ScrapWorld 2026 confirmo su salto definitivo: 17.000 asistentes'; Google snippet."
+    },
+    {
+      "field": "attendance",
+      "url": "https://scrapworld.es/pages/evento",
+      "note": "Event page fetched 21 Oct 2026: 'Mas de 20.000 personas ya vivieron ScrapWorld'; year not stated."
+    },
+    {
+      "field": "attendance",
+      "url": "https://scrapworld.es/pages/all-blogs",
+      "note": "Organiser blog: 'Mas de 16.000 personas asistieron a la sexta edicion' (5 and 6 Apr 2025); Google snippet."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://scrapworld.es/pages/evento",
+      "note": "'Escribenos a produccion@scrapworld.es y valoraremos tu participacion/colaboracion' (exhibitors and collaborators)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://highxtar.com/scrapworld-desvela-todas-las-marcas-patrocinadoras-de-su-proxima-edicion/",
+      "note": "Highxtar, 28 Feb 2023: sponsor brands for the upcoming (2023) edition include Zalando, Mahou, Fitzgerald, PlayStation, Lenovo, Donettes, Porsche; Google snippet."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://forbes.es/lifestyle/240760/zalando-lacoste-y-mahou-entre-las-marcas-patrocinadoras-de-scrapworld/",
+      "note": "Forbes, 28 Feb 2023: 'Zalando, Lacoste y Mahou, entre las marcas patrocinadoras de SCRAPWORLD'; Google snippet."
+    }
+  ],
+  "add_gaps": [
+    "2026 sponsor list not captured: the event page shows 94 brand logos with no names",
+    "Sources disagree on edition count (IFEMA calls 2026 the 8th, the event's IG the 7th, the organiser blog calls 2025 the 6th)"
+  ],
+  "remove_gaps": [
+    "No public partnerships contact found"
+  ],
+  "notes": "The record's IG uses @ifema_madrid, but the event's own account is @scrapworld (about 116k followers per raw Apify profile data). In June 2026 ScrapWorld ended its clothing line under that name; its post says ScrapWorld continues as an event. scrapworld.es is the organiser's own site and could replace the IFEMA page as the website. The 2023 sponsors use role partner because the press calls them 'marcas patrocinadoras'."
+}

@@ -1,0 +1,21 @@
+{
+  "id": "valley-fiesta-brisbane",
+  "add_sources": [
+    {
+      "field": "dates.last_edition",
+      "url": "https://myvalley.com.au/valley-fiesta",
+      "note": "Fortitude Valley precinct page: Valley Fiesta on Saturday 3 October 2026, celebrating 30 years (Google snippet)."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.instagram.com/p/DeA_NDeSINP/",
+      "note": "Post: 'Valley Fiesta is on TODAY! Four stages. Completely FREE. Two all-ages stages' (Google snippet)."
+    }
+  ],
+  "add_gaps": [
+    "Only crowd figure found is a 2018 Council forecast of 'up to 65,000 fans' for the then five-day, 48-venue format (Fortitude Valley News); not used for the one-day 2026 street party",
+    "Council event page URL on record now returns an error page; myvalley.com.au/valley-fiesta carries 2026 details",
+    "Producer conflict: record says Moondust Merchants, but Double Agency lists Valley Fiesta 2025 as its project"
+  ],
+  "notes": "No new sponsors, attendance or contact found; council-run free event with no commercial partner list. Record website (Council event page) now shows an error page: consider myvalley.com.au/valley-fiesta. No event Instagram account (organiser account is Brisbane City Council)."
+}

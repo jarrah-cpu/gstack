@@ -1,0 +1,65 @@
+{
+  "id": "polinizados-valencia",
+  "set": {
+    "website": "https://www.polinizados.es/",
+    "partnership_contact": {
+      "email": "cultura@upv.es",
+      "page_url": "https://www.polinizados.es/",
+      "named_person": null,
+      "source": "https://www.polinizados.es/"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Pinturas Jose Antonio Garcia (JAG)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DXodq5rEd_C/"
+    },
+    {
+      "brand": "ECSA",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DXodq5rEd_C/"
+    },
+    {
+      "brand": "Generalitat Valenciana (Cultura)",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.instagram.com/p/DXodq5rEd_C/"
+    }
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://www.polinizados.es/",
+      "note": "Official 2026 site, linked from the @polinizados IG profile; run by UPV's Area d'Accio Cultural."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DXodq5rEd_C/",
+      "note": "27 Apr 2026 post: 'Con la colaboracion de @pinturas_joseantoniogarcia, ECSA, @gvacultura' (in collaboration with)."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.polinizados.es/",
+      "note": "Contact on the festival site: cultura@upv.es (UPV culture office, general enquiries)."
+    }
+  ],
+  "add_gaps": [
+    "What ECSA is (named as a collaborator) not identified",
+    "No sponsorship-specific contact; only the UPV culture office email"
+  ],
+  "remove_gaps": [
+    "Sponsors not identified",
+    "No public partnerships contact found"
+  ],
+  "notes": "University-run street art meeting; supporters are a paint supplier, ECSA and the Valencian government's culture department, all in-kind or institutional. Contact is the general UPV culture email."
+}

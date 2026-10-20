@@ -1,0 +1,300 @@
+{
+  "id": "junction-arts-festival-launceston",
+  "set": {
+    "organiser": {
+      "name": "Junction Arts Festival Inc",
+      "type": "non-profit",
+      "website": "https://junctionartsfestival.com.au/"
+    },
+    "partnership_contact": {
+      "email": "info@junctionartsfestival.com.au",
+      "page_url": "https://junctionartsfestival.com.au/about-us/partners-2/",
+      "named_person": null,
+      "source": "https://junctionartsfestival.com.au/about-us/partners-2/"
+    },
+    "ticket_price": {
+      "min": 0,
+      "max": null,
+      "currency": "AUD",
+      "free_entry": null,
+      "note": "Mix of free and ticketed events; Prince's Square hub free on Thursday and Sunday in 2026; ticket prices not captured."
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Brand Tasmania",
+      "years": [
+        2026
+      ],
+      "role": "presenting",
+      "source": "https://junctionartsfestival.com.au/about-us/partners-2/"
+    },
+    {
+      "brand": "City of Launceston",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://junctionartsfestival.com.au/about-us/partners-2/"
+    },
+    {
+      "brand": "WD Booth",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://junctionartsfestival.com.au/about-us/partners-2/"
+    },
+    {
+      "brand": "Tasmanian Community Fund",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://junctionartsfestival.com.au/about-us/partners-2/"
+    },
+    {
+      "brand": "Du Cane Brewing",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://junctionartsfestival.com.au/about-us/partners-2/"
+    },
+    {
+      "brand": "Futago",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://junctionartsfestival.com.au/about-us/partners-2/"
+    },
+    {
+      "brand": "WIN Network",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://junctionartsfestival.com.au/about-us/partners-2/"
+    },
+    {
+      "brand": "Havilah",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://junctionartsfestival.com.au/about-us/partners-2/"
+    },
+    {
+      "brand": "Willie Smith's",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://junctionartsfestival.com.au/about-us/partners-2/"
+    },
+    {
+      "brand": "Turner Stillhouse",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://junctionartsfestival.com.au/about-us/partners-2/"
+    },
+    {
+      "brand": "Hotel Grand Chancellor Launceston",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://junctionartsfestival.com.au/about-us/partners-2/"
+    },
+    {
+      "brand": "Launceston Airport",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://junctionartsfestival.com.au/about-us/partners-2/"
+    },
+    {
+      "brand": "Salters Hire",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://junctionartsfestival.com.au/about-us/partners-2/"
+    },
+    {
+      "brand": "The Examiner",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://junctionartsfestival.com.au/about-us/partners-2/"
+    },
+    {
+      "brand": "The Advocate",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://junctionartsfestival.com.au/about-us/partners-2/"
+    },
+    {
+      "brand": "Bread + Butter",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://junctionartsfestival.com.au/about-us/partners-2/"
+    },
+    {
+      "brand": "Madeline Gordon Gallery",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://junctionartsfestival.com.au/about-us/partners-2/"
+    },
+    {
+      "brand": "Bushby Creese",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://junctionartsfestival.com.au/about-us/partners-2/"
+    },
+    {
+      "brand": "Flying Colours Group",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://junctionartsfestival.com.au/about-us/partners-2/"
+    },
+    {
+      "brand": "Thrive Group",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://junctionartsfestival.com.au/about-us/partners-2/"
+    },
+    {
+      "brand": "7SD",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://junctionartsfestival.com.au/about-us/partners-2/"
+    },
+    {
+      "brand": "Chilli FM",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://junctionartsfestival.com.au/about-us/partners-2/"
+    },
+    {
+      "brand": "LAFM",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://junctionartsfestival.com.au/about-us/partners-2/"
+    },
+    {
+      "brand": "Glim Sphere 3D",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://junctionartsfestival.com.au/about-us/partners-2/"
+    },
+    {
+      "brand": "Neil Pitt's",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://junctionartsfestival.com.au/about-us/partners-2/"
+    },
+    {
+      "brand": "St Lukes",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://junctionartsfestival.com.au/about-us/partners-2/"
+    },
+    {
+      "brand": "Scott Smith Orthodontics",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://junctionartsfestival.com.au/about-us/partners-2/"
+    },
+    {
+      "brand": "Three Cuts Gin",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DdOGh16lNyS/"
+    }
+  ],
+  "add_sources": [
+    {
+      "field": "sponsors",
+      "url": "https://junctionartsfestival.com.au/about-us/partners-2/",
+      "note": "Partners page (crawled Oct 2026): Presenting Brand Tasmania; Funding City of Launceston, WD Booth, Tasmanian Community Fund; Gold Du Cane Brewing, Futago, WIN Network; Silver Havilah, Willie Smith's, Turner Stillhouse, Hotel Grand Chancellor Launceston, Launceston Airport, Salters Hire, The Examiner, The Advocate, Bread + Butter; Bronze Madeline Gordon Gallery, Bushby Creese, Flying Colours, Thrive Group, 7SD, Chilli FM, LAFM, Glim Sphere 3D; JAF Love Neil Pitt's, St Lukes, Scott Smith Orthodontics"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DdYrIYAFDX4/",
+      "note": "17 Sep 2026: 11 Frederick (late-night venue) proudly sponsored by Turner Stillhouse"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DdOGh16lNyS/",
+      "note": "13 Sep 2026: 11 Frederick Street club nights, venue supported by Three Cuts Gin"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.launceston.tas.gov.au/News-Media/Junction-Arts-Festival-marks-ten-years",
+      "note": "Google snippet: City of Launceston a long-term supporter through its events sponsorship program"
+    },
+    {
+      "field": "organiser",
+      "url": "https://www.acnc.gov.au/charity/charities/b4197146-39af-e811-a95e-000d3ad24c60",
+      "note": "Google snippet: Junction Arts Festival Inc, registered charity, produces the annual festival in Launceston"
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://junctionartsfestival.com.au/about-us/partners-2/",
+      "note": "Partners page: for partnership opportunities contact info@junctionartsfestival.com.au"
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://junctionartsfestival.com.au/about-us/faq/",
+      "note": "FAQ: range of free and ticketed events"
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://www.instagram.com/p/DdF7_uUE962/",
+      "note": "10 Sep 2026: entry to Prince's Square free Thursday and Sunday"
+    }
+  ],
+  "remove_gaps": [
+    "Attendance, sponsors and organiser not captured"
+  ],
+  "add_gaps": [
+    "Attendance not captured",
+    "Ticket prices not captured",
+    "Audience age and gender not published"
+  ],
+  "notes": "Full tiered 2026 partner list from the partners page (28 partners). Health-adjacent partners already present: St Lukes (health insurer) and Scott Smith Orthodontics in the JAF Love tier. Partnership enquiries via info@ email. Organiser is the charity Junction Arts Festival Inc. Show-level funders (Creative Australia, Arts Tasmania, Festivals Australia for COIL) not added."
+}

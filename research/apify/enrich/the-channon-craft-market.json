@@ -1,0 +1,72 @@
+{
+  "id": "the-channon-craft-market",
+  "set": {
+    "website": "https://thechannonmarket.org.au/",
+    "organiser": {
+      "name": "The Channon Craft Market Inc. (non-profit, volunteer management committee)",
+      "type": "non-profit",
+      "website": "https://thechannonmarket.org.au/"
+    },
+    "partnership_contact": {
+      "email": "admin@thechannonmarket.org.au",
+      "page_url": "https://thechannonmarket.org.au/contact-us/",
+      "named_person": "Market Manager (not named)",
+      "source": "https://thechannonmarket.org.au/become-a-stallholder/"
+    },
+    "dates": {
+      "last_edition": {
+        "start": "2026-10-11",
+        "end": "2026-10-11",
+        "status": "held",
+        "label": "Oct 2026 (50th anniversary market)"
+      },
+      "next_edition": {
+        "start": "2026-11-08",
+        "end": "2026-11-08",
+        "status": "expected",
+        "label": "Nov 2026 (second Sunday monthly)"
+      },
+      "frequency": "monthly",
+      "duration_days": 1
+    }
+  },
+  "add_sponsors": [],
+  "add_activation_formats": [],
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://www.instagram.com/the.channon.craft.market/",
+      "note": "@the.channon.craft.market profile links to thechannonmarket.org.au; home page titled 'The Channon Craft Market Inc | 2nd Sunday of the Month' and showed '11th of October 2026'."
+    },
+    {
+      "field": "organiser",
+      "url": "https://thechannonmarket.org.au/history/",
+      "note": "History page: The Channon Craft Market Inc. formed in 1976; now a 'Non-Profit Community Organisation with a Management Committee of nine volunteers' employing about 18 staff; over 240 stallholders; held at Coronation Park."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://thechannonmarket.org.au/become-a-stallholder/",
+      "note": "Stallholder page lists admin@thechannonmarket.org.au; contact page routes general inquiries to the Market Manager and gives 02 6688 6433. No sponsorship contact."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://lismoreapp.com.au/NewsStory/the-channon-craft-market-celebrates-50-remarkable-years/6ac6d80942818d002d531369",
+      "note": "'The Channon Craft Market will celebrate an extraordinary milestone this Sunday, 11 October, marking 50 years' (Google snippet); a Facebook post by a local MP the next day describes the day as held."
+    },
+    {
+      "field": "dates",
+      "url": "https://thechannonmarket.org.au/entertainment/",
+      "note": "Site describes it as a 'Pet and Alcohol Free Event'."
+    }
+  ],
+  "add_gaps": [
+    "No sponsors found; 50th anniversary Bioblitz partners (Jagun Alliance, OzFish Unlimited, Rous County Council) partnered the Bioblitz activity, not the market",
+    "Visitor numbers not published; site gives over 240 stallholders",
+    "Market is pet and alcohol free, which limits some brand formats"
+  ],
+  "remove_gaps": [
+    "Official website not captured",
+    "Dates inferred from the second-Sunday pattern"
+  ],
+  "notes": "Official site and organiser (The Channon Craft Market Inc., non-profit with a volunteer committee and about 18 staff) confirmed; 50th anniversary market held 11 Oct 2026. Maker-only market with no brand sponsors; alcohol and pet free."
+}

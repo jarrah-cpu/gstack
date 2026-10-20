@@ -1,0 +1,45 @@
+{
+  "id": "soundrenaline-indonesia",
+  "set": {
+    "dates": {
+      "last_edition": {
+        "start": "2026-09-19",
+        "end": "2026-09-19",
+        "status": "held",
+        "label": "2026 Palembang leg (Jakarta 18 to 19 Jul and Makassar 29 Aug also held)"
+      },
+      "next_edition": {
+        "start": "2026-10-31",
+        "end": "2026-11-21",
+        "status": "confirmed",
+        "label": "2026 Yogyakarta leg (31 Oct) and Bandung finale (21 Nov per site; IG bio says 20 to 22 Nov)"
+      },
+      "frequency": "annual",
+      "duration_days": null
+    }
+  },
+  "add_sponsors": [
+    {"brand": "Sage Denim", "years": [2026], "role": "collab", "source": "https://www.instagram.com/p/DavE-19JvRL/"}
+  ],
+  "add_activation_formats": ["collab-product"],
+  "add_sources": [
+    {"field": "organiser", "url": "https://www.instagram.com/soundrenaline.id/", "note": "Official Instagram bio (2026): 'JKT 18-19 Jul, MKS 29 Aug, PLG 19 Sep, JOG 31 Oct, BDG 20-22 Nov. Presented by @resonine.id'. Resonine is the only presenter named by any 2026 source; @resonine.id has about 2,000 followers."},
+    {"field": "organiser", "url": "https://hot.detik.com/music/d-8276530/dari-taman-kota-hingga-blok-m-soundrenaline-sana-sini-warnai-jakarta", "note": "Detik (24 Dec 2025) on the 2025 'Sana Sini' Jakarta edition (18 to 21 Dec 2025; ASEAN, Blok M and Istora districts) names no organiser, presenter or sponsor; no mention of Sampoerna or A Mild."},
+    {"field": "organiser", "url": "https://www.liputan6.com/showbiz/read/8263309/soundrenaline-sana-sini-jakarta-sukses-hidupkan-blok-m-gaet-7000-audiens", "note": "Liputan6 (6 Aug 2026) on the 2026 Jakarta leg names no organiser, presenter or sponsor; no mention of Sampoerna or A Mild."},
+    {"field": "dates.last_edition", "url": "https://www.instagram.com/p/DdqMJLhGf8_/", "note": "@soundrenaline.id (24 Sep 2026): 'Thank you to our partners ... bringing Soundrenaline Sana Sini Palembang to life!'"},
+    {"field": "dates.last_edition", "url": "https://www.instagram.com/p/Dc2KGRUGXFq/", "note": "@soundrenaline.id (4 Sep 2026): 'Thank you for being part of Soundrenaline Sana Sini Makassar 2026!'"},
+    {"field": "dates.next_edition", "url": "https://soundrenaline.id/help", "note": "Site FAQ: Jakarta 18 to 19 Jul, Makassar 29 Aug, Palembang 19 Sep, Yogyakarta 31 Oct, Bandung 21 Nov 2026."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DavE-19JvRL/", "note": "@soundrenaline.id (13 Jul 2026): 'A merch collaboration from Soundrenaline x @sageseesmore', sold at the festival; collab merch with Efek Rumah Kaca discussed in Palembang (https://www.instagram.com/p/DdljFi-ug-5/)."},
+    {"field": "sponsors", "url": "https://soundrenaline.id/", "note": "Home page 'Partners' block shows about 15 logos with no names or alt text; @soundrenaline.id partner thank-you posts (e.g. https://www.instagram.com/p/DbXGWzbmVn5/) name no brands in captions or tags."}
+  ],
+  "add_gaps": [
+    "No 2025 or 2026 source names a title sponsor; the organiser's IG bio says 'Presented by @resonine.id' (2026). The historical A Mild (Sampoerna) link is not confirmed by any current source",
+    "2026 partner logos on soundrenaline.id are unnamed images; partner list unknown",
+    "Bandung date conflict: site says 21 Nov, IG bio says 20 to 22 Nov"
+  ],
+  "remove_gaps": [
+    "2026 title sponsor or presenter: no 2026 source names one (checked 20 Oct 2026). Historical sources tie the series to Sampoerna's A Mild (A Mild Live Soundrenaline, 2000s; a 2014 thesis studied the sponsorship). Whether A Mild or Sampoerna is behind the 2026 series is not confirmed",
+    "Makassar (29 Aug) and Palembang (19 Sep) legs not confirmed as held"
+  ],
+  "notes": "Special check: current sources name only RESONINE as presenter (IG bio 'Presented by @resonine.id', 2026). Coverage of the 2025 Jakarta edition (Detik, 18 to 21 Dec 2025) and the 2026 Jakarta leg (Liputan6) names no presenter or sponsor, and no current source mentions Sampoerna or A Mild, so the tobacco link is neither confirmed nor ruled out. Partner logos are unnamed images: worth a manual look. Makassar and Palembang legs held. RCTI+ cites a 30,000+ series target (not attendance)."
+}

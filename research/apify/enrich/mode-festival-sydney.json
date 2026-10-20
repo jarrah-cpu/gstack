@@ -1,0 +1,28 @@
+{
+  "id": "mode-festival-sydney",
+  "set": {
+    "website": "https://www.modefestival.com.au/"
+  },
+  "add_sponsors": [
+    {"brand": "Resident Advisor", "years": [2025, 2026], "role": "partner", "source": "https://www.instagram.com/p/DPdTDSBE0yE/"},
+    {"brand": "W Hotels (W Sydney, W Current)", "years": [2025], "role": "partner", "source": "https://www.theurbanlist.com/sydney/a-list/Mode-festival-w-sydney"},
+    {"brand": "adidas Originals", "years": [2025], "role": "partner", "source": "https://www.instagram.com/p/DPf3tK2EyG4/"},
+    {"brand": "Above The Clouds", "years": [2025], "role": "collab", "source": "https://www.instagram.com/p/DPf3tK2EyG4/"},
+    {"brand": "Gage Roads Brewing Co", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DeqBTsDII91/"},
+    {"brand": "Matso's", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DeqBTsDII91/"},
+    {"brand": "Cockatoo Island", "years": [2025, 2026], "role": "venue", "source": "https://www.instagram.com/p/DeN6_UOH8c3/"}
+  ],
+  "add_activation_formats": ["workshop", "after-party"],
+  "add_sources": [
+    {"field": "website", "url": "https://www.modefestival.com.au/", "note": "Official site, 'Mode Festival 2026, Cockatoo Island'; sign-up for 2027 dates. Sign-up consent names Bizarro."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DPdTDSBE0yE/", "note": "2025: Resident Advisor ran two free pre-festival workshops at W Sydney's Living Room; 2025 had an RA stage (https://www.instagram.com/p/DQD4xDRE_Bc/). 2026 tickets and resale via RA; site footer 'Partners: RA logo' (Google snippet)."},
+    {"field": "sponsors", "url": "https://www.theurbanlist.com/sydney/a-list/Mode-festival-w-sydney", "note": "W Hotels brought its W Current music platform to Australia for the first time, teaming up with Mode 2025 (11 Oct 2025); W Sydney released festival tickets."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DPf3tK2EyG4/", "note": "2025: 'Above The Clouds x adidas Originals returns to Mode Festival at the Naval Store' stage, with a new waterfront bar."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DeqBTsDII91/", "note": "2026: 'Thank you @gageroadsbrewco._ and @matsosbeer for being part of Mode Festival 2026' (beer and vodka crushes on the island)."},
+    {"field": "activation_formats", "url": "https://www.instagram.com/p/DdqXRJoH3kk/", "note": "2026 official afterparties at Abercrombie and Civic Underground; 2025 Metro Theatre afterparty."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DeN6_UOH8c3/", "note": "'Mode 2026 was a big one, five years on Cockatoo Island.'"}
+  ],
+  "add_gaps": ["Attendance not published; 2026 sold out (IG 21 Sep 2026) and 2025 called 'our biggest yet'", "No partnerships or general contact email on the website", "Audience age and gender not published"],
+  "remove_gaps": ["Sponsor roster not captured"],
+  "notes": "Brand partners so far are music and drinks (RA, W Hotels, adidas Originals stage with Above The Clouds, Gage Roads and Matso's). Sold out in 2026. No published contact; approach would be through Bizarro (@bizarro.life). IG account is correct."
+}

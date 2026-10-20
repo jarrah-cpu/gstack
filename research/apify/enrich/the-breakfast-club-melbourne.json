@@ -1,0 +1,75 @@
+{
+  "id": "the-breakfast-club-melbourne",
+  "set": {
+    "ticket_price": {
+      "min": 5,
+      "max": null,
+      "currency": "AUD",
+      "free_entry": false,
+      "note": "BC Half Day early entry passes $5 to $10 (2026 IG posts); a 'Free Breakfast' edition (Aug 2026) was free by registration, capped at 300. Prices for 27 to 36 hour parties not captured."
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Soothsayer (@soothsayeronline)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DXlupjMk4M3/"
+    },
+    {
+      "brand": "Animalia (@animalialabel)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DXlupjMk4M3/"
+    },
+    {
+      "brand": "OneSixOne Nightclub",
+      "years": [
+        2026
+      ],
+      "role": "venue",
+      "source": "https://www.instagram.com/p/DetMz9BEyZ7/"
+    }
+  ],
+  "add_sources": [
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DXlupjMk4M3/",
+      "note": "Post 26 Apr 2026 (27hr party, co-authored with @soothsayeronline): 'Proudly sponsored by our good friends at @soothsayeronline and @animalialabel'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DetMz9BEyZ7/",
+      "note": "Oct 2026 Cup Weekend 36 hour post co-authored with @onesixone_nightclub; @onesixone_nightclub co-authors 18 posts since Oct 2025."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://ra.co/events/787432",
+      "note": "Google snippet: 'the Breakfast Club is proud to present OneSixOne as its new base of operations'."
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://www.instagram.com/p/DaMe-VGk-1z/",
+      "note": "Jun 2026: '$10 early entry tickets'; Mar 2026 post DWTQ_1aE3s2: '$5 tickets if you enter before 17:00'."
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://www.instagram.com/p/DbFvLJZE4U3/",
+      "note": "Jul 2026: Free Breakfast registration 'Strictly capped at 300'."
+    }
+  ],
+  "remove_gaps": [
+    "Instagram, attendance, pricing and sponsors not captured"
+  ],
+  "add_gaps": [
+    "Attendance not published (one free edition was capped at 300 registrations)",
+    "Audience demographics not published",
+    "Business type of sponsors Soothsayer and Animalia not verified",
+    "No website or partnerships contact; Linktree and Instagram only"
+  ],
+  "notes": "Instagram @thebreakfastclub_melbourne is correct (@the_breakfast_club_melbourne is an unrelated brunch blog). Light, friendly sponsorship (two small brands on a 27hr party) shows openness to brand partners. Collabs with Tokyo Love Hotel, Sivilian Affairs and Club Motif are party collectives, not sponsors."
+}

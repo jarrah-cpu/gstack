@@ -1,0 +1,61 @@
+{
+  "id": "fashion-thrift-society-melbourne",
+  "set": {
+    "website": "https://www.fashionthriftsociety.com.au/",
+    "organiser": {
+      "name": "Fashion Thrift Society",
+      "type": null,
+      "website": "https://www.fashionthriftsociety.com.au/"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Limoncello Contessa",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DSW2oXok_iA/"
+    },
+    {
+      "brand": "SKN Lab Pro",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DSW2oXok_iA/"
+    }
+  ],
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://www.fashionthriftsociety.com.au/pages/vendor-guidelines-and-policy",
+      "note": "Google result: official FTS site (2027 vendor guidelines page on fashionthriftsociety.com.au)."
+    },
+    {
+      "field": "organiser",
+      "url": "https://statesportcentres.com.au/events/event/fashion-thrift-society/",
+      "note": "Google snippet: State Sport Centres listing names 'Organiser. Fashion Thrift Society', venue MSAC Basketball Hall."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DSW2oXok_iA/",
+      "note": "Google snippet of an FTS post for the Dec 2025 Melbourne market: 'Silver Sponsors : @limoncellocontessa · @sknlab_pro' (text truncated)."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.moshtix.com.au/v2/event/fashion-thrift-society-melbourne-july-4/185567",
+      "note": "Google snippet: a Melbourne market also ran Sat 4 July 2026 (event passed)."
+    }
+  ],
+  "remove_gaps": [
+    "Organiser, website, Instagram and attendance not captured"
+  ],
+  "add_gaps": [
+    "Attendance not published (organiser describes 10,000 square metres of market space)",
+    "Instagram @fashionthriftsociety exists per Google results but Apify returned no profile data",
+    "Only silver-tier sponsors seen (Dec 2025); any higher tiers not captured",
+    "No partnership contact found"
+  ],
+  "notes": "Filled official website and organiser. Dec 2025 Melbourne market had silver sponsors Limoncello Contessa and SKN Lab Pro (skincare), from a Google snippet only. Melbourne markets run several times a year (Jul, Oct, Dec 2026). Apify found no profile for @fashionthriftsociety, yet Google shows the account and its reels: likely a scrape miss rather than a wrong handle."
+}

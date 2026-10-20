@@ -1,0 +1,69 @@
+{
+ "id": "mes-del-diseno-chile",
+ "set": {
+  "website": "https://www.mesdeldiseno.cl/",
+  "dates": {
+   "last_edition": {
+    "start": "2025-11",
+    "end": null,
+    "status": "held",
+    "label": "15th edition (2025)"
+   },
+   "next_edition": {
+    "start": "2026-11",
+    "end": null,
+    "status": "confirmed",
+    "label": "16th edition (2026), theme 'Habitar el diseño'"
+   },
+   "frequency": "annual",
+   "duration_days": null
+  },
+  "attendance": {
+   "figure": 1200,
+   "figure_high": null,
+   "year": 2025,
+   "is_estimate": false,
+   "source": "https://www.instagram.com/p/DSVuhZ_EumL/",
+   "note": "Organiser-reported for 2025: 65 events in 10 cities and 'más de 1.200 inscritos' (over 1,200 registrations) for official activities. Not a total visitor count."
+  },
+  "ticket_price": {
+   "min": 0,
+   "max": null,
+   "currency": "CLP",
+   "free_entry": true,
+   "note": "2025 programme: 'más de 60 actividades gratuitas'; some partner events may charge."
+  }
+ },
+ "add_sources": [
+  {
+   "field": "website",
+   "url": "https://www.instagram.com/mdd_cl/",
+   "note": "Official IG links to mesdeldiseno.cl; site title 'Mes del Diseño - 16 años'."
+  },
+  {
+   "field": "dates.last_edition",
+   "url": "https://www.instagram.com/p/DPYvS2dDvCk/",
+   "note": "15 years celebrated with the November 2025 edition."
+  },
+  {
+   "field": "attendance",
+   "url": "https://www.instagram.com/p/DSVuhZ_EumL/",
+   "note": "'Celebramos 65 eventos en 10 ciudades, con más de 1.200 inscritos en las actividades oficiales.'"
+  },
+  {
+   "field": "ticket_price",
+   "url": "https://www.instagram.com/p/DP2CtzUkgq0/",
+   "note": "'Explora más de 60 actividades gratuitas en todo Chile'."
+  }
+ ],
+ "add_gaps": [
+  "Attendance figure counts registrations for official activities only",
+  "Partner logos (PARTNERS MDD 2025, colaboradores, medios asociados) appear on the site but names were not extracted",
+  "2026 programme says activities run through October and November"
+ ],
+ "remove_gaps": [
+  "Website and Instagram not captured",
+  "Attendance not found"
+ ],
+ "notes": "Government-run, distributed programme (Ministry of Cultures) rather than a single event; co-programming partners include AdDI, Chile Diseño, Moda Chile, Ludichile and Revista Materia. No commercial sponsor found. Low fit for a brand activation."
+}

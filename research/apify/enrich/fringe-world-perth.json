@@ -1,0 +1,39 @@
+{
+  "id": "fringe-world-perth",
+  "set": {
+    "partnership_contact": {"email": "georgia.clark@artrage.com.au", "page_url": "https://fringeworld.com.au/partnerships", "named_person": null, "source": "https://fringeworld.com.au/partnerships"}
+  },
+  "add_sponsors": [
+    {"brand": "Tourism Western Australia", "years": [2026], "role": "government", "source": "https://fringeworld.com.au/partners"},
+    {"brand": "K&L Gates", "years": [2026], "role": "major", "source": "https://fringeworld.com.au/partners"},
+    {"brand": "Pentanet", "years": [2026], "role": "partner", "source": "https://fringeworld.com.au/partners"},
+    {"brand": "Seamless AV", "years": [2026], "role": "partner", "source": "https://fringeworld.com.au/partners"},
+    {"brand": "CCA Productions", "years": [2026], "role": "partner", "source": "https://fringeworld.com.au/partners"},
+    {"brand": "JCDecaux", "years": [2026], "role": "media", "source": "https://fringeworld.com.au/partners"},
+    {"brand": "PerthNow", "years": [2026], "role": "media", "source": "https://fringeworld.com.au/partners"},
+    {"brand": "Channel 7", "years": [2026], "role": "media", "source": "https://fringeworld.com.au/partners"},
+    {"brand": "Nova 93.7", "years": [2026], "role": "media", "source": "https://fringeworld.com.au/partners"},
+    {"brand": "Strange Animals", "years": [2026], "role": "media", "source": "https://fringeworld.com.au/partners"},
+    {"brand": "RTRFM 92.1", "years": [2026], "role": "media", "source": "https://fringeworld.com.au/partners"},
+    {"brand": "Discus Digital Print", "years": [2026], "role": "partner", "source": "https://fringeworld.com.au/partners"},
+    {"brand": "Instant Products", "years": [2026], "role": "partner", "source": "https://fringeworld.com.au/partners"},
+    {"brand": "Better Cup", "years": [2026], "role": "partner", "source": "https://fringeworld.com.au/partners"},
+    {"brand": "QT Hotel", "years": [2026], "role": "partner", "source": "https://fringeworld.com.au/partners"},
+    {"brand": "Oaks Perth Hotel", "years": [2026], "role": "partner", "source": "https://fringeworld.com.au/partners"},
+    {"brand": "Alex Hotel", "years": [2026], "role": "partner", "source": "https://fringeworld.com.au/partners"},
+    {"brand": "NPB Security", "years": [2026], "role": "partner", "source": "https://fringeworld.com.au/partners"},
+    {"brand": "Arts and Culture Trust", "years": [2026], "role": "government", "source": "https://fringeworld.com.au/partners"},
+    {"brand": "Stadiacorp", "years": [2026], "role": "partner", "source": "https://fringeworld.com.au/partners"}
+  ],
+  "add_sources": [
+    {"field": "sponsors", "url": "https://fringeworld.com.au/partners", "note": "2026 Partners page. Principal Supporter: Lotterywest. Government Partners: Tourism WA, City of Perth. Major Partner: K&L Gates. Festival Partner: Pentanet. Production Partners: Seamless AV, CCA Productions."},
+    {"field": "sponsors", "url": "https://fringeworld.com.au/partners", "note": "2026 Media Partners: JCDecaux, PerthNow, Channel 7, Nova 93.7, Strange Animals, RTR FM 92.1. Festival Supporters: Discus Digital Print, Instant Products, Better Cup, QT Hotel, Oaks Perth Hotel, Alex Hotel, NPB Security, Arts and Culture Trust, Stadiacorp."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DU7e_0kAUKt/", "note": "Feb 2026 post thanks 'our principal partner, @lotterywest'."},
+    {"field": "partnership_contact", "url": "https://fringeworld.com.au/partnerships", "note": "Partnerships page ('Partner with WA's Most Attended Arts Festival') lists georgia.clark@artrage.com.au; offers on-site activations and event space."},
+    {"field": "dates.next_edition", "url": "https://fringeworld.com.au/", "note": "Official site title: 'FRINGE WORLD - 20 January - 14 February 2027'; IG bio matches."},
+    {"field": "dates.last_edition", "url": "https://fringeworld.com.au/faq", "note": "FAQ: 'FRINGE WORLD Festival 2026 will take place from 21 January - 15 February' (Google snippet)."},
+    {"field": "attendance", "url": "https://fringeworld.com.au/partnerships", "note": "Organiser sales page: 'Be seen by over 500,000 attendees, unlock $51M+ in media value' (no year given). Record keeps the City of Perth 2025 ticket figure."}
+  ],
+  "remove_gaps": ["2027 dates come from a venue host page and an IG mirror, not an official press release", "Commercial sponsor roster and partnership contact not captured"],
+  "notes": "Full 2026 partner roster from the official partners page; partnerships email published (named contact implied by the address only). 2027 dates now confirmed by the official site. Organiser claims 500,000+ attendees; record still uses 256,000 tickets (2025)."
+}

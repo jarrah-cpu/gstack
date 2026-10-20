@@ -1,0 +1,42 @@
+{
+  "id": "tokyo-creative-salon",
+  "set": {
+    "website": "https://tokyo-creativesalon.com/",
+    "organiser": {"name": "Tokyo Creative Salon Executive Committee (chair Hiroshi Onishi, Haneda Future Research Institute) with nine area committees led by TBS, Matsuya, Odakyu SC Development, Tokyu, Tokyu Land, Mitsubishi Estate, Tokyo Midtown Management and others", "type": "other", "website": "https://tokyo-creativesalon.com/"},
+    "partnership_contact": {"email": null, "page_url": "https://marunouchi-promotion.com/plan/", "named_person": null, "source": "https://marunouchi-promotion.com/plan/"}
+  },
+  "add_sponsors": [
+    {"brand": "Albion (cosmetics)", "years": [2026], "role": "partner", "source": "https://tokyo-creativesalon.com/credit/"},
+    {"brand": "Ito En", "years": [2026], "role": "partner", "source": "https://tokyo-creativesalon.com/credit/"},
+    {"brand": "EVERING", "years": [2026], "role": "partner", "source": "https://tokyo-creativesalon.com/credit/"},
+    {"brand": "Ricoh", "years": [2026], "role": "partner", "source": "https://jp.ricoh.com/release/2026/0313_1"},
+    {"brand": "TRIAD", "years": [2025], "role": "partner", "source": "https://triad.company/topics/MmAVOs4Y"},
+    {"brand": "Sekisui House", "years": [2025], "role": "partner", "source": "https://niewmedia.com/news/065867/"},
+    {"brand": "Yomiuri Shimbun", "years": [2026], "role": "media", "source": "https://tokyo-creativesalon.com/credit/"},
+    {"brand": "Mainichi Shimbun", "years": [2026], "role": "media", "source": "https://tokyo-creativesalon.com/credit/"},
+    {"brand": "VOGUE JAPAN", "years": [2026], "role": "media", "source": "https://tokyo-creativesalon.com/credit/"},
+    {"brand": "GQ JAPAN", "years": [2026], "role": "media", "source": "https://tokyo-creativesalon.com/credit/"},
+    {"brand": "WIRED JAPAN", "years": [2026], "role": "media", "source": "https://tokyo-creativesalon.com/credit/"},
+    {"brand": "FASHIONSNAP", "years": [2026], "role": "media", "source": "https://tokyo-creativesalon.com/credit/"},
+    {"brand": "Ministry of Economy, Trade and Industry (METI)", "years": [2026], "role": "government", "source": "https://tokyo-creativesalon.com/credit/"},
+    {"brand": "Shinjuku City", "years": [2026], "role": "government", "source": "https://tokyo-creativesalon.com/credit/"},
+    {"brand": "Chuo City", "years": [2026], "role": "government", "source": "https://tokyo-creativesalon.com/credit/"}
+  ],
+  "add_sources": [
+    {"field": "website", "url": "https://www.instagram.com/tokyocreativesalon/", "note": "Official IG profile links to tokyo-creativesalon.com."},
+    {"field": "organiser", "url": "https://tokyo-creativesalon.com/credit/", "note": "2026 credits: executive committee (founder Takeshi Hirouchi, chair Hiroshi Onishi of Haneda Future Research Institute, budget lead Shintsushin); area committees for Akasaka (TBS), Ginza (Matsuya), Shinjuku (Odakyu SC Development), Nihonbashi, Shibuya (Tokyu), Haneda, Harajuku (Tokyu Land), Roppongi (Tokyo Midtown Management), Marunouchi (Mitsubishi Estate)."},
+    {"field": "sponsors", "url": "https://tokyo-creativesalon.com/credit/", "note": "2026 協賛企業: Albion, Ito En, EVERING. Media committee: Yomiuri, Mainichi, VOGUE JAPAN, GQ JAPAN, WIRED JAPAN, FASHIONSNAP. 後援: METI, Shinjuku City, Chuo City. Participating bodies: Japan Apparel Fashion Industry Council, Japan Fashion Week Organization."},
+    {"field": "sponsors", "url": "https://jp.ricoh.com/release/2026/0313_1", "note": "Google snippet: Ricoh sponsored the Haneda area of TCS 2026 (13 to 22 Mar); a reprint mentions a DTF printer."},
+    {"field": "sponsors", "url": "https://triad.company/topics/MmAVOs4Y", "note": "Google snippet: TRIAD announced sponsorship of Tokyo Creative Salon 2025."},
+    {"field": "sponsors", "url": "https://niewmedia.com/news/065867/", "note": "Google snippet: 'SEKISUI HOUSE - KUMA LAB' by Kengo Kuma and Sekisui House shown at Tokyo Creative Salon across 10 areas (2025 edition)."},
+    {"field": "partnership_contact", "url": "https://marunouchi-promotion.com/plan/", "note": "Google snippet: Marunouchi promotion plans page sells 'Tokyo Creative Salon MARUNOUCHI' packages, including a plan reaching about 350,000 area office workers. No festival-wide sponsorship contact; credit page has no email."}
+  ],
+  "remove_gaps": [
+    "Organiser name not captured",
+    "Sponsor list not captured"
+  ],
+  "add_gaps": [
+    "No festival-wide sponsorship email; sponsorship appears to be sold per area through the area committees (Marunouchi promotion plans found)"
+  ],
+  "notes": "Credit page gives the consortium structure (developer-led area committees), 2026 sponsors (Albion, Ito En, EVERING, plus Ricoh in Haneda), six media partners and METI backing. Free, very large (1.3 million visits) and run by property developers, so partnerships likely go through each area's committee; Marunouchi has a published promotion menu."
+}

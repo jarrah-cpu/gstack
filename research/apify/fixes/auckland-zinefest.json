@@ -1,0 +1,10 @@
+{
+ "id": "auckland-zinefest",
+ "sponsor_roles": {
+  "Auckland Art Gallery Toi o Tāmaki": "presenting"
+ },
+ "verifier_flags": [
+  "sponsors: Auckland Art Gallery co-presents ('presented in collaboration with'), set to presenting"
+ ],
+ "notes": "Orchestrator fix; source already in record."
+}

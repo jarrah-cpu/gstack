@@ -1,0 +1,55 @@
+{
+  "id": "here-comes-the-sun-gold-coast",
+  "set": {
+    "website": "https://www.hctsfest.com/",
+    "organiser": {
+      "name": "Macro Music Pty Ltd (festival director Ross Macpherson)",
+      "type": "promoter",
+      "website": "https://www.macromusic.com.au/"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "World Surf League",
+      "years": [
+        2026
+      ],
+      "role": "presenting",
+      "source": "https://www.worldsurfleague.com/posts/551545/world-surf-league-presents-here-comes-the-sun-in-2026"
+    }
+  ],
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://www.hctsfest.com/",
+      "note": "Official festival site (hctsfest.com) with FAQ and Gold Coast page."
+    },
+    {
+      "field": "organiser",
+      "url": "https://www.hctsfest.com/",
+      "note": "Site footer: 'a part of the Macro Music family of events', copyright Macro Music; contact via macromusic.com.au."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.worldsurfleague.com/posts/551545/world-surf-league-presents-here-comes-the-sun-in-2026",
+      "note": "WSL post title: 'World Surf League Presents Here Comes the Sun in 2026'; Gold Coast date ran alongside the Bonsoy Gold Coast Pro."
+    },
+    {
+      "field": "dates",
+      "url": "https://www.abc.net.au/triplej/news/here-comes-the-sun-festival-torquay-cancelled/106436236",
+      "note": "triple j: the Torquay stop of the 2026 run was cancelled (Google snippet)."
+    },
+    {
+      "field": "dates",
+      "url": "https://www.instagram.com/hctsfest/",
+      "note": "Instagram bio (Oct 2026) promotes Margaret River, WA, 31 Oct; no Gold Coast 2027 date."
+    }
+  ],
+  "remove_gaps": [
+    "Organiser company and website not found"
+  ],
+  "add_gaps": [
+    "No partnerships contact on the festival site; enquiries route to Macro Music's contact page"
+  ],
+  "notes": "WSL is the presenting partner, so the existing WSL role should change from 'partner' to 'presenting' (merge cannot change it). Promoter is Macro Music Pty Ltd. Torquay 2026 leg was cancelled; Gold Coast 2027 not announced. No other brand sponsors found."
+}

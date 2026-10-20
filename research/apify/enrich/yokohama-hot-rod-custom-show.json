@@ -1,0 +1,285 @@
+{
+  "id": "yokohama-hot-rod-custom-show",
+  "set": {
+    "website": "https://yokohamahotrodcustomshow.com/",
+    "dates": {
+      "last_edition": {
+        "start": "2025-12-07",
+        "end": "2025-12-07",
+        "status": "held",
+        "label": "33rd (2025)"
+      },
+      "next_edition": {
+        "start": "2026-12-06",
+        "end": "2026-12-06",
+        "status": "confirmed",
+        "label": "34th (2026)"
+      },
+      "frequency": "annual",
+      "duration_days": 1
+    },
+    "attendance": {
+      "figure": 24000,
+      "figure_high": null,
+      "year": 2025,
+      "is_estimate": false,
+      "source": "https://yokohamahotrodcustomshow.com/hcs2025-report/",
+      "note": "Organiser-reported total of 24,000 visitors at the 33rd show (7 Dec 2025, Pacifico Yokohama). 2019 report: 19,000 including 1,900 from overseas."
+    },
+    "partnership_contact": {
+      "email": null,
+      "page_url": "https://yokohamahotrodcustomshow.com/contact",
+      "named_person": null,
+      "source": "https://yokohamahotrodcustomshow.com/hcs2025-report/"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Harley-Davidson",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.virginharley.com/topics/topics20251215/"
+    },
+    {
+      "brand": "Pabst Blue Ribbon",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://yokohamahotrodcustomshow.com/hcs2025-report/"
+    },
+    {
+      "brand": "White's Boots",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://yokohamahotrodcustomshow.com/hcs2025-report/"
+    },
+    {
+      "brand": "ABC-Mart",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://yokohamahotrodcustomshow.com/hcs2025-report/"
+    },
+    {
+      "brand": "Converse",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://yokohamahotrodcustomshow.com/hcs2025-report/"
+    },
+    {
+      "brand": "Danner",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://yokohamahotrodcustomshow.com/hcs2025-report/"
+    },
+    {
+      "brand": "Brosh",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://yokohamahotrodcustomshow.com/hcs2025-report/"
+    },
+    {
+      "brand": "BMW Motorrad",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://yokohamahotrodcustomshow.com/hcs2025-report/"
+    },
+    {
+      "brand": "Red Wing",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://yokohamahotrodcustomshow.com/hcs2025-report/"
+    },
+    {
+      "brand": "Flat4",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://yokohamahotrodcustomshow.com/hcs2025-report/"
+    },
+    {
+      "brand": "Indian Motorcycle",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://yokohamahotrodcustomshow.com/hcs2025-report/"
+    },
+    {
+      "brand": "Royal Enfield",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://yokohamahotrodcustomshow.com/hcs2025-report/"
+    },
+    {
+      "brand": "Evil Act",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://yokohamahotrodcustomshow.com/hcs2025-report/"
+    },
+    {
+      "brand": "Little Trees",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://yokohamahotrodcustomshow.com/hcs2025-report/"
+    },
+    {
+      "brand": "Volcom",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://yokohamahotrodcustomshow.com/hcs2025-report/"
+    },
+    {
+      "brand": "Stumptown Coffee",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://yokohamahotrodcustomshow.com/hcs2025-report/"
+    },
+    {
+      "brand": "Bluco",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://yokohamahotrodcustomshow.com/hcs2025-report/"
+    },
+    {
+      "brand": "Neo Factory",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://yokohamahotrodcustomshow.com/hcs2025-report/"
+    },
+    {
+      "brand": "Honda",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://yokohamahotrodcustomshow.com/hcs2025-report/"
+    },
+    {
+      "brand": "Brixton",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://yokohamahotrodcustomshow.com/hcs2025-report/"
+    },
+    {
+      "brand": "SS Cycle",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://yokohamahotrodcustomshow.com/hcs2025-report/"
+    },
+    {
+      "brand": "Zhyvago Coffee",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://yokohamahotrodcustomshow.com/hcs2025-report/"
+    },
+    {
+      "brand": "Dickies",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://yokohamahotrodcustomshow.com/hcs2025-report/"
+    }
+  ],
+  "add_activation_formats": [
+    "collab-product"
+  ],
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://yokohamahotrodcustomshow.com/",
+      "note": "Official HCS site: 'MOONEYES が主催する日本最大級のインドア Car & Motorcycle Show'."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://yokohamahotrodcustomshow.com/hcs2025-report/",
+      "note": "HCS2025 report: 33rd show held Sunday 7 Dec 2025 at Pacifico Yokohama."
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.yokohamahotrodcustomshow.com/guests-2026/",
+      "note": "Official site announces 34th show 2026 guests at Pacifico Yokohama; e+ ticket page (https://eplus.jp/sf/detail/4583050001) gives Sunday 6 Dec 2026."
+    },
+    {
+      "field": "attendance",
+      "url": "https://yokohamahotrodcustomshow.com/hcs2025-report/",
+      "note": "Report: '延べ 24,000人の方にご来場頂きました' (24,000 visitors in total)."
+    },
+    {
+      "field": "attendance",
+      "url": "https://yokohamahotrodcustomshow.com/hcs2019-report/",
+      "note": "Google snippet: 2019 show had 19,000 visitors incl. 1,900 from overseas."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://yokohamahotrodcustomshow.com/hcs2025-report/",
+      "note": "Site SPONSORSHIP logo block (image path for 2026, on the 2025 report page as crawled Oct 2026): Pabst, White's Boots, ABC-Mart, Harley-Davidson, Converse, Danner, Brosh, BMW Motorrad, Red Wing, Flat4, Indian Motorcycle, Royal Enfield, Evil Act, Little Trees, Volcom, Stumptown, Bluco, Neo Factory, Honda, Brixton, SS Cycle, Zhyvago Coffee, Dickies, plus one logo linked to a name read as 'Trijya' (not added, unverified). Years are uncertain: the block may cover 2025 and 2026."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.virginharley.com/topics/topics20251215/",
+      "note": "Google snippet: Virgin Harley 2025 report calls Harley-Davidson an HCS official sponsor."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.autoby.jp/_ct/17814260",
+      "note": "Google snippet: visitors come for collab booths and limited items as well as the custom machines."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://yokohamahotrodcustomshow.com/hcs2025-report/",
+      "note": "Site links a contact form at /contact; no email published."
+    }
+  ],
+  "remove_gaps": [
+    "6 Dec 2026 date comes from a third-party listing, not an official Mooneyes announcement; consistent with the first-Sunday-of-December pattern",
+    "Exact 2025 date not captured",
+    "Attendance figure, ticket price, official website and sponsor list not captured",
+    "Re-checked 20 Oct 2026: still no official Mooneyes page for the 34th show in results; listing gives slogan 'LQQK! LISTEN! VIBES! SMILE!' and hashtag #34thhcs2026"
+  ],
+  "add_gaps": [
+    "Ticket price not captured (e+ sells advance tickets)",
+    "Sponsor tiers and per-year sponsor split not published; no partnership email (contact form only)",
+    "Event-specific Instagram not profiled; MOONEYES main account used"
+  ],
+  "notes": "Official site found: 24,000 visitors in 2025 (organiser), 34th show confirmed for 6 Dec 2026 at Pacifico Yokohama, and a 23-brand sponsor block (Harley-Davidson, BMW Motorrad, Honda, Royal Enfield, Converse, Red Wing, Dickies, Volcom, ABC-Mart, Pabst and others). Non-endemic lifestyle brands are present, so a health brand would not be out of place. Sponsor years could be 2025 or 2026; treat as current roster."
+}

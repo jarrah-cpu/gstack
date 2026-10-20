@@ -1,0 +1,175 @@
+{
+  "id": "benalla-street-art-festival",
+  "set": {
+    "dates": {
+      "last_edition": {
+        "start": "2026-04-17",
+        "end": "2026-04-19",
+        "status": "held",
+        "label": "2026"
+      },
+      "next_edition": {
+        "start": "2027-04-02",
+        "end": "2027-04-04",
+        "status": "confirmed",
+        "label": "2027"
+      },
+      "frequency": "annual",
+      "duration_days": 3
+    },
+    "organiser": {
+      "name": "Benalla Rural City Council (overseen by the Benalla Festival Advisory Committee)",
+      "type": "government-or-council",
+      "website": "https://benallastreetartfestival.com.au/"
+    },
+    "partnership_contact": {
+      "email": "benallastreetartfestival@benalla.vic.gov.au",
+      "page_url": "https://benallastreetartfestival.com.au/sponsor-this-event",
+      "named_person": null,
+      "source": "https://benallastreetartfestival.com.au/expressions-of-interest/"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Visit Victoria",
+      "years": [
+        2024,
+        2025,
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/DVNlT2CDRxu/"
+    },
+    {
+      "brand": "Dulux Australia",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DWAAkS-E2oz/"
+    },
+    {
+      "brand": "MTN Australia",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DW0v_EPiFTT/"
+    },
+    {
+      "brand": "AB Group",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DWu1Z9tjtPA/"
+    },
+    {
+      "brand": "European Energy Australia",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DWkuAzfCUFz/"
+    },
+    {
+      "brand": "Winton Motor Raceway",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DVdF3eBiskm/"
+    },
+    {
+      "brand": "Activate Community Consulting",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DXBbQRkiphL/"
+    }
+  ],
+  "add_sources": [
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.instagram.com/benallastreetartfestival/",
+      "note": "Instagram bio: 'Street Art Festival | 17-19 April 2026'."
+    },
+    {
+      "field": "organiser",
+      "url": "https://benallastreetartfestival.com.au/expressions-of-interest/",
+      "note": "Crawled page: 'run by Benalla Rural City Council and overseen by the community-based Benalla Festival Advisory Committee'."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://benallastreetartfestival.com.au/expressions-of-interest/",
+      "note": "Crawled page: festival email benallastreetartfestival@benalla.vic.gov.au."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.instagram.com/p/DUScv28E376/",
+      "note": "Festival post (3 Feb 2026) seeking sponsors: 'explore sponsorship options: benallastreetartfestival.com.au/sponsor-this-event'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DVNlT2CDRxu/",
+      "note": "Festival post (26 Feb 2026): 'our major sponsor, Visit Victoria, for making the 2026 Benalla Street Art Festival possible'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.benalla.vic.gov.au/benalla-street-art-festival-returns-for-2025/",
+      "note": "Google snippet: 2025 festival 'presented by Benalla Rural City Council with support from Visit Victoria'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://benallastreetartfestival.com.au/destination-benalla/",
+      "note": "Google snippet: 'In March 2024, the Benalla Street Art Festival was revived by Benalla Rural City Council and Visit Victoria'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DWAAkS-E2oz/",
+      "note": "Festival post (17 Mar 2026): Dulux Australia one of the 'Silver sponsors', supplying paint."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DW0v_EPiFTT/",
+      "note": "Festival post (7 Apr 2026): MTN Australia 'Silver Sponsor for #BSAF2026'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DWu1Z9tjtPA/",
+      "note": "Festival post (5 Apr 2026): AB Group Pty Ltd 'Silver Sponsor', construction equipment."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DWkuAzfCUFz/",
+      "note": "Festival post (1 Apr 2026): European Energy Australia 'key SILVER sponsor'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DVdF3eBiskm/",
+      "note": "Festival collab post with @winton_raceway (4 Mar 2026): 'previous sponsors ... thrilled to have them on board again this year'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.wintonraceway.com.au/news/winton-motor-raceway-a-proud-sponsor-of-the-benalla-street-art-festival",
+      "note": "Google snippet (Mar 2026): Winton Motor Raceway sponsorship of the festival."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DXBbQRkiphL/",
+      "note": "Festival post (12 Apr 2026): Activate Community Consulting thanked as 'event partners' who curated the live entertainment."
+    }
+  ],
+  "remove_gaps": [
+    "2026 dates not pinned",
+    "Organiser, attendance and partners not found",
+    "No public partnerships contact found"
+  ],
+  "add_gaps": [
+    "Attendance not published (organisers say 'thousands of visitors' and a 'record-breaking' 2026)",
+    "Full sponsor list on the festival site and Facebook not read (pages timed out); sponsors taken from Instagram posts",
+    "2025 sponsorship prospectus PDF not read"
+  ],
+  "notes": "Council-run free street art festival; Visit Victoria is the major sponsor (2024 to 2026). Silver tier is open to regional and trade brands (Dulux, MTN, AB Group, European Energy) and the festival actively seeks sponsors via a prospectus. Curated by Simon Grant (Wonderwalls). IG account is correct."
+}

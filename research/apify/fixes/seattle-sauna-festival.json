@@ -1,0 +1,16 @@
+{
+ "id": "seattle-sauna-festival",
+ "sponsor_roles": {
+  "PNW Mobile Spa": "partner",
+  "North Shore Sauna": "partner",
+  "Sauna Moon": "partner",
+  "Evergreen Sauna": "partner",
+  "Tempo Sauna": "partner",
+  "Alma Saunas": "partner",
+  "Willamette Sauna Haüs": "partner"
+ },
+ "verifier_flags": [
+  "sponsors: the seven Löyly Partners are an official sponsor tier (organiser post 18 Sep 2026), set to partner"
+ ],
+ "notes": "Orchestrator fix; source already in record."
+}

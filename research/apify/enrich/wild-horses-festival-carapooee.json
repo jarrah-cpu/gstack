@@ -1,0 +1,87 @@
+{
+  "id": "wild-horses-festival-carapooee",
+  "set": {
+    "website": "https://www.wildhorsesfestival.com.au/",
+    "organiser": {
+      "name": "Wild Horses Events Pty Ltd",
+      "type": "independent",
+      "website": "https://www.wildhorsesfestival.com.au/"
+    },
+    "dates": {
+      "last_edition": {
+        "start": "2025-11-14",
+        "end": "2025-11-16",
+        "status": "held",
+        "label": "2025"
+      },
+      "next_edition": {
+        "start": "2026-11-13",
+        "end": "2026-11-16",
+        "status": "confirmed",
+        "label": "10th anniversary (2026)"
+      },
+      "frequency": "annual",
+      "duration_days": 4
+    },
+    "attendance": {
+      "figure": null,
+      "figure_high": null,
+      "year": null,
+      "is_estimate": null,
+      "source": "https://www.wildhorsesfestival.com.au/faq-termsandconditions",
+      "note": "No attendance figure published. FAQ says the 21+ event is 'permitted with a capacity for 2000 attendees'; that is a permit cap, not a count."
+    },
+    "location": {
+      "city": "Carapooee West",
+      "state_or_region": "VIC",
+      "country": "Australia",
+      "venue_or_area": "Private bush site at Carapooee West on Dja Dja Wurrung Country (host of the last five festivals)"
+    }
+  },
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://www.wildhorsesfestival.com.au/",
+      "note": "Official site (Google result): 'WILD HORSES MUSIC, ARTS, CULTURE 13th-16th NOVEMBER 2026. Carapooee West'."
+    },
+    {
+      "field": "organiser",
+      "url": "https://www.wildhorsesfestival.com.au/festival",
+      "note": "Google result titled 'Festival Code | Wild Horses Events PTY LTD'."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.facebook.com/groups/677505847364206/posts/1387251916389592/",
+      "note": "Google snippet: 'Wild Horses Festival 2025, Carapooee West, Victoria. 14th-16th NOVEMBER'."
+    },
+    {
+      "field": "dates.frequency",
+      "url": "https://www.facebook.com/Yeeeeeehaaaaaa/posts/as-we-get-closer-to-celebrating-10-years-of-wild-horses-we-wanted-to-share-a-few/2008645733809715/",
+      "note": "Google snippet: post on 'celebrating 10 years of Wild Horses'; 2025 and 2026 editions held back to back."
+    },
+    {
+      "field": "attendance",
+      "url": "https://www.wildhorsesfestival.com.au/faq-termsandconditions",
+      "note": "Google snippet: 'Wild Horses Festival is a 21+ event, permitted with a capacity for 2000 attendees'."
+    },
+    {
+      "field": "location",
+      "url": "https://www.instagram.com/p/DcaYv1gD8hs/",
+      "note": "Festival post: 'The Carapooee West site on Dja Dja Wurrung land has held the last 5 Wild Horses Festivals'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.facebook.com/Yeeeeeehaaaaaa/posts/as-we-get-closer-to-celebrating-10-years-of-wild-horses-we-wanted-to-share-a-few/2008645733809715/",
+      "note": "Google snippet: 'We're privately funded, with no grants or big sponsors'."
+    }
+  ],
+  "remove_gaps": [
+    "Venue naming differs between listings (Carapooee West, Victoria Bush)",
+    "Attendance, organiser, website, ticket prices and partners not found"
+  ],
+  "add_gaps": [
+    "Attendance not published (permit capacity 2,000)",
+    "Ticket prices not found (tickets via Triniq, released first to past attendees)"
+  ],
+  "notes": "Independent 21+ psytrance bush festival run by Wild Horses Events Pty Ltd; 'privately funded, with no grants or big sponsors', capacity 2,000. Brand partnerships not part of the model so far. IG account correct (bio says 13 to 15 Nov; site says 13 to 16 Nov)."
+}

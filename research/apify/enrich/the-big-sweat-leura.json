@@ -1,0 +1,77 @@
+{
+  "id": "the-big-sweat-leura",
+  "set": {
+    "dates": {
+      "last_edition": {
+        "start": "2026-08-22",
+        "end": "2026-08-23",
+        "status": "held",
+        "label": "Inaugural (2026)"
+      },
+      "next_edition": {
+        "start": "2027-05",
+        "end": null,
+        "status": "confirmed",
+        "label": "2027 (May)"
+      },
+      "frequency": "annual",
+      "duration_days": 2
+    },
+    "partnership_contact": {
+      "email": "joinus@saunaaustralia.org.au",
+      "page_url": "https://saunaaustralia.org.au/contact",
+      "named_person": null,
+      "source": "https://saunaaustralia.org.au/contact"
+    },
+    "ticket_price": {
+      "min": 80,
+      "max": null,
+      "currency": "AUD",
+      "free_entry": false,
+      "note": "2026: 'Cost: $80' per the Blue Mountains What's On listing (Google snippet); full price ladder not seen. Clothed sessions, open to all ages."
+    }
+  },
+  "add_sources": [
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.instagram.com/the.big.sweat/",
+      "note": "Instagram bio: 'Australia's National Sauna Festival, May 2027, presented by @australian.sauna.association'."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://saunaaustralia.org.au/news/thats-a-wrap-on-the-big-sweat-2026",
+      "note": "Page read: wrap-up of The Big Sweat 2026; no attendance figure; 'Stay tuned for the next one'."
+    },
+    {
+      "field": "organiser",
+      "url": "https://saunaaustralia.org.au/news/thats-a-wrap-on-the-big-sweat-2026",
+      "note": "Page read: 'brought to life by the Australian Sauna Association, a not-for-profit'; Blue Mountains Sauna hosted; a portion of profits went to Sauna Aid."
+    },
+    {
+      "field": "organiser",
+      "url": "https://www.bluemts.com.au/whatson/45605/the-big-sweat-copresented-by-blue-mountains-sauna-the-australia-sauna-association/",
+      "note": "Google snippet: 'The Big Sweat - Co-Presented by Blue Mountains Sauna & The Australia Sauna Association'."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://saunaaustralia.org.au/contact",
+      "note": "Crawled page: 'Questions about membership, the sauna map, events, standards, or partnerships? ... joinus@saunaaustralia.org.au'."
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://www.bluemts.com.au/whatson/45605/the-big-sweat-copresented-by-blue-mountains-sauna-the-australia-sauna-association/",
+      "note": "Google snippet: 'Cost:$80'."
+    }
+  ],
+  "remove_gaps": [
+    "2027 dates not announced; organisers intend an annual fixture",
+    "Ticket price comes from a search summary; verify",
+    "Relationship between the Australian Sauna Association and the saunaaustralia.org.au site assumed from the event page",
+    "No public partnerships contact found"
+  ],
+  "add_gaps": [
+    "Exact May 2027 dates not announced",
+    "No commercial sponsors named; Harvia appears as 'partners' in a third-party Midnight Runners post, unclear whose partner"
+  ],
+  "notes": "Wellness-native fit: inaugural national sauna festival (22 to 23 Aug 2026) by the not-for-profit Australian Sauna Association, moving to May 2027. No sponsors named yet, so the field is open; ASA lists partnerships at joinus@. Blue Mountains Sauna co-presented (record has it as venue; consider upgrading). Profits partly to Sauna Aid."
+}

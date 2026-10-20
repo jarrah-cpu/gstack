@@ -1,0 +1,420 @@
+{
+  "id": "mercado-de-motores-madrid",
+  "set": {
+    "website": "https://mercadodemotores.es/",
+    "organiser": {
+      "name": "Mercados Vintage, S.L.",
+      "type": "independent",
+      "website": "https://mercadodemotores.es/"
+    },
+    "attendance": {
+      "figure": 300000,
+      "figure_high": null,
+      "year": null,
+      "is_estimate": true,
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/",
+      "note": "Organiser-reported 'casi 300.000 asistentes anuales' (nearly 300,000 a year across the monthly editions); approximate wording, so marked as an estimate. Undated partners page, read Oct 2026."
+    },
+    "partnership_contact": {
+      "email": "info@mercadodemotores.es",
+      "page_url": "https://mercadodemotores.es/partners-de-mercado-de-motores/",
+      "named_person": null,
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Aperol",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "El Vermut de Madrid (Zarro)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "Museo del Ferrocarril de Madrid",
+      "years": [
+        2026
+      ],
+      "role": "venue",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "Fundación de los Ferrocarriles Españoles",
+      "years": [
+        2026
+      ],
+      "role": "venue",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "Firma Madrid",
+      "years": [],
+      "role": "government",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "Telemadrid",
+      "years": [],
+      "role": "media",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "Revista Tapas",
+      "years": [],
+      "role": "media",
+      "source": "https://mercadodemotores.es/galeria-de-patrocinios/"
+    },
+    {
+      "brand": "Mahou",
+      "years": [],
+      "role": "partner",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "Netflix",
+      "years": [],
+      "role": "partner",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "Amazon",
+      "years": [],
+      "role": "partner",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "AMC Select (Canal Historia)",
+      "years": [],
+      "role": "partner",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "Perrier",
+      "years": [],
+      "role": "partner",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "Nestlé",
+      "years": [],
+      "role": "partner",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "Polestar",
+      "years": [],
+      "role": "partner",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "Samsung",
+      "years": [],
+      "role": "partner",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "BMW",
+      "years": [],
+      "role": "partner",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "MINI",
+      "years": [],
+      "role": "partner",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "Ben & Jerry's",
+      "years": [],
+      "role": "partner",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "Cabify",
+      "years": [],
+      "role": "partner",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "Dewar's",
+      "years": [],
+      "role": "partner",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "Lindt",
+      "years": [],
+      "role": "partner",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "Marie Brizard",
+      "years": [],
+      "role": "partner",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "IQOS",
+      "years": [],
+      "role": "partner",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "Cargo2go",
+      "years": [],
+      "role": "partner",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "Koipe",
+      "years": [],
+      "role": "partner",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "Kaiku",
+      "years": [],
+      "role": "partner",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "Kas",
+      "years": [],
+      "role": "partner",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "Cacaolat",
+      "years": [],
+      "role": "partner",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "Burgo de Arias",
+      "years": [],
+      "role": "partner",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "Starbucks",
+      "years": [],
+      "role": "partner",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "Campo Viejo",
+      "years": [],
+      "role": "partner",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "DOCa Rioja",
+      "years": [],
+      "role": "partner",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "Ruavieja",
+      "years": [],
+      "role": "partner",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "Sipsmith",
+      "years": [],
+      "role": "partner",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "Tanqueray",
+      "years": [],
+      "role": "partner",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "Bodegas Yzaguirre",
+      "years": [],
+      "role": "partner",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "Treatwell",
+      "years": [],
+      "role": "partner",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "British Council",
+      "years": [],
+      "role": "partner",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "Martini",
+      "years": [],
+      "role": "partner",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "Acciona",
+      "years": [],
+      "role": "partner",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "Sandevid",
+      "years": [],
+      "role": "partner",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "Alvalle",
+      "years": [],
+      "role": "partner",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "Lipton",
+      "years": [],
+      "role": "partner",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "Baileys",
+      "years": [],
+      "role": "partner",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "Danone",
+      "years": [],
+      "role": "partner",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "Garnier",
+      "years": [],
+      "role": "partner",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "Madrural",
+      "years": [],
+      "role": "partner",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "Warner Bros",
+      "years": [],
+      "role": "partner",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "Pascual",
+      "years": [],
+      "role": "partner",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "Disaronno",
+      "years": [],
+      "role": "partner",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "Appletiser",
+      "years": [],
+      "role": "partner",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "Lolea",
+      "years": [],
+      "role": "partner",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "Pokémon (Pikachu)",
+      "years": [],
+      "role": "partner",
+      "source": "https://mercadodemotores.es/partners-de-mercado-de-motores/"
+    },
+    {
+      "brand": "SodaStream",
+      "years": [],
+      "role": "partner",
+      "source": "https://mercadodemotores.es/galeria-de-patrocinios/"
+    },
+    {
+      "brand": "St. Petroni",
+      "years": [],
+      "role": "partner",
+      "source": "https://mercadodemotores.es/galeria-de-patrocinios/"
+    }
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://mercadodemotores.es/",
+      "note": "Official site: market of more than 150 artisans, designers, booksellers and artists on the second weekend of each month; free entry."
+    },
+    {
+      "field": "organiser",
+      "url": "https://mercadodemotores.es/partners-de-mercado-de-motores/",
+      "note": "Legal notice on the partners page names Mercados Vintage, S.L. (Calle Atocha 10, Madrid) as the company behind the site."
+    },
+    {
+      "field": "attendance",
+      "url": "https://mercadodemotores.es/partners-de-mercado-de-motores/",
+      "note": "Partners page: 'casi 300.000 asistentes anuales del evento'; event 'para todos los públicos'."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://mercadodemotores.es/partners-de-mercado-de-motores/",
+      "note": "Partners page invites brands to partner ('Queremos asociarnos con...'); footer contact info@mercadodemotores.es."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://mercadodemotores.es/partners-de-mercado-de-motores/",
+      "note": "Partners page logos (undated, so years left empty): main sponsor logo unlabelled; collaborators Aperol and El Vermut de Madrid (Zarro); institutional Fundación de los Ferrocarriles Españoles, Museo del Ferrocarril and Firma Madrid; past brand partners include Mahou, Netflix (Stranger Things), Amazon, AMC Select, Perrier, Nestlé, Polestar, Samsung, BMW, MINI, Ben & Jerry's, Cabify, Garnier, Danone, Treatwell, IQOS, Warner Bros, Telemadrid and others."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DeWa8TAIruK/",
+      "note": "Oct 2026 posts tag @aperolspritzes and @vermutzarro (Aperol tagged 12 times since Mar 2026), so both active in 2026."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://mercadodemotores.es/galeria-de-patrocinios/",
+      "note": "Google snippet of the sponsorship gallery: La Caprichería de Baileys, SodaStream, Revista Tapas, Polestar, St. Petroni, Acciona Movilidad motos. Sponsors archive also mentions a Cabify stand and Telemadrid 'La Visita'."
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://mercadodemotores.es/",
+      "note": "Official site: held 'el segundo fin de semana de cada mes', which supports 14 to 15 Nov 2026."
+    }
+  ],
+  "add_gaps": [
+    "Sponsor logos on the partners page are undated; years of each partnership unknown",
+    "Main sponsor logo on the partners page is unlabelled",
+    "Audience age and gender not published"
+  ],
+  "remove_gaps": [
+    "Official website and organiser not captured",
+    "Nov 2026 dates are 'planned' per a third-party guide",
+    "Attendance not published",
+    "No public partnerships contact found"
+  ],
+  "notes": "Strong brand-activation venue: dozens of non-endemic brands (food, drink, auto, streaming, beauty) have partnered, and the site actively solicits partners. Note IQOS (tobacco) among past partners. IG bio also promotes 'Brocante by Mercado de Motores' (17 to 18 Oct 2026), a vintage spin-off. IG @mercadodemotores is correct."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "new-order-chopper-show-kobe",
+  "set": {
+    "website": "https://neworderchoppershow.com/",
+    "location": {"city": "Kobe", "state_or_region": "Hyogo", "country": "Japan", "venue_or_area": "Kobe International Exhibition Hall (Halls 1 and 3)"},
+    "dates": {
+      "last_edition": {"start": "2026-08-16", "end": "2026-08-16", "status": "held", "label": "21st annual (2026)"},
+      "next_edition": {"start": "2027-08-08", "end": "2027-08-08", "status": "confirmed", "label": "22nd (2027)"},
+      "frequency": "annual",
+      "duration_days": 1
+    },
+    "attendance": {"figure": 3500, "figure_high": null, "year": 2013, "is_estimate": true, "source": "https://www.virginharley.com/topics/hbjtopics040/", "note": "Press-reported (Virgin Harley) for the 8th edition: 3,500 visitors and over 160 bikes. Google snippet only; dated figure, no recent count published. A YouTube description gives about 4,000 for a later August edition."},
+    "audience": {"age_range": null, "gender_skew": null, "psychographics": "Custom chopper and motorcycle builders, shop owners and riders from across Japan, plus lowbrow art fans (the Barbarian Circus live painting and auction).", "source": "inferred from IG audience signals"},
+    "partnership_contact": {"email": "info@neworderchoppershow.com", "page_url": "https://neworderchoppershow.com/", "named_person": null, "source": "https://neworderchoppershow.com/"},
+    "ticket_price": {"min": 2500, "max": 3000, "currency": "JPY", "free_entry": false, "note": "Official site 2026: NOCS and Mecha-Mani joint ticket, advance 2,500 JPY, door 3,000 JPY (cash only); 18 and under free with ID."}
+  },
+  "add_sponsors": [
+    {"brand": "W&W Cycles", "years": [2026], "role": "partner", "source": "https://neworderchoppershow.com/"},
+    {"brand": "Three Miles Trade Co., Ltd", "years": [2026], "role": "partner", "source": "https://neworderchoppershow.com/"},
+    {"brand": "Shinko Co., Ltd (シンコー株式会社)", "years": [2026], "role": "partner", "source": "https://neworderchoppershow.com/"}
+  ],
+  "add_activation_formats": ["stall"],
+  "add_sources": [
+    {"field": "website", "url": "https://www.instagram.com/neworderchoppershow/", "note": "Official Instagram profile links to neworderchoppershow.com."},
+    {"field": "sponsors", "url": "https://neworderchoppershow.com/", "note": "Home page footer lists 協賛 (sponsor): W&W CYCLES, THREE MILES TRADE CO.,LTD, シンコー株式会社 (2026 site)."},
+    {"field": "dates.next_edition", "url": "https://www.instagram.com/neworderchoppershow/", "note": "Profile bio (Oct 2026): next show Sunday 8 Aug 2027 at Kobe International Exhibition Hall."},
+    {"field": "location.venue_or_area", "url": "https://neworderchoppershow.com/about", "note": "About page: venue 神戸国際展示場 (Kobe International Exhibition Hall) Halls 3 and 1, 16 Aug 2026, 9am to 4:30pm. Record said Kobe International Conference Center."},
+    {"field": "ticket_price", "url": "https://neworderchoppershow.com/about", "note": "About page: joint ticket advance 2,500 JPY, door 3,000 JPY cash only, 18 and under free with ID."},
+    {"field": "activation_formats", "url": "https://neworderchoppershow.com/about", "note": "Vendor booths (3.0m x 3.0m) for custom bike parts, apparel and gear brands, alongside builder bike display booths."},
+    {"field": "attendance", "url": "https://www.virginharley.com/topics/hbjtopics040/", "note": "Google snippet: 8th edition report, 来場者数3500人を記録 (3,500 visitors recorded), over 160 bikes."},
+    {"field": "attendance", "url": "https://www.youtube.com/watch?v=wbtOiApo5sE", "note": "Google snippet: video description says about 4,000 visitors at a 24 Aug edition at Kobe International Exhibition Hall."},
+    {"field": "partnership_contact", "url": "https://neworderchoppershow.com/", "note": "Footer contact: info@neworderchoppershow.com, phone and Kobe Chuo-ku address."},
+    {"field": "audience", "url": "https://www.instagram.com/neworderchoppershow/", "note": "Inferred: tagged accounts are custom bike shops and builders (e.g. Hot Chop Speed Shop, Infinity Motorcycle, Revolt Custom Cycles)."}
+  ],
+  "remove_gaps": [
+    "Only a third-party listing seen; no official site or post-event report",
+    "2027 date not announced"
+  ],
+  "add_gaps": [
+    "Organiser entity not named on the site (web store runs through krazyrod.com; KRAZY ROD (@kustomfactory) co-authors posts)",
+    "No attendance figure published since the 8th edition (2013)",
+    "Audience age and gender not published"
+  ],
+  "notes": "Official site found with three 協賛 sponsors (W&W Cycles, Three Miles Trade, Shinko). 2027 edition confirmed for 8 Aug 2027 (IG bio). Venue corrected to Kobe International Exhibition Hall. Only attendance figure is a 2013 press snippet, so treat scale as dated. Organiser likely linked to KRAZY ROD / Kustom Factory but unconfirmed."
+}

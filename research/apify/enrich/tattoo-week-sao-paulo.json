@@ -1,0 +1,74 @@
+{
+ "id": "tattoo-week-sao-paulo",
+ "set": {
+  "attendance": {
+   "figure": 70000,
+   "figure_high": null,
+   "year": 2025,
+   "is_estimate": false,
+   "source": "https://tattooweek.com.br/",
+   "note": "Organiser-reported on the homepage stats block: 70,000 public, 3,000 artists and professionals, 650 exhibitors and stands at Tattoo Week SP 2025."
+  },
+  "partnership_contact": {
+   "email": "contato@tattooweek.com.br",
+   "page_url": "https://tattooweek.com.br/contato",
+   "named_person": null,
+   "source": "https://tattooweek.com.br/contato"
+  }
+ },
+ "add_sponsors": [
+  {
+   "brand": "Bronc Tattoo Supply (Fly Dragon)",
+   "years": [
+    2026
+   ],
+   "role": "partner",
+   "source": "https://www.instagram.com/p/DcrqINkOyLb/"
+  },
+  {
+   "brand": "Black Princess",
+   "years": [],
+   "role": "partner",
+   "source": "https://www.abcdacomunicacao.com.br/black-princess-e-a-patrocinadora-oficial-da-tattoo-week-de-sao-paulo/"
+  }
+ ],
+ "add_sources": [
+  {
+   "field": "attendance",
+   "url": "https://tattooweek.com.br/",
+   "note": "Static homepage: '3000 ARTISTAS/PROFISSIONAIS, 70000 PESSOAS/PUBLICO, 650 EXPOSITORES/STANDS', 'Números referentes a Tattoo Week SP 2025'."
+  },
+  {
+   "field": "partnership_contact",
+   "url": "https://tattooweek.com.br/contato",
+   "note": "Contact page: E-mail contato@tattooweek.com.br."
+  },
+  {
+   "field": "website",
+   "url": "https://tattooweek.com.br/informacoes-tattoo-week-sao-paulo",
+   "note": "Official site page confirms 20 to 22 Nov 2026 at Expo Center Norte."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://www.instagram.com/p/DcrqINkOyLb/",
+   "note": "'Fly Dragon, detentora da marca @bronctattoo.official, patrocinadora oficial da Tattoo Week São Paulo 2026'."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://www.abcdacomunicacao.com.br/black-princess-e-a-patrocinadora-oficial-da-tattoo-week-de-sao-paulo/",
+   "note": "Google snippet: 'Pela quinta edição consecutiva, a cerveja Black Princess é a patrocinadora oficial'; article year not shown."
+  }
+ ],
+ "add_gaps": [
+  "Black Princess sponsorship years not confirmed",
+  "Organiser company not named on the site",
+  "Ticket prices not captured"
+ ],
+ "remove_gaps": [
+  "Visitor attendance not published in results",
+  "Sponsors not captured",
+  "Instagram not captured",
+  "Website URL given in a search summary, not seen as a result link"
+ ],
+ "notes": "Large tattoo festival: organiser reports 70,000 visitors in 2025. Crawler check: the crawled stats block showed 45,868 (an animated counter caught mid-count); the static page gives 70,000, so other packs that quote site counters may be wrong too. 2026 official sponsor Bronc (tattoo cartridges); general contact email published."
+}

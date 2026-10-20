@@ -1,0 +1,60 @@
+{
+  "id": "single-fin-mingle-sumner",
+  "set": {
+    "website": "https://www.thesinglefinmingle.com/",
+    "organiser": {
+      "name": "The Single Fin Mingle Limited (founder and director Ambrose McNeill)",
+      "type": "independent",
+      "website": "https://www.thesinglefinmingle.com/"
+    },
+    "partnership_contact": {
+      "email": null,
+      "page_url": "https://www.thesinglefinmingle.com/contact",
+      "named_person": null,
+      "source": "https://www.thesinglefinmingle.com/contact"
+    }
+  },
+  "add_sponsors": [
+    {"brand": "Coffee Supreme", "years": [2026], "role": "major", "source": "https://www.instagram.com/p/DXtBtKHD64J/"},
+    {"brand": "Hydro Flask", "years": [2021, 2022, 2023, 2024, 2025, 2026], "role": "partner", "source": "https://www.instagram.com/p/DYwCdhkjxj7/"},
+    {"brand": "Lexus New Zealand", "years": [2026], "role": "partner", "source": "https://www.thesinglefinmingle.com/sponsors"},
+    {"brand": "Rhythm", "years": [2026], "role": "partner", "source": "https://www.thesinglefinmingle.com/sponsors"},
+    {"brand": "Clean Collective", "years": [2026], "role": "partner", "source": "https://www.thesinglefinmingle.com/sponsors"},
+    {"brand": "Sun Bum", "years": [2026], "role": "partner", "source": "https://www.thesinglefinmingle.com/sponsors"},
+    {"brand": "Christchurch City Council", "years": [2026], "role": "government", "source": "https://www.thesinglefinmingle.com/sponsors"},
+    {"brand": "Atmosea", "years": [2026], "role": "partner", "source": "https://www.thesinglefinmingle.com/sponsors"},
+    {"brand": "Thomas Surfboards x Flow & Grace", "years": [2025, 2026], "role": "partner", "source": "https://www.thesinglefinmingle.com/sponsors"},
+    {"brand": "Sawmill Brewery", "years": [2026], "role": "partner", "source": "https://www.thesinglefinmingle.com/sponsors"},
+    {"brand": "Surfing Tribe", "years": [2026], "role": "partner", "source": "https://www.thesinglefinmingle.com/sponsors"},
+    {"brand": "Big Little Campers", "years": [2026], "role": "partner", "source": "https://www.thesinglefinmingle.com/sponsors"},
+    {"brand": "Against the Grain Screen Printing", "years": [2026], "role": "partner", "source": "https://www.thesinglefinmingle.com/sponsors"},
+    {"brand": "Degree43 Hot Tubs", "years": [2026], "role": "partner", "source": "https://www.thesinglefinmingle.com/sponsors"},
+    {"brand": "Miss Peppercorn", "years": [2026], "role": "partner", "source": "https://www.thesinglefinmingle.com/sponsors"},
+    {"brand": "Sumner Surf Life Saving Club", "years": [2026], "role": "venue", "source": "https://www.thesinglefinmingle.com/sponsors"},
+    {"brand": "Sumner Residents Association", "years": [2026], "role": "partner", "source": "https://www.thesinglefinmingle.com/sponsors"},
+    {"brand": "Surfer Magazine", "years": [2026], "role": "media", "source": "https://www.instagram.com/p/DWikXihDxy9/"}
+  ],
+  "add_activation_formats": ["collab-product", "customisation-station", "hospitality-bar", "content-series", "naming-rights"],
+  "add_sources": [
+    {"field": "website", "url": "https://www.thesinglefinmingle.com/", "note": "Official site (crawled) with 2015 to 2026 edition pages, tickets, sponsors and contact; linked from the IG bio."},
+    {"field": "organiser", "url": "https://www.thesinglefinmingle.com/contact", "note": "Crawled page footer: 'Copyright The Single Fin Mingle limited'. Founder Ambrose McNeill per RNZ (https://www.rnz.co.nz/national/programmes/afternoons/audio/2019028391/single-fin-mingle)."},
+    {"field": "partnership_contact", "url": "https://www.thesinglefinmingle.com/contact", "note": "Crawled page: 'Wondering how you surf, play, paint or sponsor this wonderful festival? ... via the form below', with a SPONSOR section. No email shown. Sponsors page has a 'Partner with us' button linking here."},
+    {"field": "sponsors", "url": "https://www.thesinglefinmingle.com/sponsors", "note": "Crawled 'Event Partners & Sponsors' page: Coffee Supreme, Christchurch City Council, Clean Collective, Hydro Flask (partner since 2021), Rhythm, Lexus; 'Friends of the Mingle' Atmosea, Thomas Surfboards x Flow & Grace (2025 partnership), Sawmill Brewery (first time in 2026), Surfing Tribe, Sun Bum, Sumner Residents Association, Against the Grain screen printing, Big Little Campers; community partners Degree43 hot tubs, Sumner Surf Life Saving Club, Miss Peppercorns."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DXtBtKHD64J/", "note": "29 Apr 2026: 'In 2026, we welcomed back Coffee Supreme as a Major Mingle Partner'; collab cups and custom Lovesick coffee bags."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DYwCdhkjxj7/", "note": "25 May 2026: '2026 marked our 6th consecutive year of partnership' with Hydro Flask; collab products with onsite engraving."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DXJGMGIj0JI/", "note": "15 Apr 2026: 'Surfing highlights captured by @ramboestrada and presented by @lexus_newzealand'; a 'Lexus wave of the day' was also awarded."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DXay2sMj9bq/", "note": "Co-authored with @rhythm: 'The 2026 Rhythm Party Wave'."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DWikXihDxy9/", "note": "Day 3 2026 recap co-authored with @surfer_magazine."},
+    {"field": "activation_formats", "url": "https://www.instagram.com/p/DYwCdhkjxj7/", "note": "Hydro Flask collab flasks with onsite engraving; Coffee Supreme served coffee on the beach with collab cups and bags (https://www.instagram.com/p/DXtBtKHD64J/); Lexus-presented highlight videos; Rhythm Party Wave named heat."}
+  ],
+  "add_gaps": [
+    "Spectator and street party ticket prices not captured (2026 tickets page lists a weekend pass and afterparty add-on with no prices)"
+  ],
+  "remove_gaps": [
+    "Official website not captured",
+    "2026 sponsor roster not captured",
+    "No public partnerships contact found",
+    "Spectator ticketing not captured"
+  ],
+  "notes": "12th edition 26 to 29 Mar 2026; 2027 (13th) teased but undated. Rich, values-led sponsor roster: Coffee Supreme as major partner, Hydro Flask six years running, Lexus, Rhythm, Sun Bum (sunscreen, a health-adjacent category) and Clean Collective. Organiser pitches sponsors on an 'authentically engaged audience'; mental health is a stated cause. Archibalds entries already in the record (2024, 2025) still stand."
+}

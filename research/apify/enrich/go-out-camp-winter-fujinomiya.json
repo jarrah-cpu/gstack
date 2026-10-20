@@ -1,0 +1,116 @@
+{
+  "id": "go-out-camp-winter-fujinomiya",
+  "set": {
+    "dates": {
+      "last_edition": {
+        "start": "2025-12-12",
+        "end": "2025-12-14",
+        "status": "held",
+        "label": "GO OUT CAMP 冬 2025"
+      },
+      "next_edition": {
+        "start": "2026-12-11",
+        "end": "2026-12-13",
+        "status": "confirmed",
+        "label": "GO OUT CAMP 冬 2026 with GO OUT JIMNY CAMP 2026"
+      },
+      "frequency": "annual",
+      "duration_days": 3
+    },
+    "organiser": {
+      "name": "GO OUT CAMP executive committee; planning and production by Sanei (GO OUT) and Earth Garden",
+      "type": "media",
+      "website": "https://www.gooutcamp.jp/winter/"
+    },
+    "audience": {
+      "age_range": null,
+      "gender_skew": null,
+      "psychographics": "Winter campers in the GO OUT outdoor fashion orbit; organiser says sub-zero nights mean more expert campers than spring or autumn editions; 2026 adds Suzuki Jimny owners via the co-located GO OUT JIMNY CAMP.",
+      "source": "https://www.gooutcamp.jp/winter/about/"
+    },
+    "partnership_contact": {
+      "email": "info@gooutcamp.jp",
+      "page_url": "https://pro.form-mailer.jp/fms/b9af749f289151",
+      "named_person": null,
+      "source": "https://www.gooutcamp.jp/winter/"
+    },
+    "ticket_price": {
+      "min": 2500,
+      "max": 10800,
+      "currency": "JPY",
+      "free_entry": false,
+      "note": "2026 presale with Sierra cup (30 Sep to 12 Nov): Sat day ticket JPY 2,500; 1-night JPY 5,500; 2-night JPY 7,500; with auto-camp parking JPY 9,000 (1-night) to JPY 10,800 (2-night); group sets for 3 people up to JPY 25,800. One ticket covers both Winter and Jimny Camp areas."
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Fumotoppara",
+      "years": [
+        2026
+      ],
+      "role": "venue",
+      "source": "https://www.gooutcamp.jp/winter/about/"
+    }
+  ],
+  "add_activation_formats": [
+    "competition-or-prize",
+    "workshop",
+    "stall"
+  ],
+  "add_sources": [
+    {
+      "field": "dates",
+      "url": "https://www.gooutcamp.jp/winter/about/",
+      "note": "History lists winter editions on 10 to 11 Dec 2016, 16 to 17 Dec 2017, 15 to 16 Dec 2018, 14 to 15 Dec 2019, Christmas Camp 9 to 11 Dec 2022, 8 to 10 Dec 2023 and 13 to 15 Dec 2024."
+    },
+    {
+      "field": "dates",
+      "url": "https://evetopi.fujirakuizuraku.com/entry/GO-OUT-CAMP",
+      "note": "Google snippet: GO OUT CAMP 冬 2025 scheduled for Fri 12 to Sun 14 Dec 2025."
+    },
+    {
+      "field": "dates",
+      "url": "https://www.instagram.com/p/Dd5Uh43HwHz/",
+      "note": "@goout_camp (30 Sep 2026): winter camp is held again this year ('今年も開催'), 11 to 13 Dec 2026, jointly with GO OUT JIMNY CAMP 2026."
+    },
+    {
+      "field": "organiser",
+      "url": "https://www.gooutcamp.jp/winter/about/",
+      "note": "About page: 主催 GO OUT CAMP 実行委員会; 企画・制作 株式会社三栄 GO OUT / アースガーデン; 特別協力 ふもとっぱら."
+    },
+    {
+      "field": "audience",
+      "url": "https://www.gooutcamp.jp/winter/about/",
+      "note": "2022 history entry: winter draws more expert campers ('玄人キャンパーが多い') than spring or autumn because temperatures drop below zero. First winter edition (2016) had just over 300 visitors."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.gooutcamp.jp/winter/",
+      "note": "Winter site links a contact form (pro.form-mailer.jp) which Google shows as covering sponsorship and exhibiting enquiries, plus market and food exhibitor forms; IG bio routes all enquiries to info@gooutcamp.jp."
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://www.instagram.com/p/Dd5Uh43HwHz/",
+      "note": "Presale ticket list for GO OUT CAMP 冬 2026 with special Sierra cup."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/DeiiTkmxxEg/",
+      "note": "GO OUT JIMNY CAMP 2026 Jimny Style Contest with three awards and a prize for every entrant."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/Dek0PEXHwgy/",
+      "note": "2026 activities: outdoor flea market, street performance, BBQ, yoga, singing night club, balloon rides, message fireworks, treasure-hunt stamp rally; organiser post also mentions workshops and brand booths."
+    }
+  ],
+  "add_gaps": [
+    "Brand exhibitors and sponsors for the winter edition not announced yet",
+    "Attendance for recent winter editions not published (first edition 2016 had just over 300)"
+  ],
+  "remove_gaps": [
+    "Previous winter edition dates not captured; frequency unknown",
+    "Attendance, ticket prices and sponsors not captured"
+  ],
+  "notes": "Winter edition is annual (2016 to 2019, 2022 to 2025), 2025 dates from a pre-event listing plus the organiser's 'held again this year' post. 2026 is co-located with GO OUT JIMNY CAMP; Suzuki exhibits at other GO OUT CAMP events but formal Jimny Camp partnership still unconfirmed. Smaller, expert-camper crowd; programme includes yoga."
+}

@@ -1,0 +1,96 @@
+{
+  "id": "tropical-fruits-nye-festival-lismore",
+  "set": {
+    "attendance": {
+      "figure": 3000,
+      "figure_high": null,
+      "year": 2015,
+      "is_estimate": true,
+      "source": "https://www.abc.net.au/news/2015-12-31/tropical-fruits-new-years-eve-festival-brings-thousands/7061820",
+      "note": "Media-reported 'More than 3,000 people' (ABC, 31 Dec 2015). A 2024 listing describes a festival for up to 2,000 people with camping for up to 1,000 more. No recent count found."
+    },
+    "partnership_contact": {
+      "email": "fruits@tropicalfruits.org.au",
+      "page_url": "https://tropicalfruits.org.au/contact-us",
+      "named_person": null,
+      "source": "https://tropicalfruits.org.au/contact-us"
+    },
+    "dates": {
+      "last_edition": {
+        "start": "2025-12-30",
+        "end": "2026-01-02",
+        "status": "held",
+        "label": "SPACE CADETS (2025 to 26)"
+      },
+      "next_edition": {
+        "start": "2026-12",
+        "end": "2027-01",
+        "status": "expected",
+        "label": "RIPARIA - Hot & Wet (2026 to 27); announced, exact dates not captured"
+      },
+      "frequency": "annual",
+      "duration_days": 4
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Visit Lismore (Lismore City Council)",
+      "years": [],
+      "role": "government",
+      "source": "https://www.facebook.com/groups/573835447405018/posts/1587766826011870/"
+    },
+    {
+      "brand": "shandy (queer party collective, @shandy.party)",
+      "years": [
+        2026
+      ],
+      "role": "collab",
+      "source": "https://www.instagram.com/p/DTcgk6gCc29/"
+    }
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.instagram.com/p/Db5IUcBznYD/",
+      "note": "@tropicalfruitsinc (11 Aug 2026): 'Tropical Fruits' New Year's Festival 2026-27', theme 'RIPARIA - HOT & WET'; post of 10 Aug says 'Tickets on sale in September'; 31 Aug: tickets, camping, volunteering and creative EOIs open."
+    },
+    {
+      "field": "attendance",
+      "url": "https://www.abc.net.au/news/2015-12-31/tropical-fruits-new-years-eve-festival-brings-thousands/7061820",
+      "note": "ABC (2015): festival 'brings thousands of visitors and millions of dollars to Lismore'; 'More than 3,000 people' (Google snippet)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.facebook.com/groups/573835447405018/posts/1587766826011870/",
+      "note": "Shared Visit Lismore welcome post: 'Visit Lismore is proud to be a sponsor of this wonderful annual event' (Google snippet; year not shown; a similar Visit Lismore welcome post exists on IG, https://www.instagram.com/p/DEEAWZ0NCQ4/)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DTcgk6gCc29/",
+      "note": "New Year's Day 2026 pool party 'co-presented by @shandy.party' (context from festival posts, Jan 2026)."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://tropicalfruits.org.au/contact-us",
+      "note": "Contact page: fruits@tropicalfruits.org.au, (02) 6622 6440, PO Box 6305 South Lismore. Events team also uses events@tropicalfruits.org.au (IG, May 2026). No sponsorship page."
+    },
+    {
+      "field": "organiser",
+      "url": "https://tropicalfruits.org.au/about-us",
+      "note": "Tropical Fruits Inc, established 1988, 'a not-for-profit, incorporated association... self funding, independent and voluntary'. 2026 committee (AGM post, 30 Mar 2026) names Lisa Thorpy (Chair) and Lara Cruickshank (Event Coordinator)."
+    }
+  ],
+  "add_gaps": [
+    "Exact 2026 to 27 dates not captured from the ticketing page",
+    "No recent attendance figure; latest pinned count is 2015",
+    "Organisation reported strain in 2026 (flood-damaged clubhouse rebuild paused, assets consolidated); watch for impact on the festival",
+    "Year of the Visit Lismore sponsorship not pinned"
+  ],
+  "remove_gaps": [
+    "2026 to 27 theme, dates and prices not announced in search results",
+    "Attendance figure year not pinned; capacity figures come from a 2024 listing",
+    "Website named in search results, not opened"
+  ],
+  "notes": "2026 to 27 NYE festival announced ('RIPARIA - Hot & Wet', tickets on sale Sept 2026); IG bio 'Festival in composting phase' is wordplay, not a pause. Club reported a stalled flood rebuild and asset consolidation in Mar to May 2026. Self-funded non-profit; only Visit Lismore found as a sponsor. Attendance re-pinned to ABC 2015 (3,000+)."
+}

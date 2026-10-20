@@ -1,0 +1,158 @@
+{
+ "id": "primavera-sound-sao-paulo",
+ "set": {
+  "website": "https://www.primaverasound.com/pt/sao-paulo",
+  "dates": {
+   "last_edition": {
+    "start": "2023",
+    "end": null,
+    "status": "held",
+    "label": "2nd Brazilian edition (2023), Distrito Anhembi"
+   },
+   "next_edition": {
+    "start": "2026-12-05",
+    "end": "2026-12-06",
+    "status": "confirmed",
+    "label": "3rd Brazilian edition (2026)"
+   },
+   "frequency": "irregular",
+   "duration_days": 2
+  },
+  "attendance": {
+   "figure": 120000,
+   "figure_high": null,
+   "year": 2022,
+   "is_estimate": false,
+   "source": "https://www.primaverasound.com/en/news/primavera-sound-sao-paulo-premieres-in-brazil-with-an-audience-of-120-000-people",
+   "note": "Organiser-reported audience of 120,000 for the first edition (2022), city shows included (Google snippet). Exame, citing G1, reports about 55,000 a day in 2022 and under 50,000 a day in 2023."
+  },
+  "ticket_price": {
+   "min": null,
+   "max": null,
+   "currency": "BRL",
+   "free_entry": false,
+   "note": "2026: Primavera Day (one day) and Primavera Pass (two days) at full, half and 'solidário' prices, plus VIP; sold via Ingresse in up to 10 instalments. Prices not captured."
+  }
+ },
+ "add_sponsors": [
+  {
+   "brand": "Beck's",
+   "years": [
+    2023
+   ],
+   "role": "presenting",
+   "source": "https://www.primaverasound.com/pt/sao-paulo/primavera-sound-sao-paulo-informacoes-chegada-saida-festival"
+  },
+  {
+   "brand": "Elo",
+   "years": [
+    2023
+   ],
+   "role": "presenting",
+   "source": "https://www.primaverasound.com/pt/sao-paulo/primavera-sound-sao-paulo-informacoes-chegada-saida-festival"
+  },
+  {
+   "brand": "Beefeater",
+   "years": [
+    2023
+   ],
+   "role": "major",
+   "source": "https://www.primaverasound.com/pt/sao-paulo/primavera-sound-sao-paulo-informacoes-chegada-saida-festival"
+  },
+  {
+   "brand": "Schweppes",
+   "years": [
+    2023
+   ],
+   "role": "major",
+   "source": "https://www.primaverasound.com/pt/sao-paulo/primavera-sound-sao-paulo-informacoes-chegada-saida-festival"
+  },
+  {
+   "brand": "89 FM",
+   "years": [
+    2023
+   ],
+   "role": "media",
+   "source": "https://www.primaverasound.com/pt/sao-paulo/primavera-sound-sao-paulo-informacoes-chegada-saida-festival"
+  },
+  {
+   "brand": "Rockdelux",
+   "years": [
+    2023
+   ],
+   "role": "media",
+   "source": "https://www.primaverasound.com/pt/sao-paulo/primavera-sound-sao-paulo-informacoes-chegada-saida-festival"
+  },
+  {
+   "brand": "Aperol Spritz",
+   "years": [
+    2023
+   ],
+   "role": "partner",
+   "source": "https://livemarketing.com.br/aperol-spritz-primavera-sound-2023"
+  },
+  {
+   "brand": "Neutrogena",
+   "years": [],
+   "role": "partner",
+   "source": "https://globoplay.globo.com/v/12164852/"
+  }
+ ],
+ "add_activation_formats": [
+  "hospitality-bar"
+ ],
+ "add_sources": [
+  {
+   "field": "website",
+   "url": "https://www.primaverasound.com/pt/sao-paulo",
+   "note": "Official Primavera Sound São Paulo page (2026 ticket information)."
+  },
+  {
+   "field": "dates.last_edition",
+   "url": "https://exame.com/casual/apos-dois-anos-o-primavera-sound-retorna-a-sao-paulo-com-contrato-longo/",
+   "note": "Google snippet: compares the 2022 and 2023 editions; the 2023 venue was Distrito Anhembi per the organiser's arrival page."
+  },
+  {
+   "field": "attendance",
+   "url": "https://www.primaverasound.com/en/news/primavera-sound-sao-paulo-premieres-in-brazil-with-an-audience-of-120-000-people",
+   "note": "Organiser news headline: 'premieres in Brazil with an audience of 120,000 people'."
+  },
+  {
+   "field": "ticket_price",
+   "url": "https://www.instagram.com/p/DbI7dlbAAAm/",
+   "note": "Ticket types and up to 10 instalments, limit four per CPF."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://www.primaverasound.com/pt/sao-paulo/primavera-sound-sao-paulo-informacoes-chegada-saida-festival",
+   "note": "Google snippet of the organiser's arrival page (Distrito Anhembi, so 2023): 'apresentado pela Beck's e Elo. Patrocínio Beefeater e Schweppes. Apoio Rockdelux, Rádio Primavera Sound, 89 FM'."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://livemarketing.com.br/aperol-spritz-primavera-sound-2023",
+   "note": "Google snippet (24 Oct 2023): Aperol Spritz (Campari) joins as a sponsor."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://globoplay.globo.com/v/12164852/",
+   "note": "Google snippet only: 'Ações de patrocínio da Neutrogena são destaque no primeiro...'; edition year not stated."
+  },
+  {
+   "field": "activation_formats",
+   "url": "https://gkpb.com.br/160431/primavera-sound-experiencia/",
+   "note": "Google snippet (29 Nov 2023): Coca-Cola FEMSA brings a Schweppes mixology experience with Instagrammable spaces."
+  }
+ ],
+ "add_gaps": [
+  "2026 sponsors not yet announced in organiser posts; sponsor list is from the 2023 edition",
+  "No 2023 total attendance; only daily estimates",
+  "Neutrogena sponsorship year not confirmed"
+ ],
+ "remove_gaps": [
+  "Year of the 2nd edition not captured (2026 is the 3rd; 2024 was cancelled)",
+  "Attendance not found",
+  "Sponsors not captured",
+  "Official website and Instagram not captured"
+ ],
+ "notes": "Third edition 5 and 6 Dec 2026 at Autódromo de Interlagos with Bonus Track. Past editions carried big drinks and payments sponsors (Beck's, Elo, Beefeater, Schweppes, Aperol); a Neutrogena activation is a skincare precedent but its year is unconfirmed. High-cost, crowded sponsor field."
+}

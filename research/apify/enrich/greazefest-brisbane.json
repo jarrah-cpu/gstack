@@ -1,0 +1,77 @@
+{
+  "id": "greazefest-brisbane",
+  "set": {
+    "organiser": {
+      "name": "Robot Productions",
+      "type": "promoter",
+      "website": "https://www.robotproductions.com.au/"
+    },
+    "partnership_contact": {
+      "email": "lorilee@robotevents.au",
+      "page_url": "https://www.greazefest.com/pages/contact-us/",
+      "named_person": "Lori Lee Cash, GreazeFest Director (media contact)",
+      "source": "https://www.greazefest.com/pages/press-release-2026/"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Tourism and Events Queensland",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.greazefest.com/"
+    },
+    {
+      "brand": "Redland City Council",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.greazefest.com/"
+    }
+  ],
+  "add_sources": [
+    {
+      "field": "organiser",
+      "url": "https://www.greazefest.com/",
+      "note": "Crawled homepage: 'GreazeFest is produced by Robot Productions'; news posts say 'Presented by Robot Productions and Lori Lee Vintage'."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.greazefest.com/pages/press-release-2026/",
+      "note": "Page read: media contact Lori Lee Cash, lorilee@robotevents.au."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.greazefest.com/pages/contact-us/",
+      "note": "Crawled page: general email info@robotevents.au."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.facebook.com/groups/greazefest/posts/8094117677344500/",
+      "note": "Google snippet: 'Words from GreazeFest Director, Lori Lee'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.greazefest.com/",
+      "note": "Crawled homepage: supported by the Queensland Government through Tourism and Events Queensland; Redland City Council funds it through the Signature Events Attraction and Retention Fund. TEQ, Robot Productions and Redland City Council logos (2026)."
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.greazefest.com/",
+      "note": "Crawled homepage: 'GreazeFest 2027 dates': Friday July 30 to Sunday August 1."
+    }
+  ],
+  "remove_gaps": [
+    "2027 dates come from a search summary of the GreazeFest site and Cruzin listings; verify on the organiser site",
+    "Organiser, attendance, ticket prices and partners not found",
+    "No public partnerships contact found"
+  ],
+  "add_gaps": [
+    "Attendance not published (press says 'thousands of visitors')",
+    "Ticket prices not on the crawled pages",
+    "No commercial brand sponsors seen; only government funders"
+  ],
+  "notes": "Run by Robot Productions with director Lori Lee Cash (her label Lori Lee Vintage co-presents). Funded by TEQ and Redland City Council; no brand sponsors visible, so the partner field is open. 25th anniversary was 2025. 2027 dates confirmed on the organiser site."
+}

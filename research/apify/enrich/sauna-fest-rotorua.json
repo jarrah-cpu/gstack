@@ -1,0 +1,29 @@
+{
+  "id": "sauna-fest-rotorua",
+  "set": {
+    "organiser": {
+      "name": "The Sauna Project",
+      "type": "brand-owned",
+      "website": "https://www.thesaunaproject.co.nz/"
+    }
+  },
+  "add_sponsors": [
+    {"brand": "Blue Lake TOP 10 Holiday Park", "years": [2026, 2027], "role": "venue", "source": "https://www.instagram.com/p/DYN6LyLy05n/"}
+  ],
+  "add_activation_formats": ["stall"],
+  "add_sources": [
+    {"field": "organiser", "url": "https://www.thesaunaproject.co.nz/moonzone", "note": "Google result: The Sauna Project site hosts Sauna Fest zone pages (Moon Zone, Kids Zone). IG bio: 'Presented by @thesaunaproject_'."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DYN6LyLy05n/", "note": "GA sell-out post (11 May 2026) co-authored by @bluelaketop10 and @thesaunaproject_; the holiday park is the host venue and co-authors 5 posts including 2027 planning (https://www.instagram.com/p/Da1UMV0kjeX/)."},
+    {"field": "activation_formats", "url": "https://www.instagram.com/p/DWFVBeVEn6T/", "note": "2026 'Market Stalls at Sauna Fest': curated local brands (e.g. Emroce Swimwear, Kiss the Earth, Isoley) plus selected food and drink vendors (https://www.instagram.com/p/DWe-2Eok3Zb/)."},
+    {"field": "dates.frequency", "url": "https://www.facebook.com/thesaunaprojectnz/videos/sauna-fest-26-is-back-at-blue-lake-for-our-fourth-year-running-its-a-place-where/1549657822988698/", "note": "Google result title: 'Sauna Fest 26 is back at Blue Lake for our fourth year running'."},
+    {"field": "ticket_price", "url": "https://events.humanitix.com/sauna-fest-27", "note": "Page read: GA ticket covers festival and camping; sleeper vehicle, powered site, children's and family passes; 'Tickets are limited to the holiday park's capacity'. No prices shown."}
+  ],
+  "add_gaps": [
+    "Attendance not published (organiser says 'hundreds of people'; 2026 GA sold out, 2027 pre-sale sold out in under 2 minutes)",
+    "Event has no separate official website captured; zone pages sit on thesaunaproject.co.nz"
+  ],
+  "remove_gaps": [
+    "Organiser website not captured"
+  ],
+  "notes": "Fourth edition held 15 to 17 May 2026 (sold out); 2027 confirmed for 14 to 16 May. No brand sponsors: venue Blue Lake TOP 10 co-posts; Run Aotearoa runs a daily run club as a programme partner. Market and food vendor applications open via the Sauna Fest website until end of January. Very strong health and wellness fit; IG @sauna_fest is correct."
+}

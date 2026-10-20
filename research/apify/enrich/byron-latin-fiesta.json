@@ -1,0 +1,176 @@
+{
+  "id": "byron-latin-fiesta",
+  "set": {
+    "website": "https://byronlatinfiesta.com.au/",
+    "organiser": {
+      "name": "Picante Productions (director Sky Blue)",
+      "type": "promoter",
+      "website": "https://www.picanteproductions.com.au/"
+    },
+    "location": {
+      "city": "Byron Bay",
+      "state_or_region": "NSW",
+      "country": "Australia",
+      "venue_or_area": "Club Byron, 18 to 20 Marvell St (night parties) and Marvell Hall, 37 Marvell St (workshops)"
+    },
+    "partnership_contact": {
+      "email": "info@byronlatinfiesta.com.au",
+      "page_url": "https://byronlatinfiesta.com.au/about/",
+      "named_person": "Sky Blue (Director)",
+      "source": "https://byronlatinfiesta.com.au/about/"
+    },
+    "dates": {
+      "last_edition": {
+        "start": "2025",
+        "end": "2025",
+        "status": "held",
+        "label": "20th edition (2025)"
+      },
+      "next_edition": {
+        "start": "2026-10-29",
+        "end": "2026-11-01",
+        "status": "confirmed",
+        "label": "21st edition (2026)"
+      },
+      "frequency": "annual",
+      "duration_days": 4
+    },
+    "audience": {
+      "age_range": null,
+      "gender_skew": null,
+      "psychographics": "Latin social dance community (salsa, bachata, kizomba, zouk, tango) from Byron, the Gold Coast, Brisbane and interstate, plus beginners via a dedicated Beginners Hub; workshops by day, parties with DJs and a live band by night.",
+      "source": "https://byronlatinfiesta.com.au/"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Club Byron",
+      "years": [
+        2026
+      ],
+      "role": "venue",
+      "source": "https://byronlatinfiesta.com.au/info/"
+    },
+    {
+      "brand": "Latin Spirits",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://byronlatinfiesta.com.au/about/"
+    },
+    {
+      "brand": "Dance Fever",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://byronlatinfiesta.com.au/about/"
+    },
+    {
+      "brand": "Aula (logo 'aulalogo_en')",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://byronlatinfiesta.com.au/about/"
+    },
+    {
+      "brand": "Accommodation Byron Bay",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://byronlatinfiesta.com.au/about/"
+    },
+    {
+      "brand": "North Coast Events",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://byronlatinfiesta.com.au/about/"
+    },
+    {
+      "brand": "ByronBay.com",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://byronlatinfiesta.com.au/about/"
+    },
+    {
+      "brand": "Byron Bank",
+      "years": [],
+      "role": "presenting",
+      "source": "https://www.facebook.com/groups/brisbanesalsa/posts/10163611518577568/"
+    }
+  ],
+  "add_activation_formats": [
+    "hospitality-bar"
+  ],
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://www.instagram.com/byronlatinfiesta/",
+      "note": "@byronlatinfiesta profile links to byronlatinfiesta.com.au; site carries the 2026 program, tickets and organiser details."
+    },
+    {
+      "field": "organiser",
+      "url": "https://byronlatinfiesta.com.au/about/",
+      "note": "About page: Sky created the Byron Latin Fiesta in 2006; Picante Productions is the producing company; footer names 'Sky Blue - Director'."
+    },
+    {
+      "field": "location",
+      "url": "https://byronlatinfiesta.com.au/info/",
+      "note": "2026 venues: Club Byron hosts the Friday to Sunday night parties (bar and bistro, 'Drinks at Club prices'); Marvell Hall hosts two workshop days."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://byronlatinfiesta.com.au/about/",
+      "note": "Site lists info@byronlatinfiesta.com.au and 0413 146 889 as the general contact; no dedicated sponsorship page."
+    },
+    {
+      "field": "dates",
+      "url": "https://byronlatinfiesta.com.au/info/",
+      "note": "'Byron Latin Fiesta 2026, 21st Edition', 29 Oct to 1 Nov 2026, '4 nights and 3 days'. Created 2006 and 2026 is the 21st edition, so 2025 was the 20th (held annually per NSW events listing)."
+    },
+    {
+      "field": "dates.frequency",
+      "url": "https://www.nsw.gov.au/visiting-and-exploring-nsw/nsw-events/byron-latin-fiesta-21st-edition",
+      "note": "'Australia's longest-running Latin dance festival, held annually in the heart of Byron Bay' (Google snippet)."
+    },
+    {
+      "field": "audience",
+      "url": "https://byronlatinfiesta.com.au/",
+      "note": "Home page: Beginners Hub and pass, DJs across 4 party nights (salsa, bachata, reggaeton, kizomba, zouk, tango), live Latin band. IG collaborators are dance schools from Byron, the Gold Coast and Sydney."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://byronlatinfiesta.com.au/about/",
+      "note": "About page 'Supporters' logo strip: Accommodation Byron Bay, North Coast Events, Latin Spirits, Aula, Dance Fever, ByronBay.com. Latin Spirits, Aula and Dance Fever logos were uploaded Oct 2025."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.facebook.com/groups/brisbanesalsa/posts/10163611518577568/",
+      "note": "Group post: 'Thank you Byron Bank, our presenting sponsor' for the Byron Latin Fiesta; edition year not visible (Google snippet)."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://byronlatinfiesta.com.au/info/",
+      "note": "Venue partner Club Byron runs the bar and bistro for the party nights."
+    }
+  ],
+  "add_gaps": [
+    "Attendance not published; site only says venues are 'limited capacity'",
+    "Ticket prices not captured (tickets page not crawled)",
+    "Year of the Byron Bank presenting sponsorship not confirmed",
+    "Exact 2025 dates not found"
+  ],
+  "remove_gaps": [
+    "Website, organiser and venue not found",
+    "Prior editions and frequency unknown",
+    "Dates come from a regional guide, not the organiser"
+  ],
+  "notes": "Official site found and confirms 21st edition 29 Oct to 1 Nov 2026, run by Picante Productions (Sky Blue). Supporters strip is mostly local tourism and dance businesses plus Latin Spirits. Byron Bank presenting credit rests on a Google snippet with no year."
+}

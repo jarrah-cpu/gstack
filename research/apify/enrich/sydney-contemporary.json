@@ -1,0 +1,48 @@
+{
+  "id": "sydney-contemporary",
+  "set": {
+    "organiser": {"name": "Art Fairs Australia", "type": null, "website": null},
+    "attendance": {"figure": 26813, "figure_high": null, "year": 2026, "is_estimate": false, "source": "https://www.facebook.com/ausleisure/posts/the-2026-edition-of-sydney-contemporary-held-from-3rd-to-6th-september-marked-th/1703454615118747/", "note": "Record 26,813 visitors for the 10th edition, 3 to 6 Sep 2026 (Australasian Leisure Management, Google snippet; likely organiser-reported). 2025 drew 26,440 ticket buyers (AFR); fair cites 250,000+ visitors across all editions."},
+    "partnership_contact": {"email": "erin@artfairsaustralia.com.au", "page_url": "https://sydneycontemporary.com.au/partners/", "named_person": "Erin Kent, Head of Partnerships", "source": "https://sydneycontemporary.com.au/partners/"}
+  },
+  "add_sponsors": [
+    {"brand": "MA Financial Group", "years": [2021, 2026], "role": "major", "source": "https://sydneycontemporary.com.au/partners/"},
+    {"brand": "Carriageworks", "years": [2026], "role": "presenting", "source": "https://sydneycontemporary.com.au/partners/"},
+    {"brand": "Polestar", "years": [2026], "role": "major", "source": "https://sydneycontemporary.com.au/partners/"},
+    {"brand": "Destination NSW", "years": [2026], "role": "government", "source": "https://sydneycontemporary.com.au/partners/"},
+    {"brand": "BresicWhitney", "years": [2026], "role": "partner", "source": "https://sydneycontemporary.com.au/partners/"},
+    {"brand": "Artwork Transport", "years": [2026], "role": "partner", "source": "https://sydneycontemporary.com.au/partners/"},
+    {"brand": "Art Galleria", "years": [2026], "role": "partner", "source": "https://sydneycontemporary.com.au/partners/"},
+    {"brand": "Aon", "years": [2026], "role": "partner", "source": "https://sydneycontemporary.com.au/partners/"},
+    {"brand": "Harry the Hirer", "years": [2026], "role": "partner", "source": "https://sydneycontemporary.com.au/partners/"},
+    {"brand": "Copyright Agency", "years": [2026], "role": "partner", "source": "https://sydneycontemporary.com.au/partners/"},
+    {"brand": "Yalumba", "years": [2026], "role": "partner", "source": "https://sydneycontemporary.com.au/partners/"},
+    {"brand": "Champagne Pommery", "years": [2026], "role": "partner", "source": "https://sydneycontemporary.com.au/partners/"},
+    {"brand": "Four Pillars Gin", "years": [2026], "role": "partner", "source": "https://sydneycontemporary.com.au/partners/"},
+    {"brand": "Saison Aperitifs", "years": [2026], "role": "partner", "source": "https://sydneycontemporary.com.au/partners/"},
+    {"brand": "ST. ALi", "years": [2026], "role": "partner", "source": "https://sydneycontemporary.com.au/partners/"},
+    {"brand": "Ace Hotel Sydney", "years": [2026], "role": "partner", "source": "https://sydneycontemporary.com.au/partners/"},
+    {"brand": "Capella Sydney", "years": [2026], "role": "partner", "source": "https://sydneycontemporary.com.au/partners/"},
+    {"brand": "The EVE Hotel Sydney", "years": [2026], "role": "partner", "source": "https://sydneycontemporary.com.au/partners/"},
+    {"brand": "Art Collector", "years": [2026], "role": "media", "source": "https://sydneycontemporary.com.au/partners/"},
+    {"brand": "Current", "years": [2026], "role": "media", "source": "https://sydneycontemporary.com.au/partners/"},
+    {"brand": "VAULT", "years": [2026], "role": "media", "source": "https://sydneycontemporary.com.au/partners/"},
+    {"brand": "Artist Profile", "years": [2026], "role": "media", "source": "https://sydneycontemporary.com.au/partners/"},
+    {"brand": "GalleriesNow", "years": [2026], "role": "media", "source": "https://sydneycontemporary.com.au/partners/"},
+    {"brand": "Art Almanac", "years": [2026], "role": "media", "source": "https://sydneycontemporary.com.au/partners/"},
+    {"brand": "est living", "years": [2026], "role": "media", "source": "https://sydneycontemporary.com.au/partners/"},
+    {"brand": "Art Guide Australia", "years": [2026], "role": "media", "source": "https://sydneycontemporary.com.au/partners/"}
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {"field": "organiser", "url": "https://sydneycontemporary.com.au/contact/", "note": "Contact page mailing address: Art Fairs Australia, Level 1, 216-218 Crown Street, Darlinghurst NSW 2010. Team page at /about/organisers/; partnerships email on the artfairsaustralia.com.au domain."},
+    {"field": "attendance", "url": "https://www.facebook.com/ausleisure/posts/the-2026-edition-of-sydney-contemporary-held-from-3rd-to-6th-september-marked-th/1703454615118747/", "note": "Google snippet: 'welcomed a record 26,813 visitors'."},
+    {"field": "attendance", "url": "https://www.afr.com/life-and-luxury/arts-and-culture/global-uncertainty-leads-to-a-slump-in-australian-art-market-20250922-p5mwxn", "note": "2025 fair 'lured 26,440 ticket buyers' (Google snippet)."},
+    {"field": "partnership_contact", "url": "https://sydneycontemporary.com.au/partners/", "note": "'To discuss opportunities please contact Erin Kent, Head of Partnerships, erin@artfairsaustralia.com.au'. Partners integrate via lead-in events, Fair activations, bespoke programming, retail opportunities and artist collaborations."},
+    {"field": "sponsors", "url": "https://sydneycontemporary.com.au/partners/", "note": "Partners page (2026 edition): Principal Partner MA Financial Group; Presenting Partner Carriageworks; Major Partner Polestar; Strategic Sponsor Destination NSW; Supporting Partners BresicWhitney, Artwork Transport, Art Galleria, Aon, Harry the Hirer, Copyright Agency; Beverage Partners Yalumba, Champagne Pommery, Four Pillars Gin, Saison Aperitifs, ST. ALi (exclusive coffee); Hotel Partners Ace Hotel Sydney, Capella Sydney, The EVE Hotel; eight media partners."},
+    {"field": "sponsors", "url": "https://mafinancial.com/insights/australasias-premier-international-art-fair-sydney-contemporary-announces-new-principal-partner-ma-financial-group", "note": "MA Financial became Principal Partner from the 2021 fair (Google snippet); IG 6 Sep 2026 thanks 'Principal Partner @mafinancial__, Strategic Sponsor Destination NSW' (https://www.instagram.com/p/Dc8QhMro_RO/)."}
+  ],
+  "add_gaps": ["2027 ticket prices not yet published (on sale June 2027; Premium+ Pass, Any Day, Art Night and Friday Night tickets)", "Audience age and gender not published"],
+  "remove_gaps": ["Organiser entity and sponsor roster not captured in search results", "No attendance figure found", "No public partnerships contact found"],
+  "notes": "Full 2026 partner roster captured (26 partners incl. premium spirits, coffee, hotels, EV and finance): clearly open to non-endemic brands, with a named Head of Partnerships. Carriageworks is listed as Presenting Partner but the record has it as venue; the merge will not upgrade venue, so set role to presenting by hand if wanted. Attendance rests on a trade-press Google snippet."
+}

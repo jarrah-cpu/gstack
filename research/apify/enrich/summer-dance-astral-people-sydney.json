@@ -1,0 +1,29 @@
+{
+  "id": "summer-dance-astral-people-sydney",
+  "set": {
+    "dates": {
+      "last_edition": {"start": "2025-11-29", "end": "2026-03", "status": "held", "label": "2025/26 season (Nov 2025 to Mar 2026)"},
+      "next_edition": {"start": "2026-11-15", "end": null, "status": "confirmed", "label": "2026/27 season opener (Gilles Peterson); further dates 21 Nov and 29 Nov 2026"},
+      "frequency": "seasonal",
+      "duration_days": 1
+    },
+    "partnership_contact": {"email": "info@astralpeople.com", "page_url": "https://astralpeople.com/info", "named_person": null, "source": "https://astralpeople.com/info"}
+  },
+  "add_sponsors": [
+    {"brand": "Liberty Hall", "years": [2026], "role": "venue", "source": "https://www.instagram.com/p/DZWCnT6k5fx/"},
+    {"brand": "The Grifter Brewing Co", "years": [2025, 2026], "role": "partner", "source": "https://www.instagram.com/p/DUUopeRk0l7/"},
+    {"brand": "Rinse FM", "years": [2027], "role": "collab", "source": "https://www.instagram.com/p/DcArJPvkx-S/"}
+  ],
+  "add_activation_formats": ["competition-or-prize"],
+  "add_sources": [
+    {"field": "dates.next_edition", "url": "https://www.instagram.com/p/DeOPZXtE-35/", "note": "8 Oct 2026: 'THE COURTS ARE BACK NEXT MONTH: Gilles Peterson 15th Nov, Silva Bumpa 21st Nov, Kerri Chandler 29th Nov'."},
+    {"field": "dates.last_edition", "url": "https://www.instagram.com/p/DVsn8SikaJ2/", "note": "10 Mar 2026: 'A truly magical way to end the season', after a 21 Feb post announcing the 'one last dance in two weeks'."},
+    {"field": "partnership_contact", "url": "https://astralpeople.com/info", "note": "Organiser's general contact email; directors Tom Huggett and Vichara Edirisinghe named on the page (not as partnership contacts)."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DUUopeRk0l7/", "note": "Post 'IT'S A BAD DAY TO BE A @thegrifterbrewingco BEER'; Grifter also tagged in the 2025/26 season launch post with Astral People and Liberty Hall (https://www.instagram.com/p/DPfLTSzEYqw/). Exact deal type not stated."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DcArJPvkx-S/", "note": "'@rinse.fm bringing an all star lineup to the courts for 2027', 80% sold out."},
+    {"field": "activation_formats", "url": "https://www.instagram.com/p/DPfLTSzEYqw/", "note": "Season launch giveaway: season double pass and $200 bar tab."}
+  ],
+  "add_gaps": ["Official event site summer-dance.au (IG link) not checked; record keeps astralpeople.com", "Audience age and gender not published"],
+  "remove_gaps": ["2026/27 season not announced as of 20 Oct 2026; a late November start is expected from the 2023 to 2025 pattern", "Sponsor roster beyond the venue not captured", "No public partnerships contact found"],
+  "notes": "2026/27 season confirmed from 15 Nov 2026 at Liberty Hall courts; dates are frequently sold out. Grifter role set to partner on tag evidence only (it is also Sydney Fringe's official beer partner). Consider switching website to https://www.summer-dance.au/ (IG profile link)."
+}

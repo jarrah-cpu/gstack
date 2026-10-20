@@ -1,0 +1,180 @@
+{
+  "id": "lismore-lantern-parade",
+  "set": {
+    "website": "https://www.lismorelanternparade.com.au/",
+    "organiser": {
+      "name": "LightnUp Inc",
+      "type": "non-profit",
+      "website": "https://www.lismorelanternparade.com.au/"
+    },
+    "attendance": {
+      "figure": 32000,
+      "figure_high": null,
+      "year": 2024,
+      "is_estimate": true,
+      "source": "https://lismoreapp.com.au/NewsStory/massive-crowd-enjoys-2024-lismore-lantern-parade/6676bb632d427d018812bacb",
+      "note": "Organiser estimate: Jyllie Jackson gave 'more than 32,000' for 2024, a record crowd. Organiser About Us page says 'audience of over 30,000'. Free street event crowd estimate."
+    },
+    "partnership_contact": {
+      "email": null,
+      "page_url": "https://www.lanternparade.com/partners/partner-benefits/p/63",
+      "named_person": null,
+      "source": "https://www.lanternparade.com/partners/partner-benefits/p/63"
+    },
+    "dates": {
+      "last_edition": {
+        "start": "2026-06-20",
+        "end": "2026-06-20",
+        "status": "held",
+        "label": "2026"
+      },
+      "next_edition": {
+        "start": "2027-06-26",
+        "end": "2027-06-26",
+        "status": "confirmed",
+        "label": "2027"
+      },
+      "frequency": "annual",
+      "duration_days": 1
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "B. & J. Flynn",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.lismorelanternparade.com.au/sponsors"
+    },
+    {
+      "brand": "The Channon Craft Market",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.lismorelanternparade.com.au/sponsors"
+    },
+    {
+      "brand": "The Levee Lounge & Bar",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.lismorelanternparade.com.au/sponsors"
+    },
+    {
+      "brand": "Hertz Car Rental",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.lismorelanternparade.com.au/sponsors"
+    },
+    {
+      "brand": "Lismore City Printery",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.lismorelanternparade.com.au/sponsors"
+    },
+    {
+      "brand": "Lord's Taverners",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.lismorelanternparade.com.au/sponsors"
+    },
+    {
+      "brand": "The Metropole",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.lismorelanternparade.com.au/sponsors"
+    },
+    {
+      "brand": "LisAmore",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.lismorelanternparade.com.au/sponsors"
+    },
+    {
+      "brand": "Northern Rivers Conservatorium",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.lismorelanternparade.com.au/sponsors"
+    },
+    {
+      "brand": "O'Brien's Electrical and Plumbing",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.lismorelanternparade.com.au/sponsors"
+    },
+    {
+      "brand": "Skylighters Fireworks",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.lismorelanternparade.com.au/sponsors"
+    }
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {
+      "field": "sponsors",
+      "url": "https://www.lismorelanternparade.com.au/sponsors",
+      "note": "Sponsors page (footer 2026, read via WebFetch): 16 'Presenting Partners' logos with no names or alt text; 'Thank you to our Supporters' names B. & J. Flynn, The Channon Craft Market, The Levee Lounge & Bar, Hertz Car Rental, Lismore City Printery, Lord's Taverners, The Metropole, LisAmore, Northern Rivers Conservatorium, O'Brien's Electrical and Plumbing, Skylighters Fireworks."
+    },
+    {
+      "field": "website",
+      "url": "https://www.lismorelanternparade.com.au/",
+      "note": "Official site, titled 'Lismore Lantern Parade | 20 June 2026'; registered charity with DGR status; has an 'Our Sponsors' section."
+    },
+    {
+      "field": "organiser",
+      "url": "https://www.lismorelanternparade.com.au/about-us",
+      "note": "'LightnUp Inc produces the annual Lismore Lantern Parade and run year round' programs; Get Involved page names 'The Organisers' (LightnUp Inc.)' (Google snippets)."
+    },
+    {
+      "field": "attendance",
+      "url": "https://lismoreapp.com.au/NewsStory/massive-crowd-enjoys-2024-lismore-lantern-parade/6676bb632d427d018812bacb",
+      "note": "'Jyllie Jackson has been in touch with an estimate of more than 32,000 at the 2024 Lismore Lantern Parade! A record crowd' (Google snippet)."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.lanternparade.com/partners/partner-benefits/p/63",
+      "note": "'Partner Benefits' page: 'As a sponsor with the Lismore Lantern Parade you will have many opportunities to explore creative and exciting ways to work with the parade' (Google snippet; older lanternparade.com domain). No sponsorship email found."
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.facebook.com/LismoreLanternParade/",
+      "note": "Facebook page: 'The next Lismore Lantern Parade will be on 26th June 2027' (Google snippet)."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.echo.net.au/2026/06/lismore-lantern-parade-returns-20-june/",
+      "note": "'Lismore Lantern Parade returns 20 June' (Echo, June 2026)."
+    }
+  ],
+  "add_gaps": [
+    "16 presenting partners shown as unnamed logos on the sponsors page; names not captured",
+    "2025 and 2026 attendance not pinned to a source; latest pinned figure is the 2024 organiser estimate",
+    "No sponsorship email published; partner benefits page is on the older lanternparade.com domain"
+  ],
+  "remove_gaps": [
+    "Organiser entity and official website not captured",
+    "Sponsors not found; Southern Cross University lists the event but its role is unconfirmed",
+    "2027 date not announced; late June (winter solstice) expected"
+  ],
+  "notes": "Organiser LightnUp Inc (charity) and official site confirmed; 2027 date is 26 Jun 2027. Attendance replaced with the better-pinned 2024 organiser estimate (32,000+); the earlier 2025 NBN attribution was unverified. Presenting partner names need a logo check by eye (likely councils and arts funders)."
+}

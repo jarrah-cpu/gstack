@@ -1,0 +1,47 @@
+{
+  "id": "kuuma-dark-dip-hobart",
+  "set": {
+    "partnership_contact": {
+      "email": "admin@kuuma.com.au",
+      "page_url": "https://www.kuuma.com.au/",
+      "named_person": null,
+      "source": "https://www.kuuma.com.au/"
+    },
+    "audience": {
+      "age_range": null,
+      "gender_skew": null,
+      "psychographics": "Small-group sauna and cold-plunge sessions (up to eight guests); press coverage sits in travel and wellness media (Gourmet Traveller, Broadsheet, Tourism Australia wellness media kit).",
+      "source": "https://www.kuuma.com.au/press-media"
+    }
+  },
+  "add_sources": [
+    {
+      "field": "partnership_contact",
+      "url": "https://www.kuuma.com.au/",
+      "note": "General contact email on every page; no partnerships page"
+    },
+    {
+      "field": "audience",
+      "url": "https://www.kuuma.com.au/press-media",
+      "note": "Press list: Straits Times, Gourmet Traveller, Broadsheet best Nordic saunas 2026, Tourism Australia wellness media kit (Jan 2026)"
+    },
+    {
+      "field": "audience",
+      "url": "https://www.spiritoftasmania.com.au/things-to-do/kuuma-nature-sauna/",
+      "note": "Google snippet: sessions limited to eight guests"
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.kuuma.com.au/",
+      "note": "Homepage: during winter each June Kuuma operates Dark Dip, docked pop-up sauna rituals at Kings Pier Marina; no mention of Dark Mofo"
+    }
+  ],
+  "remove_gaps": [
+    "Ownership and named contact not confirmed"
+  ],
+  "add_gaps": [
+    "Ownership and named contact person not confirmed; only a general email is published",
+    "Attendance and session numbers not published"
+  ],
+  "notes": "No sponsors found for Dark Dip. KUUMA's site describes Dark Dip as a June series at Kings Pier Marina without naming Dark Mofo, so official program status is still unconfirmed. Brand Tasmania co-authored a Dec 2025 KUUMA post (general content, not Dark Dip). IG @kuumasauna is the right account."
+}

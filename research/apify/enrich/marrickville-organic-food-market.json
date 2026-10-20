@@ -1,0 +1,24 @@
+{
+  "id": "marrickville-organic-food-market",
+  "set": {
+    "website": "https://www.organicfoodmarkets.com.au/",
+    "organiser": {"name": "Organic Food Markets", "type": null, "website": "https://www.organicfoodmarkets.com.au/"},
+    "partnership_contact": {"email": "office@organicfoodmarkets.com.au", "page_url": "https://www.organicfoodmarkets.com.au/About", "named_person": null, "source": "https://www.organicfoodmarkets.com.au/About"},
+    "ticket_price": {"min": 0, "max": 0, "currency": "AUD", "free_entry": true, "note": "Open-air Sunday market; listed among free things to do in Sydney."}
+  },
+  "add_sponsors": [
+    {"brand": "Addison Road Community Centre (Addi Road)", "years": [2026], "role": "venue", "source": "https://concreteplayground.com/sydney"}
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {"field": "website", "url": "https://www.organicfoodmarkets.com.au/", "note": "Operator's site (also the IG profile link of @organicfoodmarkets); covers all its weekly Sydney and Pokolbin markets, no market-specific site found."},
+    {"field": "organiser", "url": "https://www.organicfoodmarkets.com.au/About", "note": "Organic Food Markets, Suite 3, Level 1, 1741 Pittwater Road, Mona Vale; runs weekly open-air markets in Sydney and Pokolbin."},
+    {"field": "organiser", "url": "https://www.facebook.com/OrganicFoodMarkets/posts/market-maxxing-season-is-here-with-10-markets-across-sydney-wednesday-to-sunday-/1470748381751545/", "note": "Organic Food Markets post: '10 markets across Sydney Wednesday to Sunday', naming Marrickville Organic Food And Farmers Market (Google snippet)."},
+    {"field": "partnership_contact", "url": "https://www.organicfoodmarkets.com.au/About", "note": "General contact email office@organicfoodmarkets.com.au, phone 02 9999 2226. FAQ page also gives mail@organicfoodmarkets.com.au."},
+    {"field": "ticket_price", "url": "https://www.weekendnotes.com/sydney/free/6/", "note": "Listed under 'Free Things to do in Sydney' (Google snippet)."},
+    {"field": "sponsors", "url": "https://concreteplayground.com/sydney", "note": "Market listed for Sun 25 Oct 2026 at Addison Road Community Centre, Marrickville (Google snippet); Addi Road blog also describes the market at its site."}
+  ],
+  "add_gaps": ["No sponsors or brand partners found; operator-run produce market with stall fees", "Audience age and gender not published"],
+  "remove_gaps": ["Organiser not named in results", "No public partnerships contact found"],
+  "notes": "Operator Organic Food Markets runs about 10 weekly markets, so any partnership would likely be negotiated across its network rather than for Marrickville alone. No IG posts were scraped for this market. Addi Road added as venue host."
+}

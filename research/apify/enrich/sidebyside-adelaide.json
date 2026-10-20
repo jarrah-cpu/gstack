@@ -1,0 +1,25 @@
+{
+  "id": "sidebyside-adelaide",
+  "set": {
+    "website": "https://www.sidebysidefestival.com/",
+    "partnership_contact": {"email": "info@sidebysidefestival.com", "page_url": "https://www.sidebysidefestival.com/info", "named_person": null, "source": "https://www.sidebysidefestival.com/info"},
+    "dates": {
+      "last_edition": {"start": "2026-01-31", "end": "2026-01-31", "status": "held", "label": "2026 (sixth iteration, sold out)"},
+      "next_edition": {"start": "2027-01-30", "end": "2027-01-30", "status": "confirmed", "label": "2027 (seventh iteration)"},
+      "frequency": "annual",
+      "duration_days": 1
+    }
+  },
+  "add_sources": [
+    {"field": "website", "url": "https://www.instagram.com/sidebyside.festival/", "note": "IG profile links to sidebysidefestival.com; site sells Sidebyside 2027 tickets via Humanitix."},
+    {"field": "partnership_contact", "url": "https://www.sidebysidefestival.com/info", "note": "Info page enquiries email for specific questions; no dedicated partnerships contact."},
+    {"field": "dates.last_edition", "url": "https://thatfestivalsite.com/article/Sidebyside%20Festival%202026%20Set%20Times%20Now%20Available", "note": "Set times article for 'Sidebyside Festival 2026 on 31st January in Adelaide' (Google snippet). A festival listing gives 30 January 2026."},
+    {"field": "dates.last_edition", "url": "https://www.instagram.com/p/Dd5Q_ujgQnt/", "note": "Sassafras PR post: 'Following a sell-out 2026 event, Sidebyside returns with an expanded footprint' (Google snippet)."},
+    {"field": "dates.last_edition", "url": "https://www.instagram.com/p/DUAZVrzkqYG/", "note": "Sanctuary post: 'Join us for the festivals sixth, and most ambitious iteration yet. Tickets are now 80% sold' (Google snippet)."},
+    {"field": "dates.next_edition", "url": "https://www.sidebysidefestival.com/info", "note": "Info page: Saturday 30 January 2027, seventh iteration; 'An annual electronic music and arts festival held in park lands'."},
+    {"field": "organiser", "url": "https://meetings.cityofadelaide.com.au/documents/s20198/Attachment%20A%20-%20Park%20Lands%20Events%20Multi-Year%20License%20Applicants%20Supporting%20Information.pdf", "note": "City of Adelaide Park Lands multi-year licence papers list applicant 'Sidebyside Events Pty Ltd', recommended for a five-year term (Google snippet). Company Works co-authors most festival posts."}
+  ],
+  "add_gaps": ["2026 date: set times article says 31 Jan, a festival listing says 30 Jan", "Capacity and attendance not published; 2027 has an 'increased capacity'", "No sponsors found on the site or in IG posts", "Organiser entity: Company Works, Sidebyside Events Pty Ltd and (in 2024 press) Pivot all appear; relationship not confirmed"],
+  "remove_gaps": ["Official website (likely sidebysidefestival.com) not confirmed in results", "Exact 2026 date, capacity, sponsors and IG handle not captured"],
+  "notes": "Independent 18+ electronic day festival ('Still independent' per IG bio) with no visible sponsors; Sanctuary is its own club series and Sassafras PR its publicist, not sponsors. 2026 sold out; a five-year Park Lands licence was recommended."
+}

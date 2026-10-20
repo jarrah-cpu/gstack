@@ -1,0 +1,45 @@
+{
+  "id": "lavan-whalebone-longboard-classic-cottesloe",
+  "set": {
+    "organiser": {"name": "Surfing Western Australia (Surfing WA)", "type": null, "website": "https://surfingwa.com.au/"},
+    "dates": {
+      "last_edition": {"start": "2026-07-10", "end": "2026-07-12", "status": "held", "label": "27th edition (2026)"},
+      "next_edition": {"start": "2027-07", "end": null, "status": "expected", "label": "28th edition (2027)"},
+      "frequency": "annual",
+      "duration_days": 3
+    }
+  },
+  "add_sponsors": [
+    {"brand": "Lavan", "years": [2024, 2025], "role": "naming", "source": "https://surfingwa.com.au/cottesloe-turns-it-on-for-2025-whalebone-longboard-classic/"},
+    {"brand": "The Post Newspapers", "years": [2025], "role": "presenting", "source": "https://surfingwa.com.au/cottesloe-turns-it-on-for-2025-whalebone-longboard-classic/"},
+    {"brand": "Gage Roads", "years": [2025], "role": "partner", "source": "https://surfingwa.com.au/cottesloe-turns-it-on-for-2025-whalebone-longboard-classic/"},
+    {"brand": "Red Equipment", "years": [2025, 2026], "role": "partner", "source": "https://red-equipment.com.au/blogs/sup-life/red-x-surfing-wa-whalebone-longboard-classic-2026"},
+    {"brand": "Coffey Testing WA", "years": [2024], "role": "partner", "source": "https://www.coffeytesting.com/coffey-testing-wa-supports-grassroots-surfing-event-the-25th-lavan-whalebone-longboard-classic/"},
+    {"brand": "Carlin Chiropractic", "years": [2025], "role": "partner", "source": "https://surfingwa.com.au/cottesloe-turns-it-on-for-2025-whalebone-longboard-classic/"},
+    {"brand": "West Coast Suspensions", "years": [2025], "role": "partner", "source": "https://surfingwa.com.au/cottesloe-turns-it-on-for-2025-whalebone-longboard-classic/"},
+    {"brand": "Vidlers", "years": [2025], "role": "partner", "source": "https://surfingwa.com.au/cottesloe-turns-it-on-for-2025-whalebone-longboard-classic/"},
+    {"brand": "Parry's Estate", "years": [2025], "role": "partner", "source": "https://surfingwa.com.au/cottesloe-turns-it-on-for-2025-whalebone-longboard-classic/"},
+    {"brand": "SharkSmart", "years": [2025], "role": "government", "source": "https://surfingwa.com.au/cottesloe-turns-it-on-for-2025-whalebone-longboard-classic/"},
+    {"brand": "Forester Estate", "years": [2025], "role": "partner", "source": "https://surfingwa.com.au/cottesloe-turns-it-on-for-2025-whalebone-longboard-classic/"},
+    {"brand": "Lupin Gold", "years": [2025], "role": "partner", "source": "https://surfingwa.com.au/cottesloe-turns-it-on-for-2025-whalebone-longboard-classic/"},
+    {"brand": "Melville, Rockingham and Cockburn Toyota", "years": [2025], "role": "partner", "source": "https://surfingwa.com.au/cottesloe-turns-it-on-for-2025-whalebone-longboard-classic/"},
+    {"brand": "Club Med", "years": [2025], "role": "partner", "source": "https://surfingwa.com.au/cottesloe-turns-it-on-for-2025-whalebone-longboard-classic/"},
+    {"brand": "Cottesloe General Store", "years": [2025], "role": "partner", "source": "https://surfingwa.com.au/cottesloe-turns-it-on-for-2025-whalebone-longboard-classic/"},
+    {"brand": "Spiral Wetsuits", "years": [2025], "role": "partner", "source": "https://surfingwa.com.au/cottesloe-turns-it-on-for-2025-whalebone-longboard-classic/"}
+  ],
+  "add_activation_formats": ["hospitality-bar", "naming-rights"],
+  "add_sources": [
+    {"field": "organiser", "url": "https://surfingwa.com.au/cottesloe-turns-it-on-for-2025-whalebone-longboard-classic/", "note": "2025 wrap credits Surfing WA and its Contest Director Pete Carroll; Lavan supports Surfing WA."},
+    {"field": "organiser", "url": "https://www.cottesloe.wa.gov.au/events/whalebone-classic/875", "note": "Town of Cottesloe listing: 'Enquiries. Contact: Surfing WA' (Google snippet)."},
+    {"field": "dates.last_edition", "url": "https://www.facebook.com/townofcottesloe/photos/the-27th-lavan-whalebone-longboard-classic-returns-to-isolated-reef-next-friday-/1432844688877168/", "note": "Town of Cottesloe post (Google snippet): 27th edition 'returns to Isolated Reef next Friday, 10 to Sunday, 12 July'. 10 July 2026 is a Friday."},
+    {"field": "dates.last_edition", "url": "https://surfingwa.com.au/cottesloe-turns-it-on-for-2025-whalebone-longboard-classic/", "note": "2025 (26th) edition 'held over three days' with 120+ competitors across 15 divisions."},
+    {"field": "sponsors", "url": "https://surfingwa.com.au/cottesloe-turns-it-on-for-2025-whalebone-longboard-classic/", "note": "2025: 'presented by The Post Newspapers'; Lavan title partner; Gage Roads sponsored the Old Mal division and ran the on-site bar."},
+    {"field": "sponsors", "url": "https://surfingwa.com.au/cottesloe-turns-it-on-for-2025-whalebone-longboard-classic/", "note": "2025 division names in results (not explicitly called sponsors): Carlin Chiropractic, West Coast Suspensions, Vidlers, Parry's Estate, Sharksmart, Forester Estate, Lupin Gold, Melville Rockingham and Cockburn Toyota, Club Med, Red Equipment, Cottesloe General Store, Spiral Wetsuits."},
+    {"field": "sponsors", "url": "https://surfingwa.com.au/the-lavan-whalebone-longboard-classic-prepares-to-celebrate-its-25-anniversary-along-the-shores-of-cottesloe/", "note": "25th edition (2024): 'Lavan is very proud to once again sponsor the Lavan Whalebone Longboard Classic, in partnership with Surfing WA' (Google snippet)."},
+    {"field": "sponsors", "url": "https://red-equipment.com.au/blogs/sup-life/red-x-surfing-wa-whalebone-longboard-classic-2026", "note": "Red Equipment joins Surfing WA for the 2026 event, noting record entries (Google snippet)."},
+    {"field": "activation_formats", "url": "https://surfingwa.com.au/cottesloe-turns-it-on-for-2025-whalebone-longboard-classic/", "note": "Gage Roads on-site bar; brands name individual divisions."}
+  ],
+  "add_gaps": ["Spectator numbers not published; 2025 had 120+ competitors and 2026 record entries", "2026 sponsor roster beyond Lavan and Red Equipment not captured"],
+  "remove_gaps": ["Exact 2026 days and organiser not captured"],
+  "notes": "Organiser is Surfing WA; 2026 ran Fri 10 to Sun 12 Jul. 2025 shows a broad local sponsor mix including division naming by Carlin Chiropractic (a health brand precedent) and Club Med. No partnership contact published."
+}

@@ -1,0 +1,27 @@
+{
+  "id": "motorbeach-festival-vinuesa",
+  "set": {
+    "website": "https://motorbeach.com/",
+    "organiser": {"name": "Motorbeach (festival, motorcycle travel and rally raid organiser)", "type": "independent", "website": "https://motorbeach.com/"},
+    "dates": {"last_edition": {"start": "2026-07-09", "end": "2026-07-12", "status": "held", "label": "2026 Vinuesa edition"}, "next_edition": {"start": null, "end": null, "status": "unknown", "label": "2027 Vinuesa edition not announced; organiser is promoting La Invernal 2027 (26 Feb to 1 Mar 2027, Playa de Palomares, Almería)"}, "frequency": "annual", "duration_days": 4},
+    "attendance": {"figure": 14000, "figure_high": null, "year": 2025, "is_estimate": true, "source": "https://suntosun.es/tag/patrocinio-marcas-motos/", "note": "Third-party figure (Sun to Sun, Google snippet): '14.000 asistentes ultima edición', written before the 2026 edition. The 2026 edition sold out; El Debate reports planning assumed about 4,000 attendees and that figure was amply exceeded. Organiser numbers not published."},
+    "partnership_contact": {"email": "info@motorbeach.com", "page_url": "https://motorbeach.com/contacto/", "named_person": null, "source": "https://motorbeach.com/contacto/"}
+  },
+  "add_sponsors": [],
+  "add_activation_formats": ["stall"],
+  "add_sources": [
+    {"field": "website", "url": "https://motorbeach.com/", "note": "Official site (IG link motorbeach.com/entradas/)."},
+    {"field": "organiser", "url": "https://motorbeach.com/contacto/", "note": "Motorbeach runs the festival plus motorcycle tours, challenges and a rally raid ('Festival, Viajes, Desafíos, Rally Raid', IG bio); contacts info and pau at motorbeach.com."},
+    {"field": "dates.last_edition", "url": "https://motorbeach.com/motorbeach-festival-para-quien-es-y-por-que-encajas/", "note": "Google snippet: 'Motorbeach Festival 2026 Del 9 al 12 de julio' in Vinuesa, Soria. JamBase's 9 to 11 Jul was wrong."},
+    {"field": "dates.next_edition", "url": "https://www.instagram.com/p/DeL71DVuoWU/", "note": "Oct 2026: 'LA INVERNAL 2027, del 26 de febrero al 1 de marzo, Playa de Palomares (Cuevas del Almanzora, Almería)'. Site programme page refers to 'Motorbeach Festival en Almería' for 2027; no Vinuesa 2027 date found."},
+    {"field": "dates.next_edition", "url": "https://www.eldebate.com/espana/castilla-y-leon/20260714/todo-vendido-tragedia-asi-edicion-negra-festival-motero-vinuesa-soria_439064.html", "note": "Vinuesa mayor has 'grandes dudas' about the event continuing there; authorities to review the incidents."},
+    {"field": "attendance", "url": "https://www.eldebate.com/espana/castilla-y-leon/20260714/todo-vendido-tragedia-asi-edicion-negra-festival-motero-vinuesa-soria_439064.html", "note": "2026 sold out; planning assumed about 4,000 attendees, 'ampliamente superada'. A 24-year-old rider died after an on-site crash; two more accidents; about 435 administrative complaints (unregistered or uninsured motorbikes, drugs, weapons, illegal camping) and 21 road-safety investigations."},
+    {"field": "attendance", "url": "https://suntosun.es/tag/patrocinio-marcas-motos/", "note": "Google snippet: 'Motorbeach City > 500.000 m2, 14.000 asistentes ultima edición'."},
+    {"field": "partnership_contact", "url": "https://motorbeach.com/contacto/", "note": "Page writes the address as 'info (@) motorbeach.com' (anti-spam); also 'pau (@) motorbeach.com'. Stand bookings sold online ('RESERVAR STAND')."},
+    {"field": "activation_formats", "url": "https://motorbeach.com/contacto/", "note": "Exhibitor stands bookable online (Reserva stand Motorbeach 2027)."},
+    {"field": "sponsors", "url": "http://www.motorbeach.com/?taxonomy=product_shipping_class&", "note": "Google snippet of the 2026 sold-out article: 'No hay patrocinadores que dicten el cartel'. No festival sponsors found; Sony España thanks came from a photographer's own post, not the festival."}
+  ],
+  "add_gaps": ["No festival sponsors identified; organiser says no sponsors dictate the line-up", "2026 ticket prices not captured", "Safety and reputational risk: a rider died after an on-site crash at the 2026 edition and about 435 administrative complaints were filed; Vinuesa mayor doubts the festival's future there"],
+  "remove_gaps": ["2026 dates only from JamBase (3 days listed vs 4 days in 2023 and 2024)", "Organiser, website and sponsors not captured", "Attendance and ticket prices not captured", "No public partnerships contact found"],
+  "notes": "Flag for fit review: the 2026 Vinuesa edition had a fatal on-site motorcycle crash, further injuries and about 435 administrative complaints, and the mayor doubts it will stay. Next confirmed Motorbeach event is La Invernal in Almería (Feb to Mar 2027), so the Vinuesa record may need a status change or a new record. Attendance figure is third-party only. IG @motorbeach is correct (shared with the organiser's travel business)."
+}

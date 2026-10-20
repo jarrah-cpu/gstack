@@ -1,0 +1,105 @@
+{
+  "id": "handmade-canberra-market",
+  "set": {
+    "attendance": {
+      "figure": 20000,
+      "figure_high": null,
+      "year": 2026,
+      "is_estimate": false,
+      "source": "https://handmadecanberra.com.au/about-us/",
+      "note": "Organiser-reported: the market 'regularly attracts over 20,000 visitors' per market. General statement on the About page as at Oct 2026, not tied to one edition."
+    },
+    "organiser": {
+      "name": "Handmade Canberra (founder Julie Nichols)",
+      "type": "independent",
+      "website": "https://handmadecanberra.com.au/"
+    },
+    "partnership_contact": {
+      "email": "market@handmadecanberra.com.au",
+      "page_url": "https://handmadecanberra.com.au/media/",
+      "named_person": null,
+      "source": "https://handmadecanberra.com.au/media/"
+    },
+    "ticket_price": {
+      "min": 0,
+      "max": 0,
+      "currency": "AUD",
+      "free_entry": true,
+      "note": "Entry free; charity partner Rise Above collects donations at the door."
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Australian Made Campaign",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DYmGHe-EtvD/"
+    },
+    {
+      "brand": "Rise Above (@riseabovecbr)",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DdUk3V0Eo0u/"
+    },
+    {
+      "brand": "Salvos (The Salvation Army)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY5ZJIpkr4j/"
+    }
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {
+      "field": "attendance",
+      "url": "https://handmadecanberra.com.au/about-us/",
+      "note": "'The market regularly attracts over 20,000 visitors'; 260 stalls in two halls at EPIC"
+    },
+    {
+      "field": "organiser",
+      "url": "https://handmadecanberra.com.au/about-us/",
+      "note": "Julie Nichols launched the first Handmade Market in 2008 with 35 stalls"
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://handmadecanberra.com.au/media/",
+      "note": "Media enquiries: market@handmadecanberra.com.au, 0402 247 532; general admin@handmadecanberra.com.au on the contact page"
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://www.instagram.com/p/DdUk3V0Eo0u/",
+      "note": "'Entry is free!' with charity partner Rise Above accepting donations at the doors"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DYmGHe-EtvD/",
+      "note": "'official Australian Made Campaign retail partner'"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DdUk3V0Eo0u/",
+      "note": "Charity partner Rise Above at the doors (also Nov 2025 and Mar and Jun 2026 markets)"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DY5ZJIpkr4j/",
+      "note": "Annual Blanket Drive in partnership with the Salvos at the June 2026 market"
+    }
+  ],
+  "add_gaps": [
+    "Stall fees not captured",
+    "No commercial brand sponsors found; partners are certification and charity partners"
+  ],
+  "remove_gaps": [
+    "Attendance not captured",
+    "Organiser name, stall fees and sponsors not captured"
+  ],
+  "notes": "Independent, founder-run quarterly market with free entry and an organiser claim of 20,000+ visitors per market. No brand sponsors; partners are Australian Made, Rise Above and the Salvos. Media contact published."
+}

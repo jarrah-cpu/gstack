@@ -1,0 +1,10 @@
+{
+ "id": "born-free-motorcycle-show",
+ "sponsor_roles": {
+  "Harley-Davidson": "presenting"
+ },
+ "verifier_flags": [
+  "sponsors: Harley-Davidson set to presenting; organiser post says 'presented by @harleydavidson' (2026)"
+ ],
+ "notes": "Orchestrator fix; source already in record."
+}

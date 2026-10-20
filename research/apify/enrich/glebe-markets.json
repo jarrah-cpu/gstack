@@ -1,0 +1,21 @@
+{
+  "id": "glebe-markets",
+  "set": {
+    "website": "https://glebemarkets.com.au/",
+    "organiser": {"name": "Blue Sky Markets", "type": null, "website": null},
+    "ticket_price": {"min": 0, "max": 0, "currency": "AUD", "free_entry": true, "note": "Free entry; open every Saturday 10am to 4pm."},
+    "partnership_contact": {"email": "office@glebemarkets.com.au", "page_url": "https://glebemarkets.com.au/contact", "named_person": null, "source": "https://glebemarkets.com.au/contact"}
+  },
+  "add_sponsors": [],
+  "add_activation_formats": [],
+  "add_sources": [
+    {"field": "website", "url": "https://glebemarkets.com.au/", "note": "Official site, also the IG profile link of @glebemarkets. 'Open every Saturday 10am - 4pm.'"},
+    {"field": "organiser", "url": "https://glebemarkets.com.au/apply-for-a-stall", "note": "Stall application page links a Market Code of Conduct file named 'Blue-Sky-Markets-Code...'. City of Sydney listing pairs Blue Sky Markets with Glebe Markets (Google snippet), and @blueskymarkets co-authors 13 Glebe Markets posts."},
+    {"field": "organiser", "url": "https://www.pedestrian.tv/news/glebe-markets-saved-interim-operators-organic-food-markets", "note": "After the 2023 closure announcement the market was taken over by a new interim operator (Google snippet; URL references Organic Food Markets). Current operator relationship not confirmed."},
+    {"field": "ticket_price", "url": "https://www.instagram.com/p/DYX4mmxSfNI/", "note": "Post: 'Glebe Markets, Sydney Sat 26 Sep FREE ENTRY' (Google snippet)."},
+    {"field": "partnership_contact", "url": "https://glebemarkets.com.au/contact", "note": "General contact email office@glebemarkets.com.au; phones listed for Wed to Fri and Saturdays."}
+  ],
+  "add_gaps": ["Organiser legal entity not confirmed; Blue Sky Markets inferred from site documents and IG co-authorship", "No sponsors found; IG collab posts are with sister markets (Bondi, Blue Sky, Flour Mill, Paddington)", "Audience age and gender not published"],
+  "remove_gaps": ["Only one source; organiser, website and stallholder terms not captured", "No public partnerships contact found"],
+  "notes": "Still trading weekly (stall allocations posted for Sat 17 Oct 2026). Organiser set to Blue Sky Markets on indirect evidence; check before outreach. Stall fees and terms are in the site's stallholder PDFs. No brand partners found."
+}

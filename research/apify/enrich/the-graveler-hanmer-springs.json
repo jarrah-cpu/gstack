@@ -1,0 +1,67 @@
+{
+  "id": "the-graveler-hanmer-springs",
+  "set": {
+    "website": "https://cjmsevents.co.nz/our-events/the-graveler/",
+    "organiser": {
+      "name": "CJMS Events (John Moore)",
+      "type": "promoter",
+      "website": "https://cjmsevents.co.nz/"
+    },
+    "partnership_contact": {
+      "email": "john@cjmsevents.co.nz",
+      "page_url": "https://raceroster.com/events/2027/116031/the-graveler/page/sponsors",
+      "named_person": "John Moore",
+      "source": "https://raceroster.com/events/2027/116031/the-graveler/page/sponsors"
+    },
+    "dates": {
+      "last_edition": {
+        "start": "2026-02-14",
+        "end": "2026-02-14",
+        "status": "held",
+        "label": "2026"
+      },
+      "next_edition": {
+        "start": "2027-02-13",
+        "end": "2027-02-13",
+        "status": "confirmed",
+        "label": "2027"
+      },
+      "frequency": "annual",
+      "duration_days": 1
+    }
+  },
+  "add_sponsors": [
+    {"brand": "Lifecare Medical Service", "years": [2027], "role": "partner", "source": "https://raceroster.com/events/2027/116031/the-graveler/page/sponsors"},
+    {"brand": "Four Square Hanmer Springs", "years": [2027], "role": "partner", "source": "https://raceroster.com/events/2027/116031/the-graveler/page/sponsors"},
+    {"brand": "Hokitika Sportsworld", "years": [2027], "role": "partner", "source": "https://raceroster.com/events/2027/116031/the-graveler/page/sponsors"},
+    {"brand": "Hanmer Holiday Homes", "years": [2027], "role": "partner", "source": "https://raceroster.com/events/2027/116031/the-graveler/page/sponsors"},
+    {"brand": "Run NZ Run", "years": [2027], "role": "partner", "source": "https://raceroster.com/events/2027/116031/the-graveler/page/sponsors"},
+    {"brand": "Ngāi Tahu Farming", "years": [2027], "role": "partner", "source": "https://raceroster.com/events/2027/116031/the-graveler/page/sponsors"},
+    {"brand": "Department of Conservation", "years": [2027], "role": "government", "source": "https://raceroster.com/events/2027/116031/the-graveler/page/sponsors"},
+    {"brand": "Damar Industries (Glokote)", "years": [2027], "role": "partner", "source": "https://raceroster.com/events/2027/116031/the-graveler/page/sponsors"},
+    {"brand": "Vista Drinks", "years": [2027], "role": "partner", "source": "https://raceroster.com/events/2027/116031/the-graveler/page/sponsors"}
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {"field": "website", "url": "https://cjmsevents.co.nz/our-events/the-graveler/", "note": "Google result: organiser CJMS Events' page for The Graveler, '132km unique bike race'. Registration runs on Race Roster."},
+    {"field": "organiser", "url": "https://raceroster.com/events/2027/116031/the-graveler/page/sponsors", "note": "Page read: organiser contact John Moore; sponsorship enquiries to john@cjmsevents.co.nz. CJMS Events Facebook also promotes the race."},
+    {"field": "partnership_contact", "url": "https://raceroster.com/events/2027/116031/the-graveler/page/sponsors", "note": "Page read: 'Sponsorship opportunities are available now, contact us at john@cjmsevents.co.nz'."},
+    {"field": "dates.last_edition", "url": "https://www.facebook.com/groups/217742304907740/posts/25777280821860537/", "note": "Google snippet: 'On Saturday, 14 February 2026, The Graveler returns'."},
+    {"field": "dates.frequency", "url": "https://raceroster.com/events/2025/86473/the-graveler/page/course", "note": "Google snippet: 2025 edition Saturday 15 February 2025; with 2026 and 2027 shows an annual February race. A Feb 2024 Instagram post (https://www.instagram.com/p/C3L4KfOPgJo/) suggests a 2024 edition too."},
+    {"field": "dates.next_edition", "url": "https://raceroster.com/events/2027/116031/the-graveler/page/sponsors", "note": "Page read: Saturday 13 February 2027, 8:00am, Clarence Valley Road and Molesworth Road, Hanmer Springs."},
+    {"field": "sponsors", "url": "https://raceroster.com/events/2027/116031/the-graveler/page/sponsors", "note": "Page read: sponsor logos link to hokitikasportsworld.co.nz, lifecaremedicalservice.com, foursquare.co.nz, hanmerholidayhomes.co.nz, runnzrun.co.nz, rline.co.nz, ngaitahufarming.co.nz, doc.govt.nz, mbbh.co.nz, damarindustries.com (Glokote), vistadrinks.co.nz and beffect.nz. Names taken from the link domains."},
+    {"field": "sponsors", "url": "https://www.facebook.com/100094399992664/posts/4-square-hanmer-springs-one-of-our-key-sponsors-for-the-graveler-this-weekend-ma/248699298286735/", "note": "Google snippet: '4 Square Hanmer Springs one of our key sponsors for the Graveler this weekend' (earlier edition, year not shown)."}
+  ],
+  "add_gaps": [
+    "Field size, entry fees and attendance not captured",
+    "Three 2027 sponsor logos link to rline.co.nz, mbbh.co.nz and beffect.nz and are not named on the page",
+    "Audience not published",
+    "Correct Instagram account not found (the account on record is unrelated)"
+  ],
+  "remove_gaps": [
+    "Past editions not captured",
+    "Organiser, field size, entry fees and sponsors not captured",
+    "No public partnerships contact found"
+  ],
+  "notes": "WRONG INSTAGRAM: @_thegraveler_ is a creative printing and packaging studio in Bangladesh, not this race; clear the handle and follower data. Real event: 132 km gravel race from Hanmer Springs run by CJMS Events (John Moore), annual each February since at least 2025. Local sponsor roster includes Lifecare Medical Service; charity beneficiaries are Canterbury West Coast Air Rescue Trust and Ronald McDonald House Charities NZ (not sponsors)."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "bowerbird-design-market-adelaide",
+  "set": {
+    "website": "https://bowerbird.net.au/",
+    "dates": {
+      "last_edition": {"start": "2026-05-15", "end": "2026-05-17", "status": "held", "label": "May 2026"},
+      "next_edition": {"start": "2027", "end": null, "status": "expected", "label": "2027 at a new venue (Nov 2026 market cancelled)"},
+      "frequency": "biannual",
+      "duration_days": 3
+    },
+    "location": {"city": "Adelaide", "state_or_region": "SA", "country": "Australia", "venue_or_area": "Ridley Centre, Adelaide Showground, Wayville (to May 2026); new venue being sought for 2027"}
+  },
+  "add_sponsors": [
+    {"brand": "CityMag", "years": [2026], "role": "media", "source": "https://bowerbird.net.au/"},
+    {"brand": "Glam Adelaide", "years": [2026], "role": "media", "source": "https://bowerbird.net.au/"},
+    {"brand": "SA Life", "years": [2026], "role": "media", "source": "https://bowerbird.net.au/"},
+    {"brand": "The Kiln", "years": [2026], "role": "partner", "source": "https://bowerbird.net.au/"},
+    {"brand": "Catherine House", "years": [2026], "role": "partner", "source": "https://bowerbird.net.au/"},
+    {"brand": "Adelaide Central School of Art", "years": [], "role": "partner", "source": "https://www.facebook.com/bowerbird.au/posts/its-day-2-of-bowerbirdnot-only-are-we-so-proud-to-present-the-exciting-creations/871756388317489/"},
+    {"brand": "Adelaide Festival Centre (Families program)", "years": [], "role": "partner", "source": "https://www.facebook.com/bowerbird.au/posts/its-day-2-of-bowerbirdnot-only-are-we-so-proud-to-present-the-exciting-creations/871756388317489/"}
+  ],
+  "add_sources": [
+    {"field": "dates.next_edition", "url": "https://bowerbird.net.au/", "note": "Homepage (Oct 2026): 'Bowerbird will not proceed this November'; reviewing options 'as we look for a new home' and plans to partner with a new venue in 2027."},
+    {"field": "dates.next_edition", "url": "https://www.adelaidenow.com.au/news/south-australia/adelaides-bowerbird-scraps-november-market-amid-customer-and-stallholder-disappointment/news-story/719579d4bcb89ab78aa828118dded5f1", "note": "Google snippet (paywalled): 'Bowerbird market calls off Adelaide Showground event'; 'After 17 years Bowerbird design market has had its wings clipped'."},
+    {"field": "dates.next_edition", "url": "https://www.instagram.com/bowerbird.au/", "note": "IG bio: '2027 dates to be announced'."},
+    {"field": "location", "url": "https://bowerbird.net.au/", "note": "Organiser says it is looking for a new home and a new venue for 2027."},
+    {"field": "website", "url": "https://bowerbird.net.au/", "note": "Official site, 'Adelaide's premier design market'."},
+    {"field": "sponsors", "url": "https://bowerbird.net.au/", "note": "Homepage thanks partners shown as logos (names from image file names, no alt text): CityMag, Glam, SA Life, The Kiln; Catherine House named as charity partner."},
+    {"field": "sponsors", "url": "https://www.facebook.com/bowerbird.au/posts/its-day-2-of-bowerbirdnot-only-are-we-so-proud-to-present-the-exciting-creations/871756388317489/", "note": "Undated older FB post (Google snippet): a program 'presented by the Adelaide Central School of Art and a Kid's Corner presented by the Adelaide Festival Centre's Families program'. Year not shown."},
+    {"field": "organiser", "url": "https://dalewood.com.au/listing/bowerbird-design-market/", "note": "Business broker listing 'SOLD - BOWERBIRD DESIGN MARKET' (Google snippet); founder sought a buyer in 2019 per InDaily. Current owner not confirmed, record organiser left unchanged."}
+  ],
+  "add_gaps": ["Nov 2026 market cancelled; 2027 dates and venue not announced", "Reasons for cancellation only in a paywalled AdelaideNow article", "Business was sold per a broker listing; current owner not confirmed", "Visitor attendance not published", "The Kiln partner identified from a logo file name only"],
+  "remove_gaps": ["Nov 2026 edition not confirmed", "Website, IG handle, attendance and sponsors not captured"],
+  "notes": "Important correction: the Nov 2026 market was cancelled after 17 years at the Showground and the organiser is seeking a new venue for 2027 (status kept active as 2027 is planned). Partners are local media plus a charity; organiser name may be stale since the business was sold."
+}

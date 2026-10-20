@@ -1,0 +1,325 @@
+{
+  "id": "the-unconformity-queenstown",
+  "set": {
+    "website": "https://theunconformity.com.au/",
+    "organiser": {
+      "name": "The Unconformity Inc (CEO Louisa Gordon, Artistic Director Loren Kronemyer)",
+      "type": "non-profit",
+      "website": "https://theunconformity.com.au/"
+    },
+    "partnership_contact": {
+      "email": "jess@theunconformity.com.au",
+      "page_url": "https://2025.theunconformity.com.au/media/",
+      "named_person": "Jess Robinson (Marketing and Partnerships Manager, 2025); Jane Longhurst appointed Partnerships and Stakeholder Manager in Apr 2026",
+      "source": "https://2025.theunconformity.com.au/media/"
+    },
+    "attendance": {
+      "figure": 3000,
+      "figure_high": null,
+      "year": 2025,
+      "is_estimate": true,
+      "source": "https://popupwifi.com.au/case-study/53-the-unconformity-festival-2025/",
+      "note": "Supplier case study (Pop Up WiFi, a festival partner) lists 3,000 attendees for 2025; Google snippet; not an organiser report."
+    },
+    "ticket_price": {
+      "min": 0,
+      "max": null,
+      "currency": "AUD",
+      "free_entry": true,
+      "note": "2025: over 80% of the program free; 'No Barriers' free tickets on request for ticketed events; prices not captured."
+    },
+    "audience": {
+      "age_range": null,
+      "gender_skew": null,
+      "psychographics": "Contemporary art audience travelling to remote West Coast Tasmania alongside West Coast locals (local presale, free regional bus from Strahan and Burnie).",
+      "source": "https://2025.theunconformity.com.au/general-faqs/"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Hydro Tasmania",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://2025.theunconformity.com.au/"
+    },
+    {
+      "brand": "West Coast Council",
+      "years": [
+        2025
+      ],
+      "role": "government",
+      "source": "https://2025.theunconformity.com.au/"
+    },
+    {
+      "brand": "Events Tasmania",
+      "years": [
+        2025
+      ],
+      "role": "government",
+      "source": "https://2025.theunconformity.com.au/"
+    },
+    {
+      "brand": "Creative Australia",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "government",
+      "source": "https://2025.theunconformity.com.au/"
+    },
+    {
+      "brand": "Festivals Australia",
+      "years": [
+        2025
+      ],
+      "role": "government",
+      "source": "https://2025.theunconformity.com.au/"
+    },
+    {
+      "brand": "Road Safety Advisory Council",
+      "years": [
+        2025
+      ],
+      "role": "government",
+      "source": "https://2025.theunconformity.com.au/"
+    },
+    {
+      "brand": "West Coast Wilderness Railway",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://2025.theunconformity.com.au/"
+    },
+    {
+      "brand": "Tasmania Devils",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://2025.theunconformity.com.au/"
+    },
+    {
+      "brand": "GHD",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://2025.theunconformity.com.au/"
+    },
+    {
+      "brand": "Evans IGA",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://2025.theunconformity.com.au/"
+    },
+    {
+      "brand": "Newton & Henry",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://2025.theunconformity.com.au/"
+    },
+    {
+      "brand": "McHenry Tasmania",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://2025.theunconformity.com.au/"
+    },
+    {
+      "brand": "Communion Brewing Co",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://2025.theunconformity.com.au/"
+    },
+    {
+      "brand": "Empire Hotel",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://2025.theunconformity.com.au/"
+    },
+    {
+      "brand": "Penghana",
+      "years": [
+        2025
+      ],
+      "role": "venue",
+      "source": "https://2025.theunconformity.com.au/"
+    },
+    {
+      "brand": "Dulverton Waste Management",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://2025.theunconformity.com.au/"
+    },
+    {
+      "brand": "Red Bridge HR",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://2025.theunconformity.com.au/"
+    },
+    {
+      "brand": "Flying Colours",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://2025.theunconformity.com.au/"
+    },
+    {
+      "brand": "Neon Jungle",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://2025.theunconformity.com.au/"
+    },
+    {
+      "brand": "PopUp WiFi",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://2025.theunconformity.com.au/"
+    },
+    {
+      "brand": "Lusy Productions",
+      "years": [
+        2025
+      ],
+      "role": "media",
+      "source": "https://2025.theunconformity.com.au/"
+    },
+    {
+      "brand": "SeaFM",
+      "years": [
+        2025
+      ],
+      "role": "media",
+      "source": "https://2025.theunconformity.com.au/"
+    },
+    {
+      "brand": "7XS",
+      "years": [
+        2025
+      ],
+      "role": "media",
+      "source": "https://2025.theunconformity.com.au/"
+    },
+    {
+      "brand": "7BU",
+      "years": [
+        2025
+      ],
+      "role": "media",
+      "source": "https://2025.theunconformity.com.au/"
+    },
+    {
+      "brand": "7 Tasmania",
+      "years": [
+        2025
+      ],
+      "role": "media",
+      "source": "https://2025.theunconformity.com.au/"
+    }
+  ],
+  "add_sources": [
+    {
+      "field": "sponsors",
+      "url": "https://2025.theunconformity.com.au/",
+      "note": "2025 festival site footer partner logos: Hydro Tasmania, West Coast Council, Tasmanian Government, Events Tasmania, Creative Australia, Festivals Australia, Road Safety Advisory Council, West Coast Wilderness Railway, Tasmania Devils, GHD, Evans IGA, Newton & Henry, McHenry Tasmania, Communion Brewing Co, Empire Hotel, Penghana, Dulverton Waste Management, Red Bridge HR, Flying Colours, Neon Jungle, PopUp WiFi, Lusy Productions, SeaFM, 7XS, 7BU, 7 Tasmania (no tiers)"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DPnWOQpjUeV/",
+      "note": "10 Oct 2025: The Unconformity Art Trail proudly presented by Evans IGA"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DPfaWHEE-Fx/",
+      "note": "7 Oct 2025: partnering with the Road Safety Advisory Council on safe driving to the festival"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DPSm0E9D_9Z/",
+      "note": "2 Oct 2025: partnered with carbon accounting firm Newton & Henry"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DX_AS19EZgB/",
+      "note": "6 May 2026: program (ECC) supported by Creative Australia"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://2025.theunconformity.com.au/events/crib-road/",
+      "note": "Google snippet: Crib Road assisted by the Australian Government through the Festivals Australia program"
+    },
+    {
+      "field": "website",
+      "url": "https://2025.theunconformity.com.au/",
+      "note": "2025 site marked 'archived festival page' and links to the main site theunconformity.com.au"
+    },
+    {
+      "field": "organiser",
+      "url": "https://popupwifi.com.au/case-study/53-the-unconformity-festival-2025/",
+      "note": "Google snippet: submitted by The Unconformity Inc"
+    },
+    {
+      "field": "organiser",
+      "url": "https://www.instagram.com/theunconformity/",
+      "note": "IG bio: nonprofit arts organisation from the West Coast of Tasmania"
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://2025.theunconformity.com.au/media/",
+      "note": "Media page lists Jess Robinson, Marketing and Partnerships Manager, jess@theunconformity.com.au, 0455 666 084; general info@theunconformity.com.au"
+    },
+    {
+      "field": "partnership_contact.named_person",
+      "url": "https://www.instagram.com/p/DXvLWZIDwew/",
+      "note": "30 Apr 2026: Jane Longhurst joins as Partnerships and Stakeholder Manager"
+    },
+    {
+      "field": "attendance",
+      "url": "https://popupwifi.com.au/case-study/53-the-unconformity-festival-2025/",
+      "note": "Google snippet: Attendees 3000"
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://2025.theunconformity.com.au/ticketing-information/",
+      "note": "Over 80% of program free; No Barriers free tickets; majority of program free thanks to partners"
+    },
+    {
+      "field": "audience",
+      "url": "https://2025.theunconformity.com.au/general-faqs/",
+      "note": "Free daily bus from Strahan and Burnie; West Coast locals presale"
+    }
+  ],
+  "remove_gaps": [
+    "Attendance not captured",
+    "Commercial sponsors not captured",
+    "Main domain assumed from the 2025 subdomain"
+  ],
+  "add_gaps": [
+    "Attendance only from a supplier case study",
+    "Partner tiers not shown (logo strip only)",
+    "Audience age and gender not published",
+    "Email for the new Partnerships and Stakeholder Manager not published"
+  ],
+  "notes": "25 partners added from the 2025 site footer (no tiers), led by Hydro Tasmania, GHD, Tasmania Devils and state and local government. Partnerships contact: Jess Robinson's 2025 email is listed, but Jane Longhurst became Partnerships and Stakeholder Manager in Apr 2026, so confirm who holds the role. Website moved to the main domain. Attendance 3,000 is a supplier figure only."
+}

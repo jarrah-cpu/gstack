@@ -1,0 +1,48 @@
+{
+  "id": "womadelaide-adelaide",
+  "set": {
+    "organiser": {"name": "WOMADelaide Foundation (managed by Arts Projects Australia and WOMAD Ltd)", "type": "non-profit", "website": "https://www.womadelaide.com.au/"},
+    "attendance": {"figure": 98000, "figure_high": null, "year": 2024, "is_estimate": false, "source": "https://www.womadelaide.com.au/news/womadelaide-news/womadelaide-looks-ahead-to-the-next-five-years", "note": "Organiser-reported: 2024 'attendances over the four days approached 98,000' (attendances, not unique visitors; approximate). 2023 had record-breaking crowds."},
+    "partnership_contact": {"email": "paola@womadelaide.com.au", "page_url": "https://www.womadelaide.com.au/support/partners", "named_person": "Paola Niscioli (Manager, Philanthropy and Development)", "source": "https://www.womadelaide.com.au/support/partners"}
+  },
+  "add_sponsors": [
+    {"brand": "South Australian Tourism Commission", "years": [2026], "role": "government", "source": "https://www.womadelaide.com.au/support/partners"},
+    {"brand": "Government of South Australia", "years": [2026, 2027], "role": "government", "source": "https://www.womadelaide.com.au/about/contact"},
+    {"brand": "The Hackett Foundation", "years": [2026], "role": "presenting", "source": "https://www.womadelaide.com.au/support/partners"},
+    {"brand": "Coopers", "years": [2026], "role": "major", "source": "https://www.womadelaide.com.au/support/partners"},
+    {"brand": "Nepenthe", "years": [2026], "role": "major", "source": "https://www.womadelaide.com.au/support/partners"},
+    {"brand": "Never Never", "years": [2026], "role": "major", "source": "https://www.womadelaide.com.au/support/partners"},
+    {"brand": "City of Adelaide (Adelaide Economic Development Agency)", "years": [2026], "role": "government", "source": "https://www.womadelaide.com.au/support/partners"},
+    {"brand": "Foodland", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DVUfDZNj66I/"},
+    {"brand": "Amora Hotel Adelaide", "years": [2026], "role": "partner", "source": "https://www.womadelaide.com.au/support/partners"},
+    {"brand": "Adelaide University", "years": [2026], "role": "partner", "source": "https://www.womadelaide.com.au/support/partners"},
+    {"brand": "SA Water", "years": [2026], "role": "government", "source": "https://www.womadelaide.com.au/support/partners"},
+    {"brand": "SAE University College", "years": [2026], "role": "partner", "source": "https://www.womadelaide.com.au/support/partners"},
+    {"brand": "Schwartz", "years": [2026], "role": "partner", "source": "https://www.womadelaide.com.au/support/partners"},
+    {"brand": "The Guardian", "years": [2026], "role": "media", "source": "https://www.womadelaide.com.au/support/partners"},
+    {"brand": "JCDecaux", "years": [2026], "role": "media", "source": "https://www.womadelaide.com.au/support/partners"},
+    {"brand": "Visualcom", "years": [2026], "role": "partner", "source": "https://www.womadelaide.com.au/support/partners"},
+    {"brand": "Viking", "years": [2026], "role": "partner", "source": "https://www.womadelaide.com.au/support/partners"},
+    {"brand": "Clean Vibes", "years": [2026], "role": "partner", "source": "https://www.womadelaide.com.au/support/partners"},
+    {"brand": "Environmental Defenders Office", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DWiu_SDjM21/"},
+    {"brand": "Greening Australia", "years": [2025], "role": "partner", "source": "https://www.artsprojects.com.au/current-tours-projects/past-seasons/2025/womadelaide-2025"},
+    {"brand": "Nexus Arts", "years": [2026], "role": "collab", "source": "https://www.instagram.com/p/DVYI5Guk5GT/"}
+  ],
+  "add_activation_formats": ["stage-or-program-takeover"],
+  "add_sources": [
+    {"field": "attendance", "url": "https://www.womadelaide.com.au/news/womadelaide-news/womadelaide-looks-ahead-to-the-next-five-years", "note": "2024 wrap: 'attendances over the four days approached 98,000'. History page: around 50% of attendees travelled from interstate or overseas by 2011."},
+    {"field": "sponsors", "url": "https://www.womadelaide.com.au/support/partners", "note": "Partners page (undated, footer 2026): Principal Partner SATC; Presenting Partner Hackett Foundation; Key Partners Coopers, Nepenthe, Never Never; Supported by AEDA/City of Adelaide, Foodland, Amora Hotel Adelaide, Adelaide University, SA Water, SAE University College, Schwartz, The Guardian, JCDecaux, Visualcom, Viking, Clean Vibes."},
+    {"field": "sponsors", "url": "https://www.womadelaide.com.au/about/contact", "note": "Footer: 'Presented in association with the Government of South Australia'. History page: in 2024 the State Government extended its partnership through to 2029."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DVUfDZNj66I/", "note": "Feb 2026: 'Thank you to our community partner @foodlandsa for their support of The Academy Stage at WOMADelaide 2026'."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DWiu_SDjM21/", "note": "Mar 2026: 'The Planet Talks is supported by the @environmentaldefendersoffice'; another post credits the Environment Institute, Adelaide University."},
+    {"field": "sponsors", "url": "https://www.artsprojects.com.au/current-tours-projects/past-seasons/2025/womadelaide-2025", "note": "'In partnership with Greening Australia WOMADelaide since 2007 has worked to offset the ecological footprint of the festival', $2 per ticket (Google snippet)."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DVYI5Guk5GT/", "note": "Mar 2026 program item 'In partnership with @nexusarts'."},
+    {"field": "activation_formats", "url": "https://www.instagram.com/p/DVUfDZNj66I/", "note": "Foodland supports The Academy Stage; EDO and Adelaide University support The Planet Talks."},
+    {"field": "organiser", "url": "https://www.womadelaide.com.au/about/contact", "note": "'WOMADelaide is managed by Arts Projects Australia and WOMAD Ltd'; the WOMADelaide Foundation is a registered charity. History page: Foundation established 2004 as 'the non-profit body that now presents the festival'."},
+    {"field": "partnership_contact", "url": "https://www.womadelaide.com.au/support/partners", "note": "Partners page directs partnership enquiries to Paola Niscioli, Manager, Philanthropy and Development, paola@womadelaide.com.au, +61 8 8271 1488."},
+    {"field": "dates.next_edition", "url": "https://www.womadelaide.com.au/about/contact", "note": "Future dates published: 5 to 8 March 2027, 10 to 13 March 2028, 9 to 12 March 2029."}
+  ],
+  "add_gaps": ["Partners page is undated; treated as the 2026 roster", "Demographics and ticket prices not captured; latest attendance is 2024", "2026 edition dates not captured"],
+  "remove_gaps": ["Organiser role inferred from Arts Projects Australia listing WOMADelaide 2027 as a current-season project; confirm", "Attendance, demographics and ticket prices not captured", "Search budget ran out during discovery, so sponsors, IG handle and partnership contact were not researched"],
+  "notes": "Organiser confirmed: WOMADelaide Foundation (charity), managed by APA and WOMAD Ltd, with state backing to 2029. Named partnerships contact and a mixed partner list (drinks, SA Water, universities, EDO). About 98,000 attendances in 2024; health-aligned stage programs (Planet Talks) exist."
+}

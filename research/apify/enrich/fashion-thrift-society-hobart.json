@@ -1,0 +1,53 @@
+{
+  "id": "fashion-thrift-society-hobart",
+  "set": {
+    "attendance": {
+      "figure": 5500,
+      "figure_high": null,
+      "year": 2023,
+      "is_estimate": false,
+      "source": "https://www.facebook.com/fashionthriftsociety/posts/tasmania-we-did-not-forget-about-you-on-our-2024-tour-%EF%B8%8F%EF%B8%8F-we-have-seen-all-of-the/729319049315127/",
+      "note": "Organiser-reported 'Over 5,500 people attended last year's event in Hobart' in a Facebook post promoting the April 2024 Hobart market (Google snippet). Year inferred as 2023 from 'last year'. No figure for 2024 to 2026."
+    },
+    "ticket_price": {
+      "min": 0,
+      "max": 15,
+      "currency": "AUD",
+      "free_entry": false,
+      "note": "2026: $15 entry from 10am, $12 student all day, $10 from 12pm, $7 from 1pm, free from 2pm; kids 0 to 7 free, 7 to 11 $5; seniors and pension card $5; Companion Card free."
+    },
+    "location": {
+      "city": "Hobart",
+      "state_or_region": "TAS",
+      "country": "Australia",
+      "venue_or_area": "Swisherr Hoops, 103 Melville St"
+    }
+  },
+  "add_sponsors": [],
+  "add_activation_formats": [],
+  "add_sources": [
+    {
+      "field": "attendance",
+      "url": "https://www.facebook.com/fashionthriftsociety/posts/tasmania-we-did-not-forget-about-you-on-our-2024-tour-%EF%B8%8F%EF%B8%8F-we-have-seen-all-of-the/729319049315127/",
+      "note": "Google snippet of organiser post: 'Over 5,500 people attended last year's event in Hobart'"
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://www.moshtix.com.au/v2/event/fashion-thrift-society-hobart-february-7/185580",
+      "note": "Moshtix 2026 ticket types and prices; '100+ curated stalls of vintage, preloved, designer and local small businesses', food trucks, DJ, beauty and jewellery services"
+    },
+    {
+      "field": "location.venue_or_area",
+      "url": "https://www.moshtix.com.au/v2/event/fashion-thrift-society-hobart-february-7/185580",
+      "note": "Venue Swisherr Hoops, 103 Melville St, Hobart, 7 Feb 2026"
+    }
+  ],
+  "add_gaps": [
+    "Attendance for the 2024 to 2026 Hobart markets not published",
+    "Organiser Facebook post mentions 'one of our major sponsors The SQ...' (cut off); sponsor not identified"
+  ],
+  "remove_gaps": [
+    "Stall count and attendance for Hobart not captured"
+  ],
+  "notes": "2026 Hobart market had 100+ stalls with tiered entry ($0 to $15). Attendance 5,500+ is a 2023 organiser figure from a snippet. A truncated snippet hints at a national major sponsor. No IG account in the pack; organiser handle not checked here."
+}

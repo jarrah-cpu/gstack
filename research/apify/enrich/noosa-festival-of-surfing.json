@@ -1,0 +1,482 @@
+{
+  "id": "noosa-festival-of-surfing",
+  "set": {
+    "attendance": {
+      "figure": 39000,
+      "figure_high": null,
+      "year": 2026,
+      "is_estimate": false,
+      "source": "https://www.instagram.com/p/DX78n5-hXuH/",
+      "note": "Organiser-reported '39,000+' for the 35th edition (2026), an 11% increase on 2025, plus '$6M+ into the local economy'; post also embedded on the festival home page."
+    },
+    "organiser": {
+      "name": "Noosa Malibu Club with World Surfaris (chairman John Finlay); festival director Josh Allen",
+      "type": null,
+      "website": "https://www.noosafestivalofsurfing.com/"
+    },
+    "partnership_contact": {
+      "email": null,
+      "page_url": "https://www.noosafestivalofsurfing.com/partners/#become-partner",
+      "named_person": null,
+      "source": "https://www.noosafestivalofsurfing.com/partners/"
+    },
+    "ticket_price": {
+      "min": 0,
+      "max": null,
+      "currency": "AUD",
+      "free_entry": true,
+      "note": "No entry fee for spectators; beach bar free with some ticketed beach bar events; competitor entry fees via Humanitix not captured."
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Diverse Lending Solutions",
+      "years": [
+        2026
+      ],
+      "role": "presenting",
+      "source": "https://www.noosafestivalofsurfing.com/partners/"
+    },
+    {
+      "brand": "AG1",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.noosafestivalofsurfing.com/partners/"
+    },
+    {
+      "brand": "World Surfaris",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.noosafestivalofsurfing.com/partners/"
+    },
+    {
+      "brand": "Tourism and Events Queensland",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.noosafestivalofsurfing.com/partners/"
+    },
+    {
+      "brand": "World Surf League",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.noosafestivalofsurfing.com/partners/"
+    },
+    {
+      "brand": "Tourism Noosa",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.noosafestivalofsurfing.com/partners/"
+    },
+    {
+      "brand": "Gage Roads Brew Co",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.noosafestivalofsurfing.com/partners/"
+    },
+    {
+      "brand": "Event Generals",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.noosafestivalofsurfing.com/partners/"
+    },
+    {
+      "brand": "CASA Spirits & Cocktails",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.noosafestivalofsurfing.com/partners/"
+    },
+    {
+      "brand": "We Are Flip",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.noosafestivalofsurfing.com/partners/"
+    },
+    {
+      "brand": "Brandid Media",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.noosafestivalofsurfing.com/partners/"
+    },
+    {
+      "brand": "BYD",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.noosafestivalofsurfing.com/partners/"
+    },
+    {
+      "brand": "Brixton",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.noosafestivalofsurfing.com/partners/"
+    },
+    {
+      "brand": "OK Boocha",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.noosafestivalofsurfing.com/partners/"
+    },
+    {
+      "brand": "SumUp",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.noosafestivalofsurfing.com/partners/"
+    },
+    {
+      "brand": "Pavilion Marquees Australia",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.noosafestivalofsurfing.com/partners/"
+    },
+    {
+      "brand": "Coolcabanas",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.noosafestivalofsurfing.com/partners/"
+    },
+    {
+      "brand": "Havaianas",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.noosafestivalofsurfing.com/partners/"
+    },
+    {
+      "brand": "Noosa Sound & Lighting",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.noosafestivalofsurfing.com/partners/"
+    },
+    {
+      "brand": "Naked Wines",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.noosafestivalofsurfing.com/partners/"
+    },
+    {
+      "brand": "Walkbuy",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.noosafestivalofsurfing.com/partners/"
+    },
+    {
+      "brand": "VetShopAustralia",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.noosafestivalofsurfing.com/partners/"
+    },
+    {
+      "brand": "Hydro Flask",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.noosafestivalofsurfing.com/partners/"
+    },
+    {
+      "brand": "Shadforth Civil",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.noosafestivalofsurfing.com/partners/"
+    },
+    {
+      "brand": "Ampd Bros",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.noosafestivalofsurfing.com/partners/"
+    },
+    {
+      "brand": "Coffee Supreme",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.noosafestivalofsurfing.com/partners/"
+    },
+    {
+      "brand": "Sun Bum",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.noosafestivalofsurfing.com/partners/"
+    },
+    {
+      "brand": "Golden Breed",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.noosafestivalofsurfing.com/partners/"
+    },
+    {
+      "brand": "Laguna Bay Longboards",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.noosafestivalofsurfing.com/partners/"
+    },
+    {
+      "brand": "FCS",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.noosafestivalofsurfing.com/partners/"
+    },
+    {
+      "brand": "Sunshine Coast Airport",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.noosafestivalofsurfing.com/partners/"
+    },
+    {
+      "brand": "Noosa Longboards",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.noosafestivalofsurfing.com/partners/"
+    },
+    {
+      "brand": "New York Minute",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.noosafestivalofsurfing.com/partners/"
+    },
+    {
+      "brand": "The Scoop @ 4567",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.noosafestivalofsurfing.com/partners/"
+    },
+    {
+      "brand": "Happy Chap",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.noosafestivalofsurfing.com/partners/"
+    },
+    {
+      "brand": "Nakie",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.noosafestivalofsurfing.com/partners/"
+    },
+    {
+      "brand": "Nikon",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.noosafestivalofsurfing.com/partners/"
+    },
+    {
+      "brand": "Ted's Cameras",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.noosafestivalofsurfing.com/partners/"
+    },
+    {
+      "brand": "Pacific Longboarder Magazine",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.noosafestivalofsurfing.com/partners/"
+    },
+    {
+      "brand": "Panga Productions",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.noosafestivalofsurfing.com/partners/"
+    },
+    {
+      "brand": "SeaFM 91.9",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.noosafestivalofsurfing.com/partners/"
+    },
+    {
+      "brand": "IN Noosa Magazine",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.noosafestivalofsurfing.com/partners/"
+    },
+    {
+      "brand": "SurfHub",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.noosafestivalofsurfing.com/partners/"
+    },
+    {
+      "brand": "Plastic Free Noosa",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.noosafestivalofsurfing.com/partners/"
+    },
+    {
+      "brand": "Cleanaway",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.noosafestivalofsurfing.com/partners/"
+    },
+    {
+      "brand": "Surfers for Climate",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.noosafestivalofsurfing.com/partners/"
+    },
+    {
+      "brand": "Surfrider Foundation",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.noosafestivalofsurfing.com/partners/"
+    }
+  ],
+  "add_activation_formats": [
+    "hospitality-bar",
+    "content-series",
+    "stage-or-program-takeover"
+  ],
+  "add_sources": [
+    {
+      "field": "attendance",
+      "url": "https://www.instagram.com/p/DX78n5-hXuH/",
+      "note": "Official post (5 May 2026): '$6M+ into the local economy; 39,000+ of you showing up (11% increase from last year); 50+ events, packed across 10 days'."
+    },
+    {
+      "field": "organiser",
+      "url": "https://www.noosafestivalofsurfing.com/the-team/",
+      "note": "Team page: Josh Allen, Festival Director (since 2019); John Finlay, Festival Chairman and owner of World Surfaris, took over management in 2018; Glen Gower, Noosa Malibu Club President."
+    },
+    {
+      "field": "organiser",
+      "url": "https://www.noosafestivalofsurfing.com/",
+      "note": "Footer: 'A celebration of the joy of surfing by the Noosa Malibu Club and World Su[rfaris]'; Instagram bio says presented by @noosa_malibu_club and @brandid.media."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.noosafestivalofsurfing.com/partners/",
+      "note": "Partners page (2026): Presenting Diverse Lending Solutions; Health & Wellness: 'AG1 is proud to be the major health & wellness sponsor'; Vehicle BYD; Entertainment Brixton; beach bar, First Point, Boiling Pot, Little Cove, photography, marketing, media, sustainability and charity partners incl. Sun Bum (official sun care partner), Hydro Flask, Coffee Supreme (official coffee partner), OK Boocha, VetShopAustralia (Surfing Dogs Spectacular)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DXsgrVYAX_i/",
+      "note": "Wrap post (29 Apr 2026): 'insane entertainment thanks to @brixtonanz, dog surfing, sponsor activations, @gageroadsbrewco beers'."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/DWQ0B3FgZ2s/",
+      "note": "Post (24 Mar 2026): 'The grand finale of @the.scoop.tv presented by ... @newyorkminuteburgers' (sponsored content series)."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.noosafestivalofsurfing.com/",
+      "note": "Home page: '@gageroadsbrewco took over the Beach Bar'; beach bar with partner-run bars."
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.noosafestivalofsurfing.com/",
+      "note": "Home page: 'SAVE THE DATE FRIDAY 26 FEBRUARY - SUNDAY 7 MARCH 2027'; 2026 described as the 35th festival, 12 to 22 March."
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://www.noosafestivalofsurfing.com/faqs/",
+      "note": "FAQ: 'There is no entry fee for spectators'; beach bar 'completely free to patrons' with some ticketed events in 2026."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.noosafestivalofsurfing.com/partners/",
+      "note": "Partners page has a 'Become a partner' enquiry form (name, business, email, phone); no email published."
+    }
+  ],
+  "remove_gaps": [
+    "2027 dates rest on Queensland.com and a search summary of the festival site; confirm on the site directly",
+    "Only one sponsor found (Deus Ex Machina, 2022); no current sponsor list or attendance figure",
+    "Current organiser not confirmed (search summary named Phil Jarratt Communications as an original organiser, URL not pinned)",
+    "Ticket and spectator pricing not found",
+    "No public partnerships contact found",
+    "Only the official home page seen; organiser, venue detail and sponsors not captured",
+    "Attendance not published",
+    "2027 dates not announced; March expected"
+  ],
+  "add_gaps": [
+    "Partners page gives categories but no years; all partners recorded as 2026 (page crawled Oct 2026, branded 2026)",
+    "2026 start date differs: home page says 12 to 22 March, FAQ and video say 13 to 22 March",
+    "A 7NEWS Sunshine Coast Facebook post (date not captured) says the founding family walked away from the festival; governance history not checked"
+  ],
+  "notes": "Strong find: AG1 is the festival's 'major health & wellness sponsor' and Sun Bum the official sun care partner, so a health brand slot already exists (check category exclusivity). 47 partners added from the 2026 partners page; 39,000+ attendance is organiser-reported. Partner form only, no email. Organiser structure is Noosa Malibu Club plus World Surfaris, with Event Generals and Brandid Media delivering."
+}

@@ -1,0 +1,11 @@
+{
+ "id": "sessions-surf-festival-gold-coast",
+ "remove_sponsors": [
+  "Posca",
+  "Hydrate (as listed; brand identity not confirmed)"
+ ],
+ "verifier_flags": [
+  "sponsors: 'Posca' and 'Hydrate' were one brand, Posca Hydrate (Phase 2 extraction); split entries removed"
+ ],
+ "notes": "Orchestrator fix."
+}

@@ -1,0 +1,21 @@
+{
+  "id": "madrid-urban-fest",
+  "set": {
+    "dates": {"last_edition": {"start": "2025", "end": null, "status": "held", "label": "5th edition (2025)"}, "next_edition": {"start": "2026-10-30", "end": "2026-11-14", "status": "confirmed", "label": "6th edition (2026), 'Vuelta a las raíces'"}, "frequency": "annual", "duration_days": 16},
+    "ticket_price": {"min": 5, "max": 6, "currency": "EUR", "free_entry": false, "note": "Concerts EUR 6 (EUR 5 for over-65s, carné joven holders, unemployed and large families); free for companions of people with disability. Some opening sets and activities are listed without a price."},
+    "partnership_contact": {"email": "jefadeprensa@futuracomunicacion.es", "page_url": "https://www.comunidad.madrid/cultura/madrid-urban-fest-2026", "named_person": "Toñi Escobero (press, Futura Comunicación); Nico García, dircom@futuracomunicacion.es", "source": "https://www.comunidad.madrid/cultura/madrid-urban-fest-2026"},
+    "location": {"city": "Madrid", "state_or_region": "Community of Madrid", "country": "Spain", "venue_or_area": "Centro Cultural Pilar Miró, Villa de Vallecas"}
+  },
+  "add_sponsors": [],
+  "add_activation_formats": [],
+  "add_sources": [
+    {"field": "dates.last_edition", "url": "https://www.neo2.com/madrid-urban-fest-2025-cinco-anos-de-lo-mejor-del-urbano/", "note": "Google snippet: 'Madrid Urban Fest 2025: cinco años de lo mejor del urbano'. Exact 2025 dates not captured."},
+    {"field": "dates.frequency", "url": "https://alcabodelacalle.es/cultura/llega-el-madrid-urban-fest-a-vallecas-para-exaltar-la-cultura-urbana/", "note": "Google snippet: 2024 edition 25 Oct to 9 Nov at Centro Cultural Pilar Miró. Docenotas (Aug 2023) calls 2023 the 3rd edition and the 2026 page calls 2026 the 6th, so the festival is annual."},
+    {"field": "ticket_price", "url": "https://www.comunidad.madrid/cultura/madrid-urban-fest-2026", "note": "Programme lists concerts at Centro Cultural Pilar Miró at 'EUR 6 (mayores 65 años, carné joven, desempleados y familia numerosa: EUR 5)'."},
+    {"field": "partnership_contact", "url": "https://www.comunidad.madrid/cultura/madrid-urban-fest-2026", "note": "'Prensa, Contactos': Nico García dircom@futuracomunicacion.es; Toñi Escobero jefadeprensa@futuracomunicacion.es, 630 45 55 45. Press agency contacts, not sponsorship."},
+    {"field": "location", "url": "https://www.comunidad.madrid/cultura/madrid-urban-fest-2026", "note": "All 2026 programme items at Centro Cultural Pilar Miró (Villa de Vallecas); team credits list Comunidad de Madrid and Madrid Cultura y Turismo, artistic director Mercedes Goiz."}
+  ],
+  "add_gaps": ["Exact 2025 edition dates not captured", "Contacts published are the press agency; no sponsorship contact", "No commercial sponsors; fully produced by the Comunidad de Madrid"],
+  "remove_gaps": ["Previous edition dates not captured; annual frequency inferred from press saying the festival 'returns'", "Ticket prices or free entry not confirmed", "Sponsors not identified", "No public partnerships contact found"],
+  "notes": "Government-produced hip hop festival (Comunidad de Madrid with public company Madrid Cultura y Turismo), cheap tickets, no brand partners, so brand access likely runs through the regional government. A Google result (IG post DPOnb6gjLpi) tags @madridurbanfestival as the festival's handle; orchestrator may want to confirm and use it instead of @comunidadmadrid."
+}

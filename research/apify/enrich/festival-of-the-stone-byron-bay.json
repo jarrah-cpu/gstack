@@ -1,0 +1,89 @@
+{
+  "id": "festival-of-the-stone-byron-bay",
+  "set": {
+    "dates": {
+      "last_edition": {
+        "start": "2026-06-20",
+        "end": "2026-06-20",
+        "status": "held",
+        "label": "12th (2026)"
+      },
+      "next_edition": {
+        "start": "2027-06",
+        "end": null,
+        "status": "expected",
+        "label": "13th (2027)"
+      },
+      "frequency": "annual",
+      "duration_days": 1
+    },
+    "ticket_price": {
+      "min": 0,
+      "max": 60,
+      "currency": "AUD",
+      "free_entry": false,
+      "note": "2024 (10th) first-release prices: $60 adults 18+, $30 teens, kids under 12 free. 2026 prices not captured."
+    },
+    "partnership_contact": {
+      "email": "marketing@stoneandwood.com.au",
+      "page_url": "https://stoneandwood.com.au/pages/faqs",
+      "named_person": null,
+      "source": "https://stoneandwood.com.au/pages/faqs"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Fletcher Street Cottage",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.byroncentre.com.au/stories/festival-of-the-stone-2026"
+    },
+    {
+      "brand": "inGrained Foundation (Stone & Wood)",
+      "years": [
+        2024
+      ],
+      "role": "presenting",
+      "source": "https://www.instagram.com/stoneandwood/p/C6rxFbXS4pW/"
+    }
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.byroncentre.com.au/stories/festival-of-the-stone-2026",
+      "note": "'Festival of the Stone is set to return to Byron Bay on Saturday 20 June 2026... Presented by Stone and Wood and now in its 12th year', raising funds for Fletcher Street Cottage (Google snippet)."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://gcmag.com.au/record-30419-raised-at-2026-festival-of-the-stone-event/",
+      "note": "'Festival of the Stone 2026 raised a record $30,419 for Fletcher Street Cottage' (Google snippet); Stone & Wood also posted 'Festival of the Stone 2026 - That's a Wrap!' on its blog."
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://musicfestivalsaustralia.com/news/A%20decade%20of%20Festival%20of%20the%20Stone",
+      "note": "'first-release tickets just $60 for the 18+, $30 for the Teens and kids under 12 are FREE' for the 10th edition (Google snippet)."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://stoneandwood.com.au/pages/faqs",
+      "note": "FAQ: community and not-for-profit event support requests go to marketing@stoneandwood.com.au. Brand-owned event, so this is the nearest published marketing contact; no festival partnerships page."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/stoneandwood/p/C6rxFbXS4pW/",
+      "note": "Stone & Wood post (2024 edition): Festival of the Stone 'presented by our @ingrainedfoundation with proceeds going to the @fletcherstreet_cottage' (Google snippet). inGrained is Stone & Wood's own not-for-profit foundation."
+    }
+  ],
+  "add_gaps": [
+    "2026 attendance not published; 2025 'over 2,000' figure still unpinned",
+    "No third-party sponsors found; brand-owned event with proceeds to Fletcher Street Cottage"
+  ],
+  "remove_gaps": [
+    "No 2026 (12th) edition found in search results; it may have run in June 2026",
+    "Ticket prices not captured"
+  ],
+  "notes": "12th edition held 20 Jun 2026 and raised a record $30,419 for Fletcher Street Cottage. Brand-owned by Stone & Wood (a WSL beer partner), so third-party brand access is likely limited. Stone & Wood's IG profile scrape returned no follower or post data."
+}

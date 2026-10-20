@@ -1,0 +1,67 @@
+{
+  "id": "motofest-hampton-downs",
+  "set": {
+    "dates": {
+      "last_edition": {
+        "start": "2026-03-06",
+        "end": "2026-03-08",
+        "status": "held",
+        "label": "2026, first MotoFest Bike Show (with round 3 of the NZ Superbike Championship)"
+      },
+      "next_edition": {
+        "start": "2027-03",
+        "end": null,
+        "status": "expected",
+        "label": "2027"
+      },
+      "frequency": "annual",
+      "duration_days": 3
+    },
+    "organiser": {
+      "name": "Hampton Downs Motorsport Park (event created by Mike Marsden; backed by circuit owner Tony Quinn)",
+      "type": "promoter",
+      "website": "https://www.hamptondowns.com/"
+    }
+  },
+  "add_sponsors": [
+    {"brand": "Honda", "years": [2026], "role": "partner", "source": "https://www.hamptondowns.com/news/motofest-is-now-the-motofest-bike-show"},
+    {"brand": "Suzuki", "years": [2026], "role": "partner", "source": "https://www.hamptondowns.com/news/motofest-is-now-the-motofest-bike-show"},
+    {"brand": "Yamaha", "years": [2026], "role": "partner", "source": "https://www.hamptondowns.com/news/motofest-is-now-the-motofest-bike-show"},
+    {"brand": "Kawasaki", "years": [2026], "role": "partner", "source": "https://www.hamptondowns.com/news/motofest-is-now-the-motofest-bike-show"},
+    {"brand": "KTM", "years": [2026], "role": "partner", "source": "https://www.hamptondowns.com/news/motofest-is-now-the-motofest-bike-show"},
+    {"brand": "CFMOTO", "years": [2026], "role": "partner", "source": "https://www.hamptondowns.com/news/motofest-is-now-the-motofest-bike-show"},
+    {"brand": "Whites Powersports", "years": [2026], "role": "partner", "source": "https://www.hamptondowns.com/news/motofest-is-now-the-motofest-bike-show"},
+    {"brand": "Crown Kiwi", "years": [2026], "role": "partner", "source": "https://www.hamptondowns.com/news/motofest-is-now-the-motofest-bike-show"},
+    {"brand": "Forbes & Davies", "years": [2026], "role": "partner", "source": "https://www.hamptondowns.com/news/motofest-is-now-the-motofest-bike-show"},
+    {"brand": "Darbi", "years": [2026], "role": "partner", "source": "https://www.hamptondowns.com/news/motofest-is-now-the-motofest-bike-show"},
+    {"brand": "Star Insure", "years": [2022, 2023, 2024], "role": "naming", "source": "https://www.hamptondowns.com/news/motorcycle-extravaganza-get-new-title-sponsor"},
+    {"brand": "Shoei", "years": [], "role": "naming", "source": "https://www.nzherald.co.nz/sport/motorsport-boost-for-hampton-downs-motofest/LCACG2HXJSZ7BG6YVTI3VLEAI4/"},
+    {"brand": "Motul", "years": [2021], "role": "partner", "source": "https://www.facebook.com/hamptondowns/posts/motofest-bike-show-day-2-recap-what-a-way-to-wrap-up-an-epic-weekend-at-hampton-/1352630753575274/"}
+  ],
+  "add_activation_formats": ["stall", "competition-or-prize", "sampling"],
+  "add_sources": [
+    {"field": "dates.last_edition", "url": "https://www.hamptondowns.com/news/motofest-is-now-the-motofest-bike-show", "note": "Page read (21 Nov 2025): MotoFest Bike Show 6 to 8 March 2026 at Hampton Downs; MotoFest traditionally runs in the first week of March."},
+    {"field": "dates.frequency", "url": "https://www.hamptondowns.com/news/crafar-returns-for-motofest-24-the-national-championships-final", "note": "Google snippet: Star Insure MotoFest held 2 to 3 March 2024; with 2022 (5 to 6 Mar) and 2026 shows an annual March event."},
+    {"field": "organiser", "url": "https://www.hamptondowns.com/news/motofest-is-now-the-motofest-bike-show", "note": "Page read: MotoFest created by Mike Marsden; circuit owner Tony Quinn backed it from 2018 and the Hampton Downs Motorsport Park team still supports it."},
+    {"field": "organiser", "url": "https://www.hamptondowns.com/", "note": "Google snippet: 'the Hampton Downs-promoted Star Insure MotoFest'."},
+    {"field": "sponsors", "url": "https://www.hamptondowns.com/news/motofest-is-now-the-motofest-bike-show", "note": "Page read: Bike Show backed by six manufacturers (Honda, Suzuki, Yamaha, Kawasaki, KTM, CF Moto) and accessories wholesalers Whites Powersports, Crown Kiwi, Forbes & Davies and Darbi. No title sponsor named for 2026."},
+    {"field": "sponsors", "url": "https://www.hamptondowns.com/news/motorcycle-extravaganza-get-new-title-sponsor", "note": "Google snippet: Star Insurance new title sponsor for the 5 to 6 March 2022 edition."},
+    {"field": "sponsors", "url": "https://starinsure.co.nz/resources/news/the-star-insure-motofest-comes-to-hampton-downs-in-march-2022/", "note": "Google snippet: 'The Star Insure Motofest comes to Hampton Downs in March 2022'."},
+    {"field": "sponsors", "url": "https://www.hamptondowns.com/news/crafar-returns-for-motofest-24-the-national-championships-final", "note": "Google snippet: 'The Star Insure MotoFest on March 2-3, 2024'. A 2022-23 season preview snippet also names the Star Insure MotoFest, covering the 2023 edition."},
+    {"field": "sponsors", "url": "https://www.nzherald.co.nz/sport/motorsport-boost-for-hampton-downs-motofest/LCACG2HXJSZ7BG6YVTI3VLEAI4/", "note": "Google snippet: Shoei took naming rights for MotoFest on March 3 to 4 (year not shown in snippet)."},
+    {"field": "sponsors", "url": "https://www.facebook.com/hamptondowns/posts/motofest-bike-show-day-2-recap-what-a-way-to-wrap-up-an-epic-weekend-at-hampton-/1352630753575274/", "note": "Google snippet: MotoFest 2021 programme featured the Motul NZ Classic Grand Prix and Shoei Helmets-sponsored Classic Two Stroke races."},
+    {"field": "activation_formats", "url": "https://www.hamptondowns.com/news/motofest-is-now-the-motofest-bike-show", "note": "Page read: manufacturer and accessory displays at the Bike Show, plus a $10,000 gate prize redeemable at participating exhibitors."},
+    {"field": "activation_formats", "url": "https://www.brm.co.nz/motofest-nzsbk-hampton-downs-2026/", "note": "Google snippet: 2026 Bike Show included demo rides, a custom bike display and a track ride with 400+ riders."}
+  ],
+  "add_gaps": [
+    "Attendance not published (Hampton Downs recap says only 'huge crowd')",
+    "Ticket prices not captured",
+    "No standalone MotoFest website; pages sit on hamptondowns.com and nzsuperbikeseries.co.nz",
+    "Year of the Shoei naming-rights deal not pinned (snippet gives 3 to 4 March only)"
+  ],
+  "remove_gaps": [
+    "Organiser not confirmed (bike show page sits on the NZ Superbike Series site)",
+    "Attendance, ticket prices and sponsors not captured"
+  ],
+  "notes": "Long-running Hampton Downs motorcycle racing festival, rebranded as the MotoFest Bike Show for 6 to 8 Mar 2026 with six manufacturers backing it. Past title sponsors Star Insure (2022 to 2024) and Shoei (year unclear). No event IG; Apify search hits were MotoFests in other countries."
+}

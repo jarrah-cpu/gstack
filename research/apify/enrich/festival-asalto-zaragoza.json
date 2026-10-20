@@ -1,0 +1,33 @@
+{
+  "id": "festival-asalto-zaragoza",
+  "set": {
+    "website": "https://www.festivalasalto.com/",
+    "organiser": {"name": "Asalto (asalto.org), co-organised with Ayuntamiento de Zaragoza", "type": null, "website": "https://www.asalto.org/"},
+    "attendance": {"figure": 3000, "figure_high": null, "year": 2024, "is_estimate": true, "source": "https://www.facebook.com/AragonTV/videos/3000-visitantes-han-disfrutado-en-torrero-la-paz-del-arte-urbano-del-festival-as/846419780976487/", "note": "Aragón TV report title (Google snippet): '3.000 visitantes han disfrutado en Torrero-La Paz del arte urbano del festival Asalto' (2024 edition). Likely counts activities and tours, not everyone who saw the public murals. A 2025 Aragón Play article cites '55.000 asistentes' without a clear scope (possibly cumulative)."}
+  },
+  "add_sponsors": [
+    {"brand": "Ayuntamiento de Zaragoza", "years": [2025, 2026], "role": "government", "source": "https://www.instagram.com/p/DcymenmI4IB/"},
+    {"brand": "Ministerio de Cultura", "years": [2025, 2026], "role": "government", "source": "https://www.instagram.com/p/Ddo16tMiEHN/"},
+    {"brand": "AC/E (Acción Cultural Española)", "years": [2025], "role": "government", "source": "https://www.aragonplay.es/aragoncultura/nuestra-cultura/zaragoza-se-llena-de-creatividad-en-la-semana-grande-del-festival-asalto-2025.html"},
+    {"brand": "Gobierno de Aragón", "years": [2025], "role": "government", "source": "https://www.aragonplay.es/aragoncultura/nuestra-cultura/zaragoza-se-llena-de-creatividad-en-la-semana-grande-del-festival-asalto-2025.html"},
+    {"brand": "Embou", "years": [2025], "role": "partner", "source": "https://www.aragonplay.es/aragoncultura/nuestra-cultura/zaragoza-se-llena-de-creatividad-en-la-semana-grande-del-festival-asalto-2025.html"},
+    {"brand": "Cervezas Ambar", "years": [2025], "role": "partner", "source": "https://www.aragonplay.es/aragoncultura/nuestra-cultura/zaragoza-se-llena-de-creatividad-en-la-semana-grande-del-festival-asalto-2025.html"},
+    {"brand": "Maquinza", "years": [2025], "role": "partner", "source": "https://www.aragonplay.es/aragoncultura/nuestra-cultura/zaragoza-se-llena-de-creatividad-en-la-semana-grande-del-festival-asalto-2025.html"},
+    {"brand": "Montana Colors", "years": [2025], "role": "partner", "source": "https://www.aragonplay.es/aragoncultura/nuestra-cultura/zaragoza-se-llena-de-creatividad-en-la-semana-grande-del-festival-asalto-2025.html"},
+    {"brand": "Cafés Orús", "years": [2025], "role": "partner", "source": "https://www.aragonplay.es/aragoncultura/nuestra-cultura/zaragoza-se-llena-de-creatividad-en-la-semana-grande-del-festival-asalto-2025.html"},
+    {"brand": "Tranvía de Zaragoza", "years": [2025], "role": "partner", "source": "https://www.aragonplay.es/aragoncultura/nuestra-cultura/zaragoza-se-llena-de-creatividad-en-la-semana-grande-del-festival-asalto-2025.html"}
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {"field": "website", "url": "https://www.festivalasalto.com/", "note": "Official festival site (IG bio: www.festivalasalto.com); links to organisation site www.asalto.org and Eventbrite guided-tour bookings."},
+    {"field": "organiser", "url": "https://www.instagram.com/p/DcymenmI4IB/", "note": "2 Sep 2026: 'Proyecto coorganizado por @asalto_org y @ayuntamiento_zaragoza'."},
+    {"field": "organiser", "url": "https://www.aragonplay.es/aragoncultura/nuestra-cultura/zaragoza-se-llena-de-creatividad-en-la-semana-grande-del-festival-asalto-2025.html", "note": "2025: 'El festival está organizado por Asalto y el Ayuntamiento de Zaragoza'."},
+    {"field": "sponsors", "url": "https://www.aragonplay.es/aragoncultura/nuestra-cultura/zaragoza-se-llena-de-creatividad-en-la-semana-grande-del-festival-asalto-2025.html", "note": "2025: 'con apoyo de AC/E, Ministerio de Cultura y Gobierno de Aragón' and 'patrocinadores como Embou, Ámbar, Maquinza, Montana Colors, Cafés Orús y Tranvía de Zaragoza'; 86 collaborating social organisations."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/Ddo16tMiEHN/", "note": "2026 Invernadero del Barrio activity 'realizada con financiación del Ministerio de Cultura'. The 2026 festival site names no commercial sponsors."},
+    {"field": "attendance", "url": "https://www.facebook.com/AragonTV/videos/3000-visitantes-han-disfrutado-en-torrero-la-paz-del-arte-urbano-del-festival-as/846419780976487/", "note": "Google snippet title only; 2024 edition in Torrero-La Paz."},
+    {"field": "dates.last_edition", "url": "https://www.turismodearagon.com/agenda-aragon/festival-asalto/", "note": "Google snippet: 2024 edition in Torrero and La Paz; 2025 (20 years) 5 to 21 Sep. This explains the Torrero-La Paz reference; 2026 returned to San Pablo."}
+  ],
+  "add_gaps": ["2026 commercial sponsors not named on the festival site (sponsor list is from 2025 press)", "Per-edition attendance not published (only a 2024 TV figure and an unclear 55,000 total)"],
+  "remove_gaps": ["Organiser not identified", "Attendance not published", "Sponsors beyond Zaragoza Vivienda not identified", "One source places a 2026 intervention in Torrero La Paz rather than San Pablo"],
+  "notes": "Organised by the Asalto association with Zaragoza city council; funded mainly by public bodies, with 2025 commercial sponsors Embou (telco), Ambar (beer), Maquinza, Montana Colors, Cafés Orús and the city tram. Strong social and community focus (migrants, older people, health centre mural in 2026). No email published. IG @festivalasalto is correct."
+}

@@ -1,0 +1,58 @@
+{
+  "id": "gravel-in-paradise-otago",
+  "set": {
+    "dates": {
+      "last_edition": {"start": "2026-02-22", "end": "2026-05-09", "status": "held", "label": "2026 series (four one-day rounds)"},
+      "next_edition": {"start": "2027-02-28", "end": null, "status": "confirmed", "label": "2027 series: Crop Duster (Alexandra) 28 Feb, Puketapu Gravel 'n' Tar (Palmerston) 21 Mar; later rounds not seen"},
+      "frequency": "annual",
+      "duration_days": null
+    },
+    "organiser": {"name": "Cycling Otago and Cycling Waitaki", "type": null, "website": "https://www.gravelinparadise.co.nz/"}
+  },
+  "add_sponsors": [
+    {"brand": "Property Brokers", "years": [2024, 2026], "role": "naming", "source": "https://www.cyclingotago.co.nz/?page_id=64"},
+    {"brand": "Euro Cycling", "years": [2026], "role": "major", "source": "https://www.gravelinparadise.co.nz/win.html"},
+    {"brand": "Ricoh", "years": [2026], "role": "major", "source": "https://www.gravelinparadise.co.nz/"},
+    {"brand": "Calect Electrical", "years": [2026], "role": "major", "source": "https://www.gravelinparadise.co.nz/"},
+    {"brand": "Farmstrong", "years": [2026], "role": "major", "source": "https://www.gravelinparadise.co.nz/"},
+    {"brand": "Anchor Milk Otago", "years": [2026], "role": "partner", "source": "https://www.gravelinparadise.co.nz/"},
+    {"brand": "Hive Energy", "years": [2026], "role": "partner", "source": "https://www.gravelinparadise.co.nz/"},
+    {"brand": "Fit Gym Wanaka", "years": [2026], "role": "partner", "source": "https://www.gravelinparadise.co.nz/"},
+    {"brand": "Waiareka Valley Lions", "years": [2026], "role": "partner", "source": "https://www.gravelinparadise.co.nz/"},
+    {"brand": "Design Windows", "years": [2026], "role": "partner", "source": "https://www.gravelinparadise.co.nz/"},
+    {"brand": "Stoked (hot tubs)", "years": [2026], "role": "partner", "source": "https://www.gravelinparadise.co.nz/"},
+    {"brand": "Chapman Property Managers", "years": [2026], "role": "partner", "source": "https://www.gravelinparadise.co.nz/"},
+    {"brand": "Silver Fern Farms", "years": [2026], "role": "partner", "source": "https://www.gravelinparadise.co.nz/"},
+    {"brand": "My Ride Dunedin", "years": [2026], "role": "partner", "source": "https://www.gravelinparadise.co.nz/matakanui-express.html"},
+    {"brand": "Tourism Waitaki", "years": [2026], "role": "government", "source": "https://www.gravelinparadise.co.nz/"},
+    {"brand": "PGG Wrightson", "years": [2026], "role": "partner", "source": "https://www.gravelinparadise.co.nz/"},
+    {"brand": "Otago Knitwear", "years": [2026], "role": "partner", "source": "https://www.gravelinparadise.co.nz/"},
+    {"brand": "Waitaki Whitestone Geopark", "years": [2026], "role": "partner", "source": "https://www.gravelinparadise.co.nz/"},
+    {"brand": "Martyn's Cycles", "years": [2025, 2026], "role": "partner", "source": "https://www.gravelinparadise.co.nz/"},
+    {"brand": "Hub and Sprocket Cycles", "years": [2026], "role": "partner", "source": "https://www.gravelinparadise.co.nz/"},
+    {"brand": "Oamaru Stone", "years": [2026], "role": "partner", "source": "https://www.gravelinparadise.co.nz/"},
+    {"brand": "Whitestone Cheese", "years": [2026], "role": "partner", "source": "https://www.gravelinparadise.co.nz/"},
+    {"brand": "Willbike", "years": [2026], "role": "partner", "source": "https://www.gravelinparadise.co.nz/"},
+    {"brand": "Fort Enfield", "years": [2026], "role": "partner", "source": "https://www.gravelinparadise.co.nz/"},
+    {"brand": "Radio Central", "years": [2026], "role": "media", "source": "https://www.gravelinparadise.co.nz/"},
+    {"brand": "Ida Bar", "years": [2026], "role": "partner", "source": "https://www.gravelinparadise.co.nz/"},
+    {"brand": "Green Monkey", "years": [2026], "role": "partner", "source": "https://www.gravelinparadise.co.nz/"},
+    {"brand": "Forethought", "years": [2026], "role": "partner", "source": "https://www.gravelinparadise.co.nz/"},
+    {"brand": "FulGaz", "years": [2026], "role": "partner", "source": "https://www.gravelinparadise.co.nz/"}
+  ],
+  "add_activation_formats": ["naming-rights", "stage-or-program-takeover"],
+  "add_sources": [
+    {"field": "dates.last_edition", "url": "https://www.gravelinparadise.co.nz/", "note": "2026 events: Crop Duster 22 Feb (Alexandra), Puketapu Gravel 'n' Tar 22 Mar (Palmerston), Matakanui Express 19 Apr (Omakau), White Rocks 9 May (Enfield)."},
+    {"field": "dates.next_edition", "url": "https://www.instagram.com/cyclingotago/p/DcM1UMLE45W/", "note": "Google snippet of Cycling Otago IG: 'Gravel in Paradise is back for 2027! Crop Duster, Alexandra: Sunday 28th Feb; Puketapu Gravel 'n' Tar, Palmerston: Sunday 21st March ...' (rest cut off)."},
+    {"field": "organiser", "url": "https://www.gravelinparadise.co.nz/", "note": "Footer: 'Brought to you by Cycling Otago and Cycling Waitaki.'"},
+    {"field": "sponsors", "url": "https://www.gravelinparadise.co.nz/", "note": "Homepage (crawled Oct 2026, 2026 series): Main Sponsors Property Brokers, Euro Cycling, Ricoh, Calect Electrical, Farmstrong; Partners Anchor Milk Otago, Hive Energy, Fit Gym Wanaka, Waiareka Valley Lions, Design Windows, Stoked, Chapman Property Managers, Silver Fern Farms, My Ride Dunedin, Tourism Waitaki, PGG Wrightson, Otago Knitwear, Waitaki Whitestone Geopark, Martyn's Cycles, Hub and Sprocket Cycles, Oamaru Stone, Whitestone Cheese, Willbike, Fort Enfield, Radio Central, Ida Bar, Green Monkey, Forethought; FulGaz virtual rides."},
+    {"field": "sponsors", "url": "https://www.cyclingotago.co.nz/?page_id=64", "note": "Google snippet: 'Property Brokers Dunedin are the title sponsor for our Property Brokers Gravel in Paradise.' 2024 series also named 'Property Brokers Gravel in Paradise' (https://www.cyclingotago.co.nz/?p=3136)."},
+    {"field": "sponsors", "url": "https://www.gravelinparadise.co.nz/win.html", "note": "Euro Cycling giveaway of a 3T PRIMO 2 WPNT gravel bike valued at $10,000 for 2026 entrants."},
+    {"field": "sponsors", "url": "https://www.gravelinparadise.co.nz/matakanui-express.html", "note": "'Ian Fahy from My Ride Dunedin has kindly sponsored a $1,200.00 motorhome getaway experience'."},
+    {"field": "sponsors", "url": "https://www.facebook.com/gravelinparadise/posts/a-massive-thank-you-to-martyns-cycles-for-their-support-of-the-gravel-in-paradis/1248473457283958/", "note": "Google snippet, 17 Apr 2025: 'A massive thank you to Martyns Cycles for their support'."},
+    {"field": "activation_formats", "url": "https://www.gravelinparadise.co.nz/", "note": "Ride Strong: 'A race class for the farming community in conjunction with FarmStrong'; title sponsorship by Property Brokers."}
+  ],
+  "add_gaps": ["Field sizes and entry fees not captured", "Audience not published", "No event Instagram account found; organiser posts via @cyclingotago"],
+  "remove_gaps": ["2027 dates not announced", "Field sizes, entry fees and sponsors not captured"],
+  "notes": "Deep local sponsor roster with Property Brokers as title sponsor. Farmstrong (a rural wellbeing programme) co-brands the 'Ride Strong' farmer class, a direct precedent for a health brand owning a category. Instagram: no event account found (pack note says search hits were unrelated gravel accounts); Cycling Otago's @cyclingotago carries the series news. 2027 later-round dates not yet seen."
+}

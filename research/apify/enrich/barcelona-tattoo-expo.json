@@ -1,0 +1,37 @@
+{
+  "id": "barcelona-tattoo-expo",
+  "set": {
+    "organiser": {"name": "Urban Line Concept Events", "type": "promoter", "website": null},
+    "attendance": {"figure": 20000, "figure_high": null, "year": 2024, "is_estimate": false, "source": "https://baumfest.com/wp-content/uploads/2025/08/NdP_barcelona_25_eng.pdf", "note": "Organiser-reported: 'In its last edition, the festival welcomed over 20,000 attendees' (1 Aug 2025 press release, so the 2024 edition). The site also claims more than 250,000 visitors in total since 1996."},
+    "partnership_contact": {"email": "info@baumfest.com", "page_url": "https://baumfest.com/contact/", "named_person": null, "source": "https://baumfest.com/wp-content/uploads/2025/08/NdP_barcelona_25_eng.pdf"},
+    "location": {"city": "Barcelona", "state_or_region": "Catalonia", "country": "Spain", "venue_or_area": "Fira de Barcelona, Pavilion 2, Plaça d'Espanya"}
+  },
+  "add_sponsors": [
+    {"brand": "Monster Energy", "years": [2024, 2025, 2026], "role": "major", "source": "https://baumfest.com/wp-content/uploads/2025/08/NdP_barcelona_25_eng.pdf"},
+    {"brand": "Pro-Arts", "years": [2026], "role": "partner", "source": "https://baumfest.com/artistas/"},
+    {"brand": "Bepanthol", "years": [2026], "role": "partner", "source": "https://baumfest.com/artistas/"},
+    {"brand": "Stericycle", "years": [2026], "role": "partner", "source": "https://baumfest.com/artistas/"},
+    {"brand": "360BS", "years": [2026], "role": "partner", "source": "https://baumfest.com/artistas/"},
+    {"brand": "Breaking.es", "years": [2026], "role": "partner", "source": "https://baumfest.com/artistas/"},
+    {"brand": "Zodiac", "years": [2026], "role": "partner", "source": "https://baumfest.com/artistas/"},
+    {"brand": "EETP (NTS tattoo training)", "years": [2026], "role": "partner", "source": "https://baumfest.com/artistas/"},
+    {"brand": "Fira de Barcelona", "years": [2026], "role": "venue", "source": "https://baumfest.com/artistas/"},
+    {"brand": "Tattoo Life", "years": [2026], "role": "media", "source": "https://baumfest.com/artistas/"}
+  ],
+  "add_activation_formats": ["competition-or-prize"],
+  "add_sources": [
+    {"field": "sponsors", "url": "https://baumfest.com/wp-content/uploads/2025/08/NdP_barcelona_25_eng.pdf", "note": "Aug 2025 press release: 'Monster Energy will return as the official sponsor'."},
+    {"field": "sponsors", "url": "https://baumfest.com/artistas/", "note": "2026 artist directory footer (BAUMFEST 2026): Patrocinadores Monster Energy and Pro-Arts; Colaboradores Stericycle, Bepanthol, 360BS, Breaking, EETP, Zodiac; venue Fira de Barcelona; media partner Tattoo Life; in-house agency Zinkers (not a sponsor)."},
+    {"field": "sponsors", "url": "https://baumfest.com/en/contact/", "note": "Same sponsor, collaborator, venue and media partner blocks on the English contact page."},
+    {"field": "organiser", "url": "https://baumfest.com/en/contact/", "note": "Footer 'ORGANIZED BY' shows the Urban Line logo; press release letterhead is Urban Line Concept Events."},
+    {"field": "organiser", "url": "https://guia.barcelona.cat/ca/detall/baum-festival-barcelona-tattoo-expo_1354124828.html", "note": "Google snippet: 'Organitza: Urban Line Concept Events'."},
+    {"field": "attendance", "url": "https://baumfest.com/wp-content/uploads/2025/08/NdP_barcelona_25_eng.pdf", "note": "Organiser press release: over 20,000 attendees at the last (2024) edition; over 200 artists from 25 countries for 2025."},
+    {"field": "partnership_contact", "url": "https://baumfest.com/wp-content/uploads/2025/08/NdP_barcelona_25_eng.pdf", "note": "Press contact for information, interviews and accreditations: info@baumfest.com. Contact page has a form asking 'Vols ser patrocinador' style enquiries."},
+    {"field": "dates.last_edition", "url": "https://baumfest.com/artistas/", "note": "Official site (BAUMFEST 2026): Friday 2, Saturday 3 and Sunday 4 October, Pavilion 2, Plaça Espanya. Resolves the 1 to 3 Oct conflict."},
+    {"field": "location", "url": "https://baumfest.com/artistas/", "note": "Pabellón 2 de Plaza España, Fira de Barcelona."},
+    {"field": "activation_formats", "url": "https://baumfest.com/wp-content/uploads/2025/08/NdP_barcelona_25_eng.pdf", "note": "Tattoo contest with over 10 categories and daily prizes, new Barber Contest with awards, Flatland BMX competition."}
+  ],
+  "add_gaps": ["2025 and 2026 attendance not published (latest organiser figure is for 2024)", "No sponsorship deck or audience demographics published"],
+  "remove_gaps": ["Sources disagree on 2026 dates (2 to 4 Oct per BAUM Fest search result and InkPPL vs 1 to 3 Oct per World Tattoo Events)", "No public partnerships contact found", "Attendance, organiser and sponsors not captured"],
+  "notes": "Official site confirms 2026 dates (2 to 4 Oct, Pavilion 2). Monster Energy is the official sponsor; Bepanthol (Bayer aftercare) is a collaborator, a useful health-adjacent precedent. IG @barcelonatattooexpo is correct; @baumfest (18k) is the umbrella festival account. Pro-Arts logo links to the Monster site, so its tier is uncertain."
+}

@@ -1,0 +1,54 @@
+{
+  "id": "rainbow-disco-club-higashi-izu",
+  "set": {
+    "dates": {
+      "last_edition": {"start": "2026-04-17", "end": "2026-04-19", "status": "held", "label": "2026"},
+      "next_edition": {"start": "2027-04-16", "end": "2027-04-18", "status": "confirmed", "label": "2027"},
+      "frequency": "annual",
+      "duration_days": 3
+    },
+    "ticket_price": {"min": 19000, "max": 29000, "currency": "JPY", "free_entry": false, "note": "2027 official site: 3-day pass Category 5 27,000, Category 6 28,000, Category 7 29,000 JPY (Categories 1 to 4 sold out, prices not shown); 23 and under 3-day pass 19,000; group pass for 4 104,000; Day 2 and 3 pass 26,000. Camping 5,000 to 6,000 and parking 5,000 to 6,000 extra. 15 and under free. Ticketing via ZAIKO."}
+  },
+  "add_sponsors": [
+    {"brand": "Nike ACG", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DW72QXbjzRW/"},
+    {"brand": "Paramount Running", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DW72QXbjzRW/"},
+    {"brand": "Red Bull", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DTciEanks_s/"},
+    {"brand": "AlphaTheta", "years": [2025, 2026], "role": "partner", "source": "https://www.instagram.com/p/DVunJksj-mR/"},
+    {"brand": "BEAMS RECORDS", "years": [2026], "role": "collab", "source": "https://www.instagram.com/p/DV0aOXXj9-f/"},
+    {"brand": "REVOMAX", "years": [2026], "role": "collab", "source": "https://www.instagram.com/p/DV0aOXXj9-f/"},
+    {"brand": "TRIBE WEAR", "years": [2026], "role": "collab", "source": "https://www.instagram.com/p/DVp6Us-D1Rx/"},
+    {"brand": "Komatsuya (Asakusa tableware)", "years": [2026], "role": "collab", "source": "https://www.instagram.com/p/DVxlAtSj7aR/"},
+    {"brand": "NASGERO", "years": [2026], "role": "collab", "source": "https://www.instagram.com/p/DVxL6kPj0b1/"},
+    {"brand": "VEIN", "years": [2026], "role": "collab", "source": "https://www.instagram.com/p/DXIntg9D-zX/"},
+    {"brand": "WOMB", "years": [2026], "role": "venue", "source": "https://www.instagram.com/p/DXVrYm2j4pV/"},
+    {"brand": "ZAIKO", "years": [2026, 2027], "role": "partner", "source": "https://rainbowdiscoclub.com/"}
+  ],
+  "add_activation_formats": ["sampling", "collab-product", "after-party"],
+  "add_sources": [
+    {"field": "dates.next_edition", "url": "https://rainbowdiscoclub.com/", "note": "Official site: Rainbow Disco Club 2027 on 16, 17 and 18 April 2027 at Higashi-Izu Cross Country Course; IG bio says the same."},
+    {"field": "ticket_price", "url": "https://rainbowdiscoclub.com/", "note": "2027 ticket table: Category 5 to 7 3-day passes 27,000 to 29,000 JPY, U23 19,000, group of 4 104,000, Day 2 and 3 26,000, camping and parking 5,000 to 6,000; under 20 must attend with a guardian; 15 and under free."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DW72QXbjzRW/", "note": "RAINBOW DISCO [RUN] CLUB 5K trail run, 18 Apr 2026 on the festival site, 'Presented by NIKE ACG & PARAMOUNT RUNNING'; ticket holders only, filled to capacity; trial running shoes provided."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DZG9N7Tj5Uk/", "note": "Post-event thank-you (3 Jun 2026): 'RAINBOW DISCO [RUN] CLUB 2026 Presented by NIKE ACG and PARAMOUNT RUNNING'."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DTciEanks_s/", "note": "2026 timetable names a second stage 'RED BULL STAGE' on all three days."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DVunJksj-mR/", "note": "RDC x AlphaTheta euphonia sweat (Mar 2026): AlphaTheta described as a long-running partner; custom one-off euphonia mixer made for RDC 2025."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DZJ7NlSgde7/", "note": "Google snippet (agency post): AlphaTheta sponsored Rainbow Disco Club 2026."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DV0aOXXj9-f/", "note": "RDC x BEAMS RECORDS 2026 REVOMAX 12oz bottle; 100 JPY off drinks at the official bar when you bring it (plastic reduction)."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DVp6Us-D1Rx/", "note": "RDC x TRIBE WEAR collab tees and sweats (Mar 2026)."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DVxlAtSj7aR/", "note": "RDC x Komatsuya donburi bowl; Komatsuya also made the RDC x NASGERO plate (https://www.instagram.com/p/DVxL6kPj0b1/)."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DXIntg9D-zX/", "note": "Venue-only collabs at the 2026 merch booth: RDC x BEAMS RECORDS and RDC x VEIN key chain."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DXVrYm2j4pV/", "note": "Official RDC 2026 after party at WOMB Tokyo (25 Apr 2026); pre-party also at WOMB."},
+    {"field": "activation_formats", "url": "https://www.instagram.com/p/DW72QXbjzRW/", "note": "Nike ACG and Paramount Running took over a morning 5K trail run program with trial shoes (program takeover plus product trial)."},
+    {"field": "activation_formats", "url": "https://www.instagram.com/p/DV0aOXXj9-f/", "note": "Multiple collab products (AlphaTheta, BEAMS RECORDS x REVOMAX, TRIBE WEAR, Komatsuya, NASGERO, VEIN)."},
+    {"field": "activation_formats", "url": "https://www.instagram.com/p/DXVrYm2j4pV/", "note": "Official after party at WOMB Tokyo."}
+  ],
+  "remove_gaps": [
+    "2027 dates not announced; mid to late April expected from the 2024 to 2026 pattern",
+    "No sponsor or brand partner list found for the Izu edition beyond ticketing partner ZAIKO (2025)",
+    "2026 ticket price and pass types not confirmed; website URL form (with or without www) not verified"
+  ],
+  "add_gaps": [
+    "No published sponsor list or tiers; partners inferred from stage names, program credits and collab posts",
+    "2027 Category 1 to 4 early bird prices not shown (sold out)"
+  ],
+  "notes": "2027 confirmed for 16 to 18 Apr. Strong precedent for a health brand: Nike ACG and Paramount Running presented an on-site 5K trail run club in 2026, plus Red Bull Stage and AlphaTheta as long-running partner. Google snippets show a line inviting companies, agencies and PR firms to enquire about sponsorship, but its source and contact could not be confirmed. Food vendor applications go to eild.tokyo@gmail.com (not a partnership contact). RDC also runs off-site events (1 Hotel Tokyo listening session, FOLD x RDC at WOMB)."
+}

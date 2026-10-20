@@ -1,0 +1,41 @@
+{
+  "id": "neopop-viana-do-castelo",
+  "set": {
+    "dates": {
+      "last_edition": {"start": "2026-08-06", "end": "2026-08-08", "status": "held", "label": "20th anniversary, run as ANTIPOP (2026)"},
+      "next_edition": {"start": "2027-08-05", "end": "2027-08-07", "status": "confirmed", "label": "2027"},
+      "frequency": "annual",
+      "duration_days": 3
+    },
+    "location": {"city": "Viana do Castelo", "state_or_region": "Norte", "country": "Portugal", "venue_or_area": "Forte de Santiago da Barra, with NEOCAMPING"}
+  },
+  "add_sponsors": [
+    {"brand": "Heineken", "years": [2026], "role": "major", "source": "https://www.instagram.com/p/DcJn7pcjbRl/"},
+    {"brand": "Câmara Municipal de Viana do Castelo", "years": [2026], "role": "government", "source": "https://www.instagram.com/p/DbtxF5ZDbQk/"},
+    {"brand": "Turismo do Porto e Norte de Portugal", "years": [2026], "role": "government", "source": "https://www.instagram.com/p/DbtxF5ZDbQk/"},
+    {"brand": "Visit Portugal", "years": [2026], "role": "government", "source": "https://www.instagram.com/p/DbtxF5ZDbQk/"},
+    {"brand": "Antena 3", "years": [2026], "role": "media", "source": "https://www.instagram.com/p/DbtxF5ZDbQk/"},
+    {"brand": "Red Bull Portugal", "years": [2026], "role": "unknown", "source": "https://www.instagram.com/p/DbtxF5ZDbQk/"},
+    {"brand": "Hydro Ice", "years": [2026], "role": "unknown", "source": "https://www.instagram.com/p/DbtxF5ZDbQk/"}
+  ],
+  "add_activation_formats": ["naming-rights"],
+  "add_sources": [
+    {"field": "dates.next_edition", "url": "https://www.instagram.com/neopopfestival/", "note": "IG bio: '5,6,7 agosto 2027, NEOPOP returns'; 2026 posts sign off 'NEOPOP returns, 5,6,7 de agosto de 2027, Forte de Santiago da Barra'."},
+    {"field": "location", "url": "https://www.instagram.com/p/DbtxF5ZDbQk/", "note": "Captions: 'ANTIPOP, XX Years of NEOPOP Festival, 6/7/8 de agosto 2026, Forte de Santiago da Barra, Viana do Castelo'; NEOCAMPING hosted extra sets."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DcJn7pcjbRl/", "note": "17 Aug 2026: 'Heineken & NEOPOP, uma parceria de há largos anos' (a long-standing partnership)."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DaVqx1puzLG/", "note": "Main stage named 'Heineken NEO STAGE' in 2026 line-up posts."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DbtxF5ZDbQk/", "note": "Promo posts from Jun to Aug 2026 consistently tag @camaramunicipalvianacastelo, @turismo_portoenorte, @visitportugal, @antena3rtp, @redbullpor and @hydroiceofficial (about 67, 30 and 19 posts) as a block, without partner wording; roles inferred."},
+    {"field": "activation_formats", "url": "https://www.instagram.com/p/DaN70vONU9s/", "note": "Heineken NEO STAGE naming on the main stage (7 Aug 2026 line-up)."}
+  ],
+  "add_gaps": [
+    "Attendance not found: an RTP report cites an expected 30,000+ but shows no year",
+    "Red Bull and Hydro Ice roles unconfirmed (tag block only)",
+    "Organiser entity not named in captured sources"
+  ],
+  "remove_gaps": [
+    "2027 dates only on a third-party listing, not confirmed by organiser",
+    "Sponsors not found",
+    "Venue not pinned in search results"
+  ],
+  "notes": "Heineken is the long-standing lead brand with the main stage named Heineken NEO STAGE. Tourism bodies, the municipality, Antena 3, Red Bull and Hydro Ice are tagged as a block on most 2026 posts. 2027 dates 5 to 7 Aug confirmed by organiser IG. RTP 'junta 30 mil pessoas' piece is an undated expectation, not used. Drinks card top-ups of EUR 30 to 100 offered on site."
+}

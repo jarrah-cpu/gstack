@@ -1,0 +1,99 @@
+{
+  "id": "blazing-swan-kulin",
+  "set": {
+    "dates": {
+      "last_edition": {
+        "start": "2026-04-01",
+        "end": "2026-04-07",
+        "status": "held",
+        "label": "2026: Takes A Village"
+      },
+      "next_edition": {
+        "start": "2027-03-24",
+        "end": "2027-03-30",
+        "status": "confirmed",
+        "label": "2027: Side Quest"
+      },
+      "frequency": "annual",
+      "duration_days": 7
+    },
+    "organiser": {
+      "name": "Blazing Swan Inc.",
+      "type": "non-profit",
+      "website": "https://blazingswan.com.au/"
+    },
+    "attendance": {
+      "figure": 3000,
+      "figure_high": null,
+      "year": 2025,
+      "is_estimate": true,
+      "source": "https://en.wikipedia.org/wiki/Blazing_Swan",
+      "note": "Wikipedia participant table: 3,000 in 2023, 2024 and 2025 (peak 3,200 in 2018). Not an organiser figure. SMH expected 'up to 2500' in 2016."
+    },
+    "ticket_price": {
+      "min": 450,
+      "max": null,
+      "currency": "AUD",
+      "free_entry": false,
+      "note": "Adult price about $450 upwards for 2026 per Wikipedia (verify on Humanitix). Organiser FAQ: ages 12 to 17 $100, under 12 free; max 2 adult tickets per purchase."
+    }
+  },
+  "add_sources": [
+    {
+      "field": "dates.next_edition",
+      "url": "https://blazingswan.com.au/",
+      "note": "Crawled homepage: 'Blazing Swan 2027: Side Quest (24th to 30th March 2027, Jilakin Rock City, Kulin)'; tickets expected mid to late Nov 2026."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://blazingswan.com.au/eventinfo/",
+      "note": "Crawled page: 2026 'Takes A Village', Wed 1 Apr to Tue 7 Apr 2026."
+    },
+    {
+      "field": "organiser",
+      "url": "https://en.wikipedia.org/wiki/Blazing_Swan",
+      "note": "Page read: organised by Blazing Swan, Inc., a not-for-profit incorporated association."
+    },
+    {
+      "field": "organiser",
+      "url": "https://www.facebook.com/BlazingSwan/",
+      "note": "Google snippet: 'Blazing Swan is a Non-Profit Organisation that runs a Burning Man Regional event in Western Australia'."
+    },
+    {
+      "field": "attendance",
+      "url": "https://en.wikipedia.org/wiki/Blazing_Swan",
+      "note": "Page read: participants by year, about 3,000 for 2023 to 2025; 2026 listed as about 3,000 (approximate)."
+    },
+    {
+      "field": "attendance",
+      "url": "https://www.smh.com.au/national/western-australia/was-own-version-of-burning-man-festival-blazing-swan-set-to-kick-off-in-kulin-20160322-gnou20.html",
+      "note": "Google snippet (2016): 'Up to 2500 festival goers are expected'."
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://blazingswan.com.au/ticket-faq/",
+      "note": "Crawled page: children 12 to 17 $100, under 12 free, tickets via Humanitix."
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://en.wikipedia.org/wiki/Blazing_Swan",
+      "note": "Page read: ticket price rose from $15 to $30 in 2013 to about $450 upwards for 2026."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://blazingswan.com.au/wp-content/uploads/Survival-Guide_GDL-013-1.0.pdf",
+      "note": "Google snippet of the Survival Guide: no commerce at Blazing Swan 'along with no advertising or commercial sponsorship'."
+    }
+  ],
+  "remove_gaps": [
+    "2027 dates not announced; Easter timing expected from past pattern, though dates have shifted between years",
+    "Attendance, ticket prices and organiser entity not found",
+    "Brand and sponsorship rules not checked"
+  ],
+  "add_gaps": [
+    "Attendance only from Wikipedia; no organiser figure found",
+    "Adult ticket price not confirmed on organiser pages",
+    "Event bars advertising and commercial sponsorship (Burning Man decommodification principle)"
+  ],
+  "notes": "Official Burning Man regional run by a not-for-profit association; about 3,000 participants. Its rules ban advertising and commercial sponsorship, so a branded activation is not possible. 2027 is 24 to 30 March (Easter). IG account is correct."
+}

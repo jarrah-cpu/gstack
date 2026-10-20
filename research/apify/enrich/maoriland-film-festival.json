@@ -1,0 +1,34 @@
+{
+  "id": "maoriland-film-festival",
+  "set": {
+    "organiser": {"name": "Māoriland Charitable Trust (CC53677)", "type": "non-profit", "website": "https://maorilandfilm.co.nz/"},
+    "dates": {
+      "last_edition": {"start": "2026-03-24", "end": "2026-03-28", "status": "held", "label": "13th (2026)"},
+      "next_edition": {"start": "2027-03-16", "end": "2027-03-21", "status": "confirmed", "label": "14th (2027)"},
+      "frequency": "annual",
+      "duration_days": 6
+    },
+    "attendance": {"figure": 21456, "figure_high": null, "year": 2026, "is_estimate": false, "source": "https://www.instagram.com/p/DYvXPSbjqJs/", "note": "Organiser-reported for MFF2026: '21,456 people gathered across five days', 108 films from 130 Indigenous nations. An older organiser page cites an audience of 9,500 in an earlier year (Google snippet, year cut off)."},
+    "partnership_contact": {"email": "maddy@maorilandfilm.co.nz", "page_url": "https://mff.maorilandfilm.co.nz/get-involved/", "named_person": null, "source": "https://mff.maorilandfilm.co.nz/get-involved/"}
+  },
+  "add_sponsors": [
+    {"brand": "New Zealand Film Commission (Te Tumu Whakaata Taonga)", "years": [2026], "role": "government", "source": "https://www.instagram.com/p/DVaV9MOkYOZ/"},
+    {"brand": "NZ On Air", "years": [2026], "role": "government", "source": "https://www.instagram.com/p/DVaV9MOkYOZ/"},
+    {"brand": "Te Māngai Pāho", "years": [2026], "role": "government", "source": "https://www.instagram.com/p/DVaV9MOkYOZ/"},
+    {"brand": "Te Wānanga o Raukawa", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DVaV9MOkYOZ/"},
+    {"brand": "Ngā Aho Whakaari", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DVaV9MOkYOZ/"},
+    {"brand": "Wētā FX", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DVaV9MOkYOZ/"},
+    {"brand": "Screen Wellington", "years": [2026], "role": "government", "source": "https://www.instagram.com/p/DVaV9MOkYOZ/"}
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {"field": "organiser", "url": "https://mff.maorilandfilm.co.nz/get-involved/", "note": "'Maoriland Film Festival is presented by Maoriland Charitable Trust (CC53677).'"},
+    {"field": "dates.next_edition", "url": "https://www.instagram.com/p/DdAumVARjNM/", "note": "Sep 2026: 'The dates are set for MFF2027! From 16 to 21 March ... six days of film, culture and connection'; homepage also shows 'March 16 to 21, 2027'."},
+    {"field": "attendance", "url": "https://www.instagram.com/p/DYvXPSbjqJs/", "note": "MFF2026 wrap post with audience and programme figures."},
+    {"field": "partnership_contact", "url": "https://mff.maorilandfilm.co.nz/get-involved/", "note": "Read via WebFetch: 'If you want to support the festival, contact maddy@maorilandfilm.co.nz or donate online'. General email kiaora@maorilandfilm.co.nz on https://maorilandfilm.co.nz/about/."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DVaV9MOkYOZ/", "note": "MFF2026 Industry Programme 'Presented in partnership with @tewanangaoraukawa @nzfilm @nz_on_air @te_mangai_paho @ngaahowhakaari @wetafxofficial & Screen Wellington'; also on https://maorilandfilm.co.nz/mff2026-industry-programme-announced/ (Google snippet)."}
+  ],
+  "add_gaps": ["Ticket prices not captured", "Named 2026 partners are for the Industry Programme; no festival-wide sponsor list found", "Audience age and gender not published"],
+  "remove_gaps": ["2027 dates (16 to 20 Mar) come from a roundup guide; a direct search found no organiser announcement", "Organiser entity, attendance, ticket prices and sponsors not captured", "No public partnerships contact found"],
+  "notes": "2027 dates corrected to 16 to 21 Mar (six days, organiser-confirmed); 2026 was five days. Attendance 21,456 (2026, organiser-reported). Funding is screen-sector and government heavy; no commercial brands seen. Organiser publicly invited 'partners and supporters' for MFF2027 (Sep 2026 post). Minderoo Foundation and the Indigenous Screen Office fund the separate Co-Lab programme, not added. Trust reports $23m local social investment from the festival (2014 to 2024)."
+}

@@ -1,0 +1,108 @@
+{
+  "id": "boardroom-show-del-mar",
+  "set": {
+    "organiser": {
+      "name": "The Boardroom Show (founded 2007 as Sacred Craft)",
+      "type": null,
+      "website": "https://boardroomshow.com/"
+    },
+    "partnership_contact": {
+      "email": null,
+      "page_url": "https://boardroomshow.com/contact/",
+      "named_person": null,
+      "source": "https://boardroomshow.com/contact/"
+    },
+    "ticket_price": {
+      "min": 21,
+      "max": 31,
+      "currency": "USD",
+      "free_entry": false,
+      "note": "La Jolla.com article (Google snippet, year not shown): USD 31 weekend pass, USD 21 single day, under 12 free. The 2026 attend page says groms under 18 free; 2026 adult prices not confirmed."
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "US Blanks",
+      "years": [
+        2021,
+        2026
+      ],
+      "role": "presenting",
+      "source": "https://boardroomshow.com/"
+    },
+    {
+      "brand": "REAL Watersports",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/Dd04ArQF9P3/"
+    }
+  ],
+  "add_activation_formats": [
+    "stage-or-program-takeover",
+    "competition-or-prize"
+  ],
+  "add_sources": [
+    {
+      "field": "sponsors",
+      "url": "https://boardroomshow.com/",
+      "note": "Homepage: 'Presented by US BLANKS, DEL MAR FAIRGROUNDS'. 2026 schedule page title: 'The Boardroom International Surfboard Show presented by US Blanks'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://boardroomshow.com/surfboards/",
+      "note": "Google snippet: board 'Shaped in 2021 during the Icons of Foam Shape-off honoring Pat Rawson at the Boardroom International Surfboard Show presented by US Blanks'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/Dd04ArQF9P3/",
+      "note": "IG 28 Sep 2026: 'BEST IN SHOW BOARD BUILD-OFF presented by REAL Watersports'; 1st place USD 5K plus a free booth at the 2027 show."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/Ddlf6c6jBie/",
+      "note": "IG 22 Sep 2026: show 'honors Maurice Cole during the Icons of Foam Tribute to the Masters Shape-off presented by US Blanks'. Judged shape-off is the show's centrepiece."
+    },
+    {
+      "field": "organiser",
+      "url": "https://boardroomshow.com/about/",
+      "note": "About page: started in 2007 as Sacred Craft in Del Mar; footer '2024 Copyright The Boardroom Show'. Founder narrative is first person with no name in the crawled text."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://boardroomshow.com/contact/",
+      "note": "Contact form: 'Questions about the event, exhibiting, attending.' No email published."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://boardroomshow.com/exhibit/",
+      "note": "Exhibit page: booth contract PDF; booths from USD 800 (10x10) to USD 3,000 (20x20 main aisle)."
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://lajolla.com/news/the-boardroom-international-surfboard-show-hits-del-mar-this-weekend/",
+      "note": "Google snippet: 'starts at $31 for a weekend pass or $21 for a single-day pass. Kids under 12 years of age are free.' Article year not shown."
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://boardroomshow.com/attend/",
+      "note": "2026 attend page: 'GROMS U18 FREE'; tickets via ticketspice."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://boardroomshow.com/attend/",
+      "note": "Organiser attend page: 'October 10th & 11th 2026, DEL MAR FAIRGROUNDS, EXHIBITION HALL'; 19th year."
+    }
+  ],
+  "add_gaps": [
+    "Attendance and exhibitor count not published",
+    "2026 adult ticket prices not confirmed; only an undated press snippet",
+    "Founder named only on a listing snippet (Scott Bass); not confirmed on the organiser site"
+  ],
+  "remove_gaps": [
+    "2026 dates come from trade-show listing sites, not the organiser",
+    "Organiser, attendance, exhibitors and prices not captured"
+  ],
+  "notes": "US Blanks (foam blank maker) presents the show and the Icons of Foam shape-off; REAL Watersports presents the Best in Show board build-off. Otherwise exhibitors are shapers and surf hardgoods brands; no non-endemic sponsors seen. Homepage links a Spark Sponsor goodie-bag listing (bag.sparksponsor.com), a possible low-cost sampling route. IG @boardroomshow is correct."
+}

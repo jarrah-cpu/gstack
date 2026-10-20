@@ -1,0 +1,14 @@
+a-melbourne	melbourne-design-week
+a-melbourne	melbourne-fringe-festival
+a-melbourne	meredith-music-festival
+a-melbourne	pitch-music-and-arts
+a-melbourne	queen-victoria-night-market
+a-melbourne	rainbow-spirit-festival
+a-melbourne	rising-melbourne
+a-melbourne	rose-street-artists-market-fitzroy
+a-melbourne	strawberry-fields-tocumwal
+a-melbourne	sydney-road-street-party
+a-melbourne	the-breakfast-club-melbourne
+a-melbourne	victorias-pride-street-party
+a-melbourne	waxo-paradiso-open-air
+a-melbourne	winter-skate-fest-noble-park

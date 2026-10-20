@@ -1,0 +1,76 @@
+{
+  "id": "labyrinth-minakami",
+  "set": {
+    "ticket_price": {
+      "min": 23000,
+      "max": 29000,
+      "currency": "JPY",
+      "free_entry": false,
+      "note": "2026 three-day ticket incl. camping, sold in rising categories: Cat 1 JPY 23,000 to Cat 4 JPY 29,000; U-28 JPY 23,000. Advance only (ZAIKO), no gate sales. Extras: auto-camp JPY 35,000 to 40,000; parking JPY 6,000 or JPY 12,000; Tokyo bus JPY 18,000 return."
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Meta Audio",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DPTOFdQE2Eu/"
+    },
+    {
+      "brand": "Funktion-One",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DPTOFdQE2Eu/"
+    },
+    {
+      "brand": "Hinata Rental (hinata outdoor)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DdSxy1JzkWG/"
+    }
+  ],
+  "add_sources": [
+    {
+      "field": "ticket_price",
+      "url": "https://www.instagram.com/p/DVh6Bp2E1Pu/",
+      "note": "@mindgames.labyrinth (6 Mar 2026): ticket categories, U-28 price, auto-camp and parking prices; advance sales only."
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://www.instagram.com/p/DeOQR3OTuYf/",
+      "note": "8 Oct 2026: The Labyrinth 2026 sold out, no tickets at the gate."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DPTOFdQE2Eu/",
+      "note": "Oct 2025: biggest sound upgrade in over 10 years; Japan's Meta Audio specially ordered Funktion-One speakers, which Funktion-One UK built and shipped for the event."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DdSxy1JzkWG/",
+      "note": "Hinata Rental named the festival's official camping-gear rental service for 2026 (pickup and return at the campsite centre house)."
+    },
+    {
+      "field": "dates",
+      "url": "https://www.instagram.com/p/DdauZLUTU4g/",
+      "note": "Organiser: held at Naeba for 10 years until 2018, then moved to Hodaigi campsite (about 1,000 m altitude)."
+    }
+  ],
+  "add_gaps": [
+    "No post-event report seen for 2026",
+    "Attendance cap not published; 2026 sold out",
+    "No sponsorship or partnership contact published (Linktree only)"
+  ],
+  "remove_gaps": [
+    "Attendance, ticket prices and sponsors not found",
+    "Only third-party listings confirm the Oct 2026 edition; no post-event report seen",
+    "No partnerships contact found"
+  ],
+  "notes": "Organiser posts confirm 10 to 12 Oct 2026 and a sell-out. Purist techno camping rave with a no-phones-up policy and no visible brand sponsors; only technical and service partners (Meta Audio and Funktion-One sound, Hinata camping rental). Probably closed to brand activations."
+}

@@ -1,0 +1,65 @@
+{
+  "id": "brightspot-market-jakarta",
+  "set": {
+    "website": "https://www.brightspotmrkt.com/",
+    "attendance": {
+      "figure": 216000,
+      "figure_high": null,
+      "year": 2026,
+      "is_estimate": false,
+      "source": "https://www.instagram.com/p/DdbU1gPBcsX/",
+      "note": "Organiser-reported: brightspotCITY 2026 drew 'a record breaking 216.000 visitors in 2 weekends' with 250 brands chosen from close to 3,000 submissions. The spin-off TAMAN Brightspot (Aug 2026) drew 'well over 100,000' per co-founder Anton Wirjono."
+    },
+    "dates": {
+      "last_edition": {
+        "start": "2026-05-27",
+        "end": "2026-06-07",
+        "status": "held",
+        "label": "brightspotCITY 2026 (public days 27 to 31 May and 4 to 7 Jun; private opening 26 May)"
+      },
+      "next_edition": {
+        "start": "2026-11-25",
+        "end": "2026-12-06",
+        "status": "confirmed",
+        "label": "brightspotUTOPIA (25 to 29 Nov and 3 to 6 Dec 2026); venue not yet published"
+      },
+      "frequency": "biannual",
+      "duration_days": 9
+    }
+  },
+  "add_sponsors": [
+    {"brand": "BCA (myBCA)", "years": [2026], "role": "partner", "source": "https://www.brightspotmrkt.com/partners"},
+    {"brand": "TACO", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/Db-vwU5IKT6/"},
+    {"brand": "MRT Jakarta", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/Db-vyANzeS7/"},
+    {"brand": "Urban Forest Cipete", "years": [2026], "role": "venue", "source": "https://www.brightspotmrkt.com/partners"},
+    {"brand": "Outdoor Products Indonesia", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/Db2ZQo-kTHJ/"},
+    {"brand": "IQOS Indonesia", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/Db2ZQo-kTHJ/"},
+    {"brand": "Bintang", "years": [2026], "role": "major", "source": "https://www.instagram.com/p/Db2ZQo-kTHJ/"},
+    {"brand": "Kahf", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DcIWU8iCThB/"},
+    {"brand": "Derma Scalp Expert", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DcIWU8iCThB/"},
+    {"brand": "fX Sudirman", "years": [2026], "role": "venue", "source": "https://www.instagram.com/p/Db-7aZWx6sR/"}
+  ],
+  "add_activation_formats": ["lounge"],
+  "add_sources": [
+    {"field": "website", "url": "https://www.facebook.com/brightspotmarket/?locale=fy_NL", "note": "Google snippet of the official Facebook page: 'Instagram: @brightspotmrkt www.brightspotmrkt.com'; site pages (about, partners, tenants) appear in Google results."},
+    {"field": "attendance", "url": "https://www.instagram.com/p/DdbU1gPBcsX/", "note": "@brightspotmrkt (18 Sep 2026): 'A throwback to Brightspot City earlier this year. 2 weekends ... A record breaking 216.000 visitors in 2 weekends and 250 selected brands from close to 3000 submissions.'"},
+    {"field": "attendance", "url": "https://www.instagram.com/p/Db2ZQo-kTHJ/", "note": "Co-founder @antonwirjono (10 Aug 2026): TAMAN Brightspot closing, 'Well over 100,000 people attended the 2 weekends'."},
+    {"field": "dates.next_edition", "url": "https://www.instagram.com/p/DdwDeePhilK/", "note": "@brightspotmrkt 'BRIGHTSPOT UTOPIA' volunteer call: event runs 25 to 29 Nov and 3 to 6 Dec 2026 (9 days); tenant call posts give the same dates (https://www.instagram.com/p/DejFWWFhNTx/)."},
+    {"field": "dates.frequency", "url": "https://www.instagram.com/p/DdbrDXih376/", "note": "Two flagship editions in 2026 (brightspotCITY May to Jun; brightspotUTOPIA 'Coming November 2026') plus spin-offs TAMAN Brightspot (Aug) and Sporting Supply MRKT (Aug); frequency set to biannual on the 2026 pattern."},
+    {"field": "sponsors", "url": "https://www.brightspotmrkt.com/partners", "note": "Google snippet of partners page (TAMAN Brightspot 2026): 'Official Banking Partner: My BCA. Supported By: Taco. Official Transport Solution: MRT Jakarta. Venue Partner: Urban Forest.'"},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/Db2ZQo-kTHJ/", "note": "Co-founder @antonwirjono (10 Aug 2026): 'Thanking all our sponsors @outdoorproducts_indonesia, @goodlifebca, @iqos_id, @birbintangindonesia @urbanforest.cipete @taco.id @mrtjkt' (TAMAN Brightspot 2026)."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DcIWU8iCThB/", "note": "Sporting Supply MRKT by Brightspot (15 to 23 Aug 2026, fX Sudirman F1): 'Supported by @goodlifebca, @kahfeveryday, @outdoorproducts_indonesia, @dermascalpexpert'; Instagram flags one launch post as a paid partnership (https://www.instagram.com/p/Db5U56PpNr4/)."},
+    {"field": "activation_formats", "url": "https://www.instagram.com/p/DbyOKwYTKaW/", "note": "TAMAN Brightspot 2026: 'Picnic Area by @outdoorproducts_indonesia'; myBCA app vouchers; entry free; 120+ food and retail brands."}
+  ],
+  "add_gaps": [
+    "No partnership contact published; the Instagram link goes to a tenant submission form",
+    "brightspotUTOPIA 2026 venue not yet published",
+    "2026 sponsors recorded come from the spin-offs TAMAN Brightspot and Sporting Supply MRKT; the brightspotCITY flagship partner list (beyond Bintang) was not found"
+  ],
+  "remove_gaps": [
+    "Attendance figure appeared in search results but the exact source page was not pinned",
+    "Official website and partnership contact not shown in results",
+    "2027 dates not announced"
+  ],
+  "notes": "Organiser-reported 216,000 visitors for brightspotCITY 2026 replaces the unpinned 129,000 (2025). Next flagship is brightspotUTOPIA, 25 Nov to 6 Dec 2026. Sporting Supply MRKT (athleisure and active-lifestyle market, Aug 2026, backed by BCA, Kahf, Outdoor Products, Derma Scalp Expert) is the most health-relevant format. Sponsor mix includes IQOS (tobacco) and Bintang (beer)."
+}

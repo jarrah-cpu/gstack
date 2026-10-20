@@ -1,0 +1,106 @@
+{
+  "id": "brunswick-music-festival",
+  "set": {
+    "dates": {
+      "last_edition": {
+        "start": "2026-03-01",
+        "end": "2026-03-08",
+        "status": "held",
+        "label": "38th festival (2026)"
+      },
+      "next_edition": {
+        "start": "2027-02-28",
+        "end": "2027-03-07",
+        "status": "confirmed",
+        "label": "39th festival (2027)"
+      },
+      "frequency": "annual",
+      "duration_days": 8
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Jellis Craig Northern",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.facebook.com/brunswickmusicfestival/"
+    },
+    {
+      "brand": "Jellis Craig Brunswick",
+      "years": [
+        2022
+      ],
+      "role": "partner",
+      "source": "https://www.facebook.com/tracksmag/posts/the-brunswick-lineup-is-here-dunerats-headsend-special-features-speira-tickets-o/1683058463177978/"
+    },
+    {
+      "brand": "Triple R (3RRR)",
+      "years": [
+        2022
+      ],
+      "role": "media",
+      "source": "https://www.rrr.org.au/subscriber-giveaways/brunswick-music-festival"
+    },
+    {
+      "brand": "Sydney Road Brunswick",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/brunswickmusicfest/?hl=en"
+    }
+  ],
+  "add_sources": [
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.brunswickmusicfestival.com.au/",
+      "note": "Official site: returns 28 February to 7 March 2027; IG bio says 'BMF is back 28 Feb - 7 Mar 2027'."
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.merri-bek.vic.gov.au/globalassets/website-merri-bek/areas/exploring-merri-bek/arts-merri-bek/festivals-and-major-events/brunswick-music-festival/brunswick-music-festival-music-programmer-eoi-2026-pdf-407kb.pdf",
+      "note": "Council Music Programmer EOI (applications closed 7 Jun 2026) listed BMF 7 to 14 Mar 2027 and the Street Party 7 Mar 2027; superseded by the official site. Also: 'Now in its 39th year'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.facebook.com/brunswickmusicfestival/",
+      "note": "Google snippet: 'Big thanks to our sponsors Jellis Craig Northern for helping bring Brunswick Music Festival to life in 2026.'"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.facebook.com/tracksmag/posts/the-brunswick-lineup-is-here-dunerats-headsend-special-features-speira-tickets-o/1683058463177978/",
+      "note": "Google snippet: 'BRUNSWICK MUSIC FESTIVAL 2022! Jellis Craig Brunswick are proud sponsors of this years Brunswick Music Festival'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.rrr.org.au/subscriber-giveaways/brunswick-music-festival",
+      "note": "Google snippet: 'Presented by Triple R', festival March 4 to 14 (2022 edition per RRR events page)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.rrr.org.au/events/brunswick-music-festival--2",
+      "note": "Google snippet: RRR Presents, starts 4 March 2022, ends 14 March."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/brunswickmusicfest/?hl=en",
+      "note": "Google snippet: '@sydneyroadbrunswick, proud supporters of Brunswick Music Festival, have just launched their 2026 Eating & Venue Guide'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.merri-bek.vic.gov.au/globalassets/website-merri-bek/areas/exploring-merri-bek/arts-merri-bek/festivals-and-major-events/brunswick-music-festival/brunswick-music-festival-music-programmer-eoi-2026-pdf-407kb.pdf",
+      "note": "Council EOI lists 'BMF sponsors' among external stakeholders (no names)."
+    }
+  ],
+  "remove_gaps": [
+    "2027 dates not announced; early March expected from pattern"
+  ],
+  "add_gaps": [
+    "Council EOI document listed 7 to 14 Mar 2027 while the official site says 28 Feb to 7 Mar 2027",
+    "Attendance not published (a 7NEWS Facebook snippet mentions 70,000 at a Sydney Road Street Party, year unknown, not used)",
+    "Full 2026 sponsor list and a sponsorship contact not found"
+  ],
+  "notes": "2027 confirmed as 28 Feb to 7 Mar (39th year). Sponsors are local: Jellis Craig real estate (2022, 2026), Sydney Road Brunswick traders (2026), Triple R media (2022). Council EOI names an Executive Producer Festivals as the contract contact only (not a partnership contact), so not recorded."
+}

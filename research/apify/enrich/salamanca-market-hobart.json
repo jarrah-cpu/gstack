@@ -1,0 +1,67 @@
+{
+  "id": "salamanca-market-hobart",
+  "set": {
+    "website": "https://www.salamancamarket.com.au/",
+    "organiser": {
+      "name": "City of Hobart",
+      "type": "government-or-council",
+      "website": "https://www.hobartcity.com.au/Things-To-Do/Salamanca-Market"
+    },
+    "attendance": {
+      "figure": 1000000,
+      "figure_high": null,
+      "year": null,
+      "is_estimate": false,
+      "source": "https://www.salamancamarket.com.au/Stallholders",
+      "note": "Organiser-reported: 'more than one million visitors each year'; annual figure, undated."
+    },
+    "partnership_contact": {
+      "email": "salamancamarket@hobartcity.com.au",
+      "page_url": "https://www.salamancamarket.com.au/Stallholders",
+      "named_person": null,
+      "source": "https://www.salamancamarket.com.au/Stallholders"
+    }
+  },
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://www.salamancamarket.com.au/Stallholders",
+      "note": "Official Salamanca Market site, owned and operated by the City of Hobart"
+    },
+    {
+      "field": "organiser",
+      "url": "https://www.salamancamarket.com.au/Stallholders",
+      "note": "'proudly owned and operated by the City of Hobart'"
+    },
+    {
+      "field": "organiser",
+      "url": "https://www.hobartcity.com.au/Things-To-Do/Salamanca-Market",
+      "note": "Google snippet: Salamanca Market is proudly owned and operated by the City of Hobart"
+    },
+    {
+      "field": "attendance",
+      "url": "https://www.salamancamarket.com.au/Stallholders",
+      "note": "'more than one million visitors each year', most visited tourist attraction in Tasmania"
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.salamancamarket.com.au/Stallholders",
+      "note": "General enquiries salamancamarket@hobartcity.com.au, phone 03 6238 2430 (weekdays); no sponsorship contact"
+    },
+    {
+      "field": "dates.frequency",
+      "url": "https://www.salamancamarket.com.au/Stallholders",
+      "note": "Every Saturday 8.30am to 3pm, rain, hail or shine"
+    }
+  ],
+  "remove_gaps": [
+    "Official website and organiser not captured in search results",
+    "Attendance not captured",
+    "Closing time conflicts across listings (1.30pm or 3pm)"
+  ],
+  "add_gaps": [
+    "No sponsors found; council-owned market with no published sponsorship program",
+    "Audience age and gender not published"
+  ],
+  "notes": "Council-owned (City of Hobart); partnership route is the council. Organiser-reported 1m+ visitors a year. Official hours 8.30am to 3pm settle the closing-time conflict. A Google snippet mentions Telstra phones under a sponsorship arrangement, but the source is unclear and it was not added."
+}

@@ -1,0 +1,87 @@
+{
+  "id": "ubud-writers-readers-festival",
+  "set": {
+    "website": "https://www.ubudwritersfestival.com/",
+    "organiser": {
+      "name": "Yayasan Mudra Swari Saraswati",
+      "type": "non-profit",
+      "website": "https://www.ubudwritersfestival.com/"
+    },
+    "attendance": {
+      "figure": 18000,
+      "figure_high": null,
+      "year": null,
+      "is_estimate": false,
+      "source": "https://www.ubudwritersfestival.com/become-a-festival-partner",
+      "note": "Organiser-reported 'average annual attendance of over 18,000' (partner page, 2026); not tied to a single edition."
+    },
+    "audience": {
+      "age_range": null,
+      "gender_skew": null,
+      "psychographics": "Organiser describes 'an affluent and educated audience of Bali-based book enthusiasts' plus readers from across Indonesia and beyond; readers, writers, journalists and ideas-led cultural travellers; 20,000 newsletter subscribers.",
+      "source": "https://www.ubudwritersfestival.com/become-a-festival-partner"
+    },
+    "partnership_contact": {
+      "email": "partnership@yayasansaraswati.org",
+      "page_url": "https://www.ubudwritersfestival.com/become-a-festival-partner",
+      "named_person": null,
+      "source": "https://www.ubudwritersfestival.com/meet-our-partners"
+    }
+  },
+  "add_sponsors": [
+    {"brand": "Planet Wheeler", "years": [2026], "role": "major", "source": "https://www.ubudwritersfestival.com/meet-our-partners"},
+    {"brand": "Honeymoon Guest House", "years": [2026], "role": "major", "source": "https://www.ubudwritersfestival.com/meet-our-partners"},
+    {"brand": "Sudamala Resort", "years": [2026], "role": "major", "source": "https://www.ubudwritersfestival.com/meet-our-partners"},
+    {"brand": "Samsara Ubud", "years": [2026], "role": "major", "source": "https://www.ubudwritersfestival.com/meet-our-partners"},
+    {"brand": "Plataran Ubud Hotel & Spa", "years": [2026], "role": "major", "source": "https://www.ubudwritersfestival.com/meet-our-partners"},
+    {"brand": "Indus Restaurant", "years": [2026], "role": "major", "source": "https://www.ubudwritersfestival.com/meet-our-partners"},
+    {"brand": "Casa Luna Restaurant", "years": [2026], "role": "major", "source": "https://www.ubudwritersfestival.com/meet-our-partners"},
+    {"brand": "Di Sini Di Sana by Rachman & Sons", "years": [2026], "role": "partner", "source": "https://www.ubudwritersfestival.com/meet-our-partners"},
+    {"brand": "The Pita Maha", "years": [2026], "role": "partner", "source": "https://www.ubudwritersfestival.com/meet-our-partners"},
+    {"brand": "Bumi Kinar", "years": [2026], "role": "partner", "source": "https://www.ubudwritersfestival.com/meet-our-partners"},
+    {"brand": "Permata Bank", "years": [2026], "role": "partner", "source": "https://www.ubudwritersfestival.com/meet-our-partners"},
+    {"brand": "Biznet", "years": [2026], "role": "partner", "source": "https://www.ubudwritersfestival.com/meet-our-partners"},
+    {"brand": "Usada Bali", "years": [2026], "role": "partner", "source": "https://www.ubudwritersfestival.com/meet-our-partners"},
+    {"brand": "Periplus Bookshop", "years": [2026], "role": "partner", "source": "https://www.ubudwritersfestival.com/meet-our-partners"},
+    {"brand": "Gramedia", "years": [2026], "role": "partner", "source": "https://www.ubudwritersfestival.com/meet-our-partners"},
+    {"brand": "Japan Foundation", "years": [2026], "role": "government", "source": "https://www.ubudwritersfestival.com/meet-our-partners"},
+    {"brand": "European Union", "years": [2026], "role": "government", "source": "https://www.ubudwritersfestival.com/meet-our-partners"},
+    {"brand": "British Embassy Jakarta", "years": [2026], "role": "government", "source": "https://www.ubudwritersfestival.com/meet-our-partners"},
+    {"brand": "Embassy of Ireland in Indonesia", "years": [2026], "role": "government", "source": "https://www.ubudwritersfestival.com/meet-our-partners"},
+    {"brand": "Embassy of Colombia in Indonesia", "years": [2026], "role": "government", "source": "https://www.ubudwritersfestival.com/meet-our-partners"},
+    {"brand": "Embassy of Austria in Jakarta", "years": [2026], "role": "government", "source": "https://www.ubudwritersfestival.com/meet-our-partners"},
+    {"brand": "Embassy of Ukraine in Indonesia (with Ukrainian Institute)", "years": [2026], "role": "government", "source": "https://www.ubudwritersfestival.com/meet-our-partners"},
+    {"brand": "Badan Pengembangan dan Pembinaan Bahasa (Kemendikdasmen)", "years": [2026], "role": "government", "source": "https://www.ubudwritersfestival.com/meet-our-partners"},
+    {"brand": "Kementerian Ekonomi Kreatif", "years": [2026], "role": "government", "source": "https://www.ubudwritersfestival.com/meet-our-partners"},
+    {"brand": "Pelita Air", "years": [2026], "role": "partner", "source": "https://www.ubudwritersfestival.com/meet-our-partners"},
+    {"brand": "Citilink", "years": [2026], "role": "partner", "source": "https://www.ubudwritersfestival.com/meet-our-partners"},
+    {"brand": "Singapore Airlines", "years": [2026], "role": "partner", "source": "https://www.ubudwritersfestival.com/meet-our-partners"},
+    {"brand": "Malaysia Airlines", "years": [2026], "role": "partner", "source": "https://www.ubudwritersfestival.com/meet-our-partners"},
+    {"brand": "NOW! Bali", "years": [2026], "role": "media", "source": "https://www.ubudwritersfestival.com/meet-our-partners"},
+    {"brand": "IDN Times", "years": [2026], "role": "media", "source": "https://www.ubudwritersfestival.com/meet-our-partners"},
+    {"brand": "Magdalene", "years": [2026], "role": "media", "source": "https://www.ubudwritersfestival.com/meet-our-partners"},
+    {"brand": "Whiteboard Journal", "years": [2026], "role": "media", "source": "https://www.ubudwritersfestival.com/meet-our-partners"},
+    {"brand": "Mekong Review", "years": [2026], "role": "media", "source": "https://www.ubudwritersfestival.com/meet-our-partners"}
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {"field": "website", "url": "https://www.ubudwritersfestival.com/", "note": "Official site; Instagram bio links via linktr.ee/ubudwritersfest."},
+    {"field": "organiser", "url": "https://www.ubudwritersfestival.com/become-a-festival-partner", "note": "Copyright notice names Yayasan Mudra Swari Saraswati; @yayasan.saraswati co-authors festival posts."},
+    {"field": "attendance", "url": "https://www.ubudwritersfestival.com/become-a-festival-partner", "note": "'An average annual attendance of over 18,000 enthusiastic audience members'; 2025 snapshot: 82 main-programme sessions and 142 satellite events."},
+    {"field": "audience", "url": "https://www.ubudwritersfestival.com/become-a-festival-partner", "note": "'An affluent and educated audience of Bali-based book enthusiasts' plus readers from across Indonesia and beyond; 20,000 newsletter subscribers; no age, gender or nationality split."},
+    {"field": "partnership_contact", "url": "https://www.ubudwritersfestival.com/meet-our-partners", "note": "Partners page lists partnership@yayasansaraswati.org and a Become a Partner form; partner page offers packages 'tailored to all budgets' via an info kit."},
+    {"field": "dates.next_edition", "url": "https://www.instagram.com/ubudwritersfest/", "note": "Organiser Instagram bio: 'Ubud, 21 to 25 October 2026, Festival Passes on Sale', settling the 25 vs 26 Oct conflict."},
+    {"field": "sponsors", "url": "https://www.ubudwritersfestival.com/meet-our-partners", "note": "2026 partners page: Principal Partner Planet Wheeler; Platinum Honeymoon Guest House, Sudamala Resort, Samsara Ubud, Plataran Ubud, Indus, Casa Luna; Gold Di Sini Di Sana by Rachman & Sons, The Pita Maha, Bumi Kinar; Bronze EU, British Embassy, Permata Bank, embassies of Ireland, Colombia, Austria and Ukraine, Ukrainian Institute, Biznet, Usada Bali, Periplus, Japan Foundation, Gramedia; Supported by Badan Bahasa (Kemendikdasmen) and Kementerian Ekonomi Kreatif; Media NOW! Bali, NOW! Jakarta, IDN Times, Magdalene, Whiteboard Journal, The Maple Studio, Seasia News, Exquisite, Mekong Review; untiered airline logos Pelita Air, Citilink, Singapore Airlines, Malaysia Airlines and about 10 hotels."},
+    {"field": "sponsors", "url": "https://www.ubudwritersfestival.com/", "note": "Google snippet: book launches 'presented by Greenpeace Indonesia' in the 2026 program."}
+  ],
+  "add_gaps": [
+    "Audience age, gender and nationality split not published (organiser describes an 'affluent and educated' audience)",
+    "Last edition (2025) dates not recorded"
+  ],
+  "remove_gaps": [
+    "Sources disagree on the end date: 25 Oct (Indonesia Travel) vs 26 Oct (Now Bali)",
+    "Official website, organiser entity and sponsor roster not shown in search results",
+    "No attendance, demographics or partnership contact found"
+  ],
+  "notes": "Full 2026 tiered partner list from the official partners page (Principal Partner Planet Wheeler, plus embassies, airlines, banks and Ubud hospitality). Published partnership email partnership@yayasansaraswati.org; packages 'tailored to all budgets'. Average annual attendance over 18,000; festival is running now (21 to 25 Oct 2026). Bronze partner Usada Bali may be wellness-adjacent (not checked)."
+}

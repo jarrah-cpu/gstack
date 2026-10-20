@@ -1,0 +1,684 @@
+{
+  "id": "overland-expo-west-flagstaff",
+  "set": {
+    "partnership_contact": {
+      "email": "sales@overlandexpo.com",
+      "page_url": "https://www.overlandexpo.com/west/sponsors-exhibitors-west/",
+      "named_person": null,
+      "source": "https://www.overlandexpo.com/west/sponsors-exhibitors-west/"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Tesche Tires (@tesche_tires)",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Classic Overland",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Papago Vans",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "ROA Off Road",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Dometic",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Honda (Honda Racing US)",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "INEOS Grenadier Arrowhead",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Winnebago",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Renogy",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Crawler Caravans",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Four Wheel Campers",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "OVP (@driveovp)",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Wanderbox",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Tommy Camper Vans",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Vortex Optics",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Arcane Warrior",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Airstream (We Are Airstream)",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Field Vans",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Subaru of America",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Firestone",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Grand Design RV",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "EVOTREX",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Toyota USA",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Rogue Vans",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Kelderman",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Quigley 4x4",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Frontier Unlimited (@frontierunlimited)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Rough Country",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "5.11 Tactical",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Fuel Off-Road",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Zero Motorcycles",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "GME USA",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Kammok",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Torque Wheels",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "No Roads (app)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Encore RV",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Predator Tires",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Nokian Tyres",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "REDARC Electronics",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Westwind Moto USA",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Lexus USA",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Redtail Overland",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Method Race Wheels",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Overland Vehicle Systems",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Pause by Palomino",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Nexen Tire USA",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Midland USA",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "BRS Offroad",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Hankook Tire USA",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "TOPS Knives",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Barebones Living",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Maxxis Tires",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Remote Vans",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Open Road 4WD",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Mohab",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Harker Outdoors",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Iron Peak Campers",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "OGO Toilet",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Travoca",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Pebble RV",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "1UP USA",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "SEMA",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Off-Road Business Association",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "AEV",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Motorcycle Rider Justice",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Kumho Tire USA",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Equipt",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "AT Overland",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Quad Lock",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Black Rhino Wheels",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Expedition Portal",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "OutdoorX4",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "OVR Magazine",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Overland Journal",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Offroad Travel TV",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "XOverland",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.instagram.com/p/DY2nAfMgcBj/"
+    },
+    {
+      "brand": "Far Fetched Adventures",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DYcgZBknJah/"
+    }
+  ],
+  "add_activation_formats": [
+    "hospitality-bar",
+    "stage-or-program-takeover",
+    "workshop"
+  ],
+  "add_sources": [
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DY2nAfMgcBj/",
+      "note": "27 May 2026 thank-you for Overland Expo West 2026: 23 Title Sponsors, 22 Supporting Sponsors, 25 Special Area & Event Sponsors, 6 Media Partners (handles mapped to brand names)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.overlandexpo.com/west/sponsors-exhibitors-west/",
+      "note": "West 2027 sponsors page 'Proudly presented by' Title Sponsors logos incl. Airstream superstore, INEOS Grenadier Arrowhead, Dometic, Firestone, Four Wheel Campers, Wanderbox, Arcane Warrior; media partners OutdoorX4, OVR, Overland Journal, XOverland, Offroad Travel TV."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DYcgZBknJah/",
+      "note": "17 May 2026: 'Dogs and Donuts Sponsored by @far_fetched_adventures ... at the Oasis Bar & Food Court Sponsored by @nexentireusa'."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/DYaeXDaGmW_/",
+      "note": "16 May 2026: 'Saturday Happy Hour Sponsored by @brsoffroad_us' at the Nexen-sponsored Oasis Bar & Food Court."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/DYaCmGlkqqE/",
+      "note": "16 May 2026: 'Women Who Wander Networking Event Sponsored by @maxxistires'."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.overlandexpo.com/west/",
+      "note": "Google snippet: '400+ exhibitors & 175+ classes'; sponsored education areas and pavilions."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.overlandexpo.com/west/sponsors-exhibitors-west/",
+      "note": "'Contact us About Sponsorship Opportunities' links to sales@overlandexpo.com; exhibitor interest form at overlandexpo.com/exhibitor-interest-form/."
+    },
+    {
+      "field": "attendance",
+      "url": "https://www.overlandexpo.com/west/buy-tickets-west/",
+      "note": "Google snippet: West 2025 'attracted over 28,000 attendees with 423 exhibitors'."
+    }
+  ],
+  "remove_gaps": [
+    "Sponsor and exhibitor names not captured"
+  ],
+  "add_gaps": [
+    "Full West exhibitor list (smallworldlabs portal) not captured",
+    "Brand integration deck (Ceros) did not render; audience demographics and package prices not captured"
+  ],
+  "notes": "Very large, sales-led sponsor program (about 77 named 2026 partners) with a sponsorship sales email. Dominated by vehicle, tyre and camping brands; no health or wellness brands seen. Brand deck lives at view.ceros.com/emeraldx/..., which suggests Emerald (trade show company) owns the event; not confirmed, so organiser type left unset."
+}

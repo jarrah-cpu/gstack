@@ -1,0 +1,100 @@
+{
+  "id": "brisbane-illustration-fair",
+  "set": {
+    "website": "https://brisbaneillustrationfair.square.site/",
+    "partnership_contact": {
+      "email": null,
+      "page_url": "https://brisbaneillustrationfair.square.site/sponsorship",
+      "named_person": null,
+      "source": "https://brisbaneillustrationfair.square.site/sponsorship"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "The T-Shirt Co (T-Shirt Printing Brisbane)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/Ddz9HlXiETW/"
+    },
+    {
+      "brand": "Stickeroo",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/Ddz9HlXiETW/"
+    },
+    {
+      "brand": "Bar Gusto",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/Ddz9HlXiETW/"
+    },
+    {
+      "brand": "Eckersley's Art & Craft",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/Ddz9HlXiETW/"
+    },
+    {
+      "brand": "KENT Art and Design",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DXT2s-dn8Jb/"
+    }
+  ],
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://brisbaneillustrationfair.square.site/",
+      "note": "Google results: official Square site with About, Apply/FAQs, Sponsorship and Visiting the Fair pages. WebFetch returned an empty script-rendered page, so content not read directly."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://brisbaneillustrationfair.square.site/sponsorship",
+      "note": "Google snippet: 'Sponsorship and Partnerships' page; no email captured."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/Ddz9HlXiETW/",
+      "note": "@brisbaneillustrationfair post (28 Sep 2026) for the October fair: 'Sponsored by @thetshirtco, @stickerooau, @bargusto_bne, @brisbanecitycouncil & @eckersleys'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DXT2s-dn8Jb/",
+      "note": "Post (19 Apr 2026): 'thank you to our sponsors of our April fair @thetshirtco, @stickerooau, @bargusto_bne, @kent_artanddesign & @brisbanecitycouncil'."
+    },
+    {
+      "field": "dates.frequency",
+      "url": "https://www.instagram.com/p/DXT2s-dn8Jb/",
+      "note": "April 2026 fair confirmed; same post says applications for 'our JULY fair' open 22 April."
+    },
+    {
+      "field": "dates.frequency",
+      "url": "https://yelo.live/brisbane-illustration-fair-2026/",
+      "note": "Google snippet: July 18 and 19, 2026, John Reid Pavilion."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.instagram.com/brisbaneillustrationfair/",
+      "note": "Instagram bio: Sat 3rd and Sun 4th October 2026, John Reid Pavilion."
+    }
+  ],
+  "remove_gaps": [
+    "No public partnerships contact found",
+    "2026 dates conflict: Showgrounds releases give 18 to 19 Apr and 18 to 19 Jul, council and Brisbane Kids give 3 to 4 Oct; may be three editions"
+  ],
+  "add_gaps": [
+    "2026 ran three fairs (April, July, October); schema frequency left as irregular",
+    "Sponsorship page email or packages not captured (page is script-rendered)"
+  ],
+  "notes": "Three 2026 fairs confirmed by the fair's own posts (Apr, Jul, Oct). Small local brand sponsors: The T-Shirt Co, Stickeroo, Bar Gusto, Eckersley's (Oct), KENT (Apr), plus Brisbane City Council. Paid-partnership posts in the pack are by event-listing creators, not sponsors. Website set to the Square site."
+}

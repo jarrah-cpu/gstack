@@ -1,0 +1,14 @@
+b-japan	atmoscon-tokyo
+b-japan	designart-tokyo
+b-japan	fuji-gravel
+b-japan	fuji-rock-festival-naeba
+b-japan	furugi-fes-tokyo-big-sight
+b-japan	go-out-camp-fujinomiya
+b-japan	go-out-camp-winter-fujinomiya
+b-japan	greenroom-festival-yokohama
+b-japan	himeji-skateboard-jam
+b-japan	japan-sauna-festival-kawasaki
+b-japan	king-of-tattoo-tokyo
+b-japan	labyrinth-minakami
+b-japan	mooneyes-street-car-nationals-odaiba
+b-japan	murasaki-shonan-open-kugenuma

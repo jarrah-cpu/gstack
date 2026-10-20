@@ -76,8 +76,8 @@
   },
   "gravel-in-paradise-otago": {
     "handle": null,
-    "organiser_handle": null,
-    "note": "Search hits were unrelated gravel accounts (Fuerteventura and others)."
+    "organiser_handle": "cyclingotago",
+    "note": "Organiser Cycling Otago posts the event; no event account found."
   },
   "motofest-hampton-downs": {
     "handle": null,
@@ -91,8 +91,8 @@
   },
   "single-fin-classic-donostia": {
     "handle": null,
-    "organiser_handle": null,
-    "note": "@singlefinclassic is an empty unrelated account."
+    "organiser_handle": "hawaiidonostia",
+    "note": "@singlefinclassic is empty and unrelated; organiser Hawaii Donostia posts the event."
   },
   "climb-smart-joshua-tree": {
     "handle": null,
@@ -116,8 +116,8 @@
   },
   "king-of-the-park-margaret-river": {
     "handle": null,
-    "organiser_handle": null,
-    "note": "Instagram search returned only unrelated accounts."
+    "organiser_handle": "theredmanacademy",
+    "note": "The Redman Academy runs King of the Park (bio: Event: King of the Park, MR Skatepark, 26 April 2026); no separate event account."
   },
   "lavan-whalebone-longboard-classic-cottesloe": {
     "handle": null,
@@ -230,9 +230,9 @@
     "note": null
   },
   "fair-go-skate-competition-ballina": {
-    "handle": null,
+    "handle": "fairgoskatecomp",
     "organiser_handle": "truckstopsk8school",
-    "note": "Organiser role inferred in Phase 1."
+    "note": "Event account found by the Phase 2 extraction agent; bio: Fair Go #26, 9 and 10 Oct 2026, Ballina skatepark."
   },
   "festival-of-the-stone-byron-bay": {
     "handle": null,
@@ -311,8 +311,8 @@
   },
   "vihta-sauna-fes-yachiho": {
     "handle": null,
-    "organiser_handle": null,
-    "note": "Instagram search returned only unrelated accounts."
+    "organiser_handle": "sbc21_event",
+    "note": "Organised by SBC Shinetsu Broadcasting's events division, which posts the festival."
   },
   "yokohama-urban-sports-festival": {
     "handle": "yusf_pr",
@@ -375,9 +375,9 @@
     "note": "Instagram search returned only unrelated accounts."
   },
   "uvnt-art-fair-madrid": {
-    "handle": "urvanityprojects",
+    "handle": null,
     "organiser_handle": null,
-    "note": "Urvanity Projects runs the fair (formerly Urvanity); no separate UVNT account found."
+    "note": "Fair rebranded as CAN Madrid Art Fair; @urvanityprojects is no longer its account and the new account was not confirmed."
   },
   "belgian-waffle-ride-california": {
     "handle": null,
@@ -396,8 +396,8 @@
   },
   "lake-tahoe-wellness-festival": {
     "handle": null,
-    "organiser_handle": null,
-    "note": "@wellnessplaygroundretreats runs Lake Tahoe retreats; no link to the festival confirmed."
+    "organiser_handle": "wellnessplaygroundretreats",
+    "note": "Wellness Playground is the festival organiser (confirmed by the Phase 2 extraction agent); no separate event account."
   },
   "musink-costa-mesa": {
     "handle": null,
@@ -465,9 +465,9 @@
     "note": "Town tourism account that hosts the event page; organiser not confirmed."
   },
   "scrapworld-madrid": {
-    "handle": null,
+    "handle": "scrapworld",
     "organiser_handle": "ifema_madrid",
-    "note": "Held at IFEMA; no event account found."
+    "note": "@scrapworld is the event's account (site scrapworld.es); held at IFEMA Madrid."
   },
   "bike-summer-pedalpalooza-portland": {
     "handle": "pedalpaloozapdx",
@@ -485,9 +485,9 @@
     "note": "Website-matched account was unrelated."
   },
   "meeting-of-styles-peru-lima": {
-    "handle": null,
+    "handle": "mos_peru",
     "organiser_handle": "int_meetingofstyles",
-    "note": "International Meeting of Styles account."
+    "note": "@mos_peru is the Peru edition's account; @int_meetingofstyles is the international network."
   },
   "darwin-fringe-festival": {
     "handle": "darwinfringefestival",
@@ -545,13 +545,28 @@
     "note": "@australiantattooexpo returned no profile data (missing or private)."
   },
   "yoga-festa-yokohama": {
-    "handle": null,
+    "handle": "yogafestjp",
     "organiser_handle": null,
-    "note": "Only hit (@yogafes) is an unrelated personal account."
+    "note": "Official account (bio: 23rd Yoga Festa Yokohama 2026, Pacifico Yokohama 10 to 12 Oct; theme wellness and sleep). @yogafes was an unrelated personal account."
   },
   "bowerbird-design-market-adelaide": {
     "handle": "bowerbird.au",
     "organiser_handle": null,
     "note": "Bowerbird design market brand account."
+  },
+  "craft-design-canberra-festival": {
+    "handle": "craftdesigncanberrafestival",
+    "organiser_handle": "craft_design_canberra",
+    "note": "@craftdesigncanberrafestival is the festival account; @craft_design_canberra is the organising gallery (Craft + Design Canberra)."
+  },
+  "the-graveler-hanmer-springs": {
+    "handle": null,
+    "organiser_handle": null,
+    "note": "@_thegraveler_ is an unrelated printing studio in Bangladesh; no event account confirmed."
+  },
+  "art-deco-festival-napier": {
+    "handle": "art_deco_festival",
+    "organiser_handle": "art_deco_napier",
+    "note": "@art_deco_festival is the festival account (site artdecofestival.co.nz); @art_deco_napier is the Art Deco Trust."
   }
 }

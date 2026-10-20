@@ -1,0 +1,107 @@
+{
+  "id": "sessions-surf-festival-gold-coast",
+  "set": {
+    "partnership_contact": {
+      "email": "info@sessionssurffestival.com",
+      "page_url": "https://sessionssurffestival.com/",
+      "named_person": null,
+      "source": "https://sessionssurffestival.com/"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Solento Tequila",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY3DJa9jyjY/"
+    },
+    {
+      "brand": "Posca Hydrate",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DYyXB7qmjK4/"
+    },
+    {
+      "brand": "Miami Marketta",
+      "years": [
+        2026
+      ],
+      "role": "venue",
+      "source": "https://sessionssurffestival.com/gold-coast/session-music-1"
+    },
+    {
+      "brand": "Burleigh Boardriders",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY1Wp2dGx9w/"
+    }
+  ],
+  "add_activation_formats": [
+    "sampling",
+    "workshop",
+    "hospitality-bar"
+  ],
+  "add_sources": [
+    {
+      "field": "partnership_contact",
+      "url": "https://sessionssurffestival.com/",
+      "note": "Site contact: info@sessionssurffestival.com (general enquiries)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DY3DJa9jyjY/",
+      "note": "Post (27 May 2026): 'Team AUS presented by @balterbrewers take on Team USA presented by @solento_tequila'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DYyXB7qmjK4/",
+      "note": "Post (26 May 2026): art exhibit opening at HOTA with 'complimentary sips from @balterbrewers @whiteclawau @solento_tequila, @poscahydrate'. Posca Hydrate is one drinks brand (@poscahydrate), not two."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DYvz22pGoQt/",
+      "note": "Post (25 May 2026) tags partners: Solento Tequila, Maxum Watches, Sun Bum, Firewire, Balter, White Claw, Posca Hydrate, Vissla, Experience Gold Coast."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://sessionssurffestival.com/gold-coast/session-music-1",
+      "note": "Google snippet: festival 'launches its week long celebration ... with an unforgettable opening night at Miami Marketta'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DY1Wp2dGx9w/",
+      "note": "Community surf comp 'all supporting a good cause @burleigh_boardriders'; 'Best wave of the day is walking home with a whole lot of @whiteclawau'; 'partner activations'."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/DX8UA8xglsa/",
+      "note": "Post (5 May 2026): surf filmmaking masterclass led by Taylor Steele 'in partnership with @visslasurf and @balterbrewers', with an edit contest and prize pack."
+    },
+    {
+      "field": "dates",
+      "url": "https://sessionssurffestival.com/",
+      "note": "Site lists the Gold Coast edition 23 to 30 May 2026 and an Encinitas, California edition 'SEPT 12-19 2026'."
+    },
+    {
+      "field": "organiser",
+      "url": "https://www.instagram.com/p/DdpR6eskg7U/",
+      "note": "Encinitas wrap (Sept 2026) thanks '@aidangray4 (director of the festival)' and partners."
+    }
+  ],
+  "remove_gaps": [
+    "No public partnerships contact found",
+    "Partner listed as 'Hydrate' next to Posca; confirm whether it is a separate hydration brand",
+    "Possible Solana Beach, California edition in Sept 2026 seen only in a search summary; confirm",
+    "Organiser, website, attendance and partners not found"
+  ],
+  "add_gaps": [
+    "Instagram account is shared by the Gold Coast and Encinitas editions; US partners (Outerknown, Athletic Brewing, Liquid Zen Water, Rivian and others) not added to this record"
+  ],
+  "notes": "Existing sponsors 'Posca' and 'Hydrate (as listed; brand identity not confirmed)' are one brand, Posca Hydrate (@poscahydrate, a drink offered as complimentary sips): please delete those two entries and keep 'Posca Hydrate'. New: Solento Tequila, Burleigh Boardriders (charity), Miami Marketta (venue). Encinitas CA edition ran 12 to 19 Sept 2026. Festival director named as Aidan Gray (Encinitas post). Contact info@sessionssurffestival.com."
+}

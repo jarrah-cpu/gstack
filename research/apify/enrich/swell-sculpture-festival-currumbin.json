@@ -1,0 +1,187 @@
+{
+  "id": "swell-sculpture-festival-currumbin",
+  "set": {
+    "organiser": {
+      "name": "SWELL Sculpture Festival (not-for-profit arts organisation, registered charity)",
+      "type": "non-profit",
+      "website": "https://www.swellsculpture.com.au/"
+    },
+    "partnership_contact": {
+      "email": "enquiry@swellsculpture.com.au",
+      "page_url": "https://www.swellsculpture.com.au/partner-with-us/",
+      "named_person": null,
+      "source": "https://www.swellsculpture.com.au/partners-sponsors/"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "City of Gold Coast",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.swellsculpture.com.au/partners-sponsors/"
+    },
+    {
+      "brand": "Neumann Family (Neumann Steel)",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.swellsculpture.com.au/partners-sponsors/"
+    },
+    {
+      "brand": "Tourism and Events Queensland",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.swellsculpture.com.au/partners-sponsors/"
+    },
+    {
+      "brand": "Queensland Government",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.swellsculpture.com.au/partners-sponsors/"
+    },
+    {
+      "brand": "Arts Gold Coast Foundation",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.swellsculpture.com.au/partners-sponsors/"
+    },
+    {
+      "brand": "Oasis Shopping Centre",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.swellsculpture.com.au/partners-sponsors/"
+    },
+    {
+      "brand": "Griffith University",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.swellsculpture.com.au/partners-sponsors/"
+    },
+    {
+      "brand": "Lucent",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.swellsculpture.com.au/partners-sponsors/"
+    },
+    {
+      "brand": "Sun Bum",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.swellsculpture.com.au/partners-sponsors/"
+    },
+    {
+      "brand": "Vege Chips",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.swellsculpture.com.au/partners-sponsors/"
+    },
+    {
+      "brand": "Currumbin RSL",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.swellsculpture.com.au/partners-sponsors/"
+    },
+    {
+      "brand": "Bendigo Bank Tugun",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.swellsculpture.com.au/partners-sponsors/"
+    },
+    {
+      "brand": "Microhire",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.swellsculpture.com.au/partners-sponsors/"
+    },
+    {
+      "brand": "Max Fabre Foundation",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.swellsculpture.com.au/partners-sponsors/"
+    },
+    {
+      "brand": "Usher Group",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DdgH3yhCTR-/"
+    },
+    {
+      "brand": "Eco by Sonya",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DdgH3yhCTR-/"
+    }
+  ],
+  "add_activation_formats": [
+    "competition-or-prize",
+    "hospitality-bar"
+  ],
+  "add_sources": [
+    {
+      "field": "organiser",
+      "url": "https://www.swellsculpture.com.au/history/",
+      "note": "History page: 'a multifaceted, not-for-profit arts organisation' based in Currumbin; 'registered charity with DGR and TCC status'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.swellsculpture.com.au/partners-sponsors/",
+      "note": "Partners page (2026): Major Event Partner City of Gold Coast; Foundation Partner Neumann Family ('24th year of support'); Principal TEQ and Queensland Government; Silver CVBC; Bronze Arts Gold Coast Foundation and Oasis; Supporters Griffith and Lucent; Creative partners incl. Sun Bum, Vege Chips, Currumbin RSL, Active and Healthy, OCC Apparel; Volunteer partners incl. Bendigo Bank Tugun and Sun Bum; Fringe partners incl. Balter and Microhire; award sponsors incl. Neumann Family, Max Fabre Foundation, Usher Group. Logos lack alt text; names read from logo file names."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DdgH3yhCTR-/",
+      "note": "Awards post (20 Sep 2026): '$1,000 SWELL Smalls Gallery People's Choice Award supported by Usher Group'; '$3,000 SWELL Kid's Choice Award supported by Eco by Sonya'."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.swellsculpture.com.au/partners-sponsors/",
+      "note": "Ten sponsored prizes from $1,000 to $15,000 (award sponsors section) and a SWELL Fringe bar with drinks partners."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.swellsculpture.com.au/partners-sponsors/",
+      "note": "'Partner with us': sponsorship, in-kind support or collaboration enquiries to enquiry@swellsculpture.com.au."
+    }
+  ],
+  "remove_gaps": [
+    "Organising entity not named in results",
+    "Sponsors beyond Balter Taproom not found",
+    "No public partnerships contact found"
+  ],
+  "add_gaps": [
+    "Only attendance figure on the site is 6,000 visitors in 2003 (history page); partner pages say 'thousands of visitors' with no current number",
+    "Silver partner 'CVBC' and some creative partners named only by logo file; brand names not confirmed"
+  ],
+  "notes": "Open, tiered sponsor model run by a not-for-profit with a published partnership email. Health-adjacent partners: Sun Bum (creative and volunteer partner), Eco by Sonya (award), Active and Healthy (City of Gold Coast program, not added), and the 2026 program included wellness experiences. No current attendance figure."
+}

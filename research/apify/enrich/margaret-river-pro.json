@@ -1,0 +1,13 @@
+{
+  "id": "margaret-river-pro",
+  "add_sponsors": [
+    {"brand": "Bond University", "years": [], "role": "partner", "source": "https://bond.edu.au/event/9098/world-surf-league-western-australia-margaret-river-pro-backstage-tour"}
+  ],
+  "add_sources": [
+    {"field": "sponsors", "url": "https://bond.edu.au/event/9098/world-surf-league-western-australia-margaret-river-pro-backstage-tour", "note": "Bond University, 'Official Higher Education Partner of the World Surf League', ran a backstage tour of the WA Margaret River Pro (Google snippet; year not shown). Tour-level WSL partner."},
+    {"field": "sponsors", "url": "https://www.wa.gov.au/government/media-statements/Cook%20Labor%20Government/Margaret-River-Pro-brings-waves-of-action-to-WA's-South-West--20260415", "note": "2026 WA Government statement references Tourism WA's sponsorship agreement with World Surf League (Google snippet)."},
+    {"field": "dates.last_edition", "url": "https://www.margaretriver.com/event/margaret-river-pro/", "note": "Regional tourism page: Thursday 16 April to Sunday 26 April 2026, 10-day window, stop two of the 2026 Championship Tour."}
+  ],
+  "add_gaps": ["WSL tour-level commercial partners for the WA stop not captured; WSL event page not crawled", "Partnership contact not published (only the region's visitor email)"],
+  "notes": "Little new: no WSL posts or event page in the pack. Only an undated Bond University backstage-tour activation found. King of the Park skate event ran on 2026 finals day (26 Apr) as a community side event; the margaretriver.com contact email is visitor info, not partnerships."
+}

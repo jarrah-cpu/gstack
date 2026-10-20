@@ -1,0 +1,25 @@
+{
+  "id": "grinduro-california-quincy",
+  "set": {
+    "partnership_contact": {"email": "marty@sierratrails.org", "page_url": "https://sierratrails.org/partner-with-us", "named_person": "Marty Scheel", "source": "https://sierratrails.org/partner-with-us"}
+  },
+  "add_sponsors": [
+    {"brand": "Mondraker", "years": [2025], "role": "presenting", "source": "https://mondraker.com/us/en/mondraker-grinduro"},
+    {"brand": "Schwalbe", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DdE9-YagKxp/"},
+    {"brand": "Marin Bikes", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DYXRs3-sDTf/"},
+    {"brand": "Shimano (GRX tech support)", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DYSPB7as5A9/"},
+    {"brand": "Komoot", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DadD_XHgGg5/"}
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {"field": "sponsors", "url": "https://mondraker.com/us/en/mondraker-grinduro", "note": "Mondraker 'Sponsor of Grinduro' page (Google snippet) cites Grinduro California, September 12 to 14, 2025. Grinduro IG reel DL7grOcs4Yi (2025): 'This September 12-14, Grinduro presented by @mondraker.usa will...'."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DdE9-YagKxp/", "note": "@grinduro 9 Sep 2026: Schwalbe tyres 'check em out in the expo at Grinduro California this weekend'. Post DZpDJmDArAH (Jun 2026): Schwalbe is Grinduro's 'exclusive global tire partner' since 2023."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DYXRs3-sDTf/", "note": "@grinduro 15 May 2026: 'We're proud to have Marin Bikes as a sponsor' for Grinduro in 2026 (series-wide, not California-specific)."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DYSPB7as5A9/", "note": "@grinduro 13 May 2026: '@shimanogravel Tech Support are ready to help you out' at Grinduro (series-wide)."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DadD_XHgGg5/", "note": "@grinduro 6 Jul 2026: 'thanks to our pals at @komoot guiding the way at Grinduro' (series-wide route partner)."},
+    {"field": "partnership_contact", "url": "https://sierratrails.org/partner-with-us", "note": "SBTS Partners page: 'If you want to support our nonprofit or one of our race events, contact Marty Scheel at marty@sierratrails.org.' Press kit gives nicole@sierratrails.org for other info. Grinduro brand sponsorship likely sits with the Grinduro series team."}
+  ],
+  "add_gaps": ["Grinduro brand owner not pinned; most named sponsors are series-wide rather than California-specific", "2026 presenting sponsor not confirmed (Mondraker presented in 2025)"],
+  "remove_gaps": ["Grinduro brand owner and sponsors not pinned to a search result"],
+  "notes": "Mondraker presented Grinduro California 2025; 2026 partners seen in @grinduro posts are Schwalbe (at the Quincy expo), Marin, Shimano and Komoot, mostly series-wide. SBTS (host non-profit) takes partnership enquiries for its race events via Marty Scheel. Grinduro's own page is https://grinduro.com/california/ if a more specific website is wanted. IG @grinduro is the global series account (also covers Scotland, Pennsylvania and Italy)."
+}

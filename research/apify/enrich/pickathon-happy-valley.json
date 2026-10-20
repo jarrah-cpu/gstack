@@ -1,0 +1,701 @@
+{
+  "id": "pickathon-happy-valley",
+  "set": {
+    "dates": {
+      "last_edition": {
+        "start": "2026-07-30",
+        "end": "2026-08-02",
+        "status": "held",
+        "label": "26th year (2026)"
+      },
+      "next_edition": {
+        "start": "2027-08-04",
+        "end": "2027-08-08",
+        "status": "confirmed",
+        "label": "27th (2027), Pendarvis Farm; five days"
+      },
+      "frequency": "annual",
+      "duration_days": 4
+    },
+    "partnership_contact": {
+      "email": "info@pickathon.com",
+      "page_url": "https://pickathon.com/partners/",
+      "named_person": null,
+      "source": "https://pickathon.com/info/"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Earthwell",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Hampton Lumber",
+      "years": [
+        2026
+      ],
+      "role": "major",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Travel Oregon",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Athletic Brewing",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Audix",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Brew Dr. Kombucha",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Cascade Sound",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Daydream (favoriteneighbors.com)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Deschutes Brewery",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Garden Fever",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Hyphn",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Never Better Collective",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Party Bomb",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Planar",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Roseburg",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Salt & Straw",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Weinstein PR",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "WLCR",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "10 Barrel Brewing",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "360 Vodka",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Alchemy Cider",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Aloha Juice Co",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "autoramezcal.com",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Bale Breaker Brewing",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Bauman's Cider",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Brokers Gin",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Bull Run Cider",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Division Wine Co",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Dominio IV",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Dr. Bronner's",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Drink Weird",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Ecliptic Brewing",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Estelbrook",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Ferment Brewing",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Five Farms Irish Cream",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Fort George Brewery",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Freight (freightbeer.com)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Wilson Daniels Wholesale",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Gigantic Brewing",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Ginger Cult",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Lab Wines (grapex.com)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Hipnautica",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Holladay Bourbon",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Holladay Distillery",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Hop Valley Brewing",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Hopworks Urban Brewery",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Incline Cider",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Kachka Spirits",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "La Vieille Ferme",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Little Beast Brewing",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "LOLO (drinklolo.com)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Maloof Wines",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Martin Audio",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Matzinger Davies",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Meyer Pro",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "New Deal Distillery",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Biotic Ferments",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Nossa Familia Coffee",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Outlaw Beer",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Parr (parr.com)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Portal Tea (portaltea.co)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Portland Cider Company",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Portland Syrups",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Probably Monsters",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Ransom Spirits",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Rubato wine",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Ruse Brewing",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "SkyBird Canopies",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Stray Cider (straycider.com)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "snwwood.com",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Swift Cider",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Tiny Giants Brewing",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Trefin Foods",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Wandering Goat Coffee",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "KMHD",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "KOIN",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "OPB",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Portland Mercury",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "XRAY.fm",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://pickathon.com/partners/"
+    },
+    {
+      "brand": "Creative Neighborhoods",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DdUS3foJT7O/"
+    }
+  ],
+  "add_sources": [
+    {
+      "field": "dates.next_edition",
+      "url": "https://pickathon.com/",
+      "note": "Homepage title 'Pickathon 2027 | August 4-8 | Pendarvis Farm, Oregon'; 2027 presale post; IG bio 'August 4 - 8, 2027'."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://pickathon.com/info/",
+      "note": "'Email us at info@pickathon.com'; media press@pickathon.com; volunteers volunteer@pickathon.com."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://pickathon.com/partners/",
+      "note": "Partners page (undated, crawled Oct 2026 with 2026 posts): Headliner Partners (Earthwell, Hampton Lumber, Travel Oregon); Featured Act Partners (20 incl. Athletic Brewing, Brew Dr. Kombucha, Salt & Straw, Deschutes, OPB, KOIN); Supporting Act Partners (56, mostly Oregon drinks brands plus Dr. Bronner's, Biotic Ferments, Aloha Juice Co). Names from logo link targets; logos have no alt text."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DdUS3foJT7O/",
+      "note": "15 Sep 2026: Creative Neighborhoods is 'our nonprofit partner who helps make the Pickathon magic happen'."
+    }
+  ],
+  "remove_gaps": [
+    "Attendance, sponsors and partner history not captured",
+    "2027 dates not announced"
+  ],
+  "add_gaps": [
+    "Attendance not published",
+    "Partners page is undated; roster treated as 2026",
+    "Some partner logos identifiable only by domain"
+  ],
+  "notes": "Open three-tier partner program (about 80 partners). Health-adjacent partners already present: Athletic Brewing (non-alcoholic), Brew Dr. Kombucha, Biotic Ferments, Dr. Bronner's, Aloha Juice Co. No sponsorship-specific contact; general info@ email only."
+}

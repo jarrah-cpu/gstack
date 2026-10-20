@@ -1,0 +1,54 @@
+{
+  "id": "suitcase-rummage-brisbane",
+  "set": {
+    "website": "https://www.suitcaserummage.com.au/",
+    "partnership_contact": {
+      "email": "suitcaserummage@gmail.com",
+      "page_url": "https://www.suitcaserummage.com.au/",
+      "named_person": null,
+      "source": "https://www.suitcaserummage.com.au/"
+    },
+    "location": {
+      "city": "Brisbane",
+      "state_or_region": "QLD",
+      "country": "Australia",
+      "venue_or_area": "Reddacliff Place, top of Queen Street Mall, Brisbane City (Humanitix listings give 266 George St)"
+    }
+  },
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://www.suitcaserummage.com.au/",
+      "note": "Official Suitcase Rummage site (branded, links to its own pages and socials); only email is suitcaserummage@gmail.com."
+    },
+    {
+      "field": "website",
+      "url": "https://www.facebook.com/suitcaserummages/",
+      "note": "Facebook page: 'To register visit www.suitcaserummage.com.au Email suitcaserummage@gmail.com' (Google snippet)."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.suitcaserummage.com.au/",
+      "note": "General contact email suitcaserummage@gmail.com (mailto on official site); no partnership-specific contact."
+    },
+    {
+      "field": "location",
+      "url": "https://www.instagram.com/p/DeJMpTsl8wd/",
+      "note": "@suitcaserummages post (6 Oct 2026): 'We'll see you again at Reddacliff Place on Sunday 18 October!'"
+    },
+    {
+      "field": "location",
+      "url": "https://events.humanitix.com/brisbane-meanjin-november-1st-2026/contact",
+      "note": "Humanitix host page for 1 Nov 2026 gives 266 George St, Brisbane City."
+    }
+  ],
+  "remove_gaps": [
+    "Venue differs between listings (Reddacliff Place vs Brisbane Square)",
+    "No public partnerships contact found"
+  ],
+  "add_gaps": [
+    "Organiser also runs Rummages in Sydney and Melbourne; a Red Cross Shops donation partnership (2026) applies to Melbourne only",
+    "No partnership-specific contact; general Gmail inbox only"
+  ],
+  "notes": "Website changed from a Humanitix ticket page to the official site suitcaserummage.com.au. IG confirms Reddacliff Place for Oct 2026; Humanitix's 266 George St appears to be the same spot (Brisbane Square frontage). Ethos excludes mass-produced or commercial goods, so brand stalls are unlikely. No sponsors."
+}

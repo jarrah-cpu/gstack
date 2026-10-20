@@ -1,0 +1,117 @@
+{
+  "id": "portland-zine-symposium",
+  "set": {
+    "attendance": {
+      "figure": 1850,
+      "figure_high": null,
+      "year": 2026,
+      "is_estimate": false,
+      "source": "https://www.instagram.com/p/DeriJlwG2Kc/",
+      "note": "Organiser-reported: 'We had about 1,850 attendees this year' (2026). The fair also hosts over 150 zinesters (tablers) a year."
+    },
+    "partnership_contact": {
+      "email": "pdxzines@gmail.com",
+      "page_url": null,
+      "named_person": null,
+      "source": "https://www.portlandzinesymposium.org/"
+    },
+    "organiser": {
+      "name": "Portland Zine Symposium (volunteer-run)",
+      "type": "community-collective",
+      "website": "https://portlandzinesymposium.org/"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Portland State University (Smith Memorial Student Union)",
+      "years": [
+        2026
+      ],
+      "role": "venue",
+      "source": "https://www.portlandzinesymposium.org/"
+    },
+    {
+      "brand": "IPRC (Independent Publishing Resource Center)",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DekJNJRK6xG/"
+    },
+    {
+      "brand": "Outlet PDX",
+      "years": [
+        2026
+      ],
+      "role": "venue",
+      "source": "https://www.instagram.com/p/DeUdPZdKwOi/"
+    },
+    {
+      "brand": "Portland Clean Air Committee",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DeNL7IFEi1I/"
+    }
+  ],
+  "add_activation_formats": [
+    "after-party"
+  ],
+  "add_sources": [
+    {
+      "field": "attendance",
+      "url": "https://www.instagram.com/p/DeriJlwG2Kc/",
+      "note": "19 Oct 2026: 'Thank you everyone who tabled, visited, volunteered ... We had about 1,850 attendees this year!!!'."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.portlandzinesymposium.org/",
+      "note": "Site 'Contact Us: pdxzines@gmail.com' and a 'Support PZS' donate page; IG bio 'No DMs! email pdxzines@gmail.com'."
+    },
+    {
+      "field": "organiser",
+      "url": "https://www.portlandzinesymposium.org/safety",
+      "note": "Google snippet: 'PZS is a volunteer-run organization'; About page: free, non-commercial, over 150 zinesters a year."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.portlandzinesymposium.org/",
+      "note": "Homepage: 'October 17 - 18, 2026', PSU Smith Ballroom, 11AM to 5PM; also listed on pdx.edu events."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.portlandzinesymposium.org/",
+      "note": "2026 venue: Portland State University, Smith Memorial Student Union Ballroom."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DekJNJRK6xG/",
+      "note": "16 Oct 2026: kick-off 'ZINE SCRAMBLE at the @iprc_pdx'; same in Nov 2025."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DeUdPZdKwOi/",
+      "note": "'The 2026 PZS afterparty will be Saturday, October 17th ... at Outlet'; Outlet also hosted the 25th birthday event (Feb 2026)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DeNL7IFEi1I/",
+      "note": "'Thank you @portlandcleanaircommittee for providing air purifiers for the event!'"
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/DeUdPZdKwOi/",
+      "note": "Official afterparty at Outlet."
+    }
+  ],
+  "remove_gaps": [
+    "Only one source gives the 2026 dates",
+    "Attendance and sponsors not captured"
+  ],
+  "add_gaps": [
+    "No cash sponsors published; event is volunteer-run and donation-funded, framed as non-commercial"
+  ],
+  "notes": "Free, non-commercial, volunteer-run zine fair (about 1,850 attendees in 2026); partners are community spaces, not brands. Masks required, which signals a health-conscious community, but the non-commercial ethos limits brand partnership."
+}

@@ -1,0 +1,180 @@
+{
+  "id": "seas-the-day-kingscliff",
+  "set": {
+    "attendance": {
+      "figure": 15000,
+      "figure_high": null,
+      "year": 2026,
+      "is_estimate": false,
+      "source": "https://surfingaustralia.com/thousands-celebrate-womens-surfing-as-nrma-insurance-seas-the-day-is-hailed-a-resounding-success/",
+      "note": "Organiser-reported 'over fifteen thousand people' at the 2026 (fourth) edition, 20 to 21 Jun; Surfing Australia also cited 'more than 15,000' for 2025."
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Ford Australia",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://surfingaustralia.com/thousands-celebrate-womens-surfing-as-nrma-insurance-seas-the-day-is-hailed-a-resounding-success/"
+    },
+    {
+      "brand": "Babybel",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://surfingaustralia.com/thousands-celebrate-womens-surfing-as-nrma-insurance-seas-the-day-is-hailed-a-resounding-success/"
+    },
+    {
+      "brand": "Fujifilm Photos",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://surfingaustralia.com/thousands-celebrate-womens-surfing-as-nrma-insurance-seas-the-day-is-hailed-a-resounding-success/"
+    },
+    {
+      "brand": "Southern Cross University",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://surfingaustralia.com/thousands-celebrate-womens-surfing-as-nrma-insurance-seas-the-day-is-hailed-a-resounding-success/"
+    },
+    {
+      "brand": "Ampd Bros",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://surfingaustralia.com/thousands-celebrate-womens-surfing-as-nrma-insurance-seas-the-day-is-hailed-a-resounding-success/"
+    },
+    {
+      "brand": "Sodii Hydration",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://surfingaustralia.com/thousands-celebrate-womens-surfing-as-nrma-insurance-seas-the-day-is-hailed-a-resounding-success/"
+    },
+    {
+      "brand": "Ghanda Clothing",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://surfingaustralia.com/thousands-celebrate-womens-surfing-as-nrma-insurance-seas-the-day-is-hailed-a-resounding-success/"
+    },
+    {
+      "brand": "Thermos",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://surfingaustralia.com/thousands-celebrate-womens-surfing-as-nrma-insurance-seas-the-day-is-hailed-a-resounding-success/"
+    },
+    {
+      "brand": "Sambazon",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://surfingaustralia.com/thousands-celebrate-womens-surfing-as-nrma-insurance-seas-the-day-is-hailed-a-resounding-success/"
+    },
+    {
+      "brand": "Kennards Hire",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://surfingaustralia.com/thousands-celebrate-womens-surfing-as-nrma-insurance-seas-the-day-is-hailed-a-resounding-success/"
+    },
+    {
+      "brand": "BLACKROLL",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://surfingaustralia.com/thousands-celebrate-womens-surfing-as-nrma-insurance-seas-the-day-is-hailed-a-resounding-success/"
+    },
+    {
+      "brand": "Surfers For Climate",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://surfingaustralia.com/thousands-celebrate-womens-surfing-as-nrma-insurance-seas-the-day-is-hailed-a-resounding-success/"
+    },
+    {
+      "brand": "Office of Sport NSW",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://surfingaustralia.com/thousands-celebrate-womens-surfing-as-nrma-insurance-seas-the-day-is-hailed-a-resounding-success/"
+    },
+    {
+      "brand": "Tweed Shire Council",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://surfingaustralia.com/thousands-celebrate-womens-surfing-as-nrma-insurance-seas-the-day-is-hailed-a-resounding-success/"
+    },
+    {
+      "brand": "YETI Australia",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.facebook.com/groups/699800757403910/posts/1930920880958552/"
+    },
+    {
+      "brand": "Acciona Australia",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.facebook.com/groups/699800757403910/posts/1930920880958552/"
+    }
+  ],
+  "add_activation_formats": [
+    "workshop",
+    "naming-rights"
+  ],
+  "add_sources": [
+    {
+      "field": "attendance",
+      "url": "https://surfingaustralia.com/thousands-celebrate-womens-surfing-as-nrma-insurance-seas-the-day-is-hailed-a-resounding-success/",
+      "note": "Surfing Australia wrap (23 Jun 2026, read via WebFetch): fourth edition drew 'over fifteen thousand people'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://surfingaustralia.com/thousands-celebrate-womens-surfing-as-nrma-insurance-seas-the-day-is-hailed-a-resounding-success/",
+      "note": "2026 wrap: 'proudly supported by' Ford Australia, Babybel, Fujifilm Photos, Southern Cross University, Ampd Bros, Sodii Hydration, Ghanda Clothing, Thermos, Sambazon, Kennards Hire, BLACKROLL and Surfers For Climate; 'a proudly supported event of' NSW Government, Office of Sport NSW and Tweed Shire Council; NRMA Insurance presenting partner."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.facebook.com/groups/699800757403910/posts/1930920880958552/",
+      "note": "2026 promo post lists partners '@nswgov @tweedshirecouncil @yeti_au @acciona_australia ...' (Google snippet, list cut off)."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://surfingaustralia.com/thousands-celebrate-womens-surfing-as-nrma-insurance-seas-the-day-is-hailed-a-resounding-success/",
+      "note": "Division naming: Babybel Under 14 Mini Shredders, Sodii Hydration Open Women's Longboard, Ghanda Girls Under 18 Shortboard, Thermos Open Women's Para, NRMA Insurance Open Women's Shortboard and RISE judging program. Wellness Hub and Women In Surf Hub ran workshops and talks."
+    }
+  ],
+  "add_gaps": [
+    "No dedicated event website found; Surfing Australia news pages act as the official source",
+    "Brand-run activations at the Wellness Hub not itemised in the wrap"
+  ],
+  "remove_gaps": [
+    "2026 attendance not yet reported",
+    "Other partners below naming rights not listed",
+    "Only one source (June 2024); no 2025 or 2026 edition found",
+    "Organiser, website, format beyond the contest and sponsors unknown"
+  ],
+  "notes": "Strong precedent for health and wellness brands: 2026 supporters include Sodii Hydration, Sambazon and BLACKROLL, divisions are brand-named, and a Wellness Hub ran workshops. 15,000+ organiser-reported for 2026. Pack IG is organiser @surfingaus (correct; no event-only account). NRMA Insurance (naming, already on record) also titles divisions."
+}

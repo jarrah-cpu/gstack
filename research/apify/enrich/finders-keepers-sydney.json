@@ -1,0 +1,24 @@
+{
+  "id": "finders-keepers-sydney",
+  "set": {
+    "website": "https://www.thefinderskeepers.com/",
+    "organiser": {"name": "The Finders Keepers", "type": null, "website": "https://www.thefinderskeepers.com/"},
+    "ticket_price": {"min": 7, "max": 7, "currency": "AUD", "free_entry": false, "note": "SS26 (13 to 15 Nov 2026) entry 'Just $7 + booking fee', with a 2-for-1 Friday ticket sale. Free-entry promotions have run for earlier editions (OzBargain, AW26)."},
+    "partnership_contact": {"email": null, "page_url": "https://www.thefinderskeepers.com/contact.html", "named_person": null, "source": "https://www.thefinderskeepers.com/"}
+  },
+  "add_sponsors": [
+    {"brand": "Carriageworks", "years": [2024, 2025, 2026], "role": "venue", "source": "https://carriageworks.com.au/events/the-finders-keepers-market/"}
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {"field": "website", "url": "https://www.thefinderskeepers.com/", "note": "Official site; copyright 'The Finders Keepers', a registered trade mark."},
+    {"field": "organiser", "url": "https://www.thefinderskeepers.com/", "note": "No separate legal entity named on the site."},
+    {"field": "ticket_price", "url": "https://www.instagram.com/thefinderskeepersmarket/", "note": "Google snippet of IG: 'Carriageworks, Eveleigh, 13-15 November 2026, Tickets on sale now - Just $7 +booking'. 2-for-1 Friday sale per https://www.instagram.com/p/DXnar1olwOM/ (Google snippet)."},
+    {"field": "ticket_price", "url": "https://www.reddit.com/r/OzBargain/comments/1std1td/nsw_free_entry_to_the_finders_keepers_sydney/", "note": "Free entry promotion for 1 to 3 May 2026 via Universe (Google snippet)."},
+    {"field": "partnership_contact", "url": "https://www.thefinderskeepers.com/", "note": "Homepage links a general Contact page and a 'Support Us' page; no partnership or sponsorship email published."},
+    {"field": "sponsors", "url": "https://carriageworks.com.au/events/the-finders-keepers-market/", "note": "'Project Partners. Presented by The Finders Keepers Market and Carriageworks' (Google snippet); 2024 page carriageworks.com.au/events/finders-keepers-2024/ says the same."}
+  ],
+  "add_gaps": ["Organiser legal entity and type not published", "No partnerships or sponsorship email published; general contact page only", "Audience age and gender not published"],
+  "remove_gaps": ["Official website and organiser type not surfaced in search results", "Ticket price not found", "No public partnerships contact found"],
+  "notes": "No brand sponsors found for the Sydney market beyond Carriageworks, which co-presents and hosts (role kept as venue; could be upgraded to presenting). Homepage 'Partners & Supporters' (Peppermint magazine, LOUSY, Melbourne Food and Wine Festival) look tied to the Melbourne market, not added. The 4 paid-partnership posts are creator and fragrance-brand content promoting the market, not event sponsors."
+}

@@ -1,0 +1,48 @@
+{
+  "id": "sala-festival-sa",
+  "set": {
+    "attendance": {"figure": 1700000, "figure_high": null, "year": null, "is_estimate": false, "source": "https://www.salafestival.com/about/corporate-partners/", "note": "Organiser-reported: SALA reaches 'local and inter/national audiences of more than 1.7+ million people' each year (year not stated; a reach claim including incidental audiences). History page: audiences exceeded 960,000 in 2021; About page says 850,000+. About 12,000 artists, 600+ venues."},
+    "partnership_contact": {"email": "office@salafestival.com", "page_url": "https://www.salafestival.com/about/corporate-partners/", "named_person": null, "source": "https://www.salafestival.com/about/corporate-partners/"}
+  },
+  "add_sponsors": [
+    {"brand": "The Advertiser and Sunday Mail", "years": [2026], "role": "major", "source": "https://www.salafestival.com/about/corporate-partners/"},
+    {"brand": "CreateSA (Government of South Australia)", "years": [2026], "role": "government", "source": "https://www.salafestival.com/about/corporate-partners/"},
+    {"brand": "Australian Government", "years": [2026], "role": "government", "source": "https://www.salafestival.com/about/corporate-partners/"},
+    {"brand": "City of Adelaide (Adelaide Economic Development Agency)", "years": [2026], "role": "government", "source": "https://www.salafestival.com/about/corporate-partners/"},
+    {"brand": "Brand South Australia and South Australian Tourism Commission", "years": [2026], "role": "government", "source": "https://www.salafestival.com/about/corporate-partners/"},
+    {"brand": "City Rural", "years": [2026], "role": "partner", "source": "https://www.salafestival.com/about/corporate-partners/"},
+    {"brand": "I-NEX", "years": [2026], "role": "partner", "source": "https://www.salafestival.com/about/corporate-partners/"},
+    {"brand": "artfuel", "years": [2026], "role": "partner", "source": "https://www.salafestival.com/about/corporate-partners/"},
+    {"brand": "ILA", "years": [2026], "role": "venue", "source": "https://www.salafestival.com/about/corporate-partners/"},
+    {"brand": "Novatech", "years": [2026], "role": "partner", "source": "https://www.salafestival.com/about/corporate-partners/"},
+    {"brand": "Foodland", "years": [2026], "role": "partner", "source": "https://www.salafestival.com/about/corporate-partners/"},
+    {"brand": "Channel 44", "years": [2026], "role": "media", "source": "https://www.salafestival.com/about/corporate-partners/"},
+    {"brand": "Hither & Yon", "years": [2026], "role": "partner", "source": "https://www.salafestival.com/about/corporate-partners/"},
+    {"brand": "Country Arts SA", "years": [2026], "role": "government", "source": "https://www.salafestival.com/about/corporate-partners/"},
+    {"brand": "Influx Creative", "years": [2026], "role": "partner", "source": "https://www.salafestival.com/about/corporate-partners/"},
+    {"brand": "Inspiring South Australia", "years": [2026], "role": "government", "source": "https://www.salafestival.com/about/corporate-partners/"},
+    {"brand": "Jarvis Škoda", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DY61qBkkiw1/"},
+    {"brand": "Whittles Body Corporate Management Services", "years": [2026], "role": "partner", "source": "https://www.salafestival.com/about/corporate-partners/"},
+    {"brand": "Wakefield Press", "years": [2026], "role": "partner", "source": "https://www.salafestival.com/about/corporate-partners/"},
+    {"brand": "Visualcom", "years": [2026], "role": "partner", "source": "https://www.salafestival.com/about/corporate-partners/"},
+    {"brand": "William Buck", "years": [2026], "role": "partner", "source": "https://www.salafestival.com/about/corporate-partners/"},
+    {"brand": "Art Gallery of South Australia (AGSA)", "years": [2026], "role": "partner", "source": "https://www.salafestival.com/about/corporate-partners/"},
+    {"brand": "Adelaide Central School of Art", "years": [2026], "role": "partner", "source": "https://www.salafestival.com/about/corporate-partners/"},
+    {"brand": "Coopers Brewery", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DY61qBkkiw1/"},
+    {"brand": "Guildhouse", "years": [2026], "role": "partner", "source": "https://www.salafestival.com/awards/"}
+  ],
+  "add_activation_formats": ["naming-rights", "collab-product"],
+  "add_sources": [
+    {"field": "sponsors", "url": "https://www.salafestival.com/about/corporate-partners/", "note": "Festival Partners page (logos, names from alt text, file names or links): Major Partners The Advertiser Sunday Mail, CreateSA/Government of SA, Australian Government; Festival Partners City of Adelaide/AEDA, Brand SA/GOSA/SATC, City Rural; Premier and Education Partners I-NEX, artfuel; Venue Partner ILA; Activation Partner Novatech; Community Partner Foodland; Community Media Partner 44 (Channel 44); Wine Partner Hither & Yon."},
+    {"field": "sponsors", "url": "https://www.salafestival.com/about/corporate-partners/", "note": "Partners: CP (unidentified logo), Country Arts SA, Influx Creative, Inspiring SA, Jarvis Skoda, Whittles Body Corporate Management Services, Wakefield Press. Supporters: Visualcom, William Buck, AGSA, ACSA (Adelaide Central School of Art). Page undated; treated as 2026."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DY61qBkkiw1/", "note": "May 2026: 'The Art Cars project is sponsored by @Jarvis_Skoda and @Visualcom.au, and the launch party was sponsored by Jarvis Skoda, @Hither_Yon, and @CoopersBrewery'; program is called the 2026 Jarvis Skoda SALA Art Cars."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/Ddn698PEjFs/", "note": "Sep 2026: SALA in Lights award 'sponsored by @Foodlandsa & @novatechcet'."},
+    {"field": "sponsors", "url": "https://www.salafestival.com/awards/", "note": "SALA in Lights: projection during 2027 SALA with support of Novatech (valued $10,000) plus $2,500 prize money from Foodland; Artist's Choice prize includes a 12-month Guildhouse membership."},
+    {"field": "activation_formats", "url": "https://www.instagram.com/p/DY61qBkkiw1/", "note": "Jarvis Skoda names the SALA Art Cars program (artist-wrapped cars)."},
+    {"field": "partnership_contact", "url": "https://www.salafestival.com/about/corporate-partners/", "note": "'Partnering with SALA... Contact us if you are interested in partnering'; office@salafestival.com and (08) 7077 0011 on the page."},
+    {"field": "attendance", "url": "https://www.salafestival.com/history/", "note": "History page: 2021 audiences exceeded 960,000 with 9,000+ artists (Google snippet)."}
+  ],
+  "add_gaps": ["Corporate partners page is undated; treated as the 2026 roster", "Audience figure is an undated organiser reach claim; no audited 2026 visitor count", "One partner logo (CP) not identified"],
+  "remove_gaps": ["Visitor attendance not found", "Award sponsors not identified", "Sponsors and partnership contact not researched"],
+  "notes": "Statewide open-access visual arts month with a full tiered partner list and an open invitation to partner ('activate a winter audience'). Award and program sponsors identified (Foodland, Novatech, Jarvis Skoda, Guildhouse). Attendance is a large undated reach claim; treat scale as 100k+ but not precise."
+}

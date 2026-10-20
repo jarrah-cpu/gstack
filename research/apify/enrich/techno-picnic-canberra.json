@@ -1,0 +1,145 @@
+{
+  "id": "techno-picnic-canberra",
+  "set": {
+    "dates": {
+      "last_edition": {
+        "start": "2026-04-12",
+        "end": "2026-04-12",
+        "status": "held",
+        "label": "1st edition (Natascha Polké, Doppel, Club Junque)"
+      },
+      "next_edition": {
+        "start": "2026-11-01",
+        "end": "2026-11-01",
+        "status": "confirmed",
+        "label": "2nd edition (D-Nox four-hour set, Waxlily)"
+      },
+      "frequency": "irregular",
+      "duration_days": 1
+    },
+    "location": {
+      "city": "Canberra",
+      "state_or_region": "ACT",
+      "country": "Australia",
+      "venue_or_area": "ACT Waterski Club on the Molonglo River (Nov 2026); April 2026 edition billed on the shores of Lake Burley Griffin"
+    },
+    "ticket_price": {
+      "min": 15,
+      "max": 69,
+      "currency": "AUD",
+      "free_entry": false,
+      "note": "1 Nov 2026: adults $29, kids $15, family $69; all ages; BYO food and drinks allowed."
+    },
+    "organiser": {
+      "name": "The Dionysus Movement Pty Ltd (Dionysus; runs Soul Defender and Escape Ferocity)",
+      "type": "promoter",
+      "website": "https://dionysus.place/"
+    },
+    "partnership_contact": {
+      "email": "connect@technopicnic.com",
+      "page_url": "https://technopicnic.com/",
+      "named_person": null,
+      "source": "https://technopicnic.com/"
+    },
+    "audience": {
+      "age_range": null,
+      "gender_skew": null,
+      "psychographics": "All-ages Sunday daytime techno picnic aimed at former warehouse-party regulars ('a party for those who have turned the page'); family tickets, BYO picnics.",
+      "source": "https://technopicnic.com/"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "ACT Government (Event Fund)",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://events.canberra.com.au/event-organisers/funding-and-grants"
+    },
+    {
+      "brand": "The Vault (Dairy Road)",
+      "years": [
+        2026
+      ],
+      "role": "collab",
+      "source": "https://canberradigest.com.au/issues/2026/march-25"
+    }
+  ],
+  "add_sources": [
+    {
+      "field": "dates.last_edition",
+      "url": "https://technopicnic.com/",
+      "note": "Site lists past edition 12 April 2026"
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.facebook.com/escapeferocity.party/",
+      "note": "Google snippet: 'Our very first Techno Picnic with techno legends, Natascha Polké, Doppel and Club Junque'"
+    },
+    {
+      "field": "dates.frequency",
+      "url": "https://hercanberra.com.au/city/k-fest-techno-picnic-the-wonderful-world-festival-and-so-much-more-65-things-to-do-this-weekend/",
+      "note": "Google snippet: a lakeside daytime series bringing international melodic techno headliners to the shores of Lake Burley Griffin"
+    },
+    {
+      "field": "location",
+      "url": "https://hercanberra.com.au/event/techno-picnic-with-d-nox-germany-6ace17fb61e52e666d1f8520/",
+      "note": "Google snippet: held on the Molonglo River at the ACT Waterski Club"
+    },
+    {
+      "field": "location",
+      "url": "https://www.cbredm.org/",
+      "note": "Google snippet: ACT Waterski Club, D-Nox (4hr set) and Waxlily presented by Techno Picnic, 1pm"
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://technopicnic.com/",
+      "note": "PRICE Adults $29, Kids $15, Family $69; open to all ages; bring an esky of any drinks"
+    },
+    {
+      "field": "organiser",
+      "url": "https://events.canberra.com.au/event-organisers/funding-and-grants",
+      "note": "2026 Event Fund: The Dionysus Movement Pty Ltd, Techno Picnic, $9,982"
+    },
+    {
+      "field": "organiser",
+      "url": "https://dionysus.place/",
+      "note": "Google snippet: Dionysus site lists Techno Picnic and Soul Defender projects; Australian Event Awards winner 2024"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://events.canberra.com.au/event-organisers/funding-and-grants",
+      "note": "ACT Government 2026 Event Fund grant $9,982 to The Dionysus Movement Pty Ltd for Techno Picnic"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://canberradigest.com.au/issues/2026/march-25",
+      "note": "Google snippet: Techno Picnic on Sunday 12 April, hosted by Soul Defender and The Vault"
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://technopicnic.com/",
+      "note": "'Questions? Email connect@technopicnic.com'"
+    },
+    {
+      "field": "audience",
+      "url": "https://www.facebook.com/61559226414227/mentions/",
+      "note": "Google snippet: 'Techno Picnic - A party for those who have turned the page'"
+    },
+    {
+      "field": "audience",
+      "url": "https://hercanberra.com.au/event/techno-picnic-with-d-nox-germany-6ace17fb61e52e666d1f8520/",
+      "note": "Google snippet: for years this crew threw warehouse parties, late and loud"
+    }
+  ],
+  "remove_gaps": [
+    "Exact venue, capacity and ticket price not captured",
+    "Whether it recurs is unknown"
+  ],
+  "add_gaps": [
+    "Capacity and attendance not captured",
+    "No commercial sponsors found"
+  ],
+  "notes": "Techno Picnic is a series: first edition 12 Apr 2026, second 1 Nov 2026 at the ACT Waterski Club. Run by The Dionysus Movement Pty Ltd, which got a $9,982 ACT Event Fund grant. Linked IG account @thesouldefender is the organiser's mobile stage (no posts scraped); @escapeferocity.party may carry more Techno Picnic content."
+}

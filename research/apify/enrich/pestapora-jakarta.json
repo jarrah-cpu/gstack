@@ -1,0 +1,51 @@
+{
+  "id": "pestapora-jakarta",
+  "set": {
+    "website": "https://www.pestapora.com/",
+    "organiser": {
+      "name": "Boss Creator (director Kiki Aulia Ucup)",
+      "type": "promoter",
+      "website": "https://bosscreator.id/"
+    }
+  },
+  "add_sponsors": [
+    {"brand": "Telkomsel SIMPATI", "years": [2026], "role": "naming", "source": "https://www.instagram.com/p/Ddtcpo3t3Dr/"},
+    {"brand": "BRI (BRImo)", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/Ddviuzmtrf_/"},
+    {"brand": "Extra Joss", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DdvzAGfo5pp/"},
+    {"brand": "Mentos", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DdvV2muo77Y/"},
+    {"brand": "EA Sports FC Mobile", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DdoQsXHI3VI/"},
+    {"brand": "Yamaha Indonesia", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DdqmojKo2DZ/"},
+    {"brand": "AlphaTheta Indonesia", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/Dd706KZN3oB/"},
+    {"brand": "Yummy (IDN Media)", "years": [2026], "role": "partner", "source": "https://www.idn.media/news/451/yummy-hadirkan-masakpora-sebagai-pengalaman-kuliner-interaktif-di-pestapora-2026"},
+    {"brand": "COMBI", "years": [2026], "role": "partner", "source": "https://www.instagram.com/pestapora/"},
+    {"brand": "Rumah Atsiri", "years": [2026], "role": "collab", "source": "https://www.instagram.com/p/DdoRTkvo-ZT/"},
+    {"brand": "Bagasi", "years": [2026], "role": "collab", "source": "https://www.instagram.com/p/DdoRTkvo-ZT/"},
+    {"brand": "Typesee Eyewear", "years": [2026], "role": "collab", "source": "https://www.instagram.com/p/DdoRTkvo-ZT/"},
+    {"brand": "Hydro Flask Indonesia", "years": [2026], "role": "collab", "source": "https://www.instagram.com/p/DdoRTkvo-ZT/"}
+  ],
+  "add_activation_formats": ["naming-rights", "competition-or-prize", "collab-product"],
+  "add_sources": [
+    {"field": "website", "url": "https://www.pestapora.com/", "note": "Official site: 'Pestapora Music Festival 25, 26, 27 September 2026'; linked from @pestapora Instagram bio."},
+    {"field": "organiser", "url": "https://www.pestapora.com/", "note": "Site footer: 'Promoted by Boss Creator' (bosscreator.id); copyright 2026 BOSS CREATOR."},
+    {"field": "organiser", "url": "https://id.wikipedia.org/wiki/Pestapora", "note": "Google snippet: annual festival in Jakarta organised by promoter Boss Creator. Kompas (2022) names Boss Creator director Kiki Aulia Ucup."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/Ddtcpo3t3Dr/", "note": "@pestapora uses the title 'Pestapora Pasti SIMPATI' throughout Sep 2026 (stages incl. 'Pestapora Stage Pestapora Pasti SIMPATI'); @simpati co-authored 8 posts."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/Ddviuzmtrf_/", "note": "@pestapora (26 Sep 2026): BRImo booth with VIP parking, fast track, prize games, Apple auction and Gold Bar Challenge; tickets sold via Loket.com and BRImo; BRI merchant partners in Hall D2."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DdvzAGfo5pp/", "note": "'Klab Klub Stage @extrajoss_ultimate' (stage branding); Extra Joss booth (https://www.instagram.com/p/DdoXmYco_4Q/)."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DdvV2muo77Y/", "note": "'Pasar Pasaran Pestapora by @mentos.idn'."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DdoQsXHI3VI/", "note": "FC Mobile area at JIExpo Kemayoran with Timnas Indonesia activities and signed jersey prizes; 'Pesta Jersey' with @easfcmobileid."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DdqmojKo2DZ/", "note": "@pestapora: ride to Pestapora on @yamahaindonesia motorbikes (Grand Filano, Fazzio)."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/Dd706KZN3oB/", "note": "Pack context (1 Oct 2026): 'Big thank you to @alphathetaindonesia for sponsoring the DJ equipment that made our Micro Disco happen.'"},
+    {"field": "sponsors", "url": "https://www.idn.media/news/451/yummy-hadirkan-masakpora-sebagai-pengalaman-kuliner-interaktif-di-pestapora-2026", "note": "Google snippet: Yummy presented 'Masakpora', an interactive cooking experience at Pestapora 2026."},
+    {"field": "sponsors", "url": "https://www.instagram.com/pestapora/", "note": "Google snippet of a @pestapora 2026 post: 'Kalau batuk dan gangguan tenggorokan datang? Ingat yang ada COMBI' (sponsored product message)."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DdoRTkvo-ZT/", "note": "'Barang-barang bisa membantu kalian nonton Pestapora ... kolaborasi bareng @rumahatsiri, @bagasi.destinasi, @typesee.eyewear & @hydroflask.id'."},
+    {"field": "sponsors", "url": "https://www.facebook.com/KOMPAScom/posts/festival-musik-pestapora-resmi-menghentikan-kerja-sama-dengan-pt-freeport-indone/1291830132973098/", "note": "Context: Pestapora ended its 2025 sponsorship with PT Freeport Indonesia on 6 Sep 2025 after dozens of acts withdrew (Kompas, Magdalene)."}
+  ],
+  "add_gaps": [
+    "2026 total attendance not published; Hipkultur cited a projection of 25,000 to 30,000 a day",
+    "Sponsor logos on pestapora.com are images without names; sponsor and partner contact emails are obfuscated on the site"
+  ],
+  "remove_gaps": [
+    "Organiser entity, official website and sponsor roster not shown in results"
+  ],
+  "notes": "2026 ran as 'Pestapora Pasti SIMPATI' (Telkomsel naming), with BRImo, Extra Joss, Mentos, FC Mobile and Yamaha activations. COMBI (a cough and throat product) ran in-feed messages: a health-adjacent precedent. 2025 Freeport sponsorship caused artist withdrawals and was dropped mid-festival, so sponsor vetting is sensitive for this audience."
+}

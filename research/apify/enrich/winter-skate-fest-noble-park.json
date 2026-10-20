@@ -1,0 +1,51 @@
+{
+  "id": "winter-skate-fest-noble-park",
+  "set": {
+    "organiser": {
+      "name": "Malaysian Victoria Community",
+      "type": "community-collective",
+      "website": "https://www.winterskatefest.com/"
+    },
+    "dates": {
+      "last_edition": {"start": "2026-06-06", "end": "2026-07-05", "status": "held", "label": "Noble Park Winter & Street Fest 2026 (8 weekend days; skate activities cancelled)"},
+      "next_edition": {"start": "2027-06", "end": null, "status": "expected", "label": "2027"},
+      "frequency": "annual",
+      "duration_days": 8
+    },
+    "attendance": {
+      "figure": 50000,
+      "figure_high": null,
+      "year": 2026,
+      "is_estimate": true,
+      "source": "https://www.winterskatefest.com/sponsors/becoming-a-sponsor",
+      "note": "Organiser's sponsor page projects 'an estimated 50,000 visitors' (pre-event forecast for sponsors, not a reported count)."
+    },
+    "partnership_contact": {
+      "email": "malaysianvictoriacommunity@gmail.com",
+      "page_url": "https://www.winterskatefest.com/sponsors/becoming-a-sponsor",
+      "named_person": "Fendi (phone contact listed on the contact page)",
+      "source": "https://www.winterskatefest.com/visit-us/contact-us"
+    }
+  },
+  "add_sponsors": [
+    {"brand": "The Coca-Cola Company", "years": [2026], "role": "partner", "source": "https://www.winterskatefest.com/sponsors"}
+  ],
+  "add_sources": [
+    {"field": "organiser", "url": "https://www.winterskatefest.com/", "note": "Crawled home page: public announcement signed 'Malaysian Victoria Community'; contact page names the same group with TikTok @malaysian.victori."},
+    {"field": "dates.last_edition", "url": "https://www.winterskatefest.com/", "note": "Crawled: 'Based on advice received and safety considerations ... the Noble Park Skateboard Competition and all skate-related activities will no longer proceed. The event will continue as the Noble Park Winter & Street Fest 2026' with food vendors, market stalls and entertainment on 6, 7, 13, 14, 27 and 28 June and 4 and 5 July 2026, 3pm to 8pm."},
+    {"field": "sponsors", "url": "https://www.winterskatefest.com/sponsors", "note": "Crawled: Featured Partners 'The Coca-Cola Company: Supporting Winter Skate Fest in bringing energy, refreshment and community spirit to every weekend at Noble Park Skatepark'."},
+    {"field": "attendance", "url": "https://www.winterskatefest.com/sponsors/becoming-a-sponsor", "note": "Crawled: 'Sponsors gain a chance to increase brand exposure to an estimated 50,000 visitors'; offers booths, sampling and naming rights for competition days."},
+    {"field": "partnership_contact", "url": "https://www.winterskatefest.com/visit-us/contact-us", "note": "Crawled: 'Feel free to reach out for questions, partnership opportunities or sponsorships'; email malaysianvictoriacommunity@gmail.com; phone contact named Fendi."}
+  ],
+  "remove_gaps": [
+    "Organiser not named in results",
+    "Attendance, Instagram and sponsors not captured"
+  ],
+  "add_gaps": [
+    "Skate competition and all skate activities were cancelled for 2026 on safety advice; whether skating returns in 2027 is unknown",
+    "Attendance is an organiser forecast only; no post-event figure",
+    "No post-event coverage confirming the 2026 food and market weekends ran",
+    "No Instagram account found; organiser uses TikTok @malaysian.victori"
+  ],
+  "notes": "Material change: the skate competition and all skate activities were cancelled; the 2026 event ran as a food, market and community fest (Noble Park Winter & Street Fest). It no longer fits the skate-culture category, and the existing competition-or-prize format did not happen. Consider recategorising or archiving. Run by a community group with a Gmail contact; Coca-Cola is the only named partner."
+}

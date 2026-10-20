@@ -1,0 +1,114 @@
+{
+  "id": "bells-beach-surf-film-festival",
+  "set": {
+    "website": "https://www.bellsbeachsurffilmfestival.com/",
+    "dates": {
+      "last_edition": {
+        "start": "2026-01-02",
+        "end": "2026-01-04",
+        "status": "held",
+        "label": "15th edition (2026)"
+      },
+      "next_edition": {
+        "start": "2027-01-02",
+        "end": "2027-01-05",
+        "status": "confirmed",
+        "label": "16th edition (2027)"
+      },
+      "frequency": "annual",
+      "duration_days": 4
+    },
+    "organiser": {
+      "name": "Bells Beach Surf Film Society",
+      "type": "community-collective",
+      "website": "https://www.bellsbeachsurffilmfestival.com/"
+    },
+    "attendance": {
+      "figure": 250,
+      "figure_high": null,
+      "year": 2026,
+      "is_estimate": true,
+      "source": "https://timesnewsgroup.com.au/surfcoasttimes/news/surf-film-mecca-delights-audiences-in-torquay/",
+      "note": "Press figure (Surf Coast Times, 16 Jan 2026, Google snippet): 'more than 250 people' at a sell-out festival."
+    },
+    "partnership_contact": {
+      "email": "bellsbeachsff@gmail.com",
+      "page_url": "https://www.bellsbeachsurffilmfestival.com/contact",
+      "named_person": "John Foss, Festival Director",
+      "source": "https://www.bellsbeachsurffilmfestival.com/festival"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Reef",
+      "years": [
+        2023
+      ],
+      "role": "partner",
+      "source": "https://timesnewsgroup.com.au/surfcoasttimes/news/film-festival-salutes-three-sell-out-shows/"
+    },
+    {
+      "brand": "Bells Beach Brewing",
+      "years": [
+        2023
+      ],
+      "role": "partner",
+      "source": "https://timesnewsgroup.com.au/surfcoasttimes/news/film-festival-salutes-three-sell-out-shows/"
+    },
+    {
+      "brand": "Patagonia",
+      "years": [
+        2023
+      ],
+      "role": "partner",
+      "source": "https://timesnewsgroup.com.au/surfcoasttimes/news/film-festival-salutes-three-sell-out-shows/"
+    }
+  ],
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://www.bellsbeachsurffilmfestival.com/festival",
+      "note": "Page read: official festival site (About page). The .com.au link in the Instagram bio failed DNS in the crawl."
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.bellsbeachsurffilmfestival.com/festival",
+      "note": "Page read: 'Saturday 2nd - Tuesday 5th January 2027'."
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.facebook.com/bellsbeachsurffilmfestival/posts/the-16th-bells-beach-surf-film-festival-will-run-from-saturday-2nd-tuesday-5th-j/1408811631457373/",
+      "note": "Google snippet: 'The 16th Bells Beach Surf Film Festival will run from Saturday 2nd - Tuesday 5th January 2027'."
+    },
+    {
+      "field": "organiser",
+      "url": "https://www.bellsbeachsurffilmfestival.com/festival",
+      "note": "Page read: run by the Bells Beach Surf Film Society, a volunteer committee led by Festival Director John Foss."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.bellsbeachsurffilmfestival.com/festival",
+      "note": "Page read: contact email bellsbeachsff@gmail.com and a contact page."
+    },
+    {
+      "field": "attendance",
+      "url": "https://timesnewsgroup.com.au/surfcoasttimes/news/surf-film-mecca-delights-audiences-in-torquay/",
+      "note": "Google snippet (16 Jan 2026): 'MORE than 250 people enjoyed ... a sell-out Bells Beach Surf Film Festival earlier this month'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://timesnewsgroup.com.au/surfcoasttimes/news/film-festival-salutes-three-sell-out-shows/",
+      "note": "Google snippet (19 Jan 2023): 'received support from their event sponsors, Reef, Bells Beach Brewing and Patagonia this year'."
+    }
+  ],
+  "remove_gaps": [
+    "2027 dates not announced; early January expected from the 'longest-running' annual claim",
+    "Organiser, website, ticket prices and partners not found",
+    "No public partnerships contact found"
+  ],
+  "add_gaps": [
+    "Ticket prices not published yet (site says sales open December 2026)",
+    "Sponsors confirmed only for 2023 (Google snippet); 2024 to 2026 partners not found"
+  ],
+  "notes": "Small volunteer-run festival at the Australian National Surfing Museum, about 250 people a year, sells out. Patagonia and Reef backed it in 2023. Donates to SurfAid. Instagram account @bellsbeachsurffilm is correct."
+}

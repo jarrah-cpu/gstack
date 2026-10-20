@@ -1,0 +1,149 @@
+{
+  "id": "fair-go-skate-competition-ballina",
+  "set": {
+    "partnership_contact": {
+      "email": null,
+      "page_url": "https://www.instagram.com/fairgoskatecomp/",
+      "named_person": "Truckstop Sk8 team",
+      "source": "https://www.instagram.com/p/DZbbG7rv83U/"
+    },
+    "ticket_price": {
+      "min": 20,
+      "max": 20,
+      "currency": "AUD",
+      "free_entry": null,
+      "note": "Competitor entry $20 per division, max two entries (Fair Go 25). Spectator entry not stated. Prize pool over $10,000 funded by local businesses and skate-industry backers (2025)."
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Findlay Hats",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DPdVBXAD8GI/"
+    },
+    {
+      "brand": "Powell Peralta",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DPdVBXAD8GI/"
+    },
+    {
+      "brand": "Bones Wheels",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DPdVBXAD8GI/"
+    },
+    {
+      "brand": "Whitaker Skateboards",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DPdVBXAD8GI/"
+    },
+    {
+      "brand": "Partner Skateboards",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DPdVBXAD8GI/"
+    },
+    {
+      "brand": "The Furniture Company",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DPdVBXAD8GI/"
+    },
+    {
+      "brand": "Rockstar Bearings",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DPdVBXAD8GI/"
+    },
+    {
+      "brand": "36 Chambers Skateshop",
+      "years": [
+        2025
+      ],
+      "role": "collab",
+      "source": "https://www.instagram.com/p/DPdVBXAD8GI/"
+    },
+    {
+      "brand": "Byron Skate School",
+      "years": [
+        2025
+      ],
+      "role": "collab",
+      "source": "https://www.instagram.com/p/DPdVBXAD8GI/"
+    },
+    {
+      "brand": "Northern Rivers Skateboard Club (NRSK8)",
+      "years": [
+        2025
+      ],
+      "role": "collab",
+      "source": "https://www.instagram.com/p/DPdVBXAD8GI/"
+    },
+    {
+      "brand": "Ballina Shire Council",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "government",
+      "source": "https://ballina.infocouncil.biz/Open/2025/12/OC_11122025_MIN.PDF"
+    }
+  ],
+  "add_activation_formats": [
+    "competition-or-prize"
+  ],
+  "add_sources": [
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DPdVBXAD8GI/",
+      "note": "@fairgoskatecomp 'Registration is NOW OPEN for Fair Go 25' (6 Oct 2025). Google snippet of the post lists 'Sponsors: @findlayhats @powellperalta @boneswheels @whitakerskateboards @partnerskateboards @thefurniturecompany @rockstarbearings ...' (list cut off). Post co-authored with Truckstop Skate Shop, Truckstop Skate School, Byron Skate School, 36 Chambers Skateshop and NRSK8."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://ballina.infocouncil.biz/Open/2025/12/OC_11122025_MIN.PDF",
+      "note": "Ballina Shire Council minutes, Dec 2025: Fair Go Skate Competition requested 10,000 and was allocated 6,000 under the festival and event sponsorship program (Google snippet); Dec 2024 agenda also shows 6,000."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.instagram.com/p/DZbbG7rv83U/",
+      "note": "@fairgoskatecomp (11 Jun 2026): 'Greetings past and hopefully future Fair Go Sponsors!... Fair Go 26 is coming soon and is a great tax deductable, community event... Click the link in our bio and join in... as a sponsor'. A later 2026 post repeats 'Do you want to sponsor Fair Go this year? Contact us or click the link in our Bio' (https://www.instagram.com/p/DeJdEs6O7mF/, Google snippet)."
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://www.instagram.com/p/DPdVBXAD8GI/",
+      "note": "'Entry is $20 per division (max 2 entries - one park & one bowl)'."
+    },
+    {
+      "field": "dates",
+      "url": "https://thefold.com.au/nsw/ballina-shire-region/event/sport-recreation/ballina-boxing-day-races/",
+      "note": "English-language listing: Fair Go Skate Competition, Kingsford Smith Drive, Ballina, 9 to 10 October 2026 (Google snippet). ATDW listing says it 'returns for its 26th year'."
+    }
+  ],
+  "add_gaps": [
+    "2026 sponsor list not captured; the 2026 thank-you post (https://www.instagram.com/p/DeJdEs6O7mF/) was not scraped",
+    "Spectator numbers not published; past coverage cites about 100 riders (2019)",
+    "A Google snippet of @truckstopsk8school appears to offer the business, including running the Fair Go comp, to a new operator; organiser continuity unclear"
+  ],
+  "remove_gaps": [
+    "2026 dates come from a Japanese-language VisitNSW page only",
+    "Current sponsors, entrant numbers and spectators not found"
+  ],
+  "notes": "The event has its own IG account @fairgoskatecomp (not in the pack; pack shows organiser @truckstopsk8school). 2025 brand sponsors are core skate brands (Powell Peralta, Bones, Rockstar) plus local businesses; the comp openly seeks sponsors each year via its IG bio link. Possible sale of the Truckstop business could change the organiser."
+}

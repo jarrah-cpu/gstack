@@ -1,0 +1,37 @@
+{
+  "id": "portuguese-surf-film-festival-ericeira",
+  "set": {
+    "organiser": {"name": "Mind Act (production by Zucalli Media)", "type": null, "website": "https://surffilm.squarespace.com/"}
+  },
+  "add_sponsors": [
+    {"brand": "Câmara Municipal de Mafra", "years": [2026], "role": "government", "source": "https://surffilm.squarespace.com/team"},
+    {"brand": "Junta de Freguesia da Ericeira", "years": [2026], "role": "government", "source": "https://www.instagram.com/p/DbBBGfXo8P0/"},
+    {"brand": "Secret Oven Pizza", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DbBBGfXo8P0/"},
+    {"brand": "Bar dos Pescadores", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DbBBGfXo8P0/"},
+    {"brand": "FUEL TV Portugal", "years": [2026], "role": "media", "source": "https://www.instagram.com/p/DbBBGfXo8P0/"},
+    {"brand": "Flor d'Estufa", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DbNsySTCFol/"},
+    {"brand": "Quinta da Cerca", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DbggyCCjs51/"},
+    {"brand": "Ribbai Ericeira", "years": [2026], "role": "venue", "source": "https://www.instagram.com/p/DbQuAwiIczi/"},
+    {"brand": "Cerveja Nortada", "years": [2025], "role": "partner", "source": "https://www.instagram.com/p/DSkPvMfiCKe/"}
+  ],
+  "add_activation_formats": ["hospitality-bar"],
+  "add_sources": [
+    {"field": "organiser", "url": "https://www.ericeiramag.pt/a-15a-edicao-do-portuguese-surf-film-festival-vai-ser-apresentada-a-11-de-julho-na-ericeira/", "note": "Google snippet (Jul 2026): official sponsor Município de Mafra; organised by Mind Act and produced by Zucalli Media."},
+    {"field": "organiser", "url": "https://maiseducativa.com/2016/02/12/tudo-sobre-o-portuguese-surf-film-festival-aqui/", "note": "Google snippet (2016): organised by Mind Act with main sponsorship from Câmara Municipal de Mafra and support from Junta de Freguesia da Ericeira."},
+    {"field": "sponsors", "url": "https://surffilm.squarespace.com/team", "note": "Team page: the Municipality is 'GRAND SPONSOR & CO-PRODUCER' and has always backed the festival."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DbBBGfXo8P0/", "note": "20 Jul 2026: thanks CM Mafra, Junta de Freguesia da Ericeira for logistical support, and partners @hurleyericeira @secretovenpizza @barpescadores @fueltvportugal."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DbNsySTCFol/", "note": "25 Jul 2026: special thanks to partners @flord.estufa and @quintadacerca.restaurante for support over the years."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DbQuAwiIczi/", "note": "26 Jul 2026 free beach screening at Praia de Ribeira d'Ilhas; thanks @ribbai.ericeira 'por nos receber' (for hosting us)."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DSkPvMfiCKe/", "note": "22 Dec 2025: Surf Film Roadshow 'by @cervejanortada', four stops through Peniche, Viana do Castelo, Costa da Caparica and Ericeira; 'Obrigada pela parceria'. Off-season roadshow, not the July festival."},
+    {"field": "activation_formats", "url": "https://www.instagram.com/p/DbggyCCjs51/", "note": "Closing night at Palácio dos Marqueses opened with a welcome drink offered by Quinta da Cerca; about 300 people attended that night."},
+    {"field": "attendance", "url": "https://www.instagram.com/p/DbggyCCjs51/", "note": "Only figure found: about 300 people at the closing night (not total attendance)."}
+  ],
+  "add_gaps": [
+    "Only closing-night attendance (about 300) published; no total",
+    "No contact email captured (contact page asks for press enquiries by email but shows no address in the crawl)"
+  ],
+  "remove_gaps": [
+    "Full sponsor list not found"
+  ],
+  "notes": "Municipality of Mafra is grand sponsor and co-producer; private partners are local hospitality (Quinta da Cerca, Flor d'Estufa, Secret Oven, Bar dos Pescadores) plus Hurley Surf Club (already on record as venue) and FUEL TV. Cerveja Nortada presented an off-season roadshow in late 2025. Official domain portuguesesurffilmfestival.com (IG link) mirrors the squarespace site on record."
+}

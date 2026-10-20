@@ -1,0 +1,86 @@
+{
+  "id": "go-skateboarding-day-hobart",
+  "set": {
+    "organiser": {
+      "name": "Skate of Mind",
+      "type": "community-collective",
+      "website": null
+    },
+    "audience": {
+      "age_range": "All ages",
+      "gender_skew": null,
+      "psychographics": "Local skate community 'from young kids to longtime locals'; free learn-to-skate workshops, digital art and a best-trick comp.",
+      "source": "https://www.instagram.com/p/DZ8sIRTy0Rr/"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Vans",
+      "years": [
+        2026
+      ],
+      "role": "presenting",
+      "source": "https://www.instagram.com/p/DZ8sIRTy0Rr/"
+    },
+    {
+      "brand": "Jimmy's Skate & Street",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DZ8sIRTy0Rr/"
+    },
+    {
+      "brand": "Big hART",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DZ3hCK7h-uh/"
+    }
+  ],
+  "add_activation_formats": [
+    "installation"
+  ],
+  "add_sources": [
+    {
+      "field": "organiser",
+      "url": "https://www.instagram.com/skate__of__mind/",
+      "note": "Bio: 'A grassroots collective of skateboarders, filmmakers, photographers, and artists. We run events in regional communities.'"
+    },
+    {
+      "field": "audience",
+      "url": "https://www.instagram.com/p/DZ8sIRTy0Rr/",
+      "note": "Collab post with Skate of Mind and Jimmy's: 'from young kids to longtime locals'"
+    },
+    {
+      "field": "audience",
+      "url": "https://www.discovertasmania.com.au/things-to-do/festivals-and-events/go-skateboarding-day/",
+      "note": "Free, all ages and skill levels"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DZ8sIRTy0Rr/",
+      "note": "'Vans Hobart Go Skateboarding Day, brought to you by Skate of Mind'; thanks Vans Australia, Skate of Mind and Jimmy's Skate & Street for supporting"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DZ3hCK7h-uh/",
+      "note": "Big hART co-authored the Go Skate Day recap; Big hART is a standing Skate of Mind partner"
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/DZ3oIJlhpol/",
+      "note": "Vans mystery obstacle built by @wetheloons, plus 'heaps of giveaways'"
+    }
+  ],
+  "add_gaps": [
+    "Council involvement not confirmed",
+    "Organiser recap post says 21 June while the eve-of post and listing give Sat 20 June 2026"
+  ],
+  "remove_gaps": [
+    "Organiser type and backers (council or independent) not confirmed",
+    "Vans role limited to giveaways as far as results show"
+  ],
+  "notes": "Vans badged the day ('Vans Hobart Go Skateboarding Day') and funded a mystery obstacle; existing Vans role 'partner' could be upgraded to presenting. Jimmy's Skate & Street (retailer) and Big hART support. A LinkedIn snippet names Totem Skateboarding as an event partner but is unverified. IG @skate__of__mind is the organiser, which also tours NT and Sydney."
+}

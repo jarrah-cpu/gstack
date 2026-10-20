@@ -1,0 +1,55 @@
+{
+ "id": "isa-world-surfing-games-punta-rocas-2026",
+ "set": {
+  "location": {
+   "city": "Lima",
+   "state_or_region": "Lima",
+   "country": "Peru",
+   "venue_or_area": "Punta Rocas"
+  }
+ },
+ "add_sponsors": [
+  {
+   "brand": "CazéTV",
+   "years": [
+    2026
+   ],
+   "role": "media",
+   "source": "https://senalnews.com/es/contenidos/cazetv-adquiere-los-derechos-de-los-isa-world-surfing-games-hasta-2028"
+  },
+  {
+   "brand": "PromPerú",
+   "years": [
+    2026
+   ],
+   "role": "government",
+   "source": "https://www.gob.pe/institucion/promperu/noticias/1401537-promperu-peru-se-consolida-como-destino-mundial-de-surf-tras-ser-elegido-sede-del-isa-world-surfing-games-2026"
+  }
+ ],
+ "add_sources": [
+  {
+   "field": "location",
+   "url": "https://www.facebook.com/tribunadeportivaper/posts/lima-ser%C3%A1-sede-del-isa-world-surfing-games-2026la-international-surfing-associat/1407178568099922/",
+   "note": "Google snippet: 'LIMA SERÁ SEDE DEL ISA WORLD SURFING GAMES 2026'; venue Punta Rocas."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://senalnews.com/es/contenidos/cazetv-adquiere-los-derechos-de-los-isa-world-surfing-games-hasta-2028",
+   "note": "Google snippet: CazéTV acquired ISA World Surfing Games rights through 2028; 2026 at Punta Rocas 6 to 15 Nov, 2027 in Surf City, El Salvador."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://www.gob.pe/institucion/promperu/noticias/1401537-promperu-peru-se-consolida-como-destino-mundial-de-surf-tras-ser-elegido-sede-del-isa-world-surfing-games-2026",
+   "note": "Google snippet: PromPerú release says the event will project Peru to a global audience. Exact host role not stated; page blocked when fetched."
+  }
+ ],
+ "add_gaps": [
+  "Commercial sponsors not captured (ISA announcement page returned 403)",
+  "A Facebook group snippet still lists Surf City, El Salvador, 5 to 14 Sep 2026; ISA and Peruvian press confirm Punta Rocas 6 to 15 Nov 2026",
+  "Ticketing and spectator numbers not captured"
+ ],
+ "remove_gaps": [
+  "Sponsors, ticketing, attendance and Instagram not captured"
+ ],
+ "notes": "Elite Olympic-qualifier contest run by ISA, rotating host (2027 goes to El Salvador), so a one-off for Peru. Only broadcast (CazéTV) and government tourism (PromPerú) partners found. Low accessibility for a brand like High Ground."
+}

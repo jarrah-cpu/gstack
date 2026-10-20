@@ -1,0 +1,36 @@
+{
+  "id": "big-design-market-sydney",
+  "set": {
+    "website": "https://sydney.thebigdesignmarket.com/",
+    "location": {"city": "Sydney", "state_or_region": "NSW", "country": "Australia", "venue_or_area": "Carriageworks, Eveleigh"},
+    "organiser": {"name": "The Big Design Market Pty Ltd (as trustee for the BDM Trust)", "type": "independent", "website": "https://sydney.thebigdesignmarket.com/"},
+    "dates": {
+      "last_edition": {"start": "2026-09-18", "end": "2026-09-20", "status": "held", "label": "2026"},
+      "next_edition": {"start": "2027-04-02", "end": "2027-04-04", "status": "confirmed", "label": "2027 (April)"},
+      "frequency": "unknown",
+      "duration_days": 3
+    },
+    "ticket_price": {"min": 0, "max": 8, "currency": "AUD", "free_entry": false, "note": "Adults $8 plus booking fee; children 12 and under free. Designer showbags $25 extra."},
+    "partnership_contact": {"email": "enquiries@thebigdesignmarket.com", "page_url": null, "named_person": null, "source": "https://sydney.thebigdesignmarket.com/"}
+  },
+  "add_sponsors": [
+    {"brand": "Carriageworks", "years": [2026], "role": "venue", "source": "https://carriageworks.com.au/events/the-big-design-market/"},
+    {"brand": "Pizzini Wines", "years": [2026], "role": "partner", "source": "https://sydney.thebigdesignmarket.com/"},
+    {"brand": "Departed Spirits", "years": [2026], "role": "partner", "source": "https://sydney.thebigdesignmarket.com/"}
+  ],
+  "add_activation_formats": ["hospitality-bar", "installation"],
+  "add_sources": [
+    {"field": "website", "url": "https://sydney.thebigdesignmarket.com/", "note": "Official Sydney site."},
+    {"field": "location", "url": "https://carriageworks.com.au/events/the-big-design-market/", "note": "Carriageworks event page, 18 to 20 September, 230+ Australian tastemakers; 'Presented by The Big Design Market and Carriageworks' (Google snippet)."},
+    {"field": "organiser", "url": "https://sydney.thebigdesignmarket.com/", "note": "Site footer: 'The Big Design Market Pty Ltd as Trustee for the BDM Trust'. LinkedIn lists the parent as The Big Design Group, established 2012."},
+    {"field": "dates.next_edition", "url": "https://sydney.thebigdesignmarket.com/", "note": "'The Big Design Market will return to Carriageworks, from 2-4 April 2027'. Moves from September to April."},
+    {"field": "ticket_price", "url": "https://sydney.thebigdesignmarket.com/", "note": "Adults '$8 + Booking fee', children 12 and under free."},
+    {"field": "partnership_contact", "url": "https://sydney.thebigdesignmarket.com/", "note": "General enquiries email; no separate partnership or media address."},
+    {"field": "sponsors", "url": "https://sydney.thebigdesignmarket.com/", "note": "'Event Partners' logos link to Departed Spirits and Pizzini (no alt text)."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DdQqFZ5DHvg/", "note": "Sydney 2026 Friday showbags post lists exhibitor items incl. Pizzini Wines."},
+    {"field": "activation_formats", "url": "https://sydney.thebigdesignmarket.com/see-and-do/guest-artists/", "note": "Each year a large-scale installation of a guest exhibitor's artwork (Google snippet). Pizzini runs the bar at the Melbourne edition (IG)."}
+  ],
+  "add_gaps": ["Audience age and gender not published", "Visitor numbers for the Sydney edition not published (a 2018 Green Magazine piece cites 70,000 shoppers but does not split Sydney from Melbourne)"],
+  "remove_gaps": ["Venue not confirmed in the snippet (surfaced in a Carriageworks search)", "Organiser not captured", "No public partnerships contact found"],
+  "notes": "Next Sydney edition moves to 2 to 4 April 2027 at Carriageworks (was September in 2026). IG @bigdesignmarket is the shared national account and mostly covers the Melbourne editions; brand activations seen there (eufyMake UV printer, Ester Spirits) were Melbourne, not added."
+}

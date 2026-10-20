@@ -1,0 +1,34 @@
+{
+  "id": "island-of-gods-tattoo-convention-kuta",
+  "set": {
+    "website": "https://islandofgods-tattooconvention.com/",
+    "partnership_contact": {
+      "email": "info@islandofgods-tattooconvention.com",
+      "page_url": "https://islandofgods-tattooconvention.com/",
+      "named_person": null,
+      "source": "https://islandofgods-tattooconvention.com/"
+    }
+  },
+  "add_sponsors": [
+    {"brand": "Singapore Ink Show", "years": [2026], "role": "partner", "source": "https://islandofgods-tattooconvention.com/"},
+    {"brand": "Vietnam Inkfinity Convention", "years": [2026], "role": "partner", "source": "https://islandofgods-tattooconvention.com/"},
+    {"brand": "Kenarau (@kenarau)", "years": [2026], "role": "partner", "source": "https://islandofgods-tattooconvention.com/"}
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {"field": "website", "url": "https://islandofgods-tattooconvention.com/", "note": "Official site: 'ISLAND OF GODS - INTERNATIONAL TATTOO CONVENTION | 27-29 Nov 2026 - Bali, Indonesia'."},
+    {"field": "dates.next_edition", "url": "https://islandofgods-tattooconvention.com/", "note": "Organiser site confirms 27, 28 and 29 November 2026."},
+    {"field": "partnership_contact", "url": "https://islandofgods-tattooconvention.com/", "note": "Only email on the site: info@islandofgods-tattooconvention.com (general enquiries)."},
+    {"field": "sponsors", "url": "https://islandofgods-tattooconvention.com/", "note": "'OFFICIAL PARTNERS: @singaporinkshow | @vietnam.inkfinity.convention | @kenarau'. The first two are fellow tattoo conventions (cross-promotion partners). Judges listed under 'International Judges & Partners' are tattoo artists and studios, not sponsors."},
+    {"field": "activation_formats", "url": "https://islandofgods-tattooconvention.com/", "note": "Best of Show award, grand prize IDR 50,000,000 plus a trophy by sculptor Zhushi (competition-or-prize)."}
+  ],
+  "add_gaps": [
+    "No brand sponsors found; listed official partners are other conventions plus @kenarau (identity not confirmed)",
+    "Venue (Discovery Kartika Plaza Hotel, Kuta) not confirmed on the crawled organiser page",
+    "No event Instagram account found"
+  ],
+  "remove_gaps": [
+    "Dates from a listing site only; not confirmed with the organiser"
+  ],
+  "notes": "Official site found and confirms 27 to 29 Nov 2026 with an IDR 50m Best of Show prize and international judges. Only a general info@ email. 'Official partners' are other Asian tattoo conventions, so no commercial sponsor evidence yet. Instagram search returned only unrelated accounts."
+}

@@ -1,0 +1,110 @@
+{
+  "id": "sf-zine-fest",
+  "set": {
+    "partnership_contact": {
+      "email": null,
+      "page_url": "https://www.sfzinefest.org/contact-1",
+      "named_person": null,
+      "source": "https://www.sfzinefest.org/about"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Intersection for the Arts",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.sfzinefest.org/about"
+    },
+    {
+      "brand": "The Hibernia",
+      "years": [
+        2026
+      ],
+      "role": "venue",
+      "source": "https://www.sfzinefest.org/"
+    },
+    {
+      "brand": "Mission: Comics & Art",
+      "years": [
+        2026
+      ],
+      "role": "venue",
+      "source": "https://www.instagram.com/p/Dc3rn0fjiy5/"
+    },
+    {
+      "brand": "Fabulosa Books",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/Dc3r2q2EyRV/"
+    },
+    {
+      "brand": "The SpookyHaus",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/Dc3r2q2EyRV/"
+    },
+    {
+      "brand": "Hormel LGBTQIA Center (San Francisco Public Library)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://sfpl.org/events/2026/05/19/activity-zinething"
+    }
+  ],
+  "add_activation_formats": [
+    "after-party",
+    "workshop"
+  ],
+  "add_sources": [
+    {
+      "field": "partnership_contact",
+      "url": "https://www.sfzinefest.org/about",
+      "note": "About page links a Contact page (/contact-1), Support page and Patreon; no email listed. IG bio: 'Please email official requests via our website'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.sfzinefest.org/about",
+      "note": "'SF Zine Fest was made possible with the generous support of:' Intersection for the Arts only (member and fiscal sponsor)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.sfzinefest.org/",
+      "note": "'The 25th Annual San Francisco Zine Fest ... Venue: The Hibernia, 1 Jones St, SF, CA on Sunday Sept. 6'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/Dc3rn0fjiy5/",
+      "note": "Kick-off party at Mission: Comics & Art, 'hosting this kickoff party year after year'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/Dc3r2q2EyRV/",
+      "note": "'SFZF After Party will be at Fabulosa Books! Co-hosted by The SpookyHaus'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://sfpl.org/events/2026/05/19/activity-zinething",
+      "note": "'A monthly LGBTQIA zine-making meetup presented by SF Zine Fest in partnership with the Hormel LGBTQIA Center'."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/Db3cjg0AfWB/",
+      "note": "2026 program: Zinething workshop and Thinking Captions reading at the Hormel Center, zine picnic, kick-off party, fest at The Hibernia, afterparty."
+    }
+  ],
+  "remove_gaps": [
+    "Attendance and sponsors not captured"
+  ],
+  "add_gaps": [
+    "Attendance not published (50+ volunteers in 2026)",
+    "No commercial sponsors found; only fiscal sponsor and community venue partners"
+  ],
+  "notes": "Community, non-commercial zine fair with no brand sponsors; partners are a fiscal sponsor, bookshops and the public library. Masks required at the fest. Website not crawled by Apify; facts from IG captions and two fetched pages."
+}

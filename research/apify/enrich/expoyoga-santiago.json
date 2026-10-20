@@ -1,0 +1,124 @@
+{
+ "id": "expoyoga-santiago",
+ "set": {
+  "attendance": {
+   "figure": 13000,
+   "figure_high": null,
+   "year": null,
+   "is_estimate": false,
+   "source": "https://expoyoga.cl/",
+   "note": "Organiser-reported '13.000 asistentes en sus últimas ediciones' (13,000 attendees at its latest editions, held before a six-year break). Edition year not stated; not a 2026 count."
+  },
+  "partnership_contact": {
+   "email": "stands@expoyoga.cl",
+   "page_url": "https://www.passline.com/eventos/expo-yoga-2026-stands",
+   "named_person": null,
+   "source": "https://www.instagram.com/p/DcwbcdMhShc/"
+  }
+ },
+ "add_sponsors": [
+  {
+   "brand": "Cabify",
+   "years": [
+    2026
+   ],
+   "role": "partner",
+   "source": "https://www.instagram.com/p/DeceAiFJ7W-/"
+  },
+  {
+   "brand": "Ecoyoga Patagonia",
+   "years": [
+    2026
+   ],
+   "role": "collab",
+   "source": "https://www.instagram.com/p/DeP3-EOhC1_/"
+  },
+  {
+   "brand": "Portalyoga",
+   "years": [
+    2026
+   ],
+   "role": "collab",
+   "source": "https://www.instagram.com/p/DcwbcdMhShc/"
+  },
+  {
+   "brand": "Mahatma Yoga Studio",
+   "years": [
+    2026
+   ],
+   "role": "collab",
+   "source": "https://www.instagram.com/p/DcwbcdMhShc/"
+  },
+  {
+   "brand": "Centro Cultural Estación Mapocho",
+   "years": [
+    2026
+   ],
+   "role": "venue",
+   "source": "https://www.instagram.com/p/DehttIsmxZH/"
+  },
+  {
+   "brand": "Radio Pauta",
+   "years": [
+    2026
+   ],
+   "role": "media",
+   "source": "https://www.facebook.com/pauta.cl/posts/expoyoga-2026-regresa-al-centro-cultural-estaci%C3%B3n-mapocho-los-d%C3%ADas-17-y-18-de-oc/1713813974077514/"
+  }
+ ],
+ "add_activation_formats": [
+  "competition-or-prize"
+ ],
+ "add_sources": [
+  {
+   "field": "attendance",
+   "url": "https://expoyoga.cl/",
+   "note": "Site 'Lleva tu marca' section: '13.000 asistentes en sus últimas ediciones'. Estación Mapocho page says ExpoYoga returns 'después de seis años'."
+  },
+  {
+   "field": "partnership_contact",
+   "url": "https://www.instagram.com/p/DcwbcdMhShc/",
+   "note": "Call for exhibitors: brands and projects in wellness, yoga or movement should write to stands@expoyoga.cl. Site FAQ says brands take part by booking a stand via Passline."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://www.instagram.com/p/DeceAiFJ7W-/",
+   "note": "Cabify code EXPOYOGA gives 50% off two rides to and from the venue on 17 and 18 Oct ('CABIFY está con nosotros')."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://www.instagram.com/p/DeP3-EOhC1_/",
+   "note": "'CONCURSO EXPOYOGA x ECOYOGA PATAGONIA': joint giveaway of VIP and general tickets plus an eco mat carrier."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://www.instagram.com/p/DcwbcdMhShc/",
+   "note": "Portalyoga (yoga and sports store) and Mahatma Yoga Studio co-author many organiser posts, including this exhibitor call; role not stated."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://www.instagram.com/p/DehttIsmxZH/",
+   "note": "Centro Cultural Estación Mapocho is venue and co-author on 25 organiser posts."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://www.facebook.com/pauta.cl/posts/expoyoga-2026-regresa-al-centro-cultural-estaci%C3%B3n-mapocho-los-d%C3%ADas-17-y-18-de-oc/1713813974077514/",
+   "note": "Google snippet: Radio Pauta gave away five double tickets to ExpoYoga 2026."
+  },
+  {
+   "field": "activation_formats",
+   "url": "https://www.instagram.com/p/DeP3-EOhC1_/",
+   "note": "Brand giveaway with Ecoyoga Patagonia."
+  }
+ ],
+ "add_gaps": [
+  "Ticket prices not captured (day, two-day and VIP tiers sold via Passline)",
+  "Organiser entity not named on the site",
+  "Portalyoga and Mahatma Yoga co-author many organiser posts but their role (partner or co-organiser) is not stated",
+  "No 2026 attendance figure; the 13,000 figure predates the six-year break"
+ ],
+ "remove_gaps": [
+  "Ticket prices, attendance, sponsors and Instagram not captured"
+ ],
+ "notes": "Strong wellness fit: 2026 comeback edition (17 and 18 Oct) after six years, with a commercial wellness fair open to brands via stands@expoyoga.cl. Brand partners seen are small (Cabify promo code, Ecoyoga giveaway, yoga studios and stores); no major sponsor tier published."
+}

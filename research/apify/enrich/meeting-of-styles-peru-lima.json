@@ -1,0 +1,67 @@
+{
+ "id": "meeting-of-styles-peru-lima",
+ "set": {
+  "dates": {
+   "last_edition": {
+    "start": "2025",
+    "end": null,
+    "status": "held",
+    "label": "2025 edition"
+   },
+   "next_edition": {
+    "start": "2026-11-26",
+    "end": "2026-11-29",
+    "status": "confirmed",
+    "label": "12th edition (2026)"
+   },
+   "frequency": "annual",
+   "duration_days": 4
+  },
+  "partnership_contact": {
+   "email": null,
+   "page_url": "https://meetingofstyles.com/contact/",
+   "named_person": null,
+   "source": "https://meetingofstyles.com/contact/"
+  }
+ },
+ "add_activation_formats": [
+  "stall"
+ ],
+ "add_sources": [
+  {
+   "field": "dates.next_edition",
+   "url": "https://meetingofstyles.com/01-08-november-2026-lima-metropolitan-area-peru/",
+   "note": "Organiser page title and heading (dated 3 Sep 2026): '26 to 29 November 2026, Lima (Perú)'."
+  },
+  {
+   "field": "dates.next_edition",
+   "url": "https://www.instagram.com/mos_peru/reels/",
+   "note": "Google snippet of local account @mos_peru: '12.º Reunión de Estilos Perú, Festival internacional de cultura urbana'."
+  },
+  {
+   "field": "dates.last_edition",
+   "url": "https://www.facebook.com/mosperu/posts/aftermath-mosperu-2025la-reuni%C3%B3n-de-estilo-no-termina-aqu%C3%ADdespu%C3%A9s-del-poderoso-m/1173442411457670/",
+   "note": "Google snippet: 'AFTERMATH MOSPERU 2025' posted 13 Nov 2025 (San Bartolo)."
+  },
+  {
+   "field": "partnership_contact",
+   "url": "https://meetingofstyles.com/contact/",
+   "note": "MOS international: 'For press, media, sponsorings or any inquiry please contact the international headquarter' (Wiesbaden); local or national contributions by email (address not captured)."
+  },
+  {
+   "field": "activation_formats",
+   "url": "https://www.facebook.com/mosperu/posts/-convocatoria-feriantes-meeting-of-styles-x-maldito-festtienes-una-marca-de-ropa/1435035921964983/",
+   "note": "Google snippet: 'CONVOCATORIA FERIANTES // MEETING OF STYLES x MALDITO FEST', call for clothing brands to take stalls."
+  }
+ ],
+ "add_gaps": [
+  "Local posts suggest a 25 Nov start; MOS page says 26 to 29 Nov 2026",
+  "Local organiser, sponsors and attendance not captured",
+  "Record IG is the international MOS account; the local account is @mos_peru (Facebook: mosperu)"
+ ],
+ "remove_gaps": [
+  "Dates conflict on the organiser page (24 to 29 Nov vs 26 to 29 Nov 2026, URL slug says 1 to 8 Nov)",
+  "Local organiser, sponsors, attendance and Instagram not captured"
+ ],
+ "notes": "Instagram in the pack is the international Meeting of Styles account, not the Peruvian chapter; the local account is @mos_peru, so no local sponsor signals were scraped. 2026 is the 12th Peruvian edition (26 to 29 Nov per MOS page) with music, rap auditions and a brand stall fair co-run with Maldito Fest."
+}

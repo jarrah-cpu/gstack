@@ -1,0 +1,50 @@
+{
+  "id": "australian-national-slalom-championships-canberra",
+  "set": {
+    "organiser": {
+      "name": "CROSS (volunteer crew, Canberra)",
+      "type": "community-collective",
+      "website": null
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Goliath (skateboards)",
+      "years": [
+        2018
+      ],
+      "role": "partner",
+      "source": "https://www.facebook.com/stromloforestpark/posts/this-sunday-the-stromlo-forest-park-criterium-circuit-will-host-the-australian-n/5194820180569459/"
+    },
+    {
+      "brand": "PAE Youth",
+      "years": [
+        2018
+      ],
+      "role": "partner",
+      "source": "https://www.facebook.com/stromloforestpark/posts/this-sunday-the-stromlo-forest-park-criterium-circuit-will-host-the-australian-n/5194820180569459/"
+    }
+  ],
+  "add_sources": [
+    {
+      "field": "organiser",
+      "url": "http://www.skateboardracing.org.au/events/australian-national-slalom-skateboarding-championships-1?overrideMobileRedirect=1",
+      "note": "Google snippet of the ASRA event page: championships 'will be run by the guys at CROSS, as volunteers of Canberra'. Page itself could not be opened (certificate error)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.facebook.com/stromloforestpark/posts/this-sunday-the-stromlo-forest-park-criterium-circuit-will-host-the-australian-n/5194820180569459/",
+      "note": "Google snippet of a Stromlo Forest Park post linking the 2018 championships page: 'sponsors & partners @goliathskate @pae.youth'. Year inferred from the linked event URL."
+    }
+  ],
+  "remove_gaps": [
+    "2026 edition not confirmed as held; exact dates, venue and organiser not found"
+  ],
+  "add_gaps": [
+    "2026 edition not confirmed as held; exact dates and venue not found",
+    "SlalomRanking lists a 2025 Canberra edition starting 'Fri 28' (month cut off in the snippet)",
+    "Sponsors only seen for an earlier edition (likely 2018); current partners not found",
+    "Attendance not published"
+  ],
+  "notes": "Thin evidence: no Instagram account, no site crawled, ASRA page blocked by a certificate error. Organiser per ASRA snippet is the CROSS volunteer crew; a past edition ran on the Stromlo Forest Park criterium circuit. Small specialist race, low partnership value."
+}

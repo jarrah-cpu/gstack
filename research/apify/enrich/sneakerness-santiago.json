@@ -1,0 +1,61 @@
+{
+ "id": "sneakerness-santiago",
+ "set": {
+  "dates": {
+   "last_edition": {
+    "start": null,
+    "end": null,
+    "status": null,
+    "label": null
+   },
+   "next_edition": {
+    "start": "2026-12-12",
+    "end": "2026-12-13",
+    "status": "confirmed",
+    "label": "2026, first Latin American edition"
+   },
+   "frequency": "unknown",
+   "duration_days": 2
+  },
+  "partnership_contact": {
+   "email": "info@sneakerness.com",
+   "page_url": "https://sneakerness.com/contact/",
+   "named_person": null,
+   "source": "https://sneakerness.com/contact/"
+  },
+  "ticket_price": {
+   "min": null,
+   "max": null,
+   "currency": "CLP",
+   "free_entry": false,
+   "note": "Tickets via PuntoTicket after a pre-registration 'First Access' early-ticket drop; prices not announced. Global FAQ: under-12s free with a ticketed adult."
+  }
+ },
+ "add_sources": [
+  {
+   "field": "dates.next_edition",
+   "url": "https://www.majos.cl/sneakerness-santiago-2026-la-convencion-sneaker-llega-a-chile/",
+   "note": "Google snippet: 'primera edición de la convención sneaker en Latinoamérica'; Blog de Cero confirms 12 and 13 Dec 2026."
+  },
+  {
+   "field": "partnership_contact",
+   "url": "https://sneakerness.com/contact/",
+   "note": "Global contact info@sneakerness.com (Sneakerness GmbH, Zurich). Press: matthijs@sneakerness.com (For Press page)."
+  },
+  {
+   "field": "ticket_price",
+   "url": "https://blogdecero.cl/sneakerness-santiago-chile-2026/",
+   "note": "Tickets to be sold through PuntoTicket; pre-registration gives First Access to an Early Tickets Drop, contests and merch."
+  }
+ ],
+ "add_gaps": [
+  "Venue not announced as of Oct 2026",
+  "No local sponsor, retailer or producer named yet",
+  "Chile IG account @sneakerness_cl has no posts yet"
+ ],
+ "remove_gaps": [
+  "Single source (organiser site via search summary); no Chilean press confirmation found in a follow-up search",
+  "Unclear whether this is a first edition"
+ ],
+ "notes": "Chilean press confirms 12 and 13 Dec 2026 as Sneakerness's first Latin American edition; venue, local partner and prices still unannounced. Brand partnerships run through the Zurich HQ (global partners plus activations); only global contacts published."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "soft-centre-sydney",
+  "set": {
+    "website": "https://www.softcentre.com.au/",
+    "organiser": {"name": "Soft Centre (Soft Centre Pty Ltd)", "type": "non-profit", "website": "https://www.softcentre.com.au/"},
+    "partnership_contact": {"email": "hello@softcentre.com.au", "page_url": "https://www.softcentre.com.au/about", "named_person": null, "source": "https://www.softcentre.com.au/about"}
+  },
+  "add_sponsors": [
+    {"brand": "Brand X", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DahgmoBEiwV/"},
+    {"brand": "Performance Space", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/Dd5NmCOF_fS/"},
+    {"brand": "Create NSW (NSW Government)", "years": [2026], "role": "government", "source": "https://www.instagram.com/p/Dd5NmCOF_fS/"},
+    {"brand": "Liquid Architecture", "years": [2026], "role": "collab", "source": "https://www.instagram.com/p/DYyu8ePkYjC/"},
+    {"brand": "Biennale of Sydney", "years": [2026], "role": "collab", "source": "https://www.instagram.com/p/DZd900yEok1/"},
+    {"brand": "White Bay Power Station", "years": [2026], "role": "venue", "source": "https://www.instagram.com/p/DZd900yEok1/"},
+    {"brand": "Carriageworks", "years": [2023], "role": "presenting", "source": "https://carriageworks.com.au/events/soft-centre-23/"},
+    {"brand": "Ace Hotel Sydney", "years": [2023], "role": "partner", "source": "https://carriageworks.com.au/events/soft-centre-23/"},
+    {"brand": "TFE Hotels", "years": [2023], "role": "partner", "source": "https://carriageworks.com.au/events/soft-centre-23/"}
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {"field": "website", "url": "https://www.softcentre.com.au/about", "note": "Official site, About and FAQ page."},
+    {"field": "organiser", "url": "https://www.softcentre.com.au/about", "note": "'Soft Centre is a not-for-profit arts organisation based in Eora/Sydney', 'a not-for-profit company limited by guarantee'. Past festival venues listed: Casula Powerhouse, Carriageworks, White Bay Power Station."},
+    {"field": "organiser", "url": "https://meetings.cityofsydney.nsw.gov.au/documents/s83981/Attachment%20D%20-%20Not%20Recommended%20for%20Funding%20-%20Festivals%20and%20Events%20Sponsorship%20Program.pdf", "note": "City of Sydney 2024/25 sponsorship round lists applicant 'Soft Centre Pty. Ltd.' (not recommended for funding) (Google snippet)."},
+    {"field": "organiser", "url": "https://au.linkedin.com/company/soft-centre-arts", "note": "'Since its inception at the Casula Powerhouse in 2017' (Google snippet). CEO Jemma Amalie Cole per https://www.instagram.com/p/DcdBfw9xTYj/."},
+    {"field": "partnership_contact", "url": "https://www.softcentre.com.au/about", "note": "Footer general email hello@softcentre.com.au; no dedicated partnerships contact."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DahgmoBEiwV/", "note": "2026 workshops: 'Huge thanks to our presenting and venue partners at @brandxinc' (Brand X A-2-A program)."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/Dd5NmCOF_fS/", "note": "'Alternate Channels is supported by the NSW Government through @creatensw in partnership with Soft Centre, Performance Space and Brand X' (new residency, 2026)."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DYyu8ePkYjC/", "note": "June 2026 Budots workshop tags Liquid Architecture and Brand X; Google snippet of IG: 'Presented by SOFT CENTRE and @liquidarchitecture as part of the Artist-2-Artist series, in partnership with @brandx_sydney'."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DZd900yEok1/", "note": "12 Jun 2026 Sydney show for New York's tour at White Bay Power Station, tagged with Biennale of Sydney and Vivid Sydney."},
+    {"field": "sponsors", "url": "https://carriageworks.com.au/events/soft-centre-23/", "note": "2023: 'Presented by Carriageworks, Soft Centre and Vivid Sydney with Soft Centre Program Partners ... Partners: Ace Hotel Sydney and TFE Hotels' (Google snippet)."},
+    {"field": "location", "url": "https://www.instagram.com/p/DZW0dBoxdeB/", "note": "5 Jun 2026 Vivid takeover held at City Recital Hall; a separate 12 Jun 2026 show was at White Bay Power Station, which explains the conflicting venue reports."}
+  ],
+  "add_gaps": ["No standalone multi-day festival seen in 2026 (2025 ran 28 to 31 Aug across five venues); 2026 activity was the Vivid takeover, a Sydney Opera House film night, workshops and tours", "Audience age and gender not published"],
+  "remove_gaps": ["Organiser entity not named in results; origin at Casula Powerhouse in 2017 came from a search summary and needs a source", "2026 venue conflict: City of Sydney says City Recital Hall, Festival Abroad says White Bay Power Station", "No public partnerships contact found"],
+  "notes": "Not-for-profit arts organisation funded mainly by government and cultural partners; brand partners seen only in 2023 (Ace Hotel, TFE Hotels). 2026 had no full festival, so the 'annual' frequency and the 2027 expectation are uncertain. Vivid's own major partners (Kia, Samsung, Lilly) are Vivid sponsors, not Soft Centre's: not added."
+}

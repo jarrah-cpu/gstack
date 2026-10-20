@@ -1,0 +1,103 @@
+{
+  "id": "north-coast-mud-trail",
+  "set": {
+    "organiser": {
+      "name": "North Coast Ceramics Inc (NCC)",
+      "type": "community-collective",
+      "website": "https://www.northcoastceramics.com/"
+    },
+    "partnership_contact": {
+      "email": "info@northcoastceramics.com",
+      "page_url": "https://www.northcoastceramics.com/mud-trail",
+      "named_person": null,
+      "source": "https://www.northcoastceramics.com/mud-trail"
+    },
+    "audience": {
+      "age_range": null,
+      "gender_skew": null,
+      "psychographics": "Ceramic enthusiasts, collectors, weekend wanderers and curious beginners touring 26 studios and 35 ceramicists across the Byron, Lismore and Ballina shires, with free talks and demos, ticketed hands-on workshops and gallery openings.",
+      "source": "https://www.northcoastceramics.com/mud-trail"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "First National Byron",
+      "years": [
+        2026
+      ],
+      "role": "presenting",
+      "source": "https://www.instagram.com/p/DawA9NnKMao/"
+    },
+    {
+      "brand": "Fired Up Kilns",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/Db35Q_-ySoa/"
+    },
+    {
+      "brand": "Mud Australia",
+      "years": [
+        2022
+      ],
+      "role": "major",
+      "source": "https://www.echo.net.au/2022/08/the-north-coast-mud-trail-is-ten/"
+    }
+  ],
+  "add_activation_formats": [
+    "naming-rights"
+  ],
+  "add_sources": [
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DawA9NnKMao/",
+      "note": "@northcoastceramics (13 Jul 2026) interactive Mud Trail map post: 'Proudly presented by First National Byron'. Facebook page and Locale Magazine also say the 2026 trail is presented by First National."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/Db35Q_-ySoa/",
+      "note": "'A huge thank you to Fired Up Kilns for supporting the North Coast Mud Trail - returning this year as our Workshop Partner!' (posted Jun to Aug 2026)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.echo.net.au/2022/08/the-north-coast-mud-trail-is-ten/",
+      "note": "'The major sponsors of the trail this year are Mud Australia' (2022, Google snippet)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.northcoastceramics.com/mud-trail",
+      "note": "Mud Trail page has a 'With Gratitude to Our 2025 Mud Trail Sponsors' block with about 22 logos; no names or alt text in the crawl."
+    },
+    {
+      "field": "organiser",
+      "url": "https://www.northcoastceramics.com/about-ncc-membership",
+      "note": "North Coast Ceramics is 'the peak body for ceramics in the Northern Rivers', a $50 a year membership body that runs the Mud Trail, two markets and the Surface Award; Facebook handle northcoastceramicsinc."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.northcoastceramics.com/mud-trail",
+      "note": "Site email info@northcoastceramics.com; no separate sponsorship page."
+    },
+    {
+      "field": "audience",
+      "url": "https://www.northcoastceramics.com/mud-trail",
+      "note": "2026 page: 'ceramic enthusiasts, collectors, weekend wanderers and curious beginners'; IG: 26 studios, 35 ceramicists, free talks and demos."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/DawA9NnKMao/",
+      "note": "Presenting credit on the trail map (First National Byron) and a named Workshop Partner (Fired Up Kilns)."
+    }
+  ],
+  "add_gaps": [
+    "2025 sponsor logos on the Mud Trail page could not be read (no alt text); names need a visual check",
+    "Open-studio entry appears free with Humanitix registration, but no source states it"
+  ],
+  "remove_gaps": [
+    "Sponsors not found",
+    "Organiser type not confirmed"
+  ],
+  "notes": "Run by North Coast Ceramics Inc (peak body, member-based). 2026 presenting partner First National Byron; Fired Up Kilns is Workshop Partner for 2025 and 2026; Mud Australia was 2022 major sponsor. About 22 unnamed 2025 sponsor logos remain unread."
+}

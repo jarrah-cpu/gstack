@@ -1,0 +1,24 @@
+{
+  "id": "ericeira-kustom-fest",
+  "set": {},
+  "add_sponsors": [
+    {"brand": "Ericeira Camping", "years": [2026], "role": "venue", "source": "https://www.instagram.com/p/DYE6qLGDEj4/"}
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DYE6qLGDEj4/", "note": "8 May 2026 collab post with @ericeira_camping promoting stays '2 minutes from everything' during the festival."},
+    {"field": "location", "url": "https://www.ericeiramag.pt/um-fim-de-semana-de-motores-musica-e-cultura-custom-na-ericeira/", "note": "Google snippet: third edition 5 to 7 June at Ericeira Camping; free entry."},
+    {"field": "ticket_price", "url": "https://www.instagram.com/p/DZNArbeDHvk/", "note": "5 Jun 2026 caption: 'Entrada livre' (free entry), 5 to 7 June."},
+    {"field": "activation_formats", "url": "https://www.instagram.com/p/DZPYdMuDMft/", "note": "Bike Show competition on 6 Jun 2026; caption says the winner takes home a Harley-Davidson (tags @harleydavidson, @harley_portugal); prize donor not stated."},
+    {"field": "attendance", "url": "https://ericeiraonline.pt/quando-os-motores-se-juntam-a-musica-o-ultimo-dia-do-ericeira-kustom-fest/", "note": "Google snippet: the 3rd edition 'reuniu centenas de visitantes' (hundreds of visitors); no figure."},
+    {"field": "dates.last_edition", "url": "https://www.instagram.com/p/DKzW4u0NC_v/", "note": "Google snippet: 2nd edition ran 18 to 22 June (2025) with dozens of exhibitors, concerts and street food."}
+  ],
+  "add_gaps": [
+    "Organiser and official website not found",
+    "No sponsor roster published; only the venue partner (Ericeira Camping) found"
+  ],
+  "remove_gaps": [
+    "Organiser, website and sponsors not found"
+  ],
+  "notes": "Small free-entry kustom culture weekend. Only clear partner is the venue, Ericeira Camping. @nima_kikomotos (Nimakiko Motos & RouteN8) co-authors about 50 posts and @cotovia_designstudio about 23, so one may be the organiser, but nothing says so. Câmara Municipal de Mafra and Bombeiros da Ericeira are tagged on most event posts without partner wording. Bike Show winner received a Harley-Davidson; sponsor unclear. Press says hundreds of visitors."
+}

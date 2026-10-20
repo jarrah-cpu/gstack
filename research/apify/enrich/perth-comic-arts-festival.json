@@ -1,0 +1,56 @@
+{
+  "id": "perth-comic-arts-festival",
+  "set": {
+    "website": "https://pcaf.org.au/",
+    "organiser": {"name": "Perth Comic Arts Festival (PCAF)", "type": "non-profit", "website": "https://pcaf.org.au/"},
+    "dates": {
+      "last_edition": {"start": "2026-07-23", "end": "2026-07-26", "status": "held", "label": "2026 (23, 25 and 26 Jul; Market Day 26 Jul)"},
+      "next_edition": {"start": "2027-07-12", "end": "2027-07-18", "status": "confirmed", "label": "2027 (10th year)"},
+      "frequency": "annual",
+      "duration_days": 4
+    },
+    "attendance": {"figure": 2624, "figure_high": null, "year": 2024, "is_estimate": true, "source": "https://pcaf.org.au/wp-content/uploads/2025/06/PCAF-2024-Annual-Report-Web.pdf", "note": "Organiser's 2024 Annual Report: 'estimated 2624 attendees', up from 1800 in 2023 (Google snippet). 2025 figure is in the 2025 Annual Report, which was too large to open. 2026 Market Hall had 120+ exhibitors."},
+    "ticket_price": {"min": 0, "max": 0, "currency": "AUD", "free_entry": true, "note": "Academy Day and Market Day entry is always free; talks, panels and workshops are free but may need booking."},
+    "partnership_contact": {"email": "funding@pcaf.org.au", "page_url": "https://pcaf.org.au/sponsors-and-supporters/", "named_person": null, "source": "https://pcaf.org.au/sponsors-and-supporters/"}
+  },
+  "add_sponsors": [
+    {"brand": "Creative Australia", "years": [2026], "role": "government", "source": "https://pcaf.org.au/sponsors-and-supporters/"},
+    {"brand": "Government of Western Australia (Department of Creative Industries, Tourism and Sport)", "years": [2026], "role": "government", "source": "https://pcaf.org.au/sponsors-and-supporters/"},
+    {"brand": "State Library of Western Australia", "years": [2026], "role": "venue", "source": "https://pcaf.org.au/sponsors-and-supporters/"},
+    {"brand": "City of Perth", "years": [2026], "role": "government", "source": "https://pcaf.org.au/sponsors-and-supporters/"},
+    {"brand": "Lotterywest", "years": [2026], "role": "government", "source": "https://pcaf.org.au/sponsors-and-supporters/"},
+    {"brand": "Milktooth School of Art and Stories", "years": [2026], "role": "partner", "source": "https://pcaf.org.au/sponsors-and-supporters/"},
+    {"brand": "The Japan Foundation, Sydney", "years": [2026], "role": "partner", "source": "https://pcaf.org.au/sponsors-and-supporters/"},
+    {"brand": "Alex Hotel", "years": [2026], "role": "partner", "source": "https://pcaf.org.au/sponsors-and-supporters/"},
+    {"brand": "IT House", "years": [2026], "role": "partner", "source": "https://pcaf.org.au/sponsors-and-supporters/"},
+    {"brand": "Rabble Books & Games", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DabxNpLgXhL/"},
+    {"brand": "Westerly Magazine", "years": [2024, 2026], "role": "collab", "source": "https://www.instagram.com/p/DaVgMykoGXy/"},
+    {"brand": "Musée de la Bande Dessinée (Belgian Comic Strip Center)", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/Ddd1NgCILAu/"},
+    {"brand": "Centre for Stories", "years": [2026], "role": "partner", "source": "https://pcaf.org.au/sponsors-and-supporters/"},
+    {"brand": "Alliance Française de Perth", "years": [2026], "role": "partner", "source": "https://pcaf.org.au/sponsors-and-supporters/"},
+    {"brand": "North Metropolitan TAFE", "years": [2026], "role": "partner", "source": "https://pcaf.org.au/sponsors-and-supporters/"},
+    {"brand": "The Illustrators Club", "years": [2026], "role": "partner", "source": "https://pcaf.org.au/sponsors-and-supporters/"},
+    {"brand": "Tokyo Alley Perth", "years": [2026], "role": "partner", "source": "https://pcaf.org.au/sponsors-and-supporters/"},
+    {"brand": "Gestalt Comics", "years": [2026], "role": "partner", "source": "https://pcaf.org.au/sponsors-and-supporters/"},
+    {"brand": "Komiket", "years": [2026], "role": "partner", "source": "https://pcaf.org.au/sponsors-and-supporters/"}
+  ],
+  "add_activation_formats": ["collab-product"],
+  "add_sources": [
+    {"field": "sponsors", "url": "https://pcaf.org.au/sponsors-and-supporters/", "note": "'The 2026 Perth Comic Arts Festival would like to thank': logos linking to Creative Australia, CITS WA (Government of WA), State Library of WA (alt text calls it a sponsor), City of Perth, Lotterywest, Milktooth, Japan Foundation Sydney, Alex Hotel, IT House; plus unlinked Spinifex, JidaMan and one unnamed logo."},
+    {"field": "sponsors", "url": "https://pcaf.org.au/sponsors-and-supporters/", "note": "Community Partners: Milktooth School of Art and Stories, Musée de la BD (comicscenter.net), Centre for Stories, Alliance Française de Perth, TAFE WA North Metro, The Illustrators Club, Tokyo Alley Perth, Gestalt Comics, Westerly, Komiket."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DabxNpLgXhL/", "note": "Jul 2026: 'partnering once again with @rabblebooks as PCAF's official book retailer'."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DaVgMykoGXy/", "note": "Jul 2026: Westerly 'returns as a partner to the PCAF Market Hall with a reprint of their much beloved Graphic Narratives issue'. 2024 review page also notes a Westerly print edition partnership."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DbSl7OXjQ1R/", "note": "Festival posts credit @visitperth @cityofperth @lotterywest @deptlgsc @creative.australia."},
+    {"field": "activation_formats", "url": "https://www.instagram.com/p/DaVgMykoGXy/", "note": "Westerly free reprint edition distributed at the Market Hall."},
+    {"field": "website", "url": "https://www.instagram.com/perthcomicartsfestival/", "note": "IG profile links to pcaf.org.au."},
+    {"field": "organiser", "url": "https://pcaf.org.au/about/", "note": "'PCAF is a not-for-profit organisation'; annual report calls it volunteer-run."},
+    {"field": "dates.last_edition", "url": "https://www.facebook.com/PerthComicArtsFestival/", "note": "'The 2026 Perth Comic Arts Festival will take place on July 23, 25 and 26 at the State Library of Western Australia' (Google snippet)."},
+    {"field": "dates.next_edition", "url": "https://pcaf.org.au/", "note": "'Celebrate 10 years of PCAF with us on July 12-18th, 2027'; IG bio matches."},
+    {"field": "ticket_price", "url": "https://pcaf.org.au/faq/", "note": "FAQ: entry to Academy Day and Market Day is always free."},
+    {"field": "partnership_contact", "url": "https://pcaf.org.au/sponsors-and-supporters/", "note": "Sponsorship enquiries to funding@pcaf.org.au; community partnerships to info@pcaf.org.au."},
+    {"field": "attendance", "url": "https://pcaf.org.au/wp-content/uploads/2026/08/2025_Annual-Report_PerthComicArtsFestival_Digital.pdf", "note": "2025 Annual Report exists but exceeded the fetch size limit; 2025 attendance not read."}
+  ],
+  "add_gaps": ["2025 and 2026 attendance not captured (2025 Annual Report too large to open)", "Three 2026 sponsor logos (Spinifex, JidaMan, one unnamed) not identified"],
+  "remove_gaps": ["One listing gives 25 to 26 Jul 2026", "Organiser, website, IG handle and frequency not captured; 2027 return inferred from 'back in town' framing", "Search budget ran out during discovery, so sponsors, IG handle and partnership contact were not researched"],
+  "notes": "Free, not-for-profit comics festival with a published sponsorship email and a mostly government and arts-body funder base; few commercial sponsors (Alex Hotel, IT House). 2027 is the 10th year, 12 to 18 Jul. The 2025 Annual Report PDF may hold newer attendance and audience data worth a manual look."
+}

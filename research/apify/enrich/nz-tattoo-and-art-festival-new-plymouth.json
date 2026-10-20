@@ -1,0 +1,65 @@
+{
+  "id": "nz-tattoo-and-art-festival-new-plymouth",
+  "set": {
+    "website": "https://nztattooart.com/",
+    "organiser": {
+      "name": "NZ Tattoo & Art Festival Ltd (organiser Brent Taylor)",
+      "type": "independent",
+      "website": "https://nztattooart.com/"
+    },
+    "attendance": {
+      "figure": 7000,
+      "figure_high": null,
+      "year": 2019,
+      "is_estimate": true,
+      "source": "https://www.sunsettattoo.co.nz/blog/2019/11/28/another-successful-nz-tattoo-amp-art-festival-tw79t",
+      "note": "Sunset Tattoo blog (Nov 2019): '7000 people passed through the doors of the TSB Stadium', the festival's biggest crowd to that date; third-party report quoting organiser Brent Taylor. No later figure found."
+    },
+    "partnership_contact": {
+      "email": "brent@nztattooart.com",
+      "page_url": "https://nztattooart.com/contact/",
+      "named_person": "Brent Taylor (organiser)",
+      "source": "https://nztattooart.com/contact/"
+    },
+    "ticket_price": {
+      "min": 35,
+      "max": 60,
+      "currency": "NZD",
+      "free_entry": false,
+      "note": "2026: 1 day $35, 2 day $60 (plus service fee) online via Eventfinda; higher at the door. Kids 14 and under free with a paying adult."
+    }
+  },
+  "add_sponsors": [
+    {"brand": "Bepanthen", "years": [2023, 2026], "role": "presenting", "source": "https://nztattooart.com/"},
+    {"brand": "INKPRO", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DY5-g-ak4lP/"},
+    {"brand": "Taranaki Like No Other (regional tourism)", "years": [2026], "role": "government", "source": "https://nztattooart.com/"},
+    {"brand": "Cafe Turkey", "years": [], "role": "partner", "source": "https://nztattooart.com/schedule/"}
+  ],
+  "add_activation_formats": ["competition-or-prize", "sampling", "naming-rights"],
+  "add_sources": [
+    {"field": "website", "url": "https://nztattooart.com/", "note": "Official site (crawled): '14th NZ Tattoo & Art Festival presented by Bepanthen', 28 and 29 Nov 2026, TSB Stadium."},
+    {"field": "organiser", "url": "https://www.sunsettattoo.co.nz/blog/2019/11/28/another-successful-nz-tattoo-amp-art-festival-tw79t", "note": "Page read: organiser Brent Taylor quoted on the 2019 crowd."},
+    {"field": "attendance", "url": "https://www.sunsettattoo.co.nz/blog/2019/11/28/another-successful-nz-tattoo-amp-art-festival-tw79t", "note": "Page read: 7,000 through the doors in 2019, biggest crowd to date."},
+    {"field": "partnership_contact", "url": "https://nztattooart.com/contact/", "note": "Crawled page: 'For tattoo booth, retail booth and sponsorship enquiries contact us via email'; email shown as brent@nztattooart.com."},
+    {"field": "ticket_price", "url": "https://nztattooart.com/", "note": "Crawled page: 1 Day Ticket $35, 2 Day Ticket $60 (plus service fee); kids 14 and under free with a paying adult."},
+    {"field": "sponsors", "url": "https://nztattooart.com/", "note": "Crawled homepage: Bepanthen and 'Taranaki - like no other' (visit.taranaki.info) logos; '14th NZ Tattoo & Art Festival presented by Bepanthen'."},
+    {"field": "sponsors", "url": "https://www.facebook.com/nztattooart/", "note": "Google snippet: 'Massive thanks to everyone that attended the 2023 Bepanthen NZ Tattoo & Art Festival ... Special thanks to our sponsors'."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DeOVNF7mAKe/", "note": "56+ artist posts in 2026 read '14th @nztattoofestival presented by @bepanthenanz / @bepanthentattooanz' and point to 'the @inkpro_nz tattoo zone'."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DY5-g-ak4lP/", "note": "29 May 2026: 'Official Tattoo Supply partner of @nztattoofestival for 2026 @inkpro_nz'; every artist gets a bag of supplies from Inkpro."},
+    {"field": "sponsors", "url": "https://nztattooart.com/schedule/", "note": "Crawled page: 'Tattoo Fail Worst Tattoo Competition presented by Cafe Turkey' (schedule year not stated; page links the 2025 booth map)."},
+    {"field": "activation_formats", "url": "https://nztattooart.com/schedule/", "note": "Cafe Turkey presents the Tattoo Fail competition; Bepanthen holds event naming; Inkpro names the tattoo zone and gives every artist a supplies bag."}
+  ],
+  "add_gaps": [
+    "Attendance after 2019 not published",
+    "Audience age and gender not published",
+    "Bepanthen presenting role for 2025 not directly sourced (2023, 2024 and 2026 confirmed)",
+    "Year of Cafe Turkey's Tattoo Fail competition sponsorship not pinned"
+  ],
+  "remove_gaps": [
+    "Whether Bepanthen still presents in 2026 not confirmed",
+    "Official website not captured",
+    "Attendance and ticket prices not captured",
+    "No public partnerships contact found"
+  ],
+  "notes": "Bepanthen (Bayer skin and tattoo aftercare) presents 2023, 2024 and 2026, so a health and skin-care brand already owns the top slot. Inkpro is official supply partner for 2026. Posts listing 'Sponsors' (e.g. Pepax, Biotat) are individual artists' own sponsors, not the festival's. Attendance is old (2019, 7,000)."
+}

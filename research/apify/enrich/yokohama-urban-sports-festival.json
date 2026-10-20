@@ -1,0 +1,187 @@
+{
+  "id": "yokohama-urban-sports-festival",
+  "set": {
+    "website": "https://yusf.jp/",
+    "partnership_contact": {
+      "email": "info@yusf.jp",
+      "page_url": "https://yusf.jp/",
+      "named_person": null,
+      "source": "https://yusf.jp/"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Mitsubishi Corporation Urban Development",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "partner",
+      "source": "https://yusf.jp/"
+    },
+    {
+      "brand": "BOATRACE Promotion Association",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "partner",
+      "source": "https://yusf.jp/"
+    },
+    {
+      "brand": "Takenaka Corporation",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "partner",
+      "source": "https://yusf.jp/"
+    },
+    {
+      "brand": "Sammy",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "partner",
+      "source": "https://yusf.jp/"
+    },
+    {
+      "brand": "THYM",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "partner",
+      "source": "https://yusf.jp/"
+    },
+    {
+      "brand": "Iwasaki Gakuen",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "partner",
+      "source": "https://yusf.jp/"
+    },
+    {
+      "brand": "SoftBank",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://yusf.jp/"
+    },
+    {
+      "brand": "Takara Tomy",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://yusf.jp/"
+    },
+    {
+      "brand": "Mizuho Financial Group",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://yusf.jp/"
+    },
+    {
+      "brand": "Street Fighter: The Movie (film)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://yusf.jp/"
+    },
+    {
+      "brand": "Honda",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DQ82L3uAYHd/"
+    },
+    {
+      "brand": "MEMORY Co., Ltd",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DQ82L3uAYHd/"
+    },
+    {
+      "brand": "Murasaki Sports",
+      "years": [
+        2025
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.instagram.com/p/DQ3umozgbiY/"
+    },
+    {
+      "brand": "City of Yokohama (Nigiwai Sports and Culture Bureau)",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://yusf.jp/"
+    }
+  ],
+  "add_activation_formats": [
+    "workshop",
+    "installation"
+  ],
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://www.instagram.com/yusf_pr/",
+      "note": "Official IG profile links to yusf.jp ('大会公式サイト')."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://yusf.jp/",
+      "note": "Event info block 2026: 主催 YUSF '26 executive committee (Yokohama Akarenga, Meiji Shoko, Lawson Entertainment, Zeta); 共催 City of Yokohama Nigiwai Sports and Culture Bureau; 協力 ARK LEAGUE, OVER THUMPZ, Japan DanceSport Federation, JF3 and others; media FINEPLAY; 協賛 Mitsubishi Corporation Urban Development, BOATRACE Promotion Association, Takenaka, SoftBank, Takara Tomy, Sammy, THYM, Iwasaki Gakuen, Mizuho Financial Group, film 'Street Fighter: The Movie'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DegujBpBj3G/",
+      "note": "Sponsor introduction post (15 Oct 2026) repeats the 2026 協賛 list."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DQ82L3uAYHd/",
+      "note": "2025 協賛: Mitsubishi Corporation Urban Development, Honda Motor, Sammy, BOATRACE, THYM, Takenaka, MEMORY Co., Iwasaki Gakuen."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DQ3umozgbiY/",
+      "note": "2025 experience sessions: skateboard experience ran at the Murasaki Sports booth; wheelchair basketball trial."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/DeOlDvSzUh2/",
+      "note": "2026 special contents: BEYBLADE X casual battle day (Takara Tomy), Ultraman Multiverse booth with Pigmon AR experience, Street Fighter movie 'Hadoken' food truck, free urban sports experience sessions, street culture market, ALL AMERICAN FOOD FESTIVAL."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.boatrace-pr.jp/pc/site/release/2026/10/11845/",
+      "note": "Google snippet: BOATRACE sponsored YUSF '26 with a special booth of hands-on attractions."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://yusf.jp/",
+      "note": "Event info block: 問い合わせ先 info@yusf.jp."
+    }
+  ],
+  "remove_gaps": [
+    "Sponsor (kyosan) list not captured; only media partner seen",
+    "Official website URL not captured",
+    "No partnerships contact found"
+  ],
+  "add_gaps": [
+    "Sponsor tiers and sponsorship packages not published"
+  ],
+  "notes": "Official site gives a full 2026 協賛 list of ten (Mitsubishi Corp Urban Development, BOATRACE, Takenaka, SoftBank, Takara Tomy, Sammy, THYM, Iwasaki Gakuen, Mizuho, Street Fighter film) plus 2025 Honda and MEMORY; contact info@yusf.jp. Brands activate through experience booths and branded content, which suits a free 70,000-visitor format. Attendance 70,000 also reported for 2023; about 50,000 at the 2022 first edition."
+}

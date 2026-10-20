@@ -1,0 +1,24 @@
+{
+  "id": "fuerteventura-en-musica",
+  "set": {
+    "attendance": {"figure": 18000, "figure_high": null, "year": 2026, "is_estimate": false, "source": "https://www.instagram.com/p/Daa98XJqIpv/", "note": "Organiser-reported on Instagram: 'Ya van 20 y 18.000 almas' over the 20th edition weekend. Organiser and Cabildo report about 7,000 on the first night; Macaronesia Fuerteventura reports about 11,000 on the second night."}
+  },
+  "add_sponsors": [
+    {"brand": "Cabildo de Fuerteventura", "years": [2026], "role": "government", "source": "https://www.cabildofuer.es/cabildo/el-fem-celebra-veinte-anos-de-musica/"},
+    {"brand": "Ayuntamiento de La Oliva", "years": [2026], "role": "government", "source": "https://www.cabildofuer.es/cabildo/el-fem-celebra-veinte-anos-de-musica/"},
+    {"brand": "Cotillo Joven", "years": [2026], "role": "collab", "source": "https://www.cabildofuer.es/cabildo/el-fem-celebra-veinte-anos-de-musica/"}
+  ],
+  "add_activation_formats": ["workshop"],
+  "add_sources": [
+    {"field": "attendance", "url": "https://www.instagram.com/p/Daa98XJqIpv/", "note": "5 Jul 2026 organiser post: 18,000 people over the weekend."},
+    {"field": "attendance", "url": "https://www.instagram.com/p/DaXuiQtqoCu/", "note": "Organiser: 'La 1.° noche del #fem2026 contó con 7.000 personas'."},
+    {"field": "attendance", "url": "https://www.cabildofuer.es/cabildo/fuerteventura-en-musica-viernes/", "note": "Cabildo press (Google snippet): about 7,000 on the Friday."},
+    {"field": "attendance", "url": "https://macaronesiafuerteventura.com/fuerteventura-en-musica-2026/", "note": "Google snippet: about 11,000 on the second and final night."},
+    {"field": "sponsors", "url": "https://www.cabildofuer.es/cabildo/el-fem-celebra-veinte-anos-de-musica/", "note": "Cabildo article cites 'la colaboración entre ambas administraciones' (Cabildo de Fuerteventura and Ayuntamiento de La Oliva) to make the edition possible; Cotillo Joven runs the FEM de Día programme of workshops and street performances."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DaffB-linze/", "note": "@culturafuerteventura, @cabildoftv and @aytolaoliva co-author most festival posts; Cabildo transport department funded festival shuttle buses (https://www.instagram.com/p/DaLNBMeqc_C/)."},
+    {"field": "activation_formats", "url": "https://www.cabildofuer.es/cabildo/el-fem-celebra-veinte-anos-de-musica/", "note": "FEM de Día daytime workshops and street performances in El Cotillo."}
+  ],
+  "add_gaps": ["No commercial sponsors identified; funding appears to be public (Cabildo de Fuerteventura and Ayuntamiento de La Oliva)", "Audience age and gender not published"],
+  "remove_gaps": ["Attendance figure from one report", "Sponsors not identified"],
+  "notes": "18,000 is now organiser-reported and matches day figures (7,000 plus about 11,000). Free beach festival run with island and municipal government backing; no brand partners visible, which may mean an open field for a first sponsor. Organiser entity still not named in sources. IG @fuerteventuraenmusica is correct."
+}

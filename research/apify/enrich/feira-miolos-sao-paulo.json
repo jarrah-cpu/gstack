@@ -1,0 +1,118 @@
+{
+ "id": "feira-miolos-sao-paulo",
+ "set": {
+  "website": "https://www.feiramiolos.com.br/",
+  "dates": {
+   "last_edition": {
+    "start": "2025-11-08",
+    "end": "2025-11-09",
+    "status": "held",
+    "label": "12th edition (2025)"
+   },
+   "next_edition": {
+    "start": "2026-11-07",
+    "end": "2026-11-08",
+    "status": "confirmed",
+    "label": "13th edition (2026)"
+   },
+   "frequency": "annual",
+   "duration_days": 2
+  },
+  "attendance": {
+   "figure": 10000,
+   "figure_high": null,
+   "year": 2023,
+   "is_estimate": true,
+   "source": "https://www.publishnews.com.br/materias/2023/11/10/feira-miolos-termina-10-edicao-com-cerca-de-dez-mil-visitantes",
+   "note": "PublishNews headline: the 10th edition (2023) ended with 'cerca de dez mil visitantes' (about 10,000 visitors). Google snippet. No 2024 or 2025 visitor count; 2025 had 284 exhibitors and 241 launches."
+  }
+ },
+ "add_sponsors": [
+  {
+   "brand": "Casa Rex",
+   "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+   ],
+   "role": "partner",
+   "source": "https://www.instagram.com/p/DPzfnbrkber/"
+  },
+  {
+   "brand": "Secretaria Municipal de Cultura e Economia Criativa de São Paulo",
+   "years": [
+    2025
+   ],
+   "role": "government",
+   "source": "https://www.instagram.com/p/DQt6rNkEYuv/"
+  },
+  {
+   "brand": "Sutto Serigrafia",
+   "years": [
+    2025
+   ],
+   "role": "collab",
+   "source": "https://www.instagram.com/p/DQozrfxEQxP/"
+  }
+ ],
+ "add_activation_formats": [
+  "customisation-station",
+  "workshop"
+ ],
+ "add_sources": [
+  {
+   "field": "website",
+   "url": "https://www.instagram.com/feiramiolos/",
+   "note": "Official IG profile links to feiramiolos.com.br, which hosts the 2026 participant list."
+  },
+  {
+   "field": "dates.last_edition",
+   "url": "https://www.instagram.com/p/DPzfnbrkber/",
+   "note": "12th Miolo(s): 8 and 9 Nov 2025, 11am to 7pm, Biblioteca Mário de Andrade, free entry."
+  },
+  {
+   "field": "attendance",
+   "url": "https://www.publishnews.com.br/materias/2023/11/10/feira-miolos-termina-10-edicao-com-cerca-de-dez-mil-visitantes",
+   "note": "Google snippet headline: about ten thousand visitors at the 10th edition."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://www.instagram.com/p/DPzfnbrkber/",
+   "note": "Casa Rex design studio has created the fair's visual identity every year since 2020 ('meia-década de parceria')."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://www.instagram.com/p/DQt6rNkEYuv/",
+   "note": "São Paulo's Secretary of Culture and Creative Economy promotes the 12th edition; the host library is a municipal institution."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://www.instagram.com/p/DQozrfxEQxP/",
+   "note": "Sutto Serigrafia ran a free screen-printing action both days of the 2025 fair."
+  },
+  {
+   "field": "activation_formats",
+   "url": "https://www.instagram.com/p/DQozrfxEQxP/",
+   "note": "Public could print official Miolo(s) and exhibitor artwork on their own blank tees, cloths or tote bags for free."
+  },
+  {
+   "field": "activation_formats",
+   "url": "https://www.instagram.com/p/DQUbLZtETsF/",
+   "note": "Esquenta Miolo(s): a week of workshops, talks and debates before the fair."
+  }
+ ],
+ "add_gaps": [
+  "2024 and 2025 visitor numbers not published; latest figure is about 10,000 in 2023",
+  "No partnership or sponsorship contact published"
+ ],
+ "remove_gaps": [
+  "Official website and Instagram handle not captured",
+  "Visitor attendance not published in results",
+  "Exact 2025 dates not captured",
+  "No sponsors found"
+ ],
+ "notes": "Free, municipally hosted graphic-culture fair run by Lote 42 founders João Varella and Cecilia Arbolave with Biblioteca Mário de Andrade. No commercial sponsors seen; partners are design and print studios. 2026 guest curator is Weaver Lima (IG, 2 Oct 2026)."
+}

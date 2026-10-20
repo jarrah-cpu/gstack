@@ -1,0 +1,130 @@
+{
+ "id": "surfestival-pichilemu",
+ "set": {
+  "website": "https://surfestival.cl/"
+ },
+ "add_sponsors": [
+  {
+   "brand": "Santander Chile",
+   "years": [
+    2026,
+    2027
+   ],
+   "role": "presenting",
+   "source": "https://www.instagram.com/p/DbqhKjuEZcm/"
+  },
+  {
+   "brand": "Cerveza Royal Guard (Royal Guard 0.0)",
+   "years": [
+    2027
+   ],
+   "role": "major",
+   "source": "https://www.threads.com/@ceaese/post/Dd4TTmtD7qX/"
+  },
+  {
+   "brand": "Suzuki Chile",
+   "years": [
+    2027
+   ],
+   "role": "partner",
+   "source": "https://www.instagram.com/p/DbqhKjuEZcm/"
+  },
+  {
+   "brand": "Marley Coffee Chile",
+   "years": [
+    2027
+   ],
+   "role": "partner",
+   "source": "https://www.instagram.com/p/Dd6j5x1RuWQ/"
+  },
+  {
+   "brand": "Red Bull Chile",
+   "years": [
+    2027
+   ],
+   "role": "collab",
+   "source": "https://www.threads.com/@ceaese/post/Dd4TTmtD7qX/"
+  },
+  {
+   "brand": "TVN",
+   "years": [
+    2026,
+    2027
+   ],
+   "role": "media",
+   "source": "https://www.tvn.cl/especiales/surfestival/videos/desde-pichilemu-surfestival-celebra-sus-20-anos-en-exclusiva-por-tvn"
+  },
+  {
+   "brand": "Radio Carolina",
+   "years": [
+    2027
+   ],
+   "role": "media",
+   "source": "https://www.instagram.com/p/DbqhKjuEZcm/"
+  },
+  {
+   "brand": "VisitaPichilemu.cl",
+   "years": [
+    2026,
+    2027
+   ],
+   "role": "media",
+   "source": "https://www.instagram.com/p/DUbJ5SVEQdD/"
+  }
+ ],
+ "add_activation_formats": [
+  "naming-rights",
+  "content-series"
+ ],
+ "add_sources": [
+  {
+   "field": "website",
+   "url": "https://surfestival.cl/pichilemu/",
+   "note": "Official site with Pichilemu and La Serena pages, VIP details and Surfería."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://www.threads.com/@ceaese/post/Dd4TTmtD7qX/",
+   "note": "Google snippet of a 2027 poster: 'Santander PRESENTA SURFESTIVAL; SPONSOR OFICIAL ROYAL GUARD 0.0; SUZUKI; AUSPICIAN: MARLEY COFFEE; COLABORA: RedBull; CANAL OFICIAL: TVN; MEDIA...'."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://www.instagram.com/p/DbqhKjuEZcm/",
+   "note": "2027 presale exclusive to Santander customers (30% off); Santander, TVN, Radio Carolina and Suzuki co-author the post."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://www.instagram.com/p/DUwR8U_kQQY/",
+   "note": "2026: performances on the '@santanderchile stage'."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://www.tvn.cl/especiales/surfestival/videos/desde-pichilemu-surfestival-celebra-sus-20-anos-en-exclusiva-por-tvn",
+   "note": "TVN broadcast the 20th anniversary 2026 edition 'en exclusiva' (free live broadcast credited to Santander)."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://www.instagram.com/p/Dd6j5x1RuWQ/",
+   "note": "Marley Coffee Chile co-authors the 2027 line-up post."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://www.instagram.com/p/DUbJ5SVEQdD/",
+   "note": "VisitaPichilemu.cl co-authors Surfería and festival posts (24 co-authored posts)."
+  },
+  {
+   "field": "activation_formats",
+   "url": "https://www.instagram.com/p/DUwR8U_kQQY/",
+   "note": "Named 'Santander stage' (stage naming rights) and TVN live broadcast in 2026."
+  }
+ ],
+ "add_gaps": [
+  "2027 sponsor tiers come from a Threads snippet of the poster; confirm on the official site",
+  "Organiser entity not named; Surfbeats Radio co-authors most posts and produces the related Punta de Lobos Pro"
+ ],
+ "remove_gaps": [
+  "Sponsor and partner list not captured",
+  "Website and Instagram handle not captured"
+ ],
+ "notes": "Major Chilean surf and music festival (20 years) with a full sponsor stack led by Santander (presenting, stage naming, customer presales, TVN broadcast). Surfería maker market and NGO space is open by application (call opened 20 Oct 2026). 2027 date 13 Feb at Condominio Pancora."
+}

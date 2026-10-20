@@ -1,0 +1,61 @@
+{
+  "id": "festival-iminente-lisboa",
+  "set": {
+    "website": "https://festivaliminente.com/",
+    "attendance": {"figure": 20000, "figure_high": null, "year": 2026, "is_estimate": false, "source": "https://www.instagram.com/p/DeMr_07lMUx/", "note": "Organiser-reported 'quase 20.000 entradas' (almost 20,000 entries) over four days; entries, not unique visitors."},
+    "partnership_contact": {"email": "geral@iminente.org", "page_url": "https://festivaliminente.com/informacoes", "named_person": null, "source": "https://festivaliminente.com/informacoes"}
+  },
+  "add_sponsors": [
+    {"brand": "Câmara Municipal de Lisboa", "years": [2023, 2025, 2026], "role": "government", "source": "https://www.instagram.com/p/DeMr_07lMUx/"},
+    {"brand": "Fundação Millennium bcp", "years": [2026], "role": "major", "source": "https://www.instagram.com/p/DeMr_07lMUx/"},
+    {"brand": "Visit Portugal", "years": [2023, 2026], "role": "government", "source": "https://www.instagram.com/p/DeMr_07lMUx/"},
+    {"brand": "Turismo de Lisboa", "years": [2023, 2026], "role": "government", "source": "https://www.instagram.com/p/DeMr_07lMUx/"},
+    {"brand": "Direção-Geral das Artes (DGArtes)", "years": [2023, 2026], "role": "government", "source": "https://www.instagram.com/p/DeMr_07lMUx/"},
+    {"brand": "smart", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DeMr_07lMUx/"},
+    {"brand": "Super Bock", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DeMr_07lMUx/"},
+    {"brand": "Galp", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DeMr_07lMUx/"},
+    {"brand": "RVCA Portugal", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DeMr_07lMUx/"},
+    {"brand": "JOPINTO", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DeMr_07lMUx/"},
+    {"brand": "Red Bull Portugal", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DeMr_07lMUx/"},
+    {"brand": "Pastéis de Belém", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DeMr_07lMUx/"},
+    {"brand": "Ticketline", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DeMr_07lMUx/"},
+    {"brand": "Gebalis", "years": [2023, 2026], "role": "government", "source": "https://www.instagram.com/p/DehecE2G6RT/"},
+    {"brand": "RTP", "years": [2023, 2026], "role": "media", "source": "https://www.instagram.com/p/DeMr_07lMUx/"},
+    {"brand": "Antena 3", "years": [2023, 2026], "role": "media", "source": "https://www.instagram.com/p/DeMr_07lMUx/"},
+    {"brand": "Mensagem de Lisboa", "years": [2023, 2026], "role": "media", "source": "https://www.instagram.com/p/DeMr_07lMUx/"},
+    {"brand": "Brilhantes Diamantes", "years": [2026], "role": "media", "source": "https://www.instagram.com/p/DeMr_07lMUx/"},
+    {"brand": "Contracoutura", "years": [2026], "role": "media", "source": "https://www.instagram.com/p/DeMr_07lMUx/"},
+    {"brand": "JCDecaux Portugal", "years": [2023, 2026], "role": "media", "source": "https://www.instagram.com/p/DeMr_07lMUx/"},
+    {"brand": "Carris", "years": [2026], "role": "media", "source": "https://www.instagram.com/p/DeMr_07lMUx/"},
+    {"brand": "Gerador", "years": [2023, 2026], "role": "media", "source": "https://www.instagram.com/p/Daf8-gID_lG/"},
+    {"brand": "Fundação EDP", "years": [2025], "role": "partner", "source": "https://www.instagram.com/p/DQCOO9ICL44/"},
+    {"brand": "OZ Energia", "years": [2023], "role": "partner", "source": "https://2023.festivaliminente.com/"},
+    {"brand": "Monkey Shoulder", "years": [2023], "role": "partner", "source": "https://2023.festivaliminente.com/"},
+    {"brand": "MINI", "years": [2023], "role": "partner", "source": "https://2023.festivaliminente.com/"},
+    {"brand": "BNP Paribas", "years": [2023], "role": "partner", "source": "https://2023.festivaliminente.com/"},
+    {"brand": "REN", "years": [2023], "role": "partner", "source": "https://2023.festivaliminente.com/"},
+    {"brand": "Canal 180", "years": [2023], "role": "media", "source": "https://2023.festivaliminente.com/"}
+  ],
+  "add_activation_formats": ["stage-or-program-takeover"],
+  "add_sources": [
+    {"field": "website", "url": "https://festivaliminente.com/", "note": "Official 2026 site (IG profile link): Escola Industrial Afonso Domingues, Marvila, 17 to 20 Sep 2026."},
+    {"field": "attendance", "url": "https://www.instagram.com/p/DeMr_07lMUx/", "note": "7 Oct 2026 thank-you post: 'Foram quatro dias, quase 20.000 entradas'."},
+    {"field": "partnership_contact", "url": "https://festivaliminente.com/informacoes", "note": "Info page: all press requests to geral@iminente.org; same address for general questions (also in IG bio)."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DeMr_07lMUx/", "note": "2026 partner block: Co-organização CML; Apoio Visit Portugal, Turismo de Lisboa; Mecenas Fundação Millennium; Parceiro Institucional DGArtes; Parceiro Oficial Mobilidade smart; Patrocinadores Super Bock, Galp, RVCA Portugal, JOPINTO, Red Bull, Pastéis de Belém; Produção Executiva Produtores Associados; Parceiros Media RTP, Antena 3, Mensagem de Lisboa, Brilhantes Diamantes, Contracoutura, JCDecaux, Carris; Bilhética Ticketline; Cashless Zig."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DehecE2G6RT/", "note": "BAIRROS 2026 community programme: Co-organização CML, Parceiro Estratégico Gebalis, Parceiro Oficial de Mobilidade smart."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/Daf8-gID_lG/", "note": "7 Jul 2026 media partner list includes Gerador."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DQCOO9ICL44/", "note": "2025 (no festival edition): free Bairros showcase at MAAT on 21 Sep 2025, co-organised with CML and in partnership with Fundação EDP."},
+    {"field": "sponsors", "url": "https://2023.festivaliminente.com/", "note": "2023 site: Co-organização CML; Apoio Visit Portugal, Turismo de Lisboa; Patrocinadores OZ Energia, Monkey Shoulder, JCDecaux; Viatura Oficial MINI; DGArtes funding; Bairros partners Gebalis, BNP Paribas, Dream Up, REN, Lang Solutions; media RTP, Antena 3, Mensagem, Gerador, Canal 180. 2023 ran 14 and 15 Oct."},
+    {"field": "activation_formats", "url": "https://www.instagram.com/p/DcgK3JxEweu/", "note": "smart ran a 'formato especial' mobile stage ('o palco tem rodas') with DJ sets from 17 Sep 2026."},
+    {"field": "activation_formats", "url": "https://www.instagram.com/p/DeRvycbiFVw/", "note": "Site-specific art interventions in the school, including Sepher.42 with RVCA Portugal."}
+  ],
+  "add_gaps": [
+    "2026 ticket prices not captured"
+  ],
+  "remove_gaps": [
+    "No public partnerships contact found",
+    "Official festival website not pinned in search results",
+    "2026 attendance, sponsors and ticket prices not found"
+  ],
+  "notes": "Deep 2026 partner roster from IG: Fundação Millennium as patron, smart as mobility partner with a mobile DJ stage, six commercial sponsors (Super Bock, Galp, RVCA, JOPINTO, Red Bull, Pastéis de Belém), CML co-organiser. Almost 20,000 entries over four days (organiser). Contact geral@iminente.org covers press and general enquiries. Super Bock was a 2017 partner on record and returns in 2026. Executive production by Produtores Associados (not a sponsor)."
+}

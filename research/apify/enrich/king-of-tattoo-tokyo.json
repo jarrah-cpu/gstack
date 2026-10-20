@@ -1,0 +1,139 @@
+{
+  "id": "king-of-tattoo-tokyo",
+  "set": {
+    "website": "https://kingoftattoo.com/",
+    "organiser": {
+      "name": "TOKYO HARDCORE TATTOO (hosted by KATSUTA☆, Noriyuki Katsuta)",
+      "type": "independent",
+      "website": "https://kingoftattoo.com/"
+    },
+    "dates": {
+      "last_edition": {
+        "start": "2026-04-10",
+        "end": "2026-04-12",
+        "status": "held",
+        "label": "King of Tattoo 2026"
+      },
+      "next_edition": {
+        "start": "2027-05-28",
+        "end": "2027-05-30",
+        "status": "confirmed",
+        "label": "King of Tattoo 2027 (Tokyo Kinema Club and Dance Hall Shinseiki, Uguisudani)"
+      },
+      "frequency": "annual",
+      "duration_days": 3
+    },
+    "ticket_price": {
+      "min": 4000,
+      "max": 8000,
+      "currency": "JPY",
+      "free_entry": false,
+      "note": "2026 presale (from 3 Nov 2025): 1-day JPY 4,000 plus JPY 500 drink; 3-day JPY 8,000 plus drink charge. Google snippet of an organiser IG post."
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Wizard Tattoo Supply (Wizard T.S. Ltd.)",
+      "years": [
+        2023,
+        2026
+      ],
+      "role": "major",
+      "source": "https://www.instagram.com/p/DWsWXvtD1vY/"
+    },
+    {
+      "brand": "Kaeru Needles Tokyo",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DWsXd5wjwY9/"
+    },
+    {
+      "brand": "antenna ts",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DWsW9u-D1ro/"
+    },
+    {
+      "brand": "Solid Ink",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DWvg289D4z0/"
+    },
+    {
+      "brand": "ZOCALO",
+      "years": [
+        2024,
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DWvhLyHj6EL/"
+    },
+    {
+      "brand": "Tokyo Bay Plaza Hotel",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DQaDKsFEz_e/"
+    }
+  ],
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://kingoftattoo.com/",
+      "note": "Official site (KING OF TATTOO 2026), linked from @king_of_tattoo_japan bio."
+    },
+    {
+      "field": "organiser",
+      "url": "https://www.timeout.jp/tokyo/ja/news/king-of-tatoo-2023-041423",
+      "note": "Google snippet: event running since 2005, hosted (主宰) by KATSUTA☆ of TOKYO HARDCORE TATTOO; site footer reads 'KING OF TATTOO Presented by TOKYO HARDCORE TATTOO'."
+    },
+    {
+      "field": "dates",
+      "url": "https://www.instagram.com/king_of_tattoo_japan/",
+      "note": "IG bio: 2027 edition on 28, 29 and 30 May at Uguisudani Tokyo Kinema Club and Dance Hall Shinseiki (same building), 62 tattoo artists from Japan and abroad each day."
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://www.instagram.com/p/DQaDKsFEz_e/",
+      "note": "Google snippet: '11/3 Mon 10am 前売り券1DAY ¥4000+1drink¥500 3DAY ¥8000+...' with a Sponsors list incl. Tokyo Bay Plaza Hotel."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DWsWXvtD1vY/",
+      "note": "KING OF TATTOO 2026 MAIN SPONSOR Wizard Tattoo Supply (協賛・ショップ); 2023 site also lists Wizard T.S. Ltd. as main sponsor."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://kingoftattoo.com/2025/",
+      "note": "Google snippet: 2025 MAIN SPONSOR Kaeru Needles Tokyo; 2026 lists Kaeru Needles as sponsor and shop."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://kingoftattoo.com/2024/",
+      "note": "Google snippet: 2024 Co-Sponsor ZOCALO; ZOCALO is 'Special Thanks / 協賛' in 2026."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DWvg289D4z0/",
+      "note": "Solid Ink (US vegan tattoo ink) sponsor and shop at KING OF TATTOO 2026."
+    }
+  ],
+  "add_gaps": [
+    "Partnership or sponsorship contact not published in the sources seen",
+    "2026 attendance not published"
+  ],
+  "remove_gaps": [
+    "Organiser, official website, attendance and ticket price not captured",
+    "2027 dates not announced; April expected",
+    "No sponsor list found"
+  ],
+  "notes": "Official site kingoftattoo.com; run since 2005 by KATSUTA☆ of TOKYO HARDCORE TATTOO. 2027 moves to 28 to 30 May (bio). Sponsors are endemic tattoo suppliers (Wizard Tattoo Supply main sponsor, Kaeru Needles, antenna ts, Solid Ink) plus jewellery brand ZOCALO; Tokyo Bay Plaza Hotel rests on a Google snippet. 2024 and 2025 editions were at Shinjuku LOFT and ACB."
+}

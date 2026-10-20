@@ -1,0 +1,278 @@
+{
+  "id": "dirtybird-campout-northern-nights",
+  "set": {
+    "website": "https://www.northernnights.org/",
+    "dates": {
+      "last_edition": {
+        "start": "2026-07-17",
+        "end": "2026-07-19",
+        "status": "held",
+        "label": "2026"
+      },
+      "next_edition": {
+        "start": "2027-07-15",
+        "end": "2027-07-18",
+        "status": "confirmed",
+        "label": "2027 (four days, Thursday to Sunday)"
+      },
+      "frequency": "annual",
+      "duration_days": 3
+    },
+    "partnership_contact": {
+      "email": "info@northernnights.org",
+      "page_url": "https://www.northernnights.org/sponsors",
+      "named_person": null,
+      "source": "https://www.northernnights.org/sponsors"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "CAKE",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.northernnights.org/sponsors"
+    },
+    {
+      "brand": "Leaf Nation (Leaf Magazines)",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://www.northernnights.org/sponsors"
+    },
+    {
+      "brand": "Papa's Herb",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.northernnights.org/sponsors"
+    },
+    {
+      "brand": "Open Water",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.northernnights.org/sponsors"
+    },
+    {
+      "brand": "MushroomTek",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.northernnights.org/sponsors"
+    },
+    {
+      "brand": "Innerbloom",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.northernnights.org/sponsors"
+    },
+    {
+      "brand": "Cal Trailer & Equipment Rentals",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.northernnights.org/sponsors"
+    },
+    {
+      "brand": "NewPoint Law Group",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.northernnights.org/sponsors"
+    },
+    {
+      "brand": "Monster Energy",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.northernnights.org/sponsors"
+    },
+    {
+      "brand": "Absolut",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.northernnights.org/sponsors"
+    },
+    {
+      "brand": "Visual Concepts",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.northernnights.org/sponsors"
+    },
+    {
+      "brand": "Dry Creek",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.northernnights.org/sponsors"
+    },
+    {
+      "brand": "Waterloo Sparkling Water",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.northernnights.org/sponsors"
+    },
+    {
+      "brand": "Greater Ukiah Business & Tourism Alliance",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.northernnights.org/sponsors"
+    },
+    {
+      "brand": "Skrewball Peanut Butter Whiskey",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.northernnights.org/sponsors"
+    },
+    {
+      "brand": "Humboldt Seed Company",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.northernnights.org/sponsors"
+    },
+    {
+      "brand": "Solti",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.northernnights.org/sponsors"
+    },
+    {
+      "brand": "Mendocino Winegrowers",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.northernnights.org/sponsors"
+    },
+    {
+      "brand": "Rising Source",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.northernnights.org/sponsors"
+    },
+    {
+      "brand": "Curious Elixirs",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.northernnights.org/sponsors"
+    },
+    {
+      "brand": "Malibu",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.northernnights.org/sponsors"
+    },
+    {
+      "brand": "Código 1530 Tequila",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.northernnights.org/sponsors"
+    },
+    {
+      "brand": "Proper Wellness Center",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.northernnights.org/sponsors"
+    },
+    {
+      "brand": "joydrop",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.northernnights.org/sponsors"
+    },
+    {
+      "brand": "Redwood Waste Solutions",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.northernnights.org/sponsors"
+    },
+    {
+      "brand": "way2",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.northernnights.org/sponsors"
+    }
+  ],
+  "add_activation_formats": [
+    "content-series"
+  ],
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://www.northernnights.org/",
+      "note": "Official site for Dirtybird Campout x Northern Nights; menu has Sponsors and Contact pages."
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.northernnights.org/",
+      "note": "Official site: 'JULY 15-18, 2027', Cook's Valley Campground. Both IG bios (@dirtybirdcamp, @nnmfestival): 'Returning July 15-18, 2027'. Tixr lists Jul 15 to 19 (likely including departure)."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.northernnights.org/sponsors",
+      "note": "Under '2026 SPONSORS': 'Thank you to the brands that made Dirtybird Campout x Northern Nights 2026 possible. Now booking 2027 partners.' 26 names, no tiers. Dry Creek inferred from the logo file name drycreek.png only."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.northernnights.org/sponsors",
+      "note": "Sponsors page: 'Email info@northernnights.org.' No named person or form."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/DcR0qL_PabB/",
+      "note": "Post-festival sponsor shout-out posts by @nnmfestival co-authored with @dirtybirdcamp, Aug 2026: 'Reminiscing on days like this @monsterenergy' (this post), 'Gathered by @cake.hits.different' (DcAB9xkCEvm, CAKE co-author) and 'No better feeling @innerbloomdrink' (Db7EAG0ixT2, Innerbloom co-author)."
+    }
+  ],
+  "add_gaps": [
+    "Attendance not published",
+    "Ticket prices not captured",
+    "Sponsor tiers and activation formats used by 2026 sponsors not published"
+  ],
+  "remove_gaps": [
+    "2027 dates from an aggregator only, not organiser-confirmed",
+    "Attendance, sponsors, prices and official website not captured"
+  ],
+  "notes": "Official sponsors page lists 26 brands for 2026 and says it is now booking 2027 partners via info@northernnights.org: an open, multi-sponsor festival. Mix is drinks (Absolut, Malibu, Skrewball, Waterloo, Curious Elixirs, Monster), cannabis and mushroom brands, plus wellness names (Innerbloom, Proper Wellness Center, joydrop). Vendors page also recruits wellness practitioners and yoga instructors. IG accounts are correct."
+}

@@ -1,0 +1,92 @@
+{
+  "id": "tangi-street-art-festival-bali",
+  "set": {
+    "website": "https://www.tangistreetartfest.com/",
+    "organiser": {
+      "name": "Yayasan Kolaborasi Dunia Tangi (co-founder Dwymabim)",
+      "type": "non-profit",
+      "website": "https://www.tangistreetartfest.com/"
+    },
+    "location": {
+      "city": "Kintamani (2026; host village changes each year)",
+      "state_or_region": "Bali",
+      "country": "Indonesia",
+      "venue_or_area": "Desa Kintamani, Bangli, and Glagalinggah pine forest (2026); Desa Guwang, Gianyar (2025); Danau Buyan, Buleleng (2024); Denpasar (2023)"
+    },
+    "dates": {
+      "last_edition": {
+        "start": "2026-05-10",
+        "end": "2026-05-16",
+        "status": "held",
+        "label": "4th edition (2026), theme 'Mulat Sarira', Desa Kintamani; closing 'Groove & Graffiti' 16 May"
+      },
+      "next_edition": {
+        "start": "2027",
+        "end": null,
+        "status": "expected",
+        "label": "2027 (Instagram bio: 'See you in 2027!')"
+      },
+      "frequency": "annual",
+      "duration_days": 7
+    },
+    "partnership_contact": {
+      "email": "tangisaf@gmail.com",
+      "page_url": "https://www.tangistreetartfest.com/contact",
+      "named_person": null,
+      "source": "https://www.tangistreetartfest.com/about"
+    },
+    "ticket_price": {
+      "min": 0,
+      "max": null,
+      "currency": "IDR",
+      "free_entry": true,
+      "note": "FAQ: admission is typically free; some workshops, events or special activities may need registration or tickets."
+    },
+    "audience": {
+      "age_range": null,
+      "gender_skew": null,
+      "psychographics": "Bali street art and graffiti community, host-village residents and schoolchildren (workshops), and travelling art fans; international and Indonesian muralists.",
+      "source": "inferred from IG audience signals"
+    }
+  },
+  "add_sponsors": [
+    {"brand": "Kementerian Kebudayaan (Ministry of Culture)", "years": [2026], "role": "government", "source": "https://www.instagram.com/p/DYWt-W7EQXV/"},
+    {"brand": "LPDP (Dana Indonesiana)", "years": [2026], "role": "government", "source": "https://www.instagram.com/p/DYWt-W7EQXV/"},
+    {"brand": "Erasmus Huis Jakarta", "years": [2026], "role": "government", "source": "https://www.instagram.com/p/DYWt-W7EQXV/"},
+    {"brand": "Netherlands Embassy in Indonesia", "years": [2026], "role": "government", "source": "https://www.instagram.com/p/DW_DYiykf4r/"},
+    {"brand": "Pio Monte della Misericordia", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DYWt-W7EQXV/"},
+    {"brand": "MR.DIY Indonesia", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DYWt-W7EQXV/"},
+    {"brand": "Titans Paint", "years": [2025, 2026], "role": "partner", "source": "https://www.instagram.com/p/DXtivwskW9q/"},
+    {"brand": "All Caps Store", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DYWt-W7EQXV/"},
+    {"brand": "Excelso Coffee", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DYWt-W7EQXV/"},
+    {"brand": "Ticket To The Moon", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DYWt-W7EQXV/"},
+    {"brand": "Desa Kopi Bali", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DYWt-W7EQXV/"},
+    {"brand": "Draft Beer ID", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DYWt-W7EQXV/"},
+    {"brand": "Mixtape Radio", "years": [2026], "role": "media", "source": "https://www.instagram.com/p/DYWt-W7EQXV/"}
+  ],
+  "add_activation_formats": ["workshop"],
+  "add_sources": [
+    {"field": "website", "url": "https://www.instagram.com/tangistreetartfest/", "note": "Instagram profile links to tangistreetartfest.com; site lists 2023 to 2026 editions."},
+    {"field": "organiser", "url": "https://www.tangistreetartfest.com/contact", "note": "'Tangi Street Art Festival is presented and produced by Yayasan Kolaborasi Dunia Tangi.'"},
+    {"field": "organiser", "url": "https://tatkala.co/2025/04/27/tangi-ruang-baur-street-art-bali/", "note": "Google snippet: co-founder Dwymabim describes Tangi as a collective movement started by Balinese artists; Karma Kommunity lists it as founded in 2023."},
+    {"field": "location", "url": "https://www.instagram.com/p/DXEVZ2Nh0Wh/", "note": "@tangistreetartfest (13 Apr 2026): 'TANGI STREET ART FESTIVAL | 10 to 16 May 2026 | Desa Kintamani, Bangli, Bali.'"},
+    {"field": "location", "url": "https://www.instagram.com/p/DWNeP24EZvg/", "note": "2025 (third edition) in Guwang Village; 2024 edition moved to mountain villages (Danau Buyan, Buleleng, per Nusa Bali); 2023 in Denpasar (The Ambengan Tenten)."},
+    {"field": "dates.last_edition", "url": "https://www.tangistreetartfest.com/", "note": "Home page: '2026 Edition ... 10 - 16 May 2026', theme 'Mulat Sarira'. Instagram (7 May 2026, https://www.instagram.com/p/DYB-3RekQ2l/) calls it the fourth edition with 8 artists; closing 'Groove & Graffiti' 16 May in Glagalinggah pine forest."},
+    {"field": "partnership_contact", "url": "https://www.tangistreetartfest.com/about", "note": "About page: 'Partnership & Sponsorships: tangisaf@gmail.com'; contact page also lists tangistreetartfest@gmail.com."},
+    {"field": "ticket_price", "url": "https://www.tangistreetartfest.com/faqs", "note": "FAQ: 'Admission to the festival is typically free of charge.'"},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DYWt-W7EQXV/", "note": "2026 credits: 'Institutional Support: @kemenkebud @lpdp_ri @erasmushuis_jakarta @piomontedellamisericordia. Partners & Collaborators: @mrdiy.indonesia @titanspaint @allcapsstore @excelsocoffee @tickettothemoonhammock ... @draftbeerid ... @desakopibali ... @mixtape.radio @kokabali.id' (plus local venues and media)."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DXtivwskW9q/", "note": "'Thank you to @titanspaint for supporting us last year, and for being part of the journey again this year'; 'Cans supported by @titanspaint' (https://www.instagram.com/p/DaHmR1YjeLm/)."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DW_DYiykf4r/", "note": "Danny Rumbl's participation 'proudly supported by @erasmushuis_jakarta and @nlinindonesia'."},
+    {"field": "audience", "url": "https://www.instagram.com/p/DYju0X4E1zo/", "note": "Inferred from IG: closing night in Kintamani's pine forest drew people 'from nearby villages', some 'traveled from the city'; murals watched daily by village residents and schoolchildren (https://www.instagram.com/p/DZmjbMakS0h/)."},
+    {"field": "activation_formats", "url": "https://www.instagram.com/p/DYL8vm2ES9u/", "note": "Children's painting and lino-print workshops at SDN 2 Kintamani during the 2026 festival."}
+  ],
+  "add_gaps": [
+    "Attendance not published",
+    "2026 supporter credits on the official site are a single image; sponsor names taken from Instagram credits"
+  ],
+  "remove_gaps": [
+    "City, dates and organiser not in results",
+    "Attendance and sponsors not in results"
+  ],
+  "notes": "Fourth edition held 10 to 16 May 2026 in Desa Kintamani, Bangli; the festival moves village each year (Denpasar 2023, Buleleng 2024, Guwang 2025). Non-profit run, free entry, publishes a sponsorship email (tangisaf@gmail.com) and openly seeks brand partners. Small scale (4,000 IG followers); backers are culture ministry, Dutch cultural bodies and small brands. Bio's '5 years' conflicts with a 2023 founding; first-edition question (Bali Sun) left open."
+}

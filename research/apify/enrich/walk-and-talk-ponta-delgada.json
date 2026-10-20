@@ -1,0 +1,41 @@
+{
+  "id": "walk-and-talk-ponta-delgada",
+  "set": {
+    "organiser": {"name": "Anda&Fala, Associação Cultural", "type": "non-profit", "website": "https://andafala.org/"},
+    "partnership_contact": {"email": "info@walktalkazores.org", "page_url": "https://2025.walktalkazores.org/sobre/", "named_person": null, "source": "https://2025.walktalkazores.org/sobre/"}
+  },
+  "add_sponsors": [
+    {"brand": "Governo dos Açores", "years": [2025], "role": "government", "source": "https://2025.walktalkazores.org/sobre/"},
+    {"brand": "República Portuguesa / DGArtes", "years": [2025], "role": "government", "source": "https://2025.walktalkazores.org/sobre/"},
+    {"brand": "Câmara Municipal de Ponta Delgada", "years": [2025], "role": "government", "source": "https://2025.walktalkazores.org/sobre/"},
+    {"brand": "Visit Portugal", "years": [2025], "role": "government", "source": "https://2025.walktalkazores.org/sobre/"},
+    {"brand": "FLAD (Fundação Luso-Americana para o Desenvolvimento)", "years": [2025], "role": "partner", "source": "https://2025.walktalkazores.org/sobre/"},
+    {"brand": "BPI", "years": [2025], "role": "partner", "source": "https://2025.walktalkazores.org/sobre/"},
+    {"brand": "Bensaude", "years": [2025], "role": "partner", "source": "https://2025.walktalkazores.org/sobre/"},
+    {"brand": "Adega Mayor", "years": [2025], "role": "partner", "source": "https://2025.walktalkazores.org/sobre/"},
+    {"brand": "Delta Cafés", "years": [2025], "role": "partner", "source": "https://2025.walktalkazores.org/sobre/"},
+    {"brand": "Bentrans", "years": [2025], "role": "partner", "source": "https://2025.walktalkazores.org/sobre/"},
+    {"brand": "NEAT Hotel", "years": [2025], "role": "partner", "source": "https://2025.walktalkazores.org/sobre/"},
+    {"brand": "Continente", "years": [2025], "role": "partner", "source": "https://2025.walktalkazores.org/sobre/"},
+    {"brand": "Australian Government Regional Arts Fund", "years": [2025], "role": "government", "source": "https://2025.walktalkazores.org/sobre/"},
+    {"brand": "Antena 3", "years": [2025], "role": "media", "source": "https://2025.walktalkazores.org/sobre/"},
+    {"brand": "Antena 1 Açores", "years": [2025], "role": "media", "source": "https://2025.walktalkazores.org/sobre/"},
+    {"brand": "RTP Açores", "years": [2025], "role": "media", "source": "https://2025.walktalkazores.org/sobre/"},
+    {"brand": "Contemporânea", "years": [2025], "role": "media", "source": "https://2025.walktalkazores.org/sobre/"}
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {"field": "organiser", "url": "https://www.acorianooriental.pt/noticia/bienal-walk-talk-quer-refletir-sobre-novas-formas-de-estar-em-conjunto-370931", "note": "Google snippet (28 Aug 2025): Walk&Talk is organised by the association Anda&Fala, based in Ponta Delgada."},
+    {"field": "organiser", "url": "https://2025.walktalkazores.org/sobre/", "note": "About page footer: Anda&Fala finances and runs the project; it also runs the vaga art space."},
+    {"field": "partnership_contact", "url": "https://2025.walktalkazores.org/sobre/", "note": "Site footer general email info@walktalkazores.org (also on e-flux announcement)."},
+    {"field": "sponsors", "url": "https://2025.walktalkazores.org/sobre/", "note": "2025 Biennial credits: Alto Patrocínio President of the Republic; Financiamento Governo (Azores), República Portuguesa, DGArtes, Ponta Delgada, Visit Portugal; Parceiros Institucionais FLAD, BPI; Patrocinadores Bensaude, Adega Mayor, Delta; Apoio à Produção Bentrans, NEAT, Continente, ANC; Apoio à Programação includes Pro Helvetia, Perform Europe, Australian Government Regional Arts Fund, Regional Arts Australia, RANT Australia; Apoio à Comunicação Antena 3, Antena 1 Açores, RTP Açores, AWC, Contemporânea; many programming partners (Arquipélago, Museu Carlos Machado, vaga, Teatro Micaelense and others)."}
+  ],
+  "add_gaps": [
+    "Attendance and ticketing not found"
+  ],
+  "remove_gaps": [
+    "No public partnerships contact found",
+    "Attendance, sponsors and ticketing not found"
+  ],
+  "notes": "Biennial run by non-profit Anda&Fala. 2025 roster: Azores and national culture funding, FLAD and BPI institutional partners, commercial sponsors Bensaude, Adega Mayor and Delta Cafés. Australian link: Regional Arts Australia, RANT Australia and the Australian Government Regional Arts Fund supported 2025 programming. Next edition 2027 (site: 'Até 2027'), dates not announced."
+}

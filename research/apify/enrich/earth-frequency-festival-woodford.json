@@ -1,0 +1,79 @@
+{
+  "id": "earth-frequency-festival-woodford",
+  "set": {
+    "website": "https://www.earthfrequency.com.au/",
+    "attendance": {
+      "figure": 5000,
+      "figure_high": null,
+      "year": 2026,
+      "is_estimate": true,
+      "source": "https://www.earthfrequency.com.au/festival-faq",
+      "note": "Organiser-reported but approximate: FAQ says the festival 'typically draws around 5,000 attendees'."
+    },
+    "partnership_contact": {
+      "email": "hello@earthfrequency.com.au",
+      "page_url": "https://www.earthfrequency.com.au/contact-us",
+      "named_person": null,
+      "source": "https://www.earthfrequency.com.au/tickets-info"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Diffuszed Studios",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DOaucQ4k3si/"
+    },
+    {
+      "brand": "DJ Lab AU",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DOaucQ4k3si/"
+    }
+  ],
+  "add_activation_formats": [
+    "competition-or-prize"
+  ],
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://www.instagram.com/earth_frequency/",
+      "note": "Instagram profile link of @earth_frequency is earthfrequency.com.au; site carries 2026 dates (23 to 26 Oct, Woodfordia)."
+    },
+    {
+      "field": "attendance",
+      "url": "https://www.earthfrequency.com.au/festival-faq",
+      "note": "FAQ: 'Earth Frequency typically draws around 5,000 attendees, creating a vibrant but boutique festival atmosphere.'"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.earthfrequency.com.au/our-story",
+      "note": "Our Story: 'Truly independently owned and operated, Earth Frequency has existed for its entire history without corporate sponsorship, alcohol sales or major government funding.'"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DOaucQ4k3si/",
+      "note": "Google snippet of festival post: 'Big thanks to our sponsors @diffuszed_studios and @dj_lab_au MAJOR PRIZE PACKAGE' (2025 ticket prize)."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.earthfrequency.com.au/tickets-info",
+      "note": "General email hello@earthfrequency.com.au (mailto on Ticket Info page); Contact Us page is a form only."
+    }
+  ],
+  "remove_gaps": [
+    "Official website reported as earthfrequency.com.au in a search summary but not shown as a result link",
+    "Attendance only from a third-party capacity figure",
+    "Sponsors beyond the venue not found",
+    "No public partnerships contact found"
+  ],
+  "add_gaps": [
+    "Festival states it runs without corporate sponsorship, alcohol sales or major government funding; brand partnerships may not be accepted",
+    "No partnerships-specific contact; general email only"
+  ],
+  "notes": "Important fit signal: organiser says EFF has never taken corporate sponsorship, so treat as locked or closed to brand deals; only small prize sponsors seen (Diffuszed Studios, DJ Lab, 2025). Attendance now from organiser FAQ (around 5,000). Organiser entity still unnamed."
+}

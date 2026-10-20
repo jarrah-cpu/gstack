@@ -1,0 +1,247 @@
+{
+  "id": "belco-bowl-jam-canberra",
+  "set": {
+    "dates": {
+      "last_edition": {
+        "start": "2026-02-20",
+        "end": "2026-02-22",
+        "status": "held",
+        "label": "25th year (2026)"
+      },
+      "next_edition": {
+        "start": "2027-02-19",
+        "end": "2027-02-21",
+        "status": "confirmed",
+        "label": "2027"
+      },
+      "frequency": "annual",
+      "duration_days": 3
+    },
+    "organiser": {
+      "name": "Belco Bowl Jam volunteer crew (skateboard.com.au crew and Canberra Skateboarding Association)",
+      "type": "community-collective",
+      "website": null
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Independent Trucks",
+      "years": [
+        2026,
+        2027
+      ],
+      "role": "presenting",
+      "source": "https://www.instagram.com/p/DcNzejPvWqI/"
+    },
+    {
+      "brand": "Santa Cruz Skateboards",
+      "years": [
+        2026,
+        2027
+      ],
+      "role": "presenting",
+      "source": "https://www.instagram.com/p/DcNzejPvWqI/"
+    },
+    {
+      "brand": "Visit Canberra",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.instagram.com/p/DVeeEmmE5H0/"
+    },
+    {
+      "brand": "City Renewal Authority (@cityrenewalcbr)",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.instagram.com/p/DVeeEmmE5H0/"
+    },
+    {
+      "brand": "@wearecbr (CBR)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DVeeEmmE5H0/"
+    },
+    {
+      "brand": "Grind Projects",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DVeeEmmE5H0/"
+    },
+    {
+      "brand": "Nike SB",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DVeeEmmE5H0/"
+    },
+    {
+      "brand": "Volcom",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DVeeEmmE5H0/"
+    },
+    {
+      "brand": "Spitfire Wheels",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DVeeEmmE5H0/"
+    },
+    {
+      "brand": "Creature Skateboards",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DVeeEmmE5H0/"
+    },
+    {
+      "brand": "YETI",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DVeeEmmE5H0/"
+    },
+    {
+      "brand": "Ozmosis",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DVeeEmmE5H0/"
+    },
+    {
+      "brand": "Capital Brewing Co",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DVeeEmmE5H0/"
+    },
+    {
+      "brand": "Fireball",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DVeeEmmE5H0/"
+    },
+    {
+      "brand": "Pro-Tec",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DVeeEmmE5H0/"
+    },
+    {
+      "brand": "Redz Ramp Surface",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DVeeEmmE5H0/"
+    },
+    {
+      "brand": "NBD Constructions",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DVeeEmmE5H0/"
+    },
+    {
+      "brand": "Skullcandy",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DVeeEmmE5H0/"
+    },
+    {
+      "brand": "Jarritos",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DVeeEmmE5H0/"
+    },
+    {
+      "brand": "Fast Times Skateboarding",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DVeeEmmE5H0/"
+    },
+    {
+      "brand": "Rocknrollo Ramps",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DVB-m2dj-4B/"
+    },
+    {
+      "brand": "ACT Government",
+      "years": [
+        2025
+      ],
+      "role": "government",
+      "source": "https://canberradaily.com.au/worlds-best-descend-on-belco-skate-park/"
+    }
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.instagram.com/p/DcNzejPvWqI/",
+      "note": "Save the date 19 to 21 Feb 2027; 'Belco 2027 Presented by Independent Trucks and Santa Cruz Skateboards'. IG bio also says Feb 19-21, 2027"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DVeeEmmE5H0/",
+      "note": "2026 'Presented by' list: Independent Trucks, Santa Cruz, Visit Canberra, @wearecbr, City Renewal Authority, skateboard.com.au, Grind Projects, Nike SB, Volcom, Spitfire, Creature, Monster Energy, YETI, Ozmosis, Capital Brewing, Fireball, Pro-Tec, Redz, NBD Constructions, Skullcandy, Jarritos, Fast Times"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DVAmvtij33M/",
+      "note": "Segment naming: 'Highest Air Presented by Pro-Tec'; other 2026 posts credit Fastest Grind (Grind Projects), Spot 1 (Spitfire), Spot 2 (Santa Cruz), Spot 3 (Volcom), Leg Wrestling (Fireball)"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://canberradaily.com.au/worlds-best-descend-on-belco-skate-park/",
+      "note": "Feb 2025: an ACT Government grant funded the grandstands; sponsor money goes into running the event and prize money ($40,000 cited)"
+    },
+    {
+      "field": "organiser",
+      "url": "https://www.instagram.com/p/DVH1vv_D27R/",
+      "note": "Organisers thank 'the small crew' of skateboard.com.au, two individuals and Woody and Tony of Canberra Skateboarding Association who plan it in their spare time"
+    },
+    {
+      "field": "organiser",
+      "url": "https://canberradaily.com.au/worlds-best-descend-on-belco-skate-park/",
+      "note": "'A handful of five volunteers organise this non-profit event in their spare time'"
+    }
+  ],
+  "add_gaps": [
+    "@wearecbr identity not confirmed (likely the ACT Government CBR city brand)"
+  ],
+  "remove_gaps": [
+    "Organiser not stated outright; CSA involvement inferred",
+    "2027 dates not announced; February expected"
+  ],
+  "notes": "Big brand roster: Independent and Santa Cruz present 2026 and 2027, plus Nike SB, Volcom, Monster, YETI, Skullcandy, Fireball, Capital Brewing etc. with named segments. Volunteer-run. Attendance still unpublished (Canberra Daily: 'packs out grandstands'). Prize money now has a third figure ($40,000 in 2025)."
+}

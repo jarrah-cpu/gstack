@@ -1,0 +1,164 @@
+{
+  "id": "tokio-art-book-fair-shiba-park",
+  "set": {
+    "website": "https://tokioartbookfair.com/",
+    "organiser": {
+      "name": "Tokyo Art Book Fair (一般社団法人東京アートブックフェア) with Shiba Park Hotel",
+      "type": null,
+      "website": "https://tokioartbookfair.com/"
+    },
+    "partnership_contact": {
+      "email": "hello@tokioartbookfair.com",
+      "page_url": "https://tokioartbookfair.com/about/",
+      "named_person": null,
+      "source": "https://tokioartbookfair.com/about/"
+    },
+    "ticket_price": {
+      "min": 1000,
+      "max": 1500,
+      "currency": "JPY",
+      "free_entry": false,
+      "note": "2026: general 1,500 JPY, 25 and under 1,000 JPY, 19 and under free; advance reservation via ArtSticker, door sales to 17:00 each day."
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Penco (HIGHTIDE)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://tokioartbookfair.com/"
+    },
+    {
+      "brand": "Bintang",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "partner",
+      "source": "https://tokioartbookfair.com/"
+    },
+    {
+      "brand": "Audio-Technica",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://tokioartbookfair.com/"
+    },
+    {
+      "brand": "dublab.jp",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://tokioartbookfair.com/"
+    },
+    {
+      "brand": "RISO KAGAKU (理想科学工業)",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DXv95STCZgO/"
+    },
+    {
+      "brand": "Shiba Park Hotel",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "venue",
+      "source": "https://www.instagram.com/p/DWbFS-CCfXe/"
+    },
+    {
+      "brand": "DesignSingapore Council",
+      "years": [
+        2025
+      ],
+      "role": "government",
+      "source": "https://fukuokaartbookfair.com/interviews/6174/"
+    },
+    {
+      "brand": "BEAMS CULTUART",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://fukuokaartbookfair.com/interviews/6174/"
+    }
+  ],
+  "add_activation_formats": [
+    "workshop",
+    "installation",
+    "hospitality-bar",
+    "stage-or-program-takeover"
+  ],
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://www.instagram.com/tokioartbookfair/",
+      "note": "Official IG profile (bio 'by @tokyoartbookfair') links to tokioartbookfair.com."
+    },
+    {
+      "field": "organiser",
+      "url": "https://www.instagram.com/p/DWbFS-CCfXe/",
+      "note": "主催: 一般社団法人東京アートブックフェア and Shiba Park Hotel (2026). Site: 'a fair organised by TOKYO ART BOOK FAIR'. Confirms the TABF link noted as a gap."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://tokioartbookfair.com/",
+      "note": "Home page 2026: 協賛 Penco, Bintang, Audio-Technica and dublab.jp."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DXv95STCZgO/",
+      "note": "'Printing Room Supported by Penco' where visitors make their own fair catalogue (500 JPY), with Penco x TOKIO clip giveaway; print cooperation RISO KAGAKU and Hand Saw Press."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DXYqFsvjeKJ/",
+      "note": "Lounge room: food and drink booths, 'Drinks Sponsor: Bintang', Audio-Technica OTOJU omnidirectional sound system installed."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DXqamIdiR3Q/",
+      "note": "Talk and listening events 'Supported by Audio-Technica and dublab.jp'."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/DXv95STCZgO/",
+      "note": "Penco-branded hands-on Printing Room (workshop) with branded giveaway."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/DXYqFsvjeKJ/",
+      "note": "Audio-Technica sound system installation in the lounge; Bintang as drinks sponsor of the lounge bar; Audio-Technica and dublab.jp supported the talk and listening program."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://tokioartbookfair.com/about/",
+      "note": "Site footer contact: hello@tokioartbookfair.com (general enquiries)."
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://www.instagram.com/p/DWbFKq7CUwN/",
+      "note": "Ticket post: general 1,500 JPY, 25 and under 1,000, 19 and under free; reservation system from 13 Apr."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://fukuokaartbookfair.com/interviews/6174/",
+      "note": "Google snippet of Fukuoka Art Book Fair interview on the first TOKIO edition (Golden Week 2025, Shiba Park Hotel): 協賛 DesignSingapore Council, Bintang, BEAMS CULTUART."
+    }
+  ],
+  "remove_gaps": [
+    "Relationship between TOKIO ART BOOK FAIR and the main TABF organisation implied by Tokyo Art Beat listing, not confirmed",
+    "Visitor numbers, ticketing and website not captured"
+  ],
+  "add_gaps": [
+    "Visitor numbers not published (52 invited exhibitors in 2026)",
+    "Audience age and gender not published"
+  ],
+  "notes": "Official site and IG give organisers (TABF association and Shiba Park Hotel), four 2026 sponsors (Penco, Bintang, Audio-Technica, dublab.jp) plus RISO print cooperation, and ticketing (1,500 JPY). Sponsors activate through branded spaces (Penco Printing Room, Audio-Technica lounge sound, Bintang drinks). Contact hello@tokioartbookfair.com."
+}

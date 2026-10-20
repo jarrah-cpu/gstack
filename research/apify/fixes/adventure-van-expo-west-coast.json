@@ -1,0 +1,10 @@
+{
+ "id": "adventure-van-expo-west-coast",
+ "sponsor_roles": {
+  "Four Wheel Campers": "partner"
+ },
+ "verifier_flags": [
+  "sponsors: Four Wheel Campers is a Gold sponsor (partners page), not only a vendor"
+ ],
+ "notes": "Orchestrator fix; source already in record."
+}

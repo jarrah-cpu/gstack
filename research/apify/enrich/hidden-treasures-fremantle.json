@@ -1,0 +1,14 @@
+{
+  "id": "hidden-treasures-fremantle",
+  "set": {
+    "website": "https://hiddentreasuresfreo.com.au/",
+    "ticket_price": {"min": null, "max": null, "currency": "AUD", "free_entry": null, "note": "2026 nights sold through Oztix via the official site's Buy Tickets link; prices not captured."}
+  },
+  "add_sources": [
+    {"field": "website", "url": "https://www.fremantle.wa.gov.au/arts-and-culture/whats-on/hidden-treasures/", "note": "City of Fremantle event page links 'Secure tickets' to hiddentreasuresfreo.com.au, titled Hidden Treasures, Fremantle's Live Music Series."},
+    {"field": "ticket_price", "url": "https://hiddentreasuresfreo.com.au/", "note": "Site lists North Freo Bowlo 11 June and Hilton Bowling Club 18 June with a Buy Tickets link to Oztix; no price shown."},
+    {"field": "dates.last_edition", "url": "https://www.fremantle.wa.gov.au/arts-and-culture/whats-on/hidden-treasures/", "note": "Council page: 'Thursdays | 11 & 18 Jun 2026', North Freo Bowlo 11 June, Hilton Bowling Club 18 June."}
+  ],
+  "add_gaps": ["Official site shows a 'brought to you by' logo with no name; no sponsors identified", "Partnership contact not published (only the City's general info email)"],
+  "notes": "No sponsors, attendance or contact found on the council page or the festival site. Site newsletter mentions Fremantle Festivals, consistent with council running it. The West reported three nights in an earlier year (likely 2025); 2026 ran two Thursday nights at bowling clubs."
+}

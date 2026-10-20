@@ -1,0 +1,31 @@
+{
+  "id": "descend-on-bend",
+  "set": {
+    "status": "discontinued",
+    "dates": {
+      "last_edition": {"start": "2024-08", "end": "2024-09", "status": "held", "label": "Descend 10 (2024), Labor Day weekend, new site on the Yamhill River; apparently the final edition"},
+      "next_edition": {"start": null, "end": null, "status": "unknown", "label": "None expected; event reported as ended after 2024"},
+      "frequency": "annual",
+      "duration_days": 4
+    },
+    "attendance": {"figure": 1000, "figure_high": null, "year": null, "is_estimate": true, "source": "https://www.facebook.com/groups/230357380752605/posts/1248347918953541/", "note": "A van-life Facebook group post says a Descend on Bend edition 'has just ended with over 1000 attendees' (Google snippet; year not shown). Not organiser-reported."}
+  },
+  "add_sponsors": [
+    {"brand": "Passenger Clothing", "years": [2024], "role": "partner", "source": "https://www.facebook.com/descendonbend/?locale=nb_NO"},
+    {"brand": "Silver Moon Brewing", "years": [], "role": "partner", "source": "https://whenyouwander.com/first-descend-on-bend/"}
+  ],
+  "add_activation_formats": ["stall", "hospitality-bar"],
+  "add_sources": [
+    {"field": "status", "url": "https://www.instagram.com/p/DJK2fC6Sz2b/", "note": "Attendee post (Google snippet): 'The end of an era... Descend on Bend has officially come to an end... The event may be over, but the people live on.' A tribute reel to @descendonbend 'the years, memories, and friends' also appears (https://www.instagram.com/reel/DJE9mLyplIF/)."},
+    {"field": "status", "url": "https://descendon.com/", "note": "Official site returned HTTP 404 when checked on 21 Oct 2026. Apify found no @descendonbend posts since 1 Oct 2025."},
+    {"field": "dates.last_edition", "url": "https://www.instagram.com/descendonbend/", "note": "Google snippet of the organiser IG profile: 'Events: Descend On / Descend 10 (Bend, Oregon; Yamhill River; Labor Day Weekend 2024), Descend on Pinnacles (Bar S Ranch near Pinn...'. Organiser Facebook video: 'As Descend 10 draws near and we gather at our new, glorious location on the Yamhi[ll]'."},
+    {"field": "dates.last_edition", "url": "https://openvan.camp/en/event/descend-bend-2026", "note": "The 2026 listing used at discovery (1 to 4 Sep 2026) and a charter-bus page giving 26 Aug 2026 are aggregator pages with no organiser backing; treated as unreliable."},
+    {"field": "attendance", "url": "https://www.facebook.com/groups/230357380752605/posts/1248347918953541/", "note": "Google snippet: 'A Van Get Together called Descend on Bend in the USA has just ended with over 1000 attendees.'"},
+    {"field": "sponsors", "url": "https://www.facebook.com/descendonbend/?locale=nb_NO", "note": "Organiser Facebook (Google snippet): '...sponsor for our ten-year anniversary! @passengerclothing is a responsible...'. Ten-year anniversary read as Descend 10 (2024)."},
+    {"field": "sponsors", "url": "https://whenyouwander.com/first-descend-on-bend/", "note": "Blog (Google snippet): 'Silver Moon was the official beer sponsor of the event and provided amazing deals on delicious beer throughout the weekend.' Year not shown."},
+    {"field": "activation_formats", "url": "https://www.facebook.com/descendonbend/posts/makers-market-will-descend-whether-you-make-ceramic-goods-like-annonaannona-cbd-/1175600576197696/", "note": "Organiser post: makers market at Descend On events in CA and OR; 'Sponsorship opportunities are separate from vendor booths'. Beer sponsor ran a bar with deals (When You Wander)."}
+  ],
+  "add_gaps": ["End of the event rests on an attendee's Instagram post, a dead official site and an inactive IG account; no organiser statement captured", "Exact 2024 dates not captured (Labor Day weekend)", "Attendance figure is from a Facebook group post with no year"],
+  "remove_gaps": ["2026 dates conflict: OpenVan gives 1 to 4 Sep, while the Labor Day pattern points to 4 to 7 Sep", "Attendance, sponsors and current prices not captured"],
+  "notes": "Likely discontinued: an attendee post says Descend on Bend 'has officially come to an end', the official site descendon.com now returns 404 and the IG account has no posts since Oct 2025. Last confirmed edition was Descend 10 (Labor Day 2024) at a new Yamhill River site, away from Bend. The 2026 dates in the record came from an aggregator and look auto-generated. Recommend archiving unless the orchestrator finds an organiser announcement. IG @descendonbend (now 'Descend On') is the right account."
+}

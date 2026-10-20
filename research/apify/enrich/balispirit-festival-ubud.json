@@ -1,0 +1,67 @@
+{
+  "id": "balispirit-festival-ubud",
+  "set": {
+    "organiser": {
+      "name": "Kryasta Guna Foundation (with BaliSpirit Group; executive producer Meghan Pappenheim)",
+      "type": "non-profit",
+      "website": "https://www.balispiritfestival.com/"
+    },
+    "attendance": {
+      "figure": 10000,
+      "figure_high": null,
+      "year": 2026,
+      "is_estimate": true,
+      "source": "https://lamrimnesia.org/2026/05/05/kembali-pulang-di-bali-spirit-festival-2026/",
+      "note": "About 10,000 visitors in total for 2026 per a Lamrimnesia report (Google snippet). Gatrabali's opening-day report expected 1,000 to 2,000 visitors a day and a target of about 2,000 participants over five days."
+    },
+    "audience": {
+      "age_range": null,
+      "gender_skew": null,
+      "psychographics": "Yoga, wellness and conscious-living travellers and Ubud's resident wellness community; participants from about 60 countries in 2026, many of them returning attendees.",
+      "source": "https://gatrabali.com/balispirit-festival-2026-resmi-dibuka-di-ubud-perkuat-citra-bali-sebagai-destinasi-wellness-dunia/"
+    },
+    "partnership_contact": {
+      "email": "sponsorship@balispiritfestival.com",
+      "page_url": "https://www.balispiritfestival.com/get-involved/sponsorship",
+      "named_person": null,
+      "source": "https://www.balispiritfestival.com/get-involved/sponsorship"
+    }
+  },
+  "add_sponsors": [
+    {"brand": "Kementerian Pariwisata (Ministry of Tourism, Wonderful Indonesia)", "years": [2026], "role": "government", "source": "https://gatrabali.com/balispirit-festival-2026-resmi-dibuka-di-ubud-perkuat-citra-bali-sebagai-destinasi-wellness-dunia/"},
+    {"brand": "Bank Central Asia (BCA)", "years": [2026], "role": "partner", "source": "https://gatrabali.com/balispirit-festival-2026-resmi-dibuka-di-ubud-perkuat-citra-bali-sebagai-destinasi-wellness-dunia/"},
+    {"brand": "Sprayground", "years": [2026], "role": "partner", "source": "https://gatrabali.com/balispirit-festival-2026-resmi-dibuka-di-ubud-perkuat-citra-bali-sebagai-destinasi-wellness-dunia/"},
+    {"brand": "KARA Indonesia", "years": [2026], "role": "partner", "source": "https://gatrabali.com/balispirit-festival-2026-resmi-dibuka-di-ubud-perkuat-citra-bali-sebagai-destinasi-wellness-dunia/"},
+    {"brand": "Indosole", "years": [2026], "role": "partner", "source": "https://gatrabali.com/balispirit-festival-2026-resmi-dibuka-di-ubud-perkuat-citra-bali-sebagai-destinasi-wellness-dunia/"},
+    {"brand": "AQUA", "years": [2026], "role": "partner", "source": "https://gatrabali.com/balispirit-festival-2026-resmi-dibuka-di-ubud-perkuat-citra-bali-sebagai-destinasi-wellness-dunia/"},
+    {"brand": "Cape Discovery", "years": [2026], "role": "partner", "source": "https://gatrabali.com/balispirit-festival-2026-resmi-dibuka-di-ubud-perkuat-citra-bali-sebagai-destinasi-wellness-dunia/"},
+    {"brand": "Corona", "years": [2026], "role": "partner", "source": "https://gatrabali.com/balispirit-festival-2026-resmi-dibuka-di-ubud-perkuat-citra-bali-sebagai-destinasi-wellness-dunia/"},
+    {"brand": "Kafe Ubud", "years": [2026], "role": "partner", "source": "https://gatrabali.com/balispirit-festival-2026-resmi-dibuka-di-ubud-perkuat-citra-bali-sebagai-destinasi-wellness-dunia/"},
+    {"brand": "Kebun Bistro", "years": [2026], "role": "partner", "source": "https://gatrabali.com/balispirit-festival-2026-resmi-dibuka-di-ubud-perkuat-citra-bali-sebagai-destinasi-wellness-dunia/"},
+    {"brand": "The Yoga Barn", "years": [2026], "role": "venue", "source": "https://gatrabali.com/balispirit-festival-2026-resmi-dibuka-di-ubud-perkuat-citra-bali-sebagai-destinasi-wellness-dunia/"},
+    {"brand": "Planteray Rum", "years": [2026], "role": "partner", "source": "https://www.balispiritfestival.com/about-us/our-sponsors/"},
+    {"brand": "Healthy Ubud", "years": [2026], "role": "partner", "source": "https://www.balispiritfestival.com/about-us/our-sponsors/"}
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {"field": "organiser", "url": "https://www.balispiritfestival.com/get-involved/sponsorship", "note": "Sponsorship page: 'BaliSpirit Festival under Kryasta Guna Foundation is very grateful for all the support ... 18 miraculous years.'"},
+    {"field": "organiser", "url": "https://gatrabali.com/balispirit-festival-2026-resmi-dibuka-di-ubud-perkuat-citra-bali-sebagai-destinasi-wellness-dunia/", "note": "Names Meghan Pappenheim, Director of The BaliSpirit Group and Executive Producer, and I Made Gunarta, Co-Founder; 17th edition 15 to 19 Apr 2026 at The Yoga Barn."},
+    {"field": "attendance", "url": "https://lamrimnesia.org/2026/05/05/kembali-pulang-di-bali-spirit-festival-2026/", "note": "Google snippet: '... pengunjung per hari dengan total mencapai sekitar 10.000 pengunjung' (about 10,000 visitors in total)."},
+    {"field": "attendance", "url": "https://gatrabali.com/balispirit-festival-2026-resmi-dibuka-di-ubud-perkuat-citra-bali-sebagai-destinasi-wellness-dunia/", "note": "Pre-event estimate: 1,000 to 2,000 visitors a day; target about 2,000 participants over five days; participants from about 60 countries."},
+    {"field": "audience", "url": "https://gatrabali.com/balispirit-festival-2026-resmi-dibuka-di-ubud-perkuat-citra-bali-sebagai-destinasi-wellness-dunia/", "note": "Participants from about 60 countries; returning attendees described as the 'keluarga besar BaliSpirit'."},
+    {"field": "partnership_contact", "url": "https://www.balispiritfestival.com/get-involved/sponsorship", "note": "Become a Sponsor page; email sponsorship@balispiritfestival.com; media enquiries media@balispiritfestival.com (media page)."},
+    {"field": "sponsors", "url": "https://gatrabali.com/balispirit-festival-2026-resmi-dibuka-di-ubud-perkuat-citra-bali-sebagai-destinasi-wellness-dunia/", "note": "'BaliSpirit Festival 2026 didukung oleh Kementerian Pariwisata Republik Indonesia, The Yoga Barn, Bali Spirit Group, Bank Central Asia, SPRAYGROUND, KARA Indonesia, Indosole, AQUA, Cape Discovery, Corona, Kafe Ubud, Kebun Bistro, serta berbagai sponsor dan mitra lainnya.'"},
+    {"field": "sponsors", "url": "https://www.balispiritfestival.com/about-us/our-sponsors/", "note": "Sponsors page community-sponsor logos uploaded Apr 2026 include Planteray Rum and Healthy Ubud; page also carries undated logos from 2015 to 2025 (not recorded)."},
+    {"field": "sponsors", "url": "https://www.facebook.com/indonesiakara/posts/seru-seruan-bareng-kara-di-balispirit-festival-2026suasana-penuh-energi-kebersam/968066555611920/", "note": "Google snippet: KARA Facebook post 'Seru-seruan bareng KARA di BaliSpirit Festival 2026' (brand activation)."}
+  ],
+  "add_gaps": [
+    "Audience age and gender not published",
+    "Sponsors page mixes logos from 2015 to 2026 without year labels; only the Gatrabali 2026 list and Apr 2026 uploads are recorded",
+    "Attendance total rests on one blog snippet; no organiser figure"
+  ],
+  "remove_gaps": [
+    "Organiser entity not named in search results",
+    "No attendance, demographics, sponsor roster or partnership contact found"
+  ],
+  "notes": "Organiser is the Kryasta Guna Foundation with BaliSpirit Group; sponsorship@balispiritfestival.com is a published sponsorship contact. 2026 supporters (Gatrabali) include BCA, Sprayground, KARA, Indosole, AQUA, Corona and the tourism ministry. Wellness audience from about 60 countries; Bali Spirit Group also listed as a supporter but it is the organiser's group, so not added."
+}

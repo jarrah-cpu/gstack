@@ -1,0 +1,14 @@
+{
+ "id": "festival-of-the-photocopier-melbourne",
+ "set": {
+  "website": "https://fotp.online/"
+ },
+ "add_sources": [
+  {
+   "field": "website",
+   "url": "https://fotp.online/",
+   "note": "Official festival site (found by the Phase 2 extraction agent; resolves 21 Oct 2026). Previous website was the organiser Sticky Institute's site."
+  }
+ ],
+ "notes": "Orchestrator fix."
+}

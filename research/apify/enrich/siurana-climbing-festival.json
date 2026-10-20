@@ -1,0 +1,190 @@
+{
+  "id": "siurana-climbing-festival",
+  "set": {
+    "website": "https://www.siuranaclimbingfestival.com/",
+    "dates": {
+      "last_edition": {
+        "start": "2025-11-14",
+        "end": "2025-11-16",
+        "status": "held",
+        "label": "2025"
+      },
+      "next_edition": {
+        "start": "2026-11-06",
+        "end": "2026-11-08",
+        "status": "confirmed",
+        "label": "2026"
+      },
+      "frequency": "annual",
+      "duration_days": 3
+    },
+    "partnership_contact": {
+      "email": "info@siuranaclimbingfestival.com",
+      "page_url": "https://www.siuranaclimbingfestival.com/attendee-en/",
+      "named_person": null,
+      "source": "https://www.siuranaclimbingfestival.com/attendee-en/"
+    },
+    "ticket_price": {
+      "min": 0,
+      "max": 30,
+      "currency": "EUR",
+      "free_entry": true,
+      "note": "Film screenings and talks at Teatre la Renaixenca are free with no registration (2025 program); guided clinics cost EUR 30 per day."
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Tenaya",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "presenting",
+      "source": "https://www.instagram.com/p/DeMp1-WiHgy/"
+    },
+    {
+      "brand": "C.A.M.P.",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DeMp1-WiHgy/"
+    },
+    {
+      "brand": "Rab",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DeMp1-WiHgy/"
+    },
+    {
+      "brand": "BlakPad",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DeMp1-WiHgy/"
+    },
+    {
+      "brand": "Totem MT",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DeMp1-WiHgy/"
+    },
+    {
+      "brand": "8c+",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DeMp1-WiHgy/"
+    },
+    {
+      "brand": "Pasion Vertical",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "collab",
+      "source": "https://www.instagram.com/p/DeMp1-WiHgy/"
+    },
+    {
+      "brand": "South Climb",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "collab",
+      "source": "https://www.instagram.com/p/DeMp1-WiHgy/"
+    },
+    {
+      "brand": "Ajuntament de Cornudella de Montsant",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "government",
+      "source": "https://www.instagram.com/p/DeMp1-WiHgy/"
+    }
+  ],
+  "add_activation_formats": [
+    "workshop",
+    "stall",
+    "stage-or-program-takeover"
+  ],
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://www.siuranaclimbingfestival.com/",
+      "note": "Official site, linked from the @siuranaclimbingfestival IG profile."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.instagram.com/p/DQe61sGCDqP/",
+      "note": "'SCF 2025 PROGRAM: From November 14 to 16' (IG, 31 Oct 2025)."
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.instagram.com/siuranaclimbingfestival/",
+      "note": "IG bio (Apify profile data): '6 - 8 November / Cornudella de Montsant'; a 7 Oct 2026 post dates a clinic to 'Saturday 7 Nov'."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.siuranaclimbingfestival.com/attendee-en/",
+      "note": "Attendee page: 'For more information please contact us via info@siuranaclimbingfestival.com' (general)."
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://www.siuranaclimbingfestival.com/attendee-en/",
+      "note": "'The cost of each clinic will be 30 EUR/day'."
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://www.instagram.com/p/DQe61sGCDqP/",
+      "note": "'All screenings and conferences are free and open to the public (no prior registration required, subject to venue capacity)'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DeMp1-WiHgy/",
+      "note": "2026 post footer: Festival Host @tenayaclimbing; Partners @camp1889outdoor, @rab.equipment, @kneepad_blakpad, @totemmt, @8cplus; Collaborators and Organitzation Partners @pasionverticaleurope, @ajcornudella, @southclimb."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DQe61sGCDqP/",
+      "note": "Same host, partner and collaborator list in the 2025 program post."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/DeZ-MpViHaR/",
+      "note": "Brand-led clinics: Trad Climbing Clinic by Totem MT with its cams; Self-Rescue clinic by C.A.M.P. (2026)."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.siuranaclimbingfestival.com/attendee-en/",
+      "note": "Festival area hosts 'booths of the organization and the collaborating brands (gear demos)'."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/DQKQM3pCBfB/",
+      "note": "Film screenings sponsored by partners (Rab film, BlakPad presentation, C.A.M.P. film) at Teatre la Renaixenca, 2025."
+    }
+  ],
+  "add_gaps": [],
+  "remove_gaps": [
+    "2026 dates not announced as of 20 Oct 2026; November expected",
+    "Sources differ on 2025 dates (14 to 16 vs 15 to 17 Nov)",
+    "Exact organiser structure (Tenaya with local partners) not confirmed",
+    "Program and ticketing not captured",
+    "Official website not captured",
+    "No public partnerships contact found"
+  ],
+  "notes": "There is a clear partner structure: Tenaya is host, with five gear-brand partners and local organisation partners including the town council. Brands run clinics, gear-demo booths and sponsored film screenings. The 2026 edition is 6 to 8 Nov. The contact is the general info@ email."
+}

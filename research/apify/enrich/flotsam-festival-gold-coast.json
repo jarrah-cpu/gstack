@@ -1,0 +1,349 @@
+{
+  "id": "flotsam-festival-gold-coast",
+  "set": {
+    "dates": {
+      "last_edition": {
+        "start": "2026-05-01",
+        "end": "2026-05-24",
+        "status": "held",
+        "label": "2026 (main program 1 to 15 May; Homegrown finale postponed from 15 to 24 May)"
+      },
+      "next_edition": {
+        "start": "2027-05",
+        "end": null,
+        "status": "expected",
+        "label": "2027"
+      },
+      "frequency": "annual",
+      "duration_days": 15
+    },
+    "organiser": {
+      "name": "Flotsam Arts (not-for-profit photographic arts and surf film organisation)",
+      "type": "non-profit",
+      "website": "https://flotsamfestival.com.au/"
+    },
+    "location": {
+      "city": "Gold Coast",
+      "state_or_region": "QLD",
+      "country": "Australia",
+      "venue_or_area": "Pop-up venues across the southern Gold Coast, incl. Kirra foreshore (Kirra Immerse Hub) and John Laws Park, Burleigh Headland (2026)"
+    },
+    "partnership_contact": {
+      "email": null,
+      "page_url": "https://flotsamfestival.com.au/contact/",
+      "named_person": null,
+      "source": "https://flotsamfestival.com.au/sponsors/"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Arts Queensland",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://flotsamfestival.com.au/sponsors/"
+    },
+    {
+      "brand": "City of Gold Coast",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://flotsamfestival.com.au/sponsors/"
+    },
+    {
+      "brand": "Experience Gold Coast",
+      "years": [
+        2026
+      ],
+      "role": "government",
+      "source": "https://flotsamfestival.com.au/sponsors/"
+    },
+    {
+      "brand": "Leu Creative",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://flotsamfestival.com.au/sponsors/"
+    },
+    {
+      "brand": "Soul Arch Media",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://flotsamfestival.com.au/sponsors/"
+    },
+    {
+      "brand": "Surfrider Foundation",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://flotsamfestival.com.au/sponsors/"
+    },
+    {
+      "brand": "Community Bank Tugun",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://flotsamfestival.com.au/sponsors/"
+    },
+    {
+      "brand": "Surfers 4 Climate",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://flotsamfestival.com.au/sponsors/"
+    },
+    {
+      "brand": "StoryFest",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://flotsamfestival.com.au/sponsors/"
+    },
+    {
+      "brand": "Tweed Sand Bypassing",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://flotsamfestival.com.au/sponsors/"
+    },
+    {
+      "brand": "Art Roll",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://flotsamfestival.com.au/sponsors/"
+    },
+    {
+      "brand": "BLEACH Festival",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://flotsamfestival.com.au/sponsors/"
+    },
+    {
+      "brand": "Level Up",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://flotsamfestival.com.au/sponsors/"
+    },
+    {
+      "brand": "Gold Coast Open",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://flotsamfestival.com.au/sponsors/"
+    },
+    {
+      "brand": "Surfing World",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://flotsamfestival.com.au/sponsors/"
+    },
+    {
+      "brand": "Radio Metro",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://flotsamfestival.com.au/sponsors/"
+    },
+    {
+      "brand": "Tracks Magazine",
+      "years": [
+        2026
+      ],
+      "role": "media",
+      "source": "https://flotsamfestival.com.au/sponsors/"
+    },
+    {
+      "brand": "Patagonia",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DY1ZtuZk8f1/"
+    },
+    {
+      "brand": "Sunbutter Skincare",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DYjUCI3kaj0/"
+    },
+    {
+      "brand": "Shade Eyewear",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DYjUCI3kaj0/"
+    },
+    {
+      "brand": "Project Pargo",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DYjUCI3kaj0/"
+    },
+    {
+      "brand": "Cooly Eco Adventures",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DYjUCI3kaj0/"
+    },
+    {
+      "brand": "Nikon Australia",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DZW4rJVkzPV/"
+    },
+    {
+      "brand": "Bombora Surf School",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DXiwDICE7rt/"
+    },
+    {
+      "brand": "Wood Surfboards",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DXiwDICE7rt/"
+    },
+    {
+      "brand": "Independent Surf Co",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DYBAkviRS5c/"
+    },
+    {
+      "brand": "Gooodsurf",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DXu0BPYEjp2/"
+    }
+  ],
+  "add_activation_formats": [
+    "competition-or-prize"
+  ],
+  "add_sources": [
+    {
+      "field": "dates",
+      "url": "https://flotsamfestival.com.au/",
+      "note": "Festival site: 'GOLD COAST 1 - 15 MAY 2026', two weeks of pop-up film nights, exhibitions, music and workshops."
+    },
+    {
+      "field": "dates",
+      "url": "https://www.instagram.com/p/DYTRzH8k-sF/",
+      "note": "Post (14 May 2026): Homegrown showcase at John Laws Park postponed from May 15 to Sunday May 24 due to weather."
+    },
+    {
+      "field": "dates",
+      "url": "https://www.instagram.com/p/DYwXSZ_R2on/",
+      "note": "Post (25 May 2026): 'Flotsam Homegrown was the final event for Flotsam Festival '26'."
+    },
+    {
+      "field": "organiser",
+      "url": "https://flotsamfestival.com.au/sponsors/",
+      "note": "Site pages titled 'Flotsam Arts'; sponsors page lists principal, strategic, community and media partners."
+    },
+    {
+      "field": "organiser",
+      "url": "https://www.instagram.com/flotsam.festival/",
+      "note": "Instagram bio: 'NFP photographic arts & surf film org'."
+    },
+    {
+      "field": "location",
+      "url": "https://www.instagram.com/p/DYmR_QPk6RC/",
+      "note": "Post (21 May 2026) on the Flotsam Kirra Immerse Hub free outdoor film nights on Kirra foreshore."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://flotsamfestival.com.au/sponsors/",
+      "note": "Sponsors page (2026): Principal Arts Queensland, City of Gold Coast and Experience Gold Coast; Strategic Leu Creative, Soul Arch Media; Community Surfrider Foundation, Community Bank Tugun, Surfers 4 Climate, StoryFest, Tweed Sand Bypassing, Art Roll, Bleach, Level Up, Gold Coast Open; Media Surfing World, Radio Metro, Tracks Magazine."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DYjUCI3kaj0/",
+      "note": "Surfrider Australia post (20 May 2026) on the Found Objects contest led with Flotsam: 'Big shout out to sponsors @patagoniaaus, @shade__eyewear, @project_pargo, @sunbutterskincare, and @cooly.eco.adventures'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DY1ZtuZk8f1/",
+      "note": "Post (27 May 2026): Patagonia brought its 'Sensing Home' film tour finale to Flotsam Oceans at Kirra."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DZW4rJVkzPV/",
+      "note": "Post (9 Jun 2026): 'A Living Ocean was supported by @nikonaustralia'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DXiwDICE7rt/",
+      "note": "Post (25 Apr 2026): Homegrown U18 surf clip division 'Presented by Bombora', prizes from Bombora Surf School and Wood Surfboards."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DYBAkviRS5c/",
+      "note": "Post (6 May 2026): '@independentsurfco Best Independent Filmmaker award'."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DXu0BPYEjp2/",
+      "note": "Brainwaves Surf Therapy post (29 Apr 2026): Saltwater Dreaming screening with Flotsam 'Presented by @gooodsurf'."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/DYYkdQzlf4h/",
+      "note": "Homegrown photo and film competitions with 'over 5k in cash prizes' (2026)."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://flotsamfestival.com.au/sponsors/",
+      "note": "Sponsors page: 'Contact for Sponsorship Enquiries' links to the contact page (form)."
+    }
+  ],
+  "remove_gaps": [
+    "Duration conflicts: listing says 1 to 24 May but press release says fifteen days",
+    "Venues not found",
+    "Organiser not named in results",
+    "Sponsors not found",
+    "No public partnerships contact found",
+    "Press release year not confirmed as 2026",
+    "Organiser details, website, attendance and partners not found"
+  ],
+  "add_gaps": [
+    "No email for sponsorship enquiries; contact form only"
+  ],
+  "notes": "Main program 1 to 15 May 2026; Homegrown finale moved to 24 May. Organiser is the not-for-profit Flotsam Arts (concept from Soul Arch Media). Health-adjacent prize sponsor: Sunbutter Skincare (sunscreen) via the Found Objects contest; Patagonia also active. Council support also via Crs Gail O'Neill and Josh Martin (not added)."
+}

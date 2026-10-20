@@ -1,0 +1,72 @@
+{
+  "id": "pro-zarautz-surf-festival",
+  "set": {
+    "website": "http://www.prozarautz.com/",
+    "organiser": {
+      "name": "FederArte Surfing Kultura",
+      "type": null,
+      "website": null
+    },
+    "dates": {
+      "last_edition": {
+        "start": "2025",
+        "end": null,
+        "status": "held",
+        "label": "2025 (137 competitors per festival listing)"
+      },
+      "next_edition": {
+        "start": null,
+        "end": null,
+        "status": "unknown",
+        "label": "2026 edition unconfirmed: the listing's 15 to 19 Apr 2026 dates are a placeholder pending the WSL calendar"
+      },
+      "frequency": "annual",
+      "duration_days": 5
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Oakley",
+      "years": [
+        2025
+      ],
+      "role": "presenting",
+      "source": "https://www.festivalesdeespana.com/festival/pro-zarautz-surf-festival-zarautz"
+    }
+  ],
+  "add_activation_formats": [],
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://www.instagram.com/prozarautz/",
+      "note": "Event IG profile links to prozarautz.com (site returned HTTP 403 when fetched on 21 Oct 2026)."
+    },
+    {
+      "field": "organiser",
+      "url": "https://www.instagram.com/prozarautz/",
+      "note": "IG bio: 'PRO ZARAUTZ INTERNATIONAL OPEN + ADAPTIVE Surfing Championship ... by FederArte Surfing Kultura'."
+    },
+    {
+      "field": "dates",
+      "url": "https://www.festivalesdeespana.com/festival/pro-zarautz-surf-festival-zarautz",
+      "note": "Listing fetched 21 Oct 2026: 2026 section says dates are 'pendiente de cartel y fecha definitiva por la WSL'; the 15 to 19 Apr 2026 dates are a placeholder; 2025 had 137 competitors."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.festivalesdeespana.com/festival/pro-zarautz-surf-festival-zarautz",
+      "note": "Listing names the event 'Pro Zarautz presented by Oakley' (WSL European Qualifying Series stop); year not pinned, appears drawn from 2025."
+    }
+  ],
+  "add_gaps": [
+    "2026 edition not confirmed by WSL or organiser",
+    "Oakley presenting role rests on an aggregator listing; year not pinned"
+  ],
+  "remove_gaps": [
+    "2026 dates come from a festival listing, not an official WSL or organiser page",
+    "Organiser not identified",
+    "Sponsors not identified",
+    "Official website not captured",
+    "2027 dates not announced; April expected from 2025 and 2026"
+  ],
+  "notes": "Check status. @prozarautz has not posted since 3 Jan 2023 (its last posts cover the Oct 2022 Open + Adaptive edition run by FederArte). The only 2025 and 2026 evidence is a templated aggregator page, so I moved the 2026 'held' edition to unknown. Oakley as presenting partner comes from that aggregator."
+}

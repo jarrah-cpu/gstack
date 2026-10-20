@@ -1,0 +1,123 @@
+{
+ "id": "convencion-de-tatuajes-la-plata",
+ "set": {
+  "dates": {
+   "last_edition": {
+    "start": null,
+    "end": null,
+    "status": null,
+    "label": null
+   },
+   "next_edition": {
+    "start": null,
+    "end": null,
+    "status": "unknown",
+    "label": "15th anniversary edition (planned 27 to 29 Nov 2026) suspended; organiser seeking a new venue"
+   },
+   "frequency": "annual",
+   "duration_days": 3
+  },
+  "status": "on-hiatus",
+  "organiser": {
+   "name": "Juan Bonaro (tattoo artist, @juanbonarotatuador)",
+   "type": "independent",
+   "website": null
+  },
+  "attendance": {
+   "figure": 30000,
+   "figure_high": null,
+   "year": 2011,
+   "is_estimate": true,
+   "source": "https://www.eldia.com/nota/2011-10-9-ciudad-tatoo",
+   "note": "Press (El Día) said the first edition in 2011 drew 'más de 30.000 visitantes' (over 30,000 visitors). Google snippet only; no recent figure."
+  }
+ },
+ "add_sponsors": [
+  {
+   "brand": "Tribo do Sol",
+   "years": [
+    2026
+   ],
+   "role": "partner",
+   "source": "https://www.instagram.com/p/DQZ0Op3iU0i/"
+  },
+  {
+   "brand": "World Famous Ink",
+   "years": [
+    2026
+   ],
+   "role": "partner",
+   "source": "https://www.instagram.com/p/DQezGyAiQvD/"
+  },
+  {
+   "brand": "OG Produce Tattoo Supply",
+   "years": [
+    2026
+   ],
+   "role": "partner",
+   "source": "https://www.instagram.com/p/DQfAFeNic4a/"
+  },
+  {
+   "brand": "Inksoul Supply",
+   "years": [
+    2026
+   ],
+   "role": "partner",
+   "source": "https://www.instagram.com/p/DQftvKKDO2a/"
+  }
+ ],
+ "add_sources": [
+  {
+   "field": "status",
+   "url": "https://www.instagram.com/p/DdZflbypJes/",
+   "note": "Official IG 'COMUNICADO OFICIAL' (17 Sep 2026): the convention is suspended; the municipality changed the date several times, then cancelled all private events at the venue for this year and next. Organiser is looking for a new venue and format."
+  },
+  {
+   "field": "dates.next_edition",
+   "url": "https://www.instagram.com/p/DQfY5u7iYCd/",
+   "note": "Organiser post (31 Oct 2025) moved the 15th anniversary edition to 27 to 29 Nov 2026 at Pasaje Dardo Rocha, before the suspension."
+  },
+  {
+   "field": "organiser",
+   "url": "https://www.instagram.com/convenciondetatuajeslaplata/",
+   "note": "IG bio: 'Organiza: @juanbonarotatuador'."
+  },
+  {
+   "field": "attendance",
+   "url": "https://www.eldia.com/nota/2011-10-9-ciudad-tatoo",
+   "note": "Google snippet: first edition 2011 at Pasaje Dardo Rocha 'convocó a más de 30.000 visitantes'."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://www.instagram.com/p/DQZ0Op3iU0i/",
+   "note": "'nuevo sponsor oficial del 15 aniversario': Tribo do Sol (tattoo supplies)."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://www.instagram.com/p/DQezGyAiQvD/",
+   "note": "'Sponsor oficial del 15th anniv.': World Famous Ink, supporting the event for 15 years."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://www.instagram.com/p/DQfAFeNic4a/",
+   "note": "'SPONSOR 2026': OG Produce tattoo supply."
+  },
+  {
+   "field": "sponsors",
+   "url": "https://www.instagram.com/p/DQftvKKDO2a/",
+   "note": "'Sponsor 2026': Inksoul supply."
+  }
+ ],
+ "add_gaps": [
+  "2026 edition suspended (17 Sep 2026); no new venue or date announced",
+  "Unclear whether the Dec 2025 (13th) edition went ahead; the suspension notice says 'una vez más' (once again)",
+  "No official website (IG links to a worldtattooevents listing; a vercel.app page covers the 13th edition)",
+  "Only attendance figure is from the 2011 first edition",
+  "Ticket prices not captured"
+ ],
+ "remove_gaps": [
+  "Aggregator source only",
+  "Organiser, prices, attendance, sponsors, website and Instagram not captured"
+ ],
+ "notes": "Official IG says the 15th anniversary edition (moved to 27 to 29 Nov 2026) is suspended after the La Plata municipality cancelled private events at Pasaje Dardo Rocha for 2026 and 2027; organiser promises a new format and venue. Status set to on-hiatus and next edition cleared. 2026 sponsors were tattoo supply brands only."
+}

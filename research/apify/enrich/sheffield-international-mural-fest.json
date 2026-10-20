@@ -1,0 +1,181 @@
+{
+  "id": "sheffield-international-mural-fest",
+  "set": {
+    "dates": {
+      "last_edition": {
+        "start": "2025",
+        "end": null,
+        "status": "held",
+        "label": "2025"
+      },
+      "next_edition": {
+        "start": "2026-11-01",
+        "end": "2026-11-07",
+        "status": "confirmed",
+        "label": "2026: Paint Me A Song"
+      },
+      "frequency": "annual",
+      "duration_days": 7
+    },
+    "organiser": {
+      "name": "Kentish Arts Commerce and Tourism (delivered in partnership with Kentish Council)",
+      "type": null,
+      "website": "https://muralfest.com.au/"
+    },
+    "ticket_price": {
+      "min": 0,
+      "max": 0,
+      "currency": "AUD",
+      "free_entry": true,
+      "note": "Free to attend; Mural Park is open year-round."
+    },
+    "partnership_contact": {
+      "email": null,
+      "page_url": "https://muralfest.com.au/contact/",
+      "named_person": null,
+      "source": "https://muralfest.com.au/"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Kentish Council",
+      "years": [
+        2025
+      ],
+      "role": "government",
+      "source": "https://muralfest.com.au/2025-sponsors/"
+    },
+    {
+      "brand": "Bendigo Bank Deloraine",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://muralfest.com.au/2025-sponsors/"
+    },
+    {
+      "brand": "Hydro Tasmania",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://muralfest.com.au/2025-sponsors/"
+    },
+    {
+      "brand": "Cradle Mountain Hotel",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DQESTojE-Q-/"
+    },
+    {
+      "brand": "The Sheffield Hotel",
+      "years": [
+        2022,
+        2025
+      ],
+      "role": "partner",
+      "source": "https://muralfest.com.au/2025-sponsors/"
+    },
+    {
+      "brand": "Manna Hills Farm Cottages",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://muralfest.com.au/2025-sponsors/"
+    },
+    {
+      "brand": "Colorworld",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://muralfest.com.au/2025-sponsors/"
+    },
+    {
+      "brand": "IGA Sheffield",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://muralfest.com.au/2025-sponsors/"
+    },
+    {
+      "brand": "Davies Construction",
+      "years": [
+        2025
+      ],
+      "role": "partner",
+      "source": "https://muralfest.com.au/2025-sponsors/"
+    },
+    {
+      "brand": "Targa Tasmania",
+      "years": [
+        2022
+      ],
+      "role": "partner",
+      "source": "https://muralfest.com.au/2022-sponsors/"
+    }
+  ],
+  "add_sources": [
+    {
+      "field": "dates.frequency",
+      "url": "https://muralfest.com.au/history/",
+      "note": "Crawled page: 'Held annually since 2003'."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://muralfest.com.au/",
+      "note": "Crawled homepage: 2025 artists, 2025 sponsors and 2025 program for the 2025 International Mural Fest."
+    },
+    {
+      "field": "organiser",
+      "url": "https://www.instagram.com/p/DQESTojE-Q-/",
+      "note": "Festival post (21 Oct 2025): 'Kentish Arts Commerce and Tourism extends its heartfelt thanks ... to our sponsor @cradlemountainhotel'."
+    },
+    {
+      "field": "organiser",
+      "url": "https://muralfest.com.au/2025-sponsors/",
+      "note": "Crawled page: 'Delivered in Partnership with Kentish Council'."
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://muralfest.com.au/news/",
+      "note": "Google snippet: 2026 festival 1 to 7 Nov 'is free to attend'."
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://www.kentish.tas.gov.au/community/event-calendar/events/international-mural-fest",
+      "note": "Google snippet: Kentish Council listing marks the event 'Free'."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://muralfest.com.au/",
+      "note": "Crawled homepage links a Contact Us page, Media Enquiries page and 'Support Us' sponsor section."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://muralfest.com.au/2025-sponsors/",
+      "note": "Crawled page: 2025 sponsors by logo file name: mural boards by Bendigo Bank Deloraine; artist sponsors incl. Cradle Mountain Hotel, Hydro Tasmania, Sheffield Hotel; silver Manna Hills Farm Cottages; bronze Colorworld; star supporters Davies Construction, IGA Sheffield; plus small local supporters."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://muralfest.com.au/2022-sponsors/",
+      "note": "Crawled page: 2022 bronze sponsors incl. Targa Tasmania; supporter The Sheffield Hotel."
+    }
+  ],
+  "remove_gaps": [
+    "Frequency and last edition not confirmed",
+    "Organiser, attendance and partners not found",
+    "No public partnerships contact found"
+  ],
+  "add_gaps": [
+    "Attendance not published",
+    "Exact 2025 dates not pinned",
+    "2025 sponsor names read from logo file names; tier headings on the page may not line up with logos",
+    "2026 sponsor page is empty so far"
+  ],
+  "notes": "Annual since 2003; run by Kentish Arts Commerce and Tourism with Kentish Council. Sponsors are local Tasmanian businesses plus Hydro Tasmania and Bendigo Bank; each of nine finalists gets $2,500 artist sponsorship. Tasmazia once held naming (blog tag, year unknown). Free entry. IG account correct."
+}

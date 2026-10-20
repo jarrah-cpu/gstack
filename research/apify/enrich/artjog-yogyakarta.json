@@ -1,0 +1,97 @@
+{
+  "id": "artjog-yogyakarta",
+  "set": {
+    "website": "https://artjog.id/",
+    "organiser": {
+      "name": "Heri Pemad Art Management (founder Heri Pemad)",
+      "type": "independent",
+      "website": "https://artjog.id/"
+    },
+    "attendance": {
+      "figure": 87000,
+      "figure_high": null,
+      "year": 2026,
+      "is_estimate": false,
+      "source": "https://jogjapolitan.harianjogja.com/r-1269370/artjog-2026-tembus-87-ribu-pengunjung-berdampak-ke-ekosistem-seni-dan-ekonomi-jogja",
+      "note": "'More than 87,000 visitors' recorded up to the day before the 30 Aug 2026 close, per Harian Jogja (Google snippet); final total not found."
+    },
+    "partnership_contact": {
+      "email": "office@artjog.id",
+      "page_url": "https://artjog.id/2026/contact-us.php",
+      "named_person": null,
+      "source": "https://artjog.id/2026/contact-us.php"
+    },
+    "dates": {
+      "last_edition": {
+        "start": "2026-06-19",
+        "end": "2026-08-30",
+        "status": "held",
+        "label": "ARTJOG 2026: ARS LONGA: GENERATIO (chapter 1 of the 2026 to 2028 trilogy)"
+      },
+      "next_edition": {
+        "start": "2027-06-18",
+        "end": null,
+        "status": "confirmed",
+        "label": "ARTJOG 2027: ARS LONGA: LEGATUM (chapter 2 of the trilogy); opening 18 Jun 2027 per organiser Instagram bio"
+      },
+      "frequency": "annual",
+      "duration_days": 73
+    }
+  },
+  "add_sponsors": [
+    {"brand": "Bakti Budaya Djarum Foundation", "years": [2026], "role": "major", "source": "https://artjog.id/2026/partners.php"},
+    {"brand": "BRI (BRImo)", "years": [2026], "role": "major", "source": "https://artjog.id/2026/partners.php"},
+    {"brand": "Pertamina", "years": [2026], "role": "major", "source": "https://artjog.id/2026/partners.php"},
+    {"brand": "Bank Mandiri", "years": [2026], "role": "partner", "source": "https://artjog.id/2026/partners.php"},
+    {"brand": "BNI", "years": [2026], "role": "partner", "source": "https://artjog.id/2026/partners.php"},
+    {"brand": "Pegadaian", "years": [2026], "role": "partner", "source": "https://artjog.id/2026/partners.php"},
+    {"brand": "Jasa Marga", "years": [2026], "role": "partner", "source": "https://artjog.id/2026/partners.php"},
+    {"brand": "Cikal", "years": [2026], "role": "partner", "source": "https://artjog.id/2026/partners.php"},
+    {"brand": "Kementerian Pariwisata (Wonderful Indonesia)", "years": [2026], "role": "government", "source": "https://artjog.id/2026/partners.php"},
+    {"brand": "Dana Keistimewaan DIY", "years": [2026], "role": "government", "source": "https://artjog.id/2026/partners.php"},
+    {"brand": "Dinas Kebudayaan DIY", "years": [2026], "role": "government", "source": "https://artjog.id/2026/partners.php"},
+    {"brand": "TACO", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/Dc2pw-ehvp2/"},
+    {"brand": "PLN", "years": [2026], "role": "partner", "source": "https://artjog.id/2026/partners.php"},
+    {"brand": "Panasonic", "years": [2026], "role": "partner", "source": "https://artjog.id/2026/partners.php"},
+    {"brand": "Epson", "years": [2026], "role": "partner", "source": "https://artjog.id/2026/partners.php"},
+    {"brand": "Propan", "years": [2026], "role": "partner", "source": "https://artjog.id/2026/partners.php"},
+    {"brand": "Dagadu", "years": [2026], "role": "partner", "source": "https://artjog.id/2026/partners.php"},
+    {"brand": "Artatix", "years": [2026], "role": "partner", "source": "https://artjog.id/2026/partners.php"},
+    {"brand": "Wuling", "years": [2026], "role": "partner", "source": "https://artjog.id/2026/partners.php"},
+    {"brand": "Vit (mineral water)", "years": [2026], "role": "partner", "source": "https://artjog.id/2026/partners.php"},
+    {"brand": "Ambarrukmo Group", "years": [2026], "role": "partner", "source": "https://artjog.id/2026/partners.php"},
+    {"brand": "Jogja National Museum", "years": [2026], "role": "venue", "source": "https://artjog.id/2026/partners.php"},
+    {"brand": "Institut francais d'Indonesie (IFI) Yogyakarta", "years": [2026], "role": "government", "source": "https://www.instagram.com/p/DcLngzvh4zs/"},
+    {"brand": "detikcom", "years": [2026], "role": "media", "source": "https://artjog.id/2026/partners.php"},
+    {"brand": "Metro TV", "years": [2026], "role": "media", "source": "https://artjog.id/2026/partners.php"},
+    {"brand": "Kompas", "years": [2026], "role": "media", "source": "https://artjog.id/2026/partners.php"},
+    {"brand": "Tempo", "years": [2026], "role": "media", "source": "https://artjog.id/2026/partners.php"},
+    {"brand": "IDN Times", "years": [2026], "role": "media", "source": "https://artjog.id/2026/partners.php"},
+    {"brand": "Harper's Bazaar Indonesia", "years": [2026], "role": "media", "source": "https://artjog.id/2026/partners.php"}
+  ],
+  "add_activation_formats": ["workshop"],
+  "add_sources": [
+    {"field": "website", "url": "https://artjog.id/2026/", "note": "Official site (linked from @artjog.id Instagram bio); 2026 pages crawled."},
+    {"field": "organiser", "url": "http://digilib.isi.ac.id/6093/1/BAB%20I.pdf", "note": "Google snippet: ISI thesis titled 'HERI PEMAD ART MANAGEMENT (Studi Kasus Artjog)'; UGM thesis 'Komunikasi Pemasaran Heri Pemad Art...' also in results. Founder Heri Pemad is the most-tagged account on @artjog.id."},
+    {"field": "attendance", "url": "https://jogjapolitan.harianjogja.com/r-1269370/artjog-2026-tembus-87-ribu-pengunjung-berdampak-ke-ekosistem-seni-dan-ekonomi-jogja", "note": "Google snippet (30 Aug 2026): ARTJOG 2026 recorded more than 87,000 visitors up to a day before closing."},
+    {"field": "partnership_contact", "url": "https://artjog.id/2026/contact-us.php", "note": "Contact page lists office.artjog@gmail.com; site footer lists office@artjog.id. General enquiries only; no partnership-specific contact."},
+    {"field": "dates.next_edition", "url": "https://www.instagram.com/artjog.id/", "note": "Instagram bio: 'See you at ARTJOG 2027 ARS LONGA: LEGATUM! 18 Juni 2027'."},
+    {"field": "sponsors", "url": "https://artjog.id/2026/partners.php", "note": "2026 partners page, names read from logo file names: Main Partner BBDF (Bakti Budaya Djarum Foundation); Strategic Partners BRI, Pertamina; Supporting Partners incl. Mandiri, BNI, PT Pegadaian, Jasa Marga, Cikal, Wonderful Indonesia, Kementerian Pariwisata, Dana Keistimewaan, Dinas Kebudayaan DIY (plus logos 'MOT' and 'SMM', unidentified); in-kind incl. PT PLN, Artatix, Propan, Dagadu, Panasonic, Epson, Cellux, Paper Gallery; partners incl. Ambarrukmo Group and about 25 hotels, JNM, Wuling, Vit, Bakpiaku, Moka POS; media incl. detik, Metro TV, Tempo, IDN Times, Kompas, Bazaar, Cosmopolitan, Her World, Harian Jogja, Tirto."},
+    {"field": "sponsors", "url": "https://pariwisata.jogjakota.go.id/detail/index/49272/artjog-2026-ars-longa-generatio-menghadirkan-dialog-dan-praktik-lintas-generasi-2026-06-15", "note": "Google snippet: 'ARTJOG 2026 didukung oleh Bakti Budaya Djarum Foundation, Bank BRI, Pertamina, dan sponsor-sponsor lainnya.'"},
+    {"field": "sponsors", "url": "https://artjog.id/2026/press.php", "note": "Press release (10 Aug 2026): performa ARTJOG program 'Didukung oleh Bakti Budaya Djarum Foundation'."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/Dc2pw-ehvp2/", "note": "@artjog.id (4 Sep 2026): 'The Others Lab by TACO' design and material program, with workshops (e.g. https://www.instagram.com/p/Db-XtjLAZJP/)."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DcLngzvh4zs/", "note": "@artjog.id (18 Aug 2026): performance 'supported by Institut francais d'Indonesie (IFI) Yogyakarta'."},
+    {"field": "sponsors", "url": "https://kabarnusa.com/polemik-sponsor-artjog-2026-seniman-desak-transparansi-usai-insiden-pembukaan/", "note": "Kabar Nusa (21 Jun 2026): artists' coalition criticised a 'certain foundation' listed in ARTJOG 2026 publicity (artwashing concerns); management removed the logo and sponsor identity after the polemic. The foundation is not named."},
+    {"field": "activation_formats", "url": "https://www.instagram.com/p/Db-XtjLAZJP/", "note": "Workshop 'The Others Lab by TACO' with Ecyce.lab turning plastic packaging into bags (12 Aug 2026)."}
+  ],
+  "add_gaps": [
+    "Final 2026 attendance not found (more than 87,000 reported a day before close)",
+    "June 2026 sponsor polemic: an unnamed foundation's logo was removed after the opening; which partner is not named in the source",
+    "Partners-page logos 'MOT' and 'SMM' (supporting tier) not identified"
+  ],
+  "remove_gaps": [
+    "Organiser entity, official website and attendance not shown in results",
+    "2027 dates not announced; June to August pattern expected"
+  ],
+  "notes": "Partners page gives a full tiered 2026 roster (names from logo files): main partner Bakti Budaya Djarum Foundation (Djarum is a tobacco group), strategic BRI and Pertamina. Existing BRI (BRImo) entry should upgrade from partner to major. 2026 opening saw a sponsor 'artwashing' polemic (unnamed foundation removed); BBC also reported earlier Freeport sponsorship protests. 2027 opens 18 Jun 2027. Organiser rests on thesis titles (Google snippets)."
+}

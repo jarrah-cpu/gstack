@@ -1,0 +1,203 @@
+{
+  "id": "uvnt-art-fair-madrid",
+  "set": {
+    "website": "https://www.contemporaryartnow.com/madrid/es",
+    "dates": {
+      "last_edition": {
+        "start": "2026-03-05",
+        "end": "2026-03-08",
+        "status": "held",
+        "label": "10th edition (2026), first under the CAN Madrid Art Fair name"
+      },
+      "next_edition": {
+        "start": "2027-03-04",
+        "end": "2027-03-07",
+        "status": "expected",
+        "label": "2027 as CAN Madrid Art Fair (esmadrid listing, dates to be confirmed)"
+      },
+      "frequency": "annual",
+      "duration_days": 4
+    },
+    "location": {
+      "city": "Madrid",
+      "state_or_region": "Community of Madrid",
+      "country": "Spain",
+      "venue_or_area": "Matadero Madrid (2025 and 2026); COAM in earlier editions"
+    },
+    "attendance": {
+      "figure": 15000,
+      "figure_high": null,
+      "year": 2025,
+      "is_estimate": false,
+      "source": "https://www.instagram.com/reel/DHDntEKI6mM/",
+      "note": "Organiser-reported 'casi 15.000 visitantes' (almost 15,000) at the 9th edition, 6 to 9 Mar 2025 (Instagram reel, Google snippet). 2026 figure not captured."
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "Mahou",
+      "years": [
+        2025
+      ],
+      "role": "major",
+      "source": "https://www.vanitas.es/uvnt-art-fair-2025-se-consolidaen-matadero-madrid-y-estrenafoco-latam/"
+    },
+    {
+      "brand": "Lexus",
+      "years": [
+        2025
+      ],
+      "role": "major",
+      "source": "https://www.vanitas.es/uvnt-art-fair-2025-se-consolidaen-matadero-madrid-y-estrenafoco-latam/"
+    },
+    {
+      "brand": "Absolut",
+      "years": [
+        2025
+      ],
+      "role": "major",
+      "source": "https://www.vanitas.es/uvnt-art-fair-2025-se-consolidaen-matadero-madrid-y-estrenafoco-latam/"
+    },
+    {
+      "brand": "IQOS",
+      "years": [
+        2025
+      ],
+      "role": "major",
+      "source": "https://www.vanitas.es/uvnt-art-fair-2025-se-consolidaen-matadero-madrid-y-estrenafoco-latam/"
+    },
+    {
+      "brand": "Create",
+      "years": [
+        2025
+      ],
+      "role": "major",
+      "source": "https://www.vanitas.es/uvnt-art-fair-2025-se-consolidaen-matadero-madrid-y-estrenafoco-latam/"
+    },
+    {
+      "brand": "Natuzzi",
+      "years": [
+        2025
+      ],
+      "role": "major",
+      "source": "https://www.vanitas.es/uvnt-art-fair-2025-se-consolidaen-matadero-madrid-y-estrenafoco-latam/"
+    },
+    {
+      "brand": "Filmin",
+      "years": [
+        2025
+      ],
+      "role": "major",
+      "source": "https://www.vanitas.es/uvnt-art-fair-2025-se-consolidaen-matadero-madrid-y-estrenafoco-latam/"
+    },
+    {
+      "brand": "Matadero Madrid",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "venue",
+      "source": "https://www.mataderomadrid.org/programacion/can-art-fair-madrid"
+    },
+    {
+      "brand": "Fondation Montresso",
+      "years": [
+        2022
+      ],
+      "role": "partner",
+      "source": "https://www.neo2.com/uvnt-art-fair-madrid/"
+    },
+    {
+      "brand": "Fundacion Nadine",
+      "years": [
+        2022
+      ],
+      "role": "partner",
+      "source": "https://www.neo2.com/uvnt-art-fair-madrid/"
+    },
+    {
+      "brand": "Casa de Indias",
+      "years": [
+        2022
+      ],
+      "role": "partner",
+      "source": "https://www.neo2.com/uvnt-art-fair-madrid/"
+    },
+    {
+      "brand": "Coleccion MER",
+      "years": [
+        2022
+      ],
+      "role": "partner",
+      "source": "https://www.neo2.com/uvnt-art-fair-madrid/"
+    },
+    {
+      "brand": "Coleccion SOLO",
+      "years": [
+        2022
+      ],
+      "role": "partner",
+      "source": "https://www.neo2.com/uvnt-art-fair-madrid/"
+    }
+  ],
+  "add_activation_formats": [
+    "after-party"
+  ],
+  "add_sources": [
+    {
+      "field": "website",
+      "url": "https://www.mataderomadrid.org/programacion/can-art-fair-madrid",
+      "note": "Matadero programme page (fetched 21 Oct 2026) links the fair's official site contemporaryartnow.com/madrid/es."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.mataderomadrid.org/programacion/can-art-fair-madrid",
+      "note": "'CAN Art Fair Madrid' (formerly UVNT Art Fair), tenth anniversary, 5 to 8 March at Matadero Madrid, more than 50 galleries."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://culturainquieta.com/arte/pintura/en-su-decimo-aniversario-uvnt-art-fair-se-transforma-en-can-art-fair-madrid/",
+      "note": "'5 de marzo al 8 de marzo de 2026 en Matadero Madrid'; Google snippet."
+    },
+    {
+      "field": "location",
+      "url": "https://www.mataderomadrid.org/programacion/can-art-fair-madrid",
+      "note": "Plaza Matadero, Plaza de Legazpi 8, Madrid."
+    },
+    {
+      "field": "location",
+      "url": "https://www.mataderomadrid.org/programacion/uvnt-art-fair-2025",
+      "note": "2025 (9th edition) also at Matadero."
+    },
+    {
+      "field": "attendance",
+      "url": "https://www.instagram.com/reel/DHDntEKI6mM/",
+      "note": "'El pasado fin de semana se celebro la 9a edicion de UVNT Art Fair. Con casi 15.000 visitantes'; Google snippet."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.vanitas.es/uvnt-art-fair-2025-se-consolidaen-matadero-madrid-y-estrenafoco-latam/",
+      "note": "'Mahou, Lexus, Absolut, IQOS, Create, Natuzzi y Filmin seran los principales patrocinadores de esta novena edicion' (main sponsors, 2025); Google snippet."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.neo2.com/uvnt-art-fair-madrid/",
+      "note": "Feb 2022: institutional patronage from Fondation Montresso, Fundacion Nadine, Casa de Indias, Coleccion MER and Coleccion SOLO; Google snippet."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.facebook.com/uvntart/",
+      "note": "UVNT Art Fair 2025 after party at LuLa Club, Gran Via 54; Google snippet."
+    }
+  ],
+  "add_gaps": [
+    "2026 sponsors and visitor figure not captured",
+    "Organiser legal entity not captured (founder and director Sergio Sancho)",
+    "Instagram handle for CAN Madrid Art Fair not captured"
+  ],
+  "remove_gaps": [
+    "Relationship between UVNT Art Fair and the 'CAN Madrid Art Fair 2027' listing is unclear",
+    "2025 and 2026 editions not captured"
+  ],
+  "notes": "Rebrand: from its 10th edition (5 to 8 Mar 2026) the fair is CAN Madrid Art Fair (Contemporary Art Now), so the record name should change. The pack's @urvanityprojects is no longer the fair's account: per its own post, it continues as Urvanity Projects, an artist and brand projects platform. The 2025 main sponsors were Mahou, Lexus, Absolut, IQOS, Create, Natuzzi and Filmin."
+}

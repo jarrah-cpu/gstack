@@ -1,0 +1,167 @@
+{
+  "id": "nightcliff-seabreeze-festival-darwin",
+  "set": {
+    "website": "https://www.nightcliffseabreeze.com/",
+    "organiser": {
+      "name": "Nightcliff Arts, Music & Culture Committee (volunteer run)",
+      "type": "community-collective",
+      "website": "https://www.nightcliffseabreeze.com/"
+    },
+    "dates": {
+      "last_edition": {
+        "start": "2026-05-08",
+        "end": "2026-05-10",
+        "status": "held",
+        "label": "2026 (21st year)"
+      },
+      "next_edition": {
+        "start": "2028",
+        "end": null,
+        "status": "expected",
+        "label": "2028 (festival now biennial; no 2027 edition)"
+      },
+      "frequency": "biennial",
+      "duration_days": 3
+    },
+    "attendance": {
+      "figure": 15000,
+      "figure_high": null,
+      "year": null,
+      "is_estimate": true,
+      "source": "https://www.healthyactivebydesign.com.au/case-studies/nightcliff-seabreeze-festival",
+      "note": "Heart Foundation Healthy Active by Design case study: '15,000 people attend the Nightcliff Seabreeze Festival each year'; case study undated (describes 2017 activities)."
+    },
+    "partnership_contact": {
+      "email": "developmentmanagerseabreeze@gmail.com",
+      "page_url": "https://www.nightcliffseabreeze.com/become-a-sponsor",
+      "named_person": "Andrew Arthur (Chair, Sponsorship and Finance Working Group)",
+      "source": "https://www.nightcliffseabreeze.com/become-a-sponsor"
+    },
+    "audience": {
+      "age_range": null,
+      "gender_skew": null,
+      "psychographics": "Free, family-friendly community festival along 2km of Nightcliff foreshore; heavy school and community participation (more than 2,500 school students in 2026) and strong First Nations music program.",
+      "source": "https://nit.com.au/14-05-2026/24283/seabreeze-festival-showcases-indigenous-talent"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "E3 Productions",
+      "years": [
+        2026
+      ],
+      "role": "naming",
+      "source": "https://www.facebook.com/NightcliffSeabreezeFestival/posts/-%F0%9D%97%A7%F0%9D%97%B5%F0%9D%97%B2-%F0%9D%9F%AE%F0%9D%9F%AC%F0%9D%9F%AE%F0%9D%9F%B2-%F0%9D%97%A1%F0%9D%97%B6%F0%9D%97%B4%F0%9D%97%B5%F0%9D%98%81%F0%9D%97%B0%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%B3%F0%9D%97%B3-%F0%9D%97%A6%F0%9D%97%B2%F0%9D%97%AE%F0%9D%97%AF%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%B2%F0%9D%98%87%F0%9D%97%B2-%F0%9D%97%99%F0%9D%97%B2%F0%9D%98%80%F0%9D%98%81%F0%9D%97%B6%F0%9D%98%83%F0%9D%97%AE%F0%9D%97%B9-%F0%9D%97%94%F0%9D%97%BF%F0%9D%98%81%F0%9D%98%84%F0%9D%97%BC%F0%9D%97%BF%F0%9D%97%B8-%F0%9D%97%B6%F0%9D%98%80-%F0%9D%97%9B%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%B2were-excited-to-unveil-th/1518311250301933/"
+    },
+    {
+      "brand": "Community Bank Nightcliff (Bendigo Bank)",
+      "years": [
+        2025,
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.nightcliffcommunity.com/jetty-artspace-information.html"
+    },
+    {
+      "brand": "Ed for Nightcliff",
+      "years": [
+        2026
+      ],
+      "role": "partner",
+      "source": "https://www.instagram.com/p/DYM6R_WkaQH/"
+    }
+  ],
+  "add_activation_formats": [
+    "naming-rights",
+    "competition-or-prize"
+  ],
+  "add_sources": [
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.instagram.com/p/DencnBEmIhw/",
+      "note": "18 Oct 2026: Nightcliff Arts, Music & Culture Committee announces the festival will be biennial, with a break in 2027 and a return in 2028; cites rising costs and decreasing funding"
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://www.ntnews.com.au/entertainment/darwin-live-music-scene-hit-as-electric-storm-and-nightcliff-seabreeze-cancel-upcoming-events/news-story/3605030ae8618c6f0d8d48b57707acb0",
+      "note": "Google snippet (Oct 2026): festival will not go ahead next year"
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.instagram.com/p/DYExtVToDXe/",
+      "note": "E3 Productions Banyan Stage, Friday 8 May (opening night 2026)"
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.nightcliffcommunity.com/jetty-artspace-information.html",
+      "note": "2026 Jetty ArtSpace Competition, Saturday and Sunday 9 to 10 May 2026"
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.facebook.com/NightcliffSeabreezeFestival/posts/-%F0%9D%97%A7%F0%9D%97%B5%F0%9D%97%B2-%F0%9D%9F%AE%F0%9D%9F%AC%F0%9D%9F%AE%F0%9D%9F%B2-%F0%9D%97%A1%F0%9D%97%B6%F0%9D%97%B4%F0%9D%97%B5%F0%9D%98%81%F0%9D%97%B0%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%B3%F0%9D%97%B3-%F0%9D%97%A6%F0%9D%97%B2%F0%9D%97%AE%F0%9D%97%AF%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%B2%F0%9D%98%87%F0%9D%97%B2-%F0%9D%97%99%F0%9D%97%B2%F0%9D%98%80%F0%9D%98%81%F0%9D%97%B6%F0%9D%98%83%F0%9D%97%AE%F0%9D%97%B9-%F0%9D%97%94%F0%9D%97%BF%F0%9D%98%81%F0%9D%98%84%F0%9D%97%BC%F0%9D%97%BF%F0%9D%97%B8-%F0%9D%97%B6%F0%9D%98%80-%F0%9D%97%9B%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%B2were-excited-to-unveil-th/1518311250301933/",
+      "note": "Google snippet: festival entering its 21st year; naming rights festival sponsor E3 Productions"
+    },
+    {
+      "field": "website",
+      "url": "https://www.instagram.com/nightcliffseabreezefestival/",
+      "note": "IG bio links nightcliffseabreeze.com; previous record website was the Nightcliff Community Bank site"
+    },
+    {
+      "field": "organiser",
+      "url": "https://www.instagram.com/p/DencnBEmIhw/",
+      "note": "Announcement signed by the Nightcliff Arts, Music & Culture Committee"
+    },
+    {
+      "field": "attendance",
+      "url": "https://www.healthyactivebydesign.com.au/case-studies/nightcliff-seabreeze-festival",
+      "note": "Published by the National Heart Foundation of Australia; lists NT Government, City of Darwin, Nightcliff Bendigo Bank and others in the project team"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DYN56y4y7Ad/",
+      "note": "11 May 2026: the @e3.productions.au Banyan Stage"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.nightcliffcommunity.com/nightcliff-seabreeze-festival.html",
+      "note": "Jetty ArtSpace Competition by Community Bank Nightcliff (2025 festival)"
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DYM6R_WkaQH/",
+      "note": "11 May 2026: thanks @edfornightcliff for sponsoring the Sandcastle Competition"
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.nightcliffcommunity.com/jetty-artspace-information.html",
+      "note": "Community Bank Nightcliff runs the Jetty ArtSpace art competition with cash prizes"
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://www.nightcliffseabreeze.com/become-a-sponsor",
+      "note": "'To be involved... please contact developmentmanagerseabreeze@gmail.com'; packages Pearl $10,000, Syrinx $5,000, Scallop $3,000, Cowrie $1,500 (all + GST), Friend $500; Pearl and Syrinx include a 3m x 3m festival booth"
+    },
+    {
+      "field": "partnership_contact.named_person",
+      "url": "https://www.nightcliffseabreeze.com/our-people",
+      "note": "Google snippet: Sponsorship & Finance Working Group, Andrew Arthur (Chair)"
+    },
+    {
+      "field": "audience",
+      "url": "https://nit.com.au/14-05-2026/24283/seabreeze-festival-showcases-indigenous-talent",
+      "note": "Google snippet: 2026 festival featured hundreds of performers, including more than 2,500 school students, community groups and musicians"
+    }
+  ],
+  "remove_gaps": [
+    "2026 exact dates not captured",
+    "2027 dates from a single third-party listing",
+    "Attendance and sponsors not captured"
+  ],
+  "add_gaps": [
+    "2028 dates not announced",
+    "Full 2026 sponsor list not captured (sponsor thank-you post names none)",
+    "Attendance figure is undated and third-party (Heart Foundation case study)",
+    "Audience age and gender not published"
+  ],
+  "notes": "IMPORTANT: organisers announced on 18 Oct 2026 that the festival goes biennial: no 2027 edition, back in 2028. Status kept active. Website corrected to nightcliffseabreeze.com (old value was the Community Bank site). Sponsorship packages $1,500 to $10,000 + GST with booth space; E3 Productions held 2026 naming rights. 'Ed for Nightcliff' sponsored the sandcastle competition; identity not checked (may be a local political account)."
+}

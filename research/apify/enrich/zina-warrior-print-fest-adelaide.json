@@ -1,0 +1,26 @@
+{
+  "id": "zina-warrior-print-fest-adelaide",
+  "set": {
+    "dates": {
+      "last_edition": {"start": "2025-10-18", "end": "2025-10-18", "status": "held", "label": "2025"},
+      "next_edition": {"start": "2026-10-31", "end": "2026-10-31", "status": "confirmed", "label": "2026"},
+      "frequency": "annual",
+      "duration_days": 1
+    },
+    "partnership_contact": {"email": "zinawarriorprintfest@gmail.com", "page_url": null, "named_person": null, "source": "https://www.instagram.com/zinawarriorprintfest/"}
+  },
+  "add_sponsors": [
+    {"brand": "MOD. (Adelaide University)", "years": [2024, 2025, 2026], "role": "venue", "source": "https://mod.org.au/"}
+  ],
+  "add_sources": [
+    {"field": "dates.last_edition", "url": "https://www.instagram.com/p/DQGr0YCD-0H/", "note": "22 Oct 2025 post (co-authored with @zinawarriorprintfest and @mod_museum): 'Had a wonderful time at Zina Warrior Print Fest 2025!'"},
+    {"field": "dates.last_edition", "url": "https://www.instagram.com/p/CyJ1Nk0BtnT/", "note": "Google snippet shows 'Zina Warrior Print Fest, Saturday 18 October 2025 11am-4pm'; date rests on this snippet."},
+    {"field": "dates.frequency", "url": "https://seedbomb.au/events/tag/Zines?order=venue", "note": "Listing: 'Oct 12, 2024, Zina Warrior Print Fest 2024 11am to 4pm MOD' (Google snippet). With 2025 and 2026 editions, the fair runs each October."},
+    {"field": "dates.next_edition", "url": "https://www.instagram.com/zinawarriorprintfest/", "note": "IG bio: 'Zine Fair, Saturday 31st October 2026'; Sep 2026 post 'Zina Warrior Print Fest is back in 2026!' tags @mod_museum."},
+    {"field": "partnership_contact", "url": "https://www.instagram.com/zinawarriorprintfest/", "note": "Current IG bio: 'No DMs please email zinawarriorprintfest@gmail.com', confirming the address is still in use in 2026."},
+    {"field": "sponsors", "url": "https://mod.org.au/", "note": "MOD. homepage lists 'Zina Warrior Print Fest, 31 Oct'; MOD. hosts the fair (2024 listing, 2025 co-authored post, 2026 tag)."}
+  ],
+  "add_gaps": ["2025 date of 18 Oct rests on a Google snippet", "No commercial sponsors found; MOD. hosts the fair"],
+  "remove_gaps": ["Contact email comes from a 2021 page and may be stale", "Last edition before 2026 not confirmed; a 2021 edition existed", "Search budget ran out during discovery, so sponsors, IG handle and partnership contact were not researched"],
+  "notes": "Small DIY zine fair (IG about 790 followers) held each October at MOD.; 2025 edition confirmed. No sponsors beyond the host venue. @jaketoothandnail in the IG data is the poster artist, not a sponsor."
+}

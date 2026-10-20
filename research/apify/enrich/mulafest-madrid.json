@@ -1,0 +1,27 @@
+{
+  "id": "mulafest-madrid",
+  "set": {
+    "website": "http://ifema.es/mulafest/",
+    "organiser": {"name": "IFEMA MADRID with MULA", "type": "other", "website": "https://www.ifema.es/"},
+    "dates": {"last_edition": {"start": "2019", "end": null, "status": "held", "label": "8th edition (2019); exact dates not captured"}, "next_edition": {"start": null, "end": null, "status": "unknown", "label": "No edition announced since the 9th, which was scheduled for 17 to 19 Apr 2020"}, "frequency": "unknown", "duration_days": 3},
+    "status": "on-hiatus",
+    "attendance": {"figure": 30000, "figure_high": null, "year": 2014, "is_estimate": true, "source": "https://www.art-madrid.com/es/post/MULAFEST-cuarta-edicion-festival-tendencias-urbanas-IFEMA", "note": "Press (Art Madrid, Google snippet) says the edition before the 4th (the 2014 edition) drew 'más de 30.000 personas'; 2012 drew over 25,000 (Mundo Deportivo). The previous 35,000 for 2025 came from an aggregator that repeats the 2014 dates (26 to 29 Jun) and is not credible."},
+    "partnership_contact": {"email": "prensa@ifema.es", "page_url": "https://www.ifema.es/prensa", "named_person": null, "source": "https://www.ifema.es/prensa"}
+  },
+  "add_sponsors": [],
+  "add_activation_formats": [],
+  "add_sources": [
+    {"field": "website", "url": "https://www.instagram.com/mulared/", "note": "IG @mulared links http://ifema.es/mulafest/ ; bio 'Pronto nuevas fechas' (new dates soon)."},
+    {"field": "organiser", "url": "https://www.arteinformado.com/agenda/f/mulafest-2014-91609", "note": "Google snippet: 'MULAFEST es el Festival de Tendencias y Cultura Urbana de Madrid, que organizan MULA e IFEMA'."},
+    {"field": "organiser", "url": "https://masdearte.com/convocatorias/la-galeria-de-mulafest-2/", "note": "Google snippet: 'IFEMA, entidad organizadora del Festival de Tendencias Urbanas MULAFEST'. IFEMA is a consortium of Comunidad de Madrid, Ayuntamiento de Madrid, Cámara de Comercio and Fundación Montemadrid."},
+    {"field": "dates.next_edition", "url": "https://www.lavanguardia.com/local/madrid/20200116/472922491398/la-novena-edicion-de-mulafest-se-celebrara-del-17-al-19-de-abril-con-las-propuestas-mas-vanguardistas.html", "note": "La Vanguardia, 16 Jan 2020: the 9th edition was set for 17 to 19 April 2020 at Feria de Madrid, so the 8th was 2019."},
+    {"field": "dates.last_edition", "url": "https://www.publico.es/culturas/video-madrid-acoge-vii-edicion-mulafest.html", "note": "Google snippet: VII edition in 2018 (22 to 24 Jun 2018 per Arte por Excelencias), consistent with an 8th edition in 2019."},
+    {"field": "status", "url": "https://www.instagram.com/mulared/", "note": "Latest IG posts: May 2020 (MulafestExpo online), June 2021 one-day 'Mula Session Tattoo' seminar at IFEMA, last post Nov 2021. No festival edition found since 2019; the 2025 and 2026 dates on the record came from an aggregator reusing the 2014 dates."},
+    {"field": "attendance", "url": "https://www.art-madrid.com/es/post/MULAFEST-cuarta-edicion-festival-tendencias-urbanas-IFEMA", "note": "Google snippet: 'en su última edición reunió a más de 30.000 personas'."},
+    {"field": "attendance", "url": "https://www.mundodeportivo.com/20120719/mas-de-25-000-personas-disfrutaron-del-mulafest-en-madrid_54327067251.html", "note": "Google snippet: over 25,000 people at the first Mulafest (2012)."},
+    {"field": "partnership_contact", "url": "https://www.ifema.es/prensa", "note": "IFEMA press contact prensa@ifema.es (organiser-level, not festival-specific)."}
+  ],
+  "add_gaps": ["No festival edition evidenced since 2019; the April 2020 edition was likely lost to COVID-19 and only a one-day Mula Session Tattoo seminar ran on 5 Jun 2021", "Instagram @mulared inactive since Nov 2021"],
+  "remove_gaps": ["No official website found in results", "The aggregator lists identical dates for 2025 and 2026 (26 to 29 Jun); verify", "Organiser not identified"],
+  "notes": "Likely dormant: the 2025 and 2026 editions on the record are an aggregator artefact (they repeat the 2014 dates), and the 35,000 attendance was replaced with the sourced 2014 figure. Status set to on-hiatus; orchestrator may prefer discontinued and archive in Phase 3. Past model was IFEMA trade-fair style with brand stands (BMW 2015, DGT illustration contest)."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "furgofesta-les-planes-dhostoles",
+  "set": {
+    "website": "https://furgofesta.cat/",
+    "organiser": {"name": "FurgoFesta (self-organised, non-profit)", "type": "non-profit", "website": "https://furgofesta.cat/"},
+    "attendance": {"figure": null, "figure_high": null, "year": null, "is_estimate": null, "source": "https://furgofesta.cat/historia/", "note": "Organiser history page: close to 400 vans ('prop de 400 furgonetes') at Les Planes d'Hostoles, up from about 300 at Roda de Ter. Number of people not published."},
+    "ticket_price": {"min": 75, "max": 95, "currency": "EUR", "free_entry": false, "note": "2026 registration per vehicle: EUR 75 (13 May to 5 Jun), EUR 85 (6 Jun to 5 Jul), EUR 95 (6 to 10 Jul, no gift T-shirt). Places limited."},
+    "partnership_contact": {"email": "info@furgofesta.cat", "page_url": "https://furgofesta.cat/ubicacio-2/", "named_person": null, "source": "https://furgofesta.cat/ubicacio-2/"}
+  },
+  "add_sponsors": [
+    {"brand": "Bluetti", "years": [2026], "role": "major", "source": "https://www.instagram.com/p/DZu_K5WI5mo/"},
+    {"brand": "Rock&Wagen", "years": [2026], "role": "major", "source": "https://www.instagram.com/p/DZu_K5WI5mo/"},
+    {"brand": "Homologa Tu Furgo", "years": [2026], "role": "major", "source": "https://www.instagram.com/p/DZu_K5WI5mo/"},
+    {"brand": "Kiwi Estudi", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DbFtPSLCB-u/"},
+    {"brand": "Cervesa Montseny", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DbFtPSLCB-u/"},
+    {"brand": "Camper Attitude", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DbV_ZS-iGeM/"},
+    {"brand": "La Troka Camper", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DbV_ZS-iGeM/"},
+    {"brand": "La Pinza Campers", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DbV_ZS-iGeM/"},
+    {"brand": "Lulukabaraka", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DbV_ZS-iGeM/"},
+    {"brand": "Furgoinstall", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DbV_ZS-iGeM/"},
+    {"brand": "Càmping Alguer", "years": [2026], "role": "venue", "source": "https://www.instagram.com/p/DbV_ZS-iGeM/"}
+  ],
+  "add_activation_formats": ["competition-or-prize"],
+  "add_sources": [
+    {"field": "website", "url": "https://furgofesta.cat/", "note": "Official site, linked from IG @furgofesta."},
+    {"field": "organiser", "url": "https://www.instagram.com/p/DaGpPCjCDXS/", "note": "'Furgofesta és un festival sense ànim de lucre'. Site footer 'ORGANITZA' shows the FurgoFesta logo only; no legal entity named."},
+    {"field": "attendance", "url": "https://furgofesta.cat/historia/", "note": "History: started 2006 in les Masies de Roda with about 20 vans; about 300 at Roda de Ter; now close to 400 vans at Les Planes d'Hostoles."},
+    {"field": "ticket_price", "url": "https://www.instagram.com/p/DYKD55ADO-h/", "note": "Registration tiers per vehicle for 2026 as quoted."},
+    {"field": "partnership_contact", "url": "https://furgofesta.cat/ubicacio-2/", "note": "Contact page: 'Tens una proposta? Vols ser patrocinador?' and info@furgofesta.cat."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DZu_K5WI5mo/", "note": "18 Jun 2026: 'nostres patrocinadors principals': Bluetti, Rock&Wagen, Homologa Tu Furgo."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DbFtPSLCB-u/", "note": "22 Jul 2026: 'Patrocinadors oficials' Bluetti, Rock&Wagen, Homologa Tu Furgo, Kiwi Estudi, Cervesa Montseny."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DbV_ZS-iGeM/", "note": "28 Jul 2026 thanks to supporting businesses Camper Attitude, La Troka Camper, La Pinza, Lulukabaraka, Furgoinstall, and Càmping Alguer, 'la casa que any rere any ens obre les portes'."},
+    {"field": "activation_formats", "url": "https://www.instagram.com/p/DblHUy5oPEU/", "note": "Bluetti x Furgofesta giveaway of a Bluetti Elite 10 power station after the event."}
+  ],
+  "add_gaps": ["Attendance in people not published (organiser cites about 400 vans)", "Organiser legal entity not named on the site"],
+  "remove_gaps": ["Attendance and van count not published", "Organiser, website and sponsors not captured", "Entry fees not captured", "No public partnerships contact found"],
+  "notes": "Non-profit van-life gathering openly inviting sponsors. Bluetti (portable power) was a main sponsor in 2026 and ran a giveaway, a non-camper consumer brand precedent. For the 20th anniversary there was also a winter edition in Montseny (27 Feb to 1 Mar 2026, per IG post DRsa6bbDIWj snippet). IG @furgofesta is correct."
+}

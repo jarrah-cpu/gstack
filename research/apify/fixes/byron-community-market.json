@@ -1,0 +1,10 @@
+{
+ "id": "byron-community-market",
+ "remove_sponsors": [
+  "Local charities (rotating)"
+ ],
+ "verifier_flags": [
+  "sponsors: 'Local charities (rotating)' removed; beneficiaries, not sponsors"
+ ],
+ "notes": "Orchestrator fix."
+}

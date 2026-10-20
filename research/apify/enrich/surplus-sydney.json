@@ -1,0 +1,46 @@
+{
+  "id": "surplus-sydney",
+  "set": {
+    "partnership_contact": {
+      "email": "comms@surplus.sydney",
+      "page_url": "https://surplus.sydney/pages/contact",
+      "named_person": "Crimson at Leaf Comms (press and media enquiries: crimson@leafcomms.com)",
+      "source": "https://surplus.sydney/"
+    }
+  },
+  "add_sponsors": [
+    {"brand": "Nike Sportswear", "years": [2026], "role": "presenting", "source": "https://surplus.sydney/pages/brands"},
+    {"brand": "Nike ACG", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DeIaqkokmSo/"},
+    {"brand": "Jordan Brand", "years": [2025], "role": "partner", "source": "https://www.instagram.com/p/DPpXl84krnh/"},
+    {"brand": "Corteiz", "years": [2025], "role": "collab", "source": "https://www.instagram.com/p/DQYiF2pkkTC/"},
+    {"brand": "Throwing Fits", "years": [2025], "role": "collab", "source": "https://www.instagram.com/p/DPPusUqEsUZ/"},
+    {"brand": "Thanks Tattoo Sydney", "years": [2025], "role": "venue", "source": "https://www.instagram.com/p/DPgCLXjjnqJ/"},
+    {"brand": "Wavyland", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/Db1rd4zErIy/"},
+    {"brand": "beastmode", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/Db1rd4zErIy/"},
+    {"brand": "Victory Lap Radio", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/Db9ZoB3SCWt/"},
+    {"brand": "Last Ride Records", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/DcHs1G5Sl8-/"},
+    {"brand": "Mecca Coffee", "years": [2026], "role": "partner", "source": "https://www.instagram.com/p/Dd2241EOUSt/"},
+    {"brand": "The Grifter Brewing Co", "years": [2026], "role": "vendor-or-stall", "source": "https://www.instagram.com/p/DeXyfV4kjIC/"},
+    {"brand": "Scarr's Pizza NYC", "years": [2025, 2026], "role": "vendor-or-stall", "source": "https://surplus.sydney/"},
+    {"brand": "Birth of the Teenager (BoTT)", "years": [2026], "role": "vendor-or-stall", "source": "https://www.instagram.com/p/Ddi6RAYh1ob/"}
+  ],
+  "add_activation_formats": ["hospitality-bar", "competition-or-prize", "workshop"],
+  "add_sources": [
+    {"field": "partnership_contact", "url": "https://surplus.sydney/", "note": "FAQ: 'Please contact comms@surplus.sydney for any SURPLUS specific enquiries' and crimson@leafcomms.com for press or media enquiries. Contact form at /pages/contact (3 to 5 business day response)."},
+    {"field": "sponsors", "url": "https://surplus.sydney/pages/brands", "note": "2026 brands page: 'Powered by' SUPPLY and Nike Sportswear. Also shows 'Mov37 Works Digital' with no role label (likely a site credit, not added)."},
+    {"field": "sponsors", "url": "https://www.whatsonsydney.com/news/surplus-2026-inside-sydney-s-three-day-celebration-of-subculture-and-creativity-183", "note": "2026 'Presented by Nike and Supply Store'; Nike-led activations incl. Slawn residency, a Nike ACG climbing activation and a Nike Japan showcase of Tokyo's creative scene; 120+ local and international names."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DeIaqkokmSo/", "note": "2026: @acg community climbing wall at Taylor Square South, routes set by community partners 9 Degrees, Caviar Climbing and Eugenie Lee; registration via nike.com."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/Db1rd4zErIy/", "note": "2026 music programme: six ticketed shows co-presented with Carhartt WIP and Wavyland (Suzy Sheer), Wavyland and Victory Lap Radio, Wavyland and Last Ride Records, beastmode (SPEED open air), Rainbow Disco Club and Planet Trip."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DPpXl84krnh/", "note": "2025: '@jumpman23 presents: Nigel's Swap Shop' at Taylor Square, free BMX service and giveaways."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DQYiF2pkkTC/", "note": "2025: 'Moments from the @corteiz laser mission at SURPLUS 2025'."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/Dd2241EOUSt/", "note": "2026 Foley Thrift vintage hub: 'Food, drinks and music curated by @meccacoffee'."},
+    {"field": "sponsors", "url": "https://www.instagram.com/p/DeXyfV4kjIC/", "note": "2026 National Art School shows: The Grifter Brewing Co serving beer across the weekend, plus independent food vendors."},
+    {"field": "sponsors", "url": "https://surplus.sydney/", "note": "Scarr's Pizza NYC takes over AP Pizza at Taylor Square for the 2nd year; other hospitality headliners Matty's Patty's Burger Club, Menchirashi, Yakitori Yurippi (not added)."},
+    {"field": "activation_formats", "url": "https://www.instagram.com/p/DeLBQtpEiTW/", "note": "2026 Air Force 1 of 1 booth: register for a chance at a free custom pair made by participating artists (prize draw plus customisation)."},
+    {"field": "activation_formats", "url": "https://www.instagram.com/p/DeQhV_LIzEs/", "note": "2026 Diya Ki Duniya pop-up with Thieves Market Giveaway Challenge (40 prizes, RSVP via surplus.sydney)."},
+    {"field": "activation_formats", "url": "https://www.instagram.com/p/Ddi6RAYh1ob/", "note": "2026 BoTT MATSURI booths on Burton St incl. a workshop with Geek Out and a yakitori stall."}
+  ],
+  "add_gaps": ["2026 attendance not yet published as of 21 Oct 2026; the 15,000+ figure is for 2025"],
+  "remove_gaps": ["No public partnerships contact found"],
+  "notes": "2026 confirmed presented/powered by SUPPLY and Nike Sportswear (IG @nsw is Nike Sportswear's handle, not the NSW Government). Added Nike ACG and Jordan Brand as separate Nike sub-brand activations: merge into Nike if preferred. Carhartt WIP 2026 role was show co-presenter (Suzy Sheer); kept as collab. No 2026 attendance yet; recheck the Supply Store dispatches blog in a few weeks. comms@surplus.sydney is a general enquiries address, not a named partnerships contact."
+}

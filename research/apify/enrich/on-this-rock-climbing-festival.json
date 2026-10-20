@@ -1,0 +1,199 @@
+{
+  "id": "on-this-rock-climbing-festival",
+  "set": {
+    "dates": {
+      "last_edition": {
+        "start": "2025-10-10",
+        "end": "2025-10-12",
+        "status": "held",
+        "label": "2025, 4th edition"
+      },
+      "next_edition": {
+        "start": "2027-05-21",
+        "end": "2027-05-23",
+        "status": "confirmed",
+        "label": "Spring 2027 (moved from fall 2026)"
+      },
+      "frequency": "annual",
+      "duration_days": 3
+    },
+    "location": {
+      "city": "Terrebonne",
+      "state_or_region": "Oregon",
+      "country": "USA",
+      "venue_or_area": "Next to Smith Rock State Park; 2025 tent at The Spot at Smith Rock"
+    },
+    "attendance": {
+      "figure": 300,
+      "figure_high": null,
+      "year": 2025,
+      "is_estimate": false,
+      "source": "https://commongroundbend.org/onthisrock",
+      "note": "Organiser-reported: 'Each year we've totaled about 300 people interacting with On This Rock.'"
+    },
+    "ticket_price": {
+      "min": 0,
+      "max": 0,
+      "currency": "USD",
+      "free_entry": true,
+      "note": "Organiser: 'a totally free event' funded by donors and partners (registration required); each edition costs about USD 20,000 to run."
+    },
+    "audience": {
+      "age_range": null,
+      "gender_skew": null,
+      "psychographics": "Central Oregon climbers of all skill levels at a faith-based gathering focused on accessibility, belonging and 'considering Jesus' approach to spirituality in the climbing space'; climbing films draw locals.",
+      "source": "https://commongroundbend.org/onthisrock"
+    },
+    "organiser": {
+      "name": "Common Ground (a family of house churches in Central Oregon)",
+      "type": "other",
+      "website": "https://commongroundbend.org/"
+    },
+    "partnership_contact": {
+      "email": "info@commongroundbend.org",
+      "page_url": "https://commongroundbend.org/contact",
+      "named_person": null,
+      "source": "https://commongroundbend.org/contact"
+    }
+  },
+  "add_sponsors": [
+    {
+      "brand": "The Spot at Smith Rock",
+      "years": [
+        2025
+      ],
+      "role": "venue",
+      "source": "https://www.instagram.com/p/DPhWGgKgVJn/"
+    },
+    {
+      "brand": "Climbers for Christ",
+      "years": [
+        2025
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.instagram.com/p/DQfDgwxEiI4/"
+    },
+    {
+      "brand": "RedPoint Climbing",
+      "years": [
+        2025
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.instagram.com/p/DQfDgwxEiI4/"
+    },
+    {
+      "brand": "Mountain Supply of Oregon",
+      "years": [
+        2025
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.instagram.com/p/DQfDgwxEiI4/"
+    },
+    {
+      "brand": "Edelrid",
+      "years": [
+        2025
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.instagram.com/p/DQfDgwxEiI4/"
+    },
+    {
+      "brand": "Zigzag Climbing",
+      "years": [
+        2025
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.instagram.com/p/DQfDgwxEiI4/"
+    },
+    {
+      "brand": "Smith Rock Group",
+      "years": [
+        2025
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.instagram.com/p/DQfDgwxEiI4/"
+    },
+    {
+      "brand": "Escape Climbing",
+      "years": [
+        2025
+      ],
+      "role": "vendor-or-stall",
+      "source": "https://www.instagram.com/p/DQfDgwxEiI4/"
+    }
+  ],
+  "add_activation_formats": [
+    "stall",
+    "competition-or-prize"
+  ],
+  "add_sources": [
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.eventbrite.com/e/on-this-rock-climbing-festival-oct-10-12-tickets-1434704191859",
+      "note": "Google snippet: 'On This Rock Climbing Festival, Oct 10-12' by Common Ground."
+    },
+    {
+      "field": "dates.last_edition",
+      "url": "https://www.instagram.com/p/DQZ4aI5Evr1/",
+      "note": "29 Oct 2025: 'over 2 weeks since we had our 4th On This Rock Climbing Festival'."
+    },
+    {
+      "field": "dates.next_edition",
+      "url": "https://commongroundbend.org/onthisrock",
+      "note": "Moved from fall 2026 to spring 2027, 'block out May 21-23, 2027'; 2026 slot ceded to the inaugural Smith Rock Climbing Festival (RedPoint, 2 to 4 Oct 2026)."
+    },
+    {
+      "field": "location",
+      "url": "https://commongroundbend.org/onthisrock",
+      "note": "'a free climbing festival that Common Ground hosts next to Smith Rock State Park in Terrebonne, Oregon'."
+    },
+    {
+      "field": "location",
+      "url": "https://www.instagram.com/p/DPhWGgKgVJn/",
+      "note": "7 Oct 2025: 'the tent is going up @thespotatsmithrock'."
+    },
+    {
+      "field": "attendance",
+      "url": "https://commongroundbend.org/onthisrock",
+      "note": "FAQ: 'Each year we've totaled about 300 people'; first event 'impacted over 300 people'."
+    },
+    {
+      "field": "ticket_price",
+      "url": "https://commongroundbend.org/onthisrock",
+      "note": "FAQ: 'On This Rock is a totally free event'; events 'cost around $20,000 to put on'."
+    },
+    {
+      "field": "audience",
+      "url": "https://commongroundbend.org/onthisrock",
+      "note": "Mission: improving accessibility, experiencing belonging, considering Jesus' approach to spirituality in climbing."
+    },
+    {
+      "field": "organiser",
+      "url": "https://www.instagram.com/commongroundbend/",
+      "note": "Bio: 'Exploring Faith & the Outdoors. A family of house churches in Central Oregon. Host of @onthisrockclimbingfest'."
+    },
+    {
+      "field": "partnership_contact",
+      "url": "https://commongroundbend.org/contact",
+      "note": "'Have a question, comment, or want to get involved with Common Ground?' Info@commongroundbend.org; donor page commongroundbend.org/donate-to-on-this-rock."
+    },
+    {
+      "field": "sponsors",
+      "url": "https://www.instagram.com/p/DQfDgwxEiI4/",
+      "note": "31 Oct 2025: thanks to 'community tabling organizations': Climbers for Christ, RedPoint Climbing, Mountain Supply Oregon, Edelrid, Zigzag Climbing, Smith Rock Group, Escape Climbing (plus a school and an individual)."
+    },
+    {
+      "field": "activation_formats",
+      "url": "https://www.instagram.com/p/DPjynKREnUM/",
+      "note": "First Crooked River Crash Bouldering Competition at Smith Rock with prizes; proceeds to local youth climbing clubs."
+    }
+  ],
+  "remove_gaps": [
+    "Venue, previous edition dates, attendance, prices and sponsors not captured",
+    "Organiser type (Common Ground) not confirmed"
+  ],
+  "add_gaps": [
+    "No cash sponsors named; 2025 partners known only as tabling organisations; bouldering comp sponsors not named"
+  ],
+  "notes": "Small (about 300 people) free, church-run festival with an explicit Christian mission; likely a weak fit for a health brand. No 2026 edition. Worth scanning separately: the inaugural Smith Rock Climbing Festival by RedPoint Climbing, 2 to 4 Oct 2026."
+}
