@@ -18,7 +18,7 @@ Use these to trace which other events the same brands, vendors and collectives t
 |---|---|---|
 | Nike Sportswear | Presenting partner 2025, 2026; AF1 customisation, exclusive product | Sydney Times |
 | Supply Store (SUPPLY) | Organiser, retailer | Supply Store |
-| Carhartt WIP | 2026 involvement (per brief); Carhartt WIP x Nike Air Max Goadome Low early release | search result, URL not pinned |
+| Carhartt WIP | Carhartt WIP x Nike Sportswear capsule at its WIPNEWS stall, 2025 and 2026 (Marketplace exclusive, Sat 17 Oct 2026) | [Carhartt WIP newsroom 2025](https://newsroom.carhartt-wip.com/carhartt-wip-joins-surplus-2025), [Sole Retriever 2026](https://www.soleretriever.com/news/articles/carhartt-wip-nike-teaser-surplus-sydney-2026) |
 | Mixmag ANZ | Media partner 2026 | [Mixmag](https://mixmag.net.au/read/surplus-taps-rainbow-disco-club-planet-trip-and-mixmag-anz-for-nas-revival-news) |
 | Rainbow Disco Club (Tokyo) | Programming partner 2026 | Mixmag |
 | Planet Trip | Programming partner 2026 | Mixmag |
