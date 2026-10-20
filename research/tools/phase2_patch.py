@@ -13,26 +13,43 @@ VALIDATOR = Draft202012Validator(SCHEMA)
 DASH = re.compile("[—–]")
 SETTABLE = {"website", "attendance", "audience", "partnership_contact", "ticket_price", "organiser", "dates", "status",
             "location"}
+STRONG_ROLES = {"presenting", "naming", "major"}
+WEAK_ROLES = {"partner", "collab", "venue", "unknown", None}
 KEYS = {"id", "set", "add_sponsors", "add_activation_formats", "add_sources", "add_gaps", "remove_gaps", "notes"}
+VERIFY_SETTABLE = SETTABLE | {"sponsors", "name"}
+VERIFY_KEYS = KEYS | {"verifier_flags", "remove_sponsors", "sponsor_roles"}
 
 
-def apply(rec, patch):
-    """Return a patched copy of rec. Raises ValueError on a malformed patch."""
-    extra = set(patch) - KEYS
+def apply(rec, patch, mode="enrich"):
+    """Return a patched copy of rec. Raises ValueError on a malformed patch.
+    mode "verify" also allows replacing the sponsor list and adds verifier_flags."""
+    keys, settable = (VERIFY_KEYS, VERIFY_SETTABLE) if mode == "verify" else (KEYS, SETTABLE)
+    extra = set(patch) - keys
     if extra:
         raise ValueError(f"unknown keys {sorted(extra)}")
     out = copy.deepcopy(rec)
     for k, v in (patch.get("set") or {}).items():
-        if k not in SETTABLE:
+        if k not in settable:
             raise ValueError(f"set.{k} is not allowed")
         out[k] = v
+    if mode == "verify":
+        drop = {b.lower() for b in patch.get("remove_sponsors") or []}
+        out["sponsors"] = [x for x in out["sponsors"] if x["brand"].lower() not in drop]
+        roles = {b.lower(): r for b, r in (patch.get("sponsor_roles") or {}).items()}
+        for x in out["sponsors"]:
+            if x["brand"].lower() in roles:
+                x["role"] = roles[x["brand"].lower()]
+        flags = list(out["record_meta"].get("verifier_flags") or [])
+        flags += [f for f in patch.get("verifier_flags") or [] if f not in flags]
+        out["record_meta"] = {**out["record_meta"], "verifier_flags": flags}
     have = {(s["brand"].lower(), s.get("role")) for s in out["sponsors"]}
     for s in patch.get("add_sponsors") or []:
         same = [x for x in out["sponsors"] if x["brand"].lower() == s["brand"].lower()]
         if same:
             x = same[0]
             x["years"] = sorted(set(x["years"]) | set(s.get("years") or []))
-            if x.get("role") in (None, "unknown") and s.get("role"):
+            if s.get("role") and (x.get("role") in (None, "unknown") or
+                                  (x.get("role") in WEAK_ROLES and s["role"] in STRONG_ROLES)):
                 x["role"] = s["role"]
             if not x.get("source"):
                 x["source"] = s.get("source")
@@ -54,11 +71,11 @@ def apply(rec, patch):
     return out
 
 
-def problems(rec, patch):
+def problems(rec, patch, mode="enrich"):
     """List problems with a patch applied to rec (schema, dashes, unsourced claims)."""
     errs = []
     try:
-        new = apply(rec, patch)
+        new = apply(rec, patch, mode)
     except Exception as e:  # malformed patch
         return [str(e)]
     for err in VALIDATOR.iter_errors(new):

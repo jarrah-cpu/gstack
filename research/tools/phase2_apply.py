@@ -7,7 +7,8 @@ For each of the 311 target events, in every region file that holds a copy
      (followers, posts, bio, mean likes plus comments over the last 12 posts).
   2. Website, when the record has none and the event's own Instagram profile
      links to a real site (research/apify/derived/new_websites.json).
-  3. The agent patch research/apify/enrich/<id>.json, if present and valid.
+  3. The agent patch research/apify/enrich/<id>.json, if present and valid, then any
+     orchestrator fix in research/apify/fixes/<id>.json (verify mode).
   4. record_meta.phase = "enriched", record_meta.updated = today.
 Invalid patches are skipped and reported. Run merge.py afterwards.
 
@@ -46,6 +47,14 @@ for f in sorted(glob.glob(str(A / "raw" / "ig-search" / "*.jsonl"))) + sorted(gl
             prof[p["username"].lower()] = (p, run)
 
 
+def no_dashes(text):
+    """House style: no em or en dashes. Ranges become 'to', other dashes a comma."""
+    if not text:
+        return text
+    text = re.sub(r"(\d)\s*[\u2013\u2014]\s*(\d)", r"\1 to \2", text)
+    return re.sub(r"\s*[\u2013\u2014]\s*", ", ", text)
+
+
 def engagement(p):
     vals = [(x.get("likesCount") or 0) + (x.get("commentsCount") or 0) for x in (p.get("latestPosts") or [])[:12]
             if not x.get("isPinned") and (x.get("likesCount") or 0) >= 0]
@@ -62,7 +71,7 @@ def instagram_block(rec, r):
                    "followers": p["followersCount"], "followers_as_of": run["date"],
                    "followers_source": f"apify-instagram-profile-scraper (run {run['run_id']})" if run["step"] == "ig-profile"
                    else f"apify-instagram-search-scraper (run {run['run_id']})",
-                   "post_count": p.get("postsCount"), "bio": (p.get("biography") or None),
+                   "post_count": p.get("postsCount"), "bio": no_dashes(p.get("biography") or None),
                    "avg_recent_engagement": engagement(p)})
         srcs.append({"field": "instagram", "url": ig["url"],
                      "note": f"Apify {run['actor']} run {run['run_id']} on {run['date']}: followers, posts, bio; engagement = mean likes plus comments over the last 12 posts."
@@ -115,6 +124,15 @@ for f in sorted(glob.glob(str(ROOT / "research" / "*" / "candidates.jsonl"))):
                 report["patched"] += 1
         else:
             report["no_patch"].append(cid)
+        ff = A / "fixes" / f"{cid}.json"  # orchestrator corrections, verify mode (role changes, removals, renames)
+        if ff.exists():
+            fix = json.loads(ff.read_text())
+            fix["id"] = new["id"]
+            errs = problems(new, fix, "verify")
+            if errs:
+                report["bad_patches"][cid + " (fix)"] = errs
+            else:
+                new = apply(new, fix, "verify")
         new["record_meta"] = {**new["record_meta"], "phase": "enriched", "updated": TODAY}
         errs = list(VALIDATOR.iter_errors(new))
         if errs:
