@@ -1,0 +1,105 @@
+{
+ "top15": [
+  "festival-iminente-lisboa",
+  "tremor-sao-miguel",
+  "great-ocean-road-womens-surf-fest",
+  "zushi-beach-film-festival",
+  "goiania-crew-attack",
+  "japan-sauna-festival-kawasaki",
+  "single-fin-mingle-sumner",
+  "noosa-festival-of-surfing",
+  "the-traka-girona",
+  "beaker-street-festival-hobart",
+  "byron-bay-malibu-classic",
+  "the-big-sweat-leura",
+  "balispirit-festival-ubud",
+  "ubud-food-festival",
+  "aotearoa-surf-film-festival"
+ ],
+ "by_category": {
+  "streetwear-culture-festival": [
+   "surplus-sydney",
+   "atmoscon-tokyo",
+   "urban-sneaker-society-jakarta",
+   "jakarta-sneaker-day",
+   "sneakerness-santiago"
+  ],
+  "creative-market": [
+   "palo-market-fest-barcelona",
+   "darwin-aboriginal-art-fair",
+   "festival-of-the-photocopier-melbourne",
+   "feira-miolos-sao-paulo",
+   "yogyakarta-art-book-fair"
+  ],
+  "design-art-week": [
+   "tangi-street-art-festival-bali",
+   "festival-asalto-zaragoza",
+   "darwin-street-art-festival",
+   "miau-fanzara",
+   "offf-barcelona"
+  ],
+  "skate-surf-culture-weekend": [
+   "great-ocean-road-womens-surf-fest",
+   "goiania-crew-attack",
+   "single-fin-mingle-sumner",
+   "sessions-surf-festival-gold-coast",
+   "sagres-sessions"
+  ],
+  "independent-music-festival": [
+   "tremor-sao-miguel",
+   "wild-horses-festival-carapooee",
+   "waking-life-crato",
+   "womadelaide-adelaide",
+   "strawberry-fields-tocumwal"
+  ],
+  "club-culture": [
+   "waxo-paradiso-open-air",
+   "mode-festival-sydney",
+   "summer-dance-astral-people-sydney",
+   "sidebyside-adelaide",
+   "the-breakfast-club-melbourne"
+  ],
+  "makers-vintage": [
+   "north-coast-mud-trail",
+   "marrickville-organic-food-market",
+   "fashion-thrift-society-hobart",
+   "art-deco-festival-napier",
+   "perth-makers-market"
+  ],
+  "food-culture-night-market": [
+   "ubud-food-festival",
+   "miami-marketta-gold-coast",
+   "mindil-beach-sunset-market-darwin",
+   "lucky-dumpling-market-adelaide",
+   "queen-victoria-night-market"
+  ],
+  "subculture-festival": [
+   "festival-iminente-lisboa",
+   "zushi-beach-film-festival",
+   "japan-sauna-festival-kawasaki",
+   "noosa-festival-of-surfing",
+   "the-big-sweat-leura"
+  ],
+  "competition-or-contest": [
+   "the-traka-girona",
+   "byron-bay-malibu-classic",
+   "logjam-santa-cruz",
+   "uluwatu-single-fin-classic",
+   "the-graveler-hanmer-springs"
+  ],
+  "expo-or-trade-show": [
+   "made-handmade-bike-show-portland",
+   "oporto-tattoo-expo-gondomar",
+   "barcelona-tattoo-expo",
+   "yoga-festa-yokohama",
+   "expoyoga-santiago"
+  ],
+  "other": [
+   "beaker-street-festival-hobart",
+   "aotearoa-surf-film-festival",
+   "the-unconformity-queenstown",
+   "nati-frinj-natimuk",
+   "kuuma-dark-dip-hobart"
+  ]
+ }
+}
