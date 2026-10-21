@@ -8,7 +8,9 @@
   normalised names in the same country) for a human to add to aliases.json.
 - When the same id comes from several regions, keeps the record with the
   most filled fields and unions sponsors, tags, formats, sources and gaps.
-- Routes status "discontinued" to data/archived.jsonl.
+- Routes status "discontinued" to data/archived.jsonl, plus long-dormant events:
+  on-hiatus or unknown, last edition before DORMANT_BEFORE, and no confirmed or
+  expected next edition.
 - Prints a candidate count per region (the Phase 1 checkpoint table).
 
 Usage: python3 research/tools/merge.py
@@ -27,6 +29,19 @@ SCHEMA = json.loads((ROOT / "data" / "schema.json").read_text())
 VALIDATOR = Draft202012Validator(SCHEMA)
 ALIASES_PATH = ROOT / "research" / "tools" / "aliases.json"
 ALIASES = json.loads(ALIASES_PATH.read_text()) if ALIASES_PATH.exists() else {}
+
+
+DORMANT_BEFORE = "2023-10-21"  # three years before the scan date
+
+
+def archive(r) -> bool:
+    if r["status"] == "discontinued":
+        return True
+    last = r["dates"]["last_edition"]["start"]
+    nxt = r["dates"]["next_edition"]
+    upcoming = nxt["start"] and nxt["status"] in ("confirmed", "expected")
+    return (r["status"] in ("on-hiatus", "unknown") and bool(last) and not upcoming
+            and last < DORMANT_BEFORE[: len(last)])
 
 
 def filled(value) -> int:
@@ -104,8 +119,8 @@ def main():
 
     merged = [combine(recs) for recs in by_id.values()]
     merged.sort(key=lambda r: (r["region"], r["id"]))
-    active = [r for r in merged if r["status"] != "discontinued"]
-    archived = [r for r in merged if r["status"] == "discontinued"]
+    active = [r for r in merged if not archive(r)]
+    archived = [r for r in merged if archive(r)]
 
     with open(ROOT / "data" / "events.jsonl", "w") as f:
         for r in active:
@@ -130,7 +145,7 @@ def main():
     print(f"  {'TOTAL raw':28s} {sum(per_region.values())}")
     print(f"Unique ids: {len(merged)}  (cross-region id merges: {sum(1 for v in by_id.values() if len(v) > 1)})")
     print(f"Active/hiatus/unknown -> data/events.jsonl: {len(active)}")
-    print(f"Discontinued -> data/archived.jsonl: {len(archived)}")
+    print(f"Discontinued or dormant since before {DORMANT_BEFORE} -> data/archived.jsonl: {len(archived)}")
     if likely_dupes:
         print("Likely duplicates with different ids (add real ones to aliases.json):")
         for country, a, b in likely_dupes:
